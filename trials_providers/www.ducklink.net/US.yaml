@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: f67c475e-3f0d-4c93-a40e-24b2893360f5, udp: true}
+- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: f67c475e-3f0d-4c93-a40e-24b2893360f5, udp: true}
+- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: f67c475e-3f0d-4c93-a40e-24b2893360f5, udp: true}
+- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: f67c475e-3f0d-4c93-a40e-24b2893360f5, udp: true}
