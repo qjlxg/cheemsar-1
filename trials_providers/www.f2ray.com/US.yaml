@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸f2ray共享节点 🌐 - F2ray, server: c.f2oo.net, port: 8443, type: vmess, uuid: 0b17eb7e-9d51-4b67-943c-8d5ad8a558ba, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}

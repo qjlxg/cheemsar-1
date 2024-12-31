@@ -1,347 +1,140 @@
-[ykxqn.com]
-buy  pass
-email  yisrgfaoq560@gmail.com
-name  LIME
-node_n  30
-sub_info  0B  1G  2024-12-31 14:59:21+08:00  (剩余 1G 0:59:50.561012)
-sub_url  https://dy.lime5.xyz/api/v1/client/subscribe?token=2a085822feb6a26df53a95cc8cf60ab8
-time  2024-12-31 13:59:22.077065+08:00
-type  v2board
-
-[懒猫.com]
-buy  period=month_price&plan_id=1
-email  mbjjapzn667@gmail.com
-name  懒猫机场
-sub_info  0B  99G  2025-01-31 11:33:14+08:00  (剩余 99G 30 days, 21:27:15.775718)
-sub_url  https://dy.yimao.icu/api/v1/client/subscribe?token=9b1ee96a26d4c2c72ff6894297055a2a
-time  2024-12-31 11:33:14.654116+08:00
-type  v2board
-保存base64/clash订阅失败  string indices must be integers
-
-[www.f2ray.com]
-buy  pass
-email  mpcvwbhf318@tmpbox.net
-name  F2ray
-node_n  1
-sub_info  0B  10G  2025-01-30 11:34:25+08:00  (剩余 10G 29 days, 21:35:15.620172)
-sub_url  https://www.f2ray.com/api/v1/client/subscribe?token=1d6c5ab4780c817662b3a768267f039d
-time  2024-12-31 11:34:26.634958+08:00
-type  v2board
-
-[sub.xueyejiasu.com]
-buy  pass
-email  bovggcaz816@gmail.com
-name  血液加速器
-node_n  12
-sub_info  0B  1G  2025-01-01 11:33:46+08:00  (剩余 1G 21:34:35.752186)
-sub_url  http://hk.kjdjakskl.cyou/api/v1/client/subscribe?token=8c607f55933b5c11009059cd611ce5a1
-time  2024-12-31 11:33:47.958512+08:00
-type  v2board
-
-[www.littleqqq.co]
-buy  period=onetime_price&plan_id=5
-email  iahdklgca141@gmail.com
-name  pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
-node_n  2
-sub_info  0B  1G  永不过期  (剩余 1G)
-sub_url  https://littleqqq.co/api/v1/client/subscribe?token=864fc6555a371ed62836ed704623ff36
-time  2024-12-31 11:33:50.383687+08:00
-type  v2board
-更新旧订阅失败  invalid literal for int() with base 10: ''
-
-[tiedan.595418.xyz]
-buy  pass
-email  sogtqros304@gmail.com
-name  铁蛋加速
-node_n  73
-sub_info  0B  5G  2024-12-31 17:31:43+08:00  (剩余 5G 3:32:32.219438)
-sub_url  https://ssasd.tiedan168.net/api/v1/client/subscribe?token=40c8212a9d666084156b3a9904899d0b
-time  2024-12-31 11:33:48.010574+08:00
-type  v2board
-
-[www.ducklink.net]
-buy  pass
-email  kzuogyi718@gmail.com
-name  DuckLink
-node_n  10
-sub_info  0B  1G  2024-12-31 17:34:16+08:00  (剩余 1G 3:35:05.674066)
-sub_url  https://sub.ducklink.net/api/v1/client/subscribe?token=1f2fee4466b697f5a7eca84eee313d3a
-time  2024-12-31 11:34:17.668523+08:00
-type  v2board
-
 [moonriver.one]
 buy  period=month_price&plan_id=6
 email  wymxepuvv118@gmail.com
 name  MoonRiver月河村
-sub_info  0B  1G  2025-01-31 11:34:19+08:00  (剩余 1G 30 days, 21:30:00.942912)
+sub_info  0B  1G  2025-01-31 11:34:19+08:00  (剩余 1G 30 days, 20:29:38.023756)
 sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=a61e72683406dc7b475675678a19f73e
 time  2024-12-31 11:34:20.198812+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
-[dash2.moonriver.one]
-buy  period=month_price&plan_id=6
-email  oxepohwj174@gmail.com
-name  MoonRiver月河村
-sub_info  0B  1G  2025-01-31 11:34:21+08:00  (剩余 1G 30 days, 21:30:18.463971)
-sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=18e6382035aec324b2deaa23ed8cf76d
-time  2024-12-31 11:34:21.974846+08:00
+[ni8.pro]
+banned_domains  guerrillamail.org
+name  零北机场
 type  v2board
-保存base64/clash订阅失败  'proxies'
+更新订阅链接/续费续签失败  获取邮箱验证码超时(xsszzmmy87@guerrillamail.org)
 
-[www.diaomaojichang.top]
-buy  pass
-email  vcvgbhr288@gmail.com
-name  叼毛机场
-node_n  11
-sub_info  0B  5G  2025-01-01 11:34:50+08:00  (剩余 5G 21:35:38.475455)
-sub_url  https://www.diaomaojichang.top/api/v1/client/subscribe?token=93a0609a7c360cc72672251691a45f13
-time  2024-12-31 11:34:50.249812+08:00
+[web.lanhaiuser.com:7779]
+
+[ovofast.com]
+name  OvO
 type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(gtbahqird200@tmail.ws): {'message': '邮箱后缀不处于白名单中'}
 
-[kugou.cloud]
+[yiyuan1.com]
+name  一元机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(fbdxvpcrh132@tmpbox.net): 邮箱后缀不处于白名单中
+
+[x2cloud.top]
+banned_domains  linshiyou.com
+name  x2cloud
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(kcsrzjnq861@linshiyou.com)
+
+[47.83.11.136:21322]
+
+[system.ntyww.cn]
+
+[butterflar.pro]
+api_host  sui.jahbd.bio
 buy  pass
-email  dpgyxqdr847@gmail.com
-name  KUGOU云
-node_n  45
-sub_info  0B  2G  2024-12-31 15:59:17+08:00  (剩余 2G 1:58:04.767807)
-sub_url  https://ig7yfwe9823r4uyga.ng45rtg5sexjy34.top/api/v1/client/subscribe?token=acd3518f56edad5092950ea7adac5b7b
-time  2024-12-31 13:59:18.372926+08:00
+email  pkrpnof115@mail.shouyou789.com
+name  蝴蝶云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://sui.jahbd.bio/api/v1/client/subscribe?token=89486d2571e397af40160f6302c5fb2a
+time  2024-12-31 15:00:05.168554+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[cloudfox.club]
-buy  pass
-email  ckjxevayu593@gmail.com
-name  CloudFox
-node_n  66
-sub_info  0B  1G  2024-12-31 14:59:20+08:00  (剩余 1G 0:59:52.547161)
-sub_url  https://dy.yh13.xyz/api/v1/client/subscribe?token=d4d031d4ff47daaa9c8fc7c319675f17
-time  2024-12-31 13:59:21.519103+08:00
+[mmy123.com]
+name  猫猫云
 type  v2board
+更新订阅链接/续费续签失败  注册失败(afqgamaoq887@gmail.com): 'NoneType' object is not subscriptable
 
-[lianjiasub.work]
+[185.243.242.63]
 buy  pass
-email  ewhpqaqlq188@gmail.com
-name  廉价机场
-node_n  16
-sub_info  0B  20G  2024-12-31 16:59:09+08:00  (剩余 20G 2:59:54.910053)
-sub_url  https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=3ef3986e124fe945050b47e3b4a4a470
-time  2024-12-31 13:59:11.545298+08:00
+email  rregnnoiq64@gmail.com
+name  SDK DNS
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://8.223.17.76/api/v1/client/subscribe?token=65daa4dd04334afb96c57d246d77d527
+time  2024-12-31 14:59:56.404531+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[sulink.pro]
-buy  pass
-email  vcbuirixi403@gmail.com
-name  SuLink速联网络
-node_n  2
-sub_info  0B  30G  2024-12-31 14:07:45+08:00  (剩余 30G 0:08:33.275174)
-sub_url  https://dy.sulian.life/api/v1/client/subscribe?token=a2b49470218738001ab406b93a814bad
-time  2024-12-31 13:59:09.024306+08:00
+[www.bigme.pro]
+name  高可用性服务商 | BigME
 type  v2board
+更新订阅链接/续费续签失败  注册失败(vtjygfh383@gmail.com): 'NoneType' object is not subscriptable
 
-[qingyun.zybs.eu.org]
-buy  period=month_price&plan_id=1
-email  oolrylwgf934@gmail.com
-name  青云互联网-
-node_n  1
-sub_info  0B  50G  2025-02-08 01:59:07+08:00  (剩余 50G 38 days, 11:57:52.461686)
-sub_url  https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=7808b25d42b1582d4280c2ad48b248bd
-time  2024-12-31 13:59:08.579790+08:00
+[ky.luxnu.cn]
+buy  pass
+email  xwfuqvpd868@gmail.com
+name  续费官网 www.快云.com
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://kuaiyun.luxnu.cn/api/v1/client/subscribe?token=1b2f5df49960754f6d8721b7e49fd52d
+time  2024-12-31 14:59:58.624532+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[lanmaoyun.icu]
+[jiasu1.top]
 buy  pass
-email  vllgyqfz812@gmail.com
-name  蓝猫云
-sub_info  0B  3G  2024-12-31 16:58:03+08:00  (剩余 3G 2:52:10.108761)
-sub_url  https://subscribe7818.lanmaoyun.icu/api/v1/client/subscribe?token=f5d86af6589e9bb21ae938e98062089a
-time  2024-12-31 13:59:23.650523+08:00
+email  mrsxvxdgc244@gmail.com
+name  jiasu19.top
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  http://146.56.129.52:12345/api/v1/client/subscribe?token=a8fdcd3542322cd6c626564bd7d2bb74
+time  2024-12-31 14:59:55.307948+08:00
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[xueyejiasu.com]
-buy  pass
-email  erqmdecy965@gmail.com
-name  血液加速器
-node_n  12
-sub_info  0B  1G  2025-01-01 13:59:08+08:00  (剩余 1G 23:59:54.826947)
-sub_url  http://hk.kjdjakskl.cyou/api/v1/client/subscribe?token=7c65fbc99fa91b7a7588c572632243c0
-time  2024-12-31 13:59:09.377393+08:00
+[web.fscloud.cc]
+name  FSCloud
 type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"fybnzho137@444.cvrmpr.shop","success":"false"}'
 
-[www.dabai.in]
-auto_invite  F
-buy  shop=31
-email  lxdaloing489@gmail.com
-last_checkin  2024-12-31 13:59:09.137973+08:00
-name  大白
-node_n  7
-sub_info  0B  1T  2025-01-30 13:59:08+08:00  (剩余 1T 29 days, 23:59:55.322854)
-sub_url  https://www.dabai.in/link/UppQyfkLyMOyeQs2?sub=3
-time  2024-12-31 13:59:10.247309+08:00
-type  sspanel
-
-[dd.dabai.in]
-
-[ee.dabai.in]
-
-[ff.dabai.in]
-
-[cc.dabai.in]
-auto_invite  F
-buy  shop=31
-email  regxcpvcf634@gmail.com
-last_checkin  2024-12-31 13:59:09.716914+08:00
-name  大白
-node_n  7
-sub_info  0B  1T  2025-01-30 13:59:09+08:00  (剩余 1T 29 days, 23:57:56.191256)
-sub_url  https://cc.dabai.in/link/dEe98hmaBHYrwuVn?sub=3
-time  2024-12-31 13:59:10.959254+08:00
-type  sspanel
-
-[bb.dabai.in]
-auto_invite  F
-buy  shop=31
-email  yxcnyhhfo155@gmail.com
-last_checkin  2024-12-31 13:59:09.776164+08:00
-name  大白
-node_n  7
-sub_info  0B  1T  2025-01-30 13:59:09+08:00  (剩余 1T 29 days, 23:57:53.750027)
-sub_url  https://bb.dabai.in/link/PdHFP3fHkyYaL86h?sub=3
-time  2024-12-31 13:59:11.483488+08:00
-type  sspanel
-
-[aa.dabai.in]
-auto_invite  F
-buy  shop=31
-email  nsyascb353@gmail.com
-last_checkin  2024-12-31 13:59:09.723403+08:00
-name  大白
-node_n  7
-sub_info  0B  1T  2025-01-30 13:59:09+08:00  (剩余 1T 29 days, 23:59:56.134008)
-sub_url  https://aa.dabai.in/link/YOWcc8nC7ipYIglN?sub=3
-time  2024-12-31 13:59:11.127405+08:00
-type  sspanel
-
-[cn.newbee.cyou]
+[www.feiba.cyou]
 buy  pass
-email  gqgoigno16@gmail.com
-name  NewBee国际机场
-node_n  23
-sub_info  0B  5G  2024-12-31 19:59:08+08:00  (剩余 5G 5:59:55.738497)
-sub_url  https://subscribe-1.newbee8.monster/api/v1/client/subscribe?token=ba751c95f77413ab948cf6fb53a9ba0d
-time  2024-12-31 13:59:09.331379+08:00
+email  yhaokftnu147@gmail.com
+name  飞吧
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://cupcloud.vip/api/v1/client/subscribe?token=b117ae25139138b1a3e4d46c0ab12b63
+time  2024-12-31 14:59:54.876571+08:00
 type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[mgnet.vip]
-auto_invite  F
-buy  pass
-email  ktgcfmfrw912@gmail.com
-last_checkin  2024-12-31 13:59:07.967745+08:00
-name  MG Network
-node_n  10
-sub_info  0B  5.758G  2025-01-02 14:59:07+08:00  (剩余 5.758G 2 days, 0:59:57.070086)
-sub_url  https://www.mgnet.sbs/link/0YTozFdukqxc80a1?sub=3
-time  2024-12-31 13:59:08.314584+08:00
-type  sspanel
-
-[uuvpn.cloud]
-api_host  uujiasu.com
-buy  pass
-email  rgnivfev353@gmail.com
-name  uu加速首页
-sub_info  0B  1G  2025-01-01 13:59:09+08:00  (剩余 1G 23:59:56.188024)
-sub_url  http://subuu.xfxvpn.me/api/v1/client/subscribe?token=f304f3c2d7781aa253115dfc136535c8
-time  2024-12-31 13:59:10.326109+08:00
+[www.bigairport-official-mirror-site4.help]
+name  大机场 Big Airport
 type  v2board
-保存base64/clash订阅失败  netloc 'Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTA2OWIwMC0xNDIzLTRmYzctYWI1ZC0wODZhNDhkMTQwY2Y@最新官网：uuvpn.cloud:1080' contains invalid characters under NFKC normalization
+更新订阅链接/续费续签失败  发送邮箱验证码失败(riidkzazu915@guerrillamail.de): {'message': '验证码有误'}
 
-[maoyun3.com]
-auto_invite  F
-buy  pass
-email  oyycfxr131@gmail.com
-last_checkin  2024-12-31 13:59:12.786954+08:00
-name  猫云
-node_n  1
-sub_info  0B  23M  2025-01-02 13:59:08+08:00  (剩余 23M 1 day, 23:59:50.354698)
-sub_url  https://abc.xhonor.top:9066/ssp/maoyun/link/DRhZ7YCXbKP8asGP?sub=3
-time  2024-12-31 13:59:14.077973+08:00
-type  sspanel
-
-[sub.cokecloud.world]
-buy  pass
-email  xmyjdaya907@gmail.com
-name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
-node_n  38
-sub_info  0B  1G  2024-12-31 14:59:09+08:00  (剩余 1G 0:59:53.547151)
-sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=17a967c5d7bbb29fe08c863ce572a958
-time  2024-12-31 13:59:11.244205+08:00
+[bby010.com]
+api_host  api2.345112.xyz
+name  宝贝云
 type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(uhwpgxx883@disbox.net): {'message': '验证码有误'}
 
-[www.moonriver.sbs]
-buy  period=month_price&plan_id=6
-email  fktrtagt911@gmail.com
-name  MoonRiver月河村
-sub_info  0B  1G  2025-01-31 13:59:11+08:00  (剩余 1G 30 days, 23:51:05.199103)
-sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=618c759971661ce7ecb6ef599e4adcbb
-time  2024-12-31 13:59:13.198461+08:00
+[jiasuyuan.org]
+name  加速园
 type  v2board
-保存base64/clash订阅失败  'proxies'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ovssffvk881@jkb.tmmad.com","success":"false"}'
 
-[mcecloud.com]
-auto_invite  F
-buy  pass
-email  jgylvyxn704@gmail.com
-last_checkin  2024-12-31 13:59:14.219271+08:00
-name  至云互联
-sub_url  https://abc.xhonor.top:9066/ssp/mce/link/TXS4iOkfkuUItBVY?sub=3
-time  2024-12-31 13:59:15.952985+08:00
-type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
-
-[nova.live]
-auto_invite  F
-buy  pass
-email  djblyko757@mail.shouyou789.com
-last_checkin  2024-12-31 13:59:27.962312+08:00
-name  NovaLive
-node_n  5
-sub_info  0B  1.075G  2024-12-31 13:59:24+08:00  (剩余 1.075G -1 day, 23:59:51.447777)
-sub_url  https://new.gfw.news/link/wYOfUhoTyz6uiPIQ?sub=3
-time  2024-12-31 13:59:29.595242+08:00
-type  sspanel
-
-[dashuai.us]
-buy  pass
-email  mqqjqlffw430@gmail.com
-name  大师国际机场
-node_n  21
-sub_info  0B  2G  2024-12-31 17:59:19+08:00  (剩余 2G 3:59:53.821554)
-sub_url  https://aicaicai.dashuai.us/api/v1/client/subscribe?token=f0e5604192585814be8c46e67124bb4b
-time  2024-12-31 13:59:21.933274+08:00
+[www.bixiny.me]
+name  BiXin Network
 type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"jhimuqpcl360@444.waocq.shop","success":"false"}'
 
-[hy-2.com]
-buy  pass
-email  klubysc370@gmail.com
-name  HY-2
-node_n  5
-sub_info  0B  10G  2024-12-31 14:59:30+08:00  (剩余 10G 0:59:55.146797)
-sub_url  https://dy.hy2.one/api/v1/client/subscribe?token=b008b540d33c3d6837080da3678ebe16
-time  2024-12-31 13:59:31.727102+08:00
+[www.chaojijichang.com]
+name  超级机场
 type  v2board
+更新订阅链接/续费续签失败  注册失败(mnvyynd932@gmail.com): 本站已关闭注册
 
-[ayucloud.services]
-auth_path  user
-auto_invite  F
-buy  pass
-email  twivosze137@guerrillamail.biz
-last_checkin  2024-12-31 13:59:44.913218+08:00
-name  AyucLouD-Services
-sub_url  https://network.ayucloud.nl/link/EFk4w8QvixtnpToM?sub=3
-time  2024-12-31 13:59:45.603954+08:00
-type  sspanel
-保存base64/clash订阅失败  'proxies'
-保存订阅信息失败  no sub info
+[newserver.t1i.top]
+
+[146.56.129.52:12345]
+
+[47.239.197.146:9000]
+
+[dash.bixiny.com]
+name  BiXin Network
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"nzjtgcki680@wfes.site","success":"false"}'
