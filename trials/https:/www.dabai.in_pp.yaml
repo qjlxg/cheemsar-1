@@ -10,58 +10,13 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-  - 🇸🇬 新加坡一 - LIME
-  - 🇸🇬 新加坡二 - LIME
-  - 🇸🇬 新加坡三 - LIME
-  - 🇸🇬 新加坡四 - LIME
-  - 🇸🇬 新加坡五 - LIME
-  - 🇸🇬 新加坡六 - LIME
-  - 🇯🇵 日本一 - LIME
-  - 🇯🇵 日本二 - LIME
-  - 🇯🇵 日本三 - LIME
-  - 🇯🇵 日本四 - LIME
-  - 🇯🇵 日本五 - LIME
-  - 🇯🇵 日本六 - LIME
-  - 🇺🇸 美国一 - LIME
-  - 🇺🇸 美国二 - LIME
-  - 🇺🇸 美国三 - LIME
-  - 🇺🇸 美国四 - LIME
-  - 🇺🇸 美国五 - LIME
-  - 🇺🇸 美国六 - LIME
-  - xqnqn.com防失联 - LIME
-  - 🇰🇷 韩国一 - LIME
-  - 🇰🇷 韩国二 - LIME
+  use: &id001
+  - All
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,28 +33,12 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -108,142 +47,19 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡一 - LIME
-  - 🇸🇬 新加坡二 - LIME
-  - 🇸🇬 新加坡三 - LIME
-  - 🇸🇬 新加坡四 - LIME
-  - 🇸🇬 新加坡五 - LIME
-  - 🇸🇬 新加坡六 - LIME
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本一 - LIME
-  - 🇯🇵 日本二 - LIME
-  - 🇯🇵 日本三 - LIME
-  - 🇯🇵 日本四 - LIME
-  - 🇯🇵 日本五 - LIME
-  - 🇯🇵 日本六 - LIME
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国一 - LIME
-  - 🇺🇸 美国二 - LIME
-  - 🇺🇸 美国三 - LIME
-  - 🇺🇸 美国四 - LIME
-  - 🇺🇸 美国五 - LIME
-  - 🇺🇸 美国六 - LIME
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id008
-  - xqnqn.com防失联 - LIME
-  - 🇰🇷 韩国一 - LIME
-  - 🇰🇷 韩国二 - LIME
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id008
-proxies:
-- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
-- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: 068b501b-2da4-47e8-844b-90852c851b98, udp: true}
+  use: *id001
+proxy-providers:
+  All:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/https://www.dabai.in/All.yaml
+    interval: 180
+    path: trials_providers/https://www.dabai.in/All.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
