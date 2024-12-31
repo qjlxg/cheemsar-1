@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡落地 - 铁蛋加速, server: 45.32.102.248, port: 12330, type: ss, cipher: chacha20-ietf-poly1305, password: a93e4b7a-9103-4c95-8bf4-6efa30ebe651, udp: true}
-- {name: 🇸🇬 SG新加坡-狮城① - 铁蛋加速, server: dddd2024.zj-zz-cm1.tiedandddd.shop, port: 32111, type: ss, cipher: chacha20-ietf-poly1305, password: a93e4b7a-9103-4c95-8bf4-6efa30ebe651, udp: true}
-- {name: 🇸🇬 SG新加坡-狮城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32112, type: ss, cipher: chacha20-ietf-poly1305, password: a93e4b7a-9103-4c95-8bf4-6efa30ebe651, udp: true}
+- {name: 🇸🇬 新加坡落地 - 铁蛋加速, server: 45.32.102.248, port: 12330, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: a93e4b7a-9103-4c95-8bf4-6efa30ebe651, udp: true}
+- {name: 🇸🇬 SG新加坡-狮城① - 铁蛋加速, server: dddd2024.zj-zz-cm1.tiedandddd.shop, port: 32111, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: a93e4b7a-9103-4c95-8bf4-6efa30ebe651, udp: true}
+- {name: 🇸🇬 SG新加坡-狮城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32112, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: a93e4b7a-9103-4c95-8bf4-6efa30ebe651, udp: true}
