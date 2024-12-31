@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 591510e9-c3b3-4781-8ef7-2baeeb1028d2, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
-- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: bda5e4e7-9062-46b5-86ea-b44b3f0ab5d1, udp: true}
