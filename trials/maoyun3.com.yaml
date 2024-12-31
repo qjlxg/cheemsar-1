@@ -53,7 +53,7 @@ proxy-groups:
   type: select
   proxies: *id001
 proxies:
-- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: 20jpE7jDD5JlONkw, udp: true}
+- {name: ℹ️ 永久官网:www.猫云.net - 猫云, server: 8.8.8.8, port: 10086, type: ss, cipher: chacha20-ietf-poly1305, password: dJCTX6zz6YV7njwu, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - uu加速首页, server: jsyd.yeahfast.com, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
-- {name: 🇭🇰 香港02 - uu加速首页, server: jsyd.yeahfast.com, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
-- {name: 🇭🇰 香港03 - uu加速首页, server: jsyd.yeahfast.com, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
-- {name: 🇭🇰 香港04-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
-- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: jsyd.yeahfast.com, port: 31672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: jsyd.yeahfast.com, port: 31675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: jsyd.yeahfast.com, port: 31679, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
+- {name: 🇭🇰 香港04-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31681, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: b30fa0d2-a17f-472f-9c72-670dbdaaa548, udp: true}
