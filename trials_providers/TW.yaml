@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: a0ea9a7f-320d-4f71-8ae7-cdd759816029, udp: true}
+- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: a0ea9a7f-320d-4f71-8ae7-cdd759816029, udp: true}
+- {name: 🇹🇼 中转•台湾100•高速 - 飞翔吧, server: gy.58n.net, port: 59021, type: trojan, password: 17411d04-08dd-3314-9b41-4cf6bd6e4953, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: 17411d04-08dd-3314-9b41-4cf6bd6e4953, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: 17411d04-08dd-3314-9b41-4cf6bd6e4953, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: 17411d04-08dd-3314-9b41-4cf6bd6e4953, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: a0333015-f0fa-331d-b84f-4cf379c61b92, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 5691c6e6-2f95-4f10-b471-0815b3cc5e9e, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
