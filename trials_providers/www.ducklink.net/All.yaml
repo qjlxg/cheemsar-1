@@ -1,13 +1,13 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇸🇬 Singapore 01 - DuckLink, server: sg.ducklink.top, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇸🇬 Singapore 02 - DuckLink, server: sg.ducklink.top, port: 21202, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
-- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: dad805d6-1c7b-40e5-bfe7-7e1875311202, udp: true}
+- {name: 🇯🇵 Japan 01 - DuckLink, server: jp.ducklink.top, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇯🇵 Japan 02 - DuckLink, server: jp.ducklink.top, port: 21002, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇯🇵 Japan 05 - DuckLink, server: jp.ducklink.top, port: 21005, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇯🇵 Japan 06 - DuckLink, server: jp.ducklink.top, port: 21006, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇸🇬 Singapore 01 - DuckLink, server: sg.ducklink.top, port: 21201, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇸🇬 Singapore 02 - DuckLink, server: sg.ducklink.top, port: 21202, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}
+- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: edd61cb3-6736-4b93-bd73-5b38fe2b451e, udp: true}

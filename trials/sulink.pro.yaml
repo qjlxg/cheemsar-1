@@ -84,8 +84,8 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 6aa9c37c-6084-45ef-882c-d5fbb8f0fc21, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 6aa9c37c-6084-45ef-882c-d5fbb8f0fc21, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: f40746db-138d-44d4-9e49-74127f1c622f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: f40746db-138d-44d4-9e49-74127f1c622f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
