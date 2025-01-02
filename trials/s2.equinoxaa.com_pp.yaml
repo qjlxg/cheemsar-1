@@ -22,22 +22,12 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇸🇬 新加坡-01 - 畅游无限
-  - 🇸🇬 新加坡-02 - 畅游无限
-  - 🇸🇬 新加坡-03 - 畅游无限
-  - 🇸🇬 新加坡-04 - 畅游无限
-  - 🇸🇬 新加坡-05 - 畅游无限
-  - 🇸🇬 新加坡-06 - 畅游无限
-  - 🇯🇵 日本-01 - 畅游无限
-  - 🇯🇵 日本-02 - 畅游无限
-  - 🇺🇸 美国-01 - 畅游无限
-  - 🇺🇸 美国-02 - 畅游无限
-  - 🇰🇷 韩国-01 - 畅游无限
-  - 🇰🇷 韩国-02 - 畅游无限
+  use: &id001
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -78,68 +68,76 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇸🇬 新加坡-01 - 畅游无限
-  - 🇸🇬 新加坡-02 - 畅游无限
-  - 🇸🇬 新加坡-03 - 畅游无限
-  - 🇸🇬 新加坡-04 - 畅游无限
-  - 🇸🇬 新加坡-05 - 畅游无限
-  - 🇸🇬 新加坡-06 - 畅游无限
+  use: &id002
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇯🇵 日本-01 - 畅游无限
-  - 🇯🇵 日本-02 - 畅游无限
+  use: &id003
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 美国-01 - 畅游无限
-  - 🇺🇸 美国-02 - 畅游无限
+  use: &id004
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id005
-  - 🇰🇷 韩国-01 - 畅游无限
-  - 🇰🇷 韩国-02 - 畅游无限
+  use: &id005
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
+  use: *id004
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id005
-proxies:
-- {name: 🇺🇸 美国-01 - 畅游无限, server: 54.210.30.219, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇺🇸 美国-02 - 畅游无限, server: 52.207.226.181, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-01 - 畅游无限, server: 43.203.121.134, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-02 - 畅游无限, server: 43.203.118.82, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-01 - 畅游无限, server: 35.77.99.191, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-02 - 畅游无限, server: 54.250.33.85, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.169.156.193, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-02 - 畅游无限, server: 13.229.232.240, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-03 - 畅游无限, server: 13.212.74.39, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-04 - 畅游无限, server: 54.254.38.217, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-05 - 畅游无限, server: 18.143.162.184, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-06 - 畅游无限, server: 47.129.63.176, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+  use: *id005
+proxy-providers:
+  SG:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/s2.equinoxaa.com/SG.yaml
+    interval: 180
+    path: trials_providers/s2.equinoxaa.com/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/s2.equinoxaa.com/JP.yaml
+    interval: 180
+    path: trials_providers/s2.equinoxaa.com/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/s2.equinoxaa.com/US.yaml
+    interval: 180
+    path: trials_providers/s2.equinoxaa.com/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/s2.equinoxaa.com/Other.yaml
+    interval: 180
+    path: trials_providers/s2.equinoxaa.com/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
