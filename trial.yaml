@@ -10,15 +10,11 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
+  - 🇹🇼 ‍台湾
   - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - 👆🏻 ‍指定
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -26,18 +22,15 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇸🇬 新加坡-01 - 畅游无限
-  - 🇸🇬 新加坡-02 - 畅游无限
-  - 🇸🇬 新加坡-03 - 畅游无限
-  - 🇸🇬 新加坡-04 - 畅游无限
-  - 🇸🇬 新加坡-05 - 畅游无限
-  - 🇸🇬 新加坡-06 - 畅游无限
-  - 🇯🇵 日本-01 - 畅游无限
-  - 🇯🇵 日本-02 - 畅游无限
-  - 🇺🇸 美国-01 - 畅游无限
-  - 🇺🇸 美国-02 - 畅游无限
-  - 🇰🇷 韩国-01 - 畅游无限
-  - 🇰🇷 韩国-02 - 畅游无限
+  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 美国5 - SuLink速联网络
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -54,20 +47,18 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🎏 ‍其他
+  - 🇹🇼 ‍台湾
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -76,70 +67,46 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇸🇬 新加坡-01 - 畅游无限
-  - 🇸🇬 新加坡-02 - 畅游无限
-  - 🇸🇬 新加坡-03 - 畅游无限
-  - 🇸🇬 新加坡-04 - 畅游无限
-  - 🇸🇬 新加坡-05 - 畅游无限
-  - 🇸🇬 新加坡-06 - 畅游无限
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇯🇵 日本-01 - 畅游无限
-  - 🇯🇵 日本-02 - 畅游无限
+  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id004
-  - 🇺🇸 美国-01 - 畅游无限
-  - 🇺🇸 美国-02 - 畅游无限
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id005
-  - 🇰🇷 韩国-01 - 畅游无限
-  - 🇰🇷 韩国-02 - 畅游无限
+  proxies: &id003
+  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
+  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
+  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
+  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇺🇸 美国5 - SuLink速联网络
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇹🇼 ‍台湾
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id003
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id004
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id005
+  proxies: *id003
 proxies:
-- {name: 🇺🇸 美国-01 - 畅游无限, server: 54.210.30.219, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇺🇸 美国-02 - 畅游无限, server: 52.207.226.181, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-01 - 畅游无限, server: 43.203.121.134, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-02 - 畅游无限, server: 43.203.118.82, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-01 - 畅游无限, server: 35.77.99.191, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-02 - 畅游无限, server: 54.250.33.85, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.169.156.193, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-02 - 畅游无限, server: 13.229.232.240, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-03 - 畅游无限, server: 13.212.74.39, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-04 - 畅游无限, server: 54.254.38.217, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-05 - 畅游无限, server: 18.143.162.184, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇸🇬 新加坡-06 - 畅游无限, server: 47.129.63.176, port: 8443, tfo: true, type: vmess, uuid: 7ded376a-ea82-46f3-a393-965f3008e244, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 8880, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.103.120, headers: {Host: 100-228-58-226.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 80, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.17.121, headers: {Host: 100-112-19-190.s3.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s5.cn-db.top, port: 8880, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.120.243, headers: {Host: 100-130-77-237.s5.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link02.top, port: 2052, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.212.190, headers: {Host: 100-34-199-1.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.db-link01.top, port: 2052, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.181.180, headers: {Host: 100-150-110-189.s4.db-link01.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link01.top, port: 8080, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.42.191, headers: {Host: 100-251-129-153.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.db-link01.top, port: 80, type: vmess, uuid: a8babeac-d804-30ca-a80a-444895987e27, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.126.59, headers: {Host: 100-15-17-235.s4.db-link01.top}}, udp: true}
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 1ef890b5-df19-4e9d-9f0c-05199b2cc45e, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 1ef890b5-df19-4e9d-9f0c-05199b2cc45e, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
