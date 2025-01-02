@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
