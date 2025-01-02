@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 295fae0c-77c5-43f9-a6d2-eea301f8bb2b, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 295fae0c-77c5-43f9-a6d2-eea301f8bb2b, udp: true}

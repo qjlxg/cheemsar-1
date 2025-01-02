@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: 4933fadb-9614-32a4-8e59-27d0ec02fe38, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: 4933fadb-9614-32a4-8e59-27d0ec02fe38, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}

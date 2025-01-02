@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 6f671738-1418-4d09-84ea-1e9bb754cdc3, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

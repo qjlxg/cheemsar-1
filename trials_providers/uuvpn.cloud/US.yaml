@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国02 - uu加速首页, server: jscm1.yunnode.win, port: 31644, type: ss, cipher: chacha20-ietf-poly1305, password: d6c35536-9361-4299-8bb8-143d536d2e15, udp: true}
-- {name: 🇺🇸 美国01 - uu加速首页, server: jscm1.yunnode.win, port: 31642, type: ss, cipher: chacha20-ietf-poly1305, password: d6c35536-9361-4299-8bb8-143d536d2e15, udp: true}
-- {name: 🇺🇸 美国04 - uu加速首页, server: jscm1.yunnode.win, port: 31650, type: ss, cipher: chacha20-ietf-poly1305, password: d6c35536-9361-4299-8bb8-143d536d2e15, udp: true}

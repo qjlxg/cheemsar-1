@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.182.77, port: 40552, type: vmess, uuid: ce5d33d9-690f-4335-b2ef-de1554b876c8, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
