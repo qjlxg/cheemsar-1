@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡节点1 - 老牛云, server: 183.232.159.51, port: 49392, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇸🇬 新加坡节点2 - 老牛云, server: 183.232.159.51, port: 53062, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}

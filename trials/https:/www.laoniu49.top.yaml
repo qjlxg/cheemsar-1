@@ -10,7 +10,21 @@ proxy-groups:
   type: select
   proxies:
   - ⚡ ‍低延迟
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻 ‍指定
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
@@ -18,13 +32,30 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白
-  - 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白
-  - 🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白
-  - 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白
+  - 🇭🇰 香港节点1 - 老牛云
+  - 🇭🇰 香港节点2 - 老牛云
+  - 🇭🇰 香港节点3 - 老牛云
+  - 🇭🇰 香港节点4 - 老牛云
+  - 🇹🇼 台湾节点1 - 老牛云
+  - 🇹🇼 台湾节点2 - 老牛云
+  - 🇹🇼 台湾节点3 - 老牛云
+  - 🇹🇼 台湾节点4 - 老牛云
+  - 🇸🇬 新加坡节点1 - 老牛云
+  - 🇸🇬 新加坡节点2 - 老牛云
+  - 🇯🇵 日本节点1 - 老牛云
+  - 🇯🇵 日本节点2 - 老牛云
+  - 🇯🇵 日本节点3 - 老牛云
+  - 🇯🇵 日本节点4 - 老牛云
+  - 🇺🇸 美国节点1 - 老牛云
+  - 🇺🇸 美国节点2 - 老牛云
+  - 🇺🇸 美国节点3 - 老牛云
+  - 🇺🇸 美国节点4 - 老牛云
+  - 🇰🇷 韩国1 - 老牛云
+  - 🇰🇷 韩国2 - 老牛云
+  - 🇬🇧 英国节点1 - 老牛云
+  - 🇬🇧 英国节点2 - 老牛云
+  - 🇻🇳 越南1 - 老牛云
+  - 🇻🇳 越南2 - 老牛云
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -41,12 +72,28 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
+  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -55,17 +102,129 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港节点1 - 老牛云
+  - 🇭🇰 香港节点2 - 老牛云
+  - 🇭🇰 香港节点3 - 老牛云
+  - 🇭🇰 香港节点4 - 老牛云
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇹🇼 台湾节点1 - 老牛云
+  - 🇹🇼 台湾节点2 - 老牛云
+  - 🇹🇼 台湾节点3 - 老牛云
+  - 🇹🇼 台湾节点4 - 老牛云
+- name: 🇨🇳 ‍中国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇭🇰 香港节点1 - 老牛云
+  - 🇭🇰 香港节点2 - 老牛云
+  - 🇭🇰 香港节点3 - 老牛云
+  - 🇭🇰 香港节点4 - 老牛云
+  - 🇹🇼 台湾节点1 - 老牛云
+  - 🇹🇼 台湾节点2 - 老牛云
+  - 🇹🇼 台湾节点3 - 老牛云
+  - 🇹🇼 台湾节点4 - 老牛云
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇸🇬 新加坡节点1 - 老牛云
+  - 🇸🇬 新加坡节点2 - 老牛云
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id006
+  - 🇯🇵 日本节点1 - 老牛云
+  - 🇯🇵 日本节点2 - 老牛云
+  - 🇯🇵 日本节点3 - 老牛云
+  - 🇯🇵 日本节点4 - 老牛云
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id007
+  - 🇺🇸 美国节点1 - 老牛云
+  - 🇺🇸 美国节点2 - 老牛云
+  - 🇺🇸 美国节点3 - 老牛云
+  - 🇺🇸 美国节点4 - 老牛云
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id008
+  - 🇰🇷 韩国1 - 老牛云
+  - 🇰🇷 韩国2 - 老牛云
+  - 🇬🇧 英国节点1 - 老牛云
+  - 🇬🇧 英国节点2 - 老牛云
+  - 🇻🇳 越南1 - 老牛云
+  - 🇻🇳 越南2 - 老牛云
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  proxies: *id003
+- name: 👆🏻🇨🇳 ‍中国
+  type: select
+  proxies: *id004
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id005
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id006
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id007
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id008
 proxies:
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 80, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.10.32, headers: {Host: 100-76-85-21.s4.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2082, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.18.34, headers: {Host: 100-251-227-130.s1.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 2095, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.170.26, headers: {Host: 100-167-145-149.s2.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s1.cn-db.top, port: 2086, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.5.149, headers: {Host: 100-185-139-8.s1.cn-db.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link01.top, port: 2095, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.3.247, headers: {Host: 100-221-239-39.s2.db-link01.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link01.top, port: 2082, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.159.232, headers: {Host: 100-73-9-187.s2.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s3.db-link01.top, port: 8880, type: vmess, uuid: 7257b774-45cb-3d59-a3ed-7f27cf4093f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.16.149.45, headers: {Host: 100-238-153-222.s3.db-link01.top}}, udp: true}
+- {name: 🇭🇰 香港节点1 - 老牛云, server: 183.232.159.51, port: 45107, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇭🇰 香港节点2 - 老牛云, server: 183.232.159.51, port: 39551, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇭🇰 香港节点3 - 老牛云, server: 183.232.159.51, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇭🇰 香港节点4 - 老牛云, server: 183.232.159.51, port: 47621, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇰🇷 韩国1 - 老牛云, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇰🇷 韩国2 - 老牛云, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇹🇼 台湾节点1 - 老牛云, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇹🇼 台湾节点2 - 老牛云, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇹🇼 台湾节点3 - 老牛云, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇹🇼 台湾节点4 - 老牛云, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇬🇧 英国节点1 - 老牛云, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇬🇧 英国节点2 - 老牛云, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇸🇬 新加坡节点1 - 老牛云, server: 183.232.159.51, port: 49392, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇸🇬 新加坡节点2 - 老牛云, server: 183.232.159.51, port: 53062, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇯🇵 日本节点1 - 老牛云, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇯🇵 日本节点2 - 老牛云, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇯🇵 日本节点3 - 老牛云, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇯🇵 日本节点4 - 老牛云, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇺🇸 美国节点1 - 老牛云, server: 183.232.159.51, port: 11329, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇺🇸 美国节点2 - 老牛云, server: 183.232.159.51, port: 47046, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇺🇸 美国节点3 - 老牛云, server: 183.232.159.51, port: 37959, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇺🇸 美国节点4 - 老牛云, server: 183.232.159.51, port: 19505, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇻🇳 越南1 - 老牛云, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
+- {name: 🇻🇳 越南2 - 老牛云, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: e05869bb-6432-4c42-8d9e-c1334d42a002, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
