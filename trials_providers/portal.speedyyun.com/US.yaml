@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 vmess_US - 速迪云加速, server: us-n1.speedyyun.com, port: 25314, type: vmess, uuid: ed90ba0b-0c39-4bbb-9055-f56273ac63f7, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /victorias, headers: {Host: us-n1.speedyyun.com}}, udp: true}
