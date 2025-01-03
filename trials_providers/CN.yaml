@@ -1,0 +1,10 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 531ed48c-9ffb-4cba-becb-fa0b8a769546, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
+- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 531ed48c-9ffb-4cba-becb-fa0b8a769546, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}

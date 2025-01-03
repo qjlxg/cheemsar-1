@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: a9969305-de24-4385-a142-c0b5302e57e6, udp: true}
+- {name: '🇺🇸 [vmess]美国03 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 531ed48c-9ffb-4cba-becb-fa0b8a769546, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us03.hy-2.top}}, udp: true}
+- {name: '🇺🇸 [vmess]美国04 - HY-2', server: cf.hy2.one, port: 2052, type: vmess, uuid: 531ed48c-9ffb-4cba-becb-fa0b8a769546, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us04.hy-2.top}}, udp: true}
