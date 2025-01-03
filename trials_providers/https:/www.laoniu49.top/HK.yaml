@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港节点1 - 老牛云, server: 183.232.159.51, port: 45107, type: ss, cipher: chacha20-ietf-poly1305, password: 7c91a3a6-da7c-4012-9aae-9701c4537908, udp: true}
-- {name: 🇭🇰 香港节点2 - 老牛云, server: 183.232.159.51, port: 39551, type: ss, cipher: chacha20-ietf-poly1305, password: 7c91a3a6-da7c-4012-9aae-9701c4537908, udp: true}
-- {name: 🇭🇰 香港节点3 - 老牛云, server: 183.232.159.51, port: 11308, type: ss, cipher: chacha20-ietf-poly1305, password: 7c91a3a6-da7c-4012-9aae-9701c4537908, udp: true}
-- {name: 🇭🇰 香港节点4 - 老牛云, server: 183.232.159.51, port: 47621, type: ss, cipher: chacha20-ietf-poly1305, password: 7c91a3a6-da7c-4012-9aae-9701c4537908, udp: true}
