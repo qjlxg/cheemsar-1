@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: 531ed48c-9ffb-4cba-becb-fa0b8a769546, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
