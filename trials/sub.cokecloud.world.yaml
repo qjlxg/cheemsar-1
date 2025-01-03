@@ -32,7 +32,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
   - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
@@ -52,36 +51,11 @@ proxy-groups:
   - 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
-  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
   - 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-010 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-005 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-004 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-003 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-004 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-005 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
-  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
   - 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
@@ -148,7 +122,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
   - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
@@ -171,7 +144,6 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
   - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
@@ -209,7 +181,6 @@ proxy-groups:
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美国-芝加哥-001 - 漏网之鱼
   - 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
@@ -221,30 +192,6 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id008
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-010 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-005 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-004 - 漏网之鱼
-  - 🇷🇺 俄罗斯-喀山-003 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-004 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-005 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼
-  - 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-001 - 漏网之鱼
   - 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
   - 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
@@ -284,35 +231,6 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.182.81, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-011 - 漏网之鱼, server: 194.87.68.115, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-010 - 漏网之鱼, server: 176.32.33.100, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-009 - 漏网之鱼, server: 46.29.161.224, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-008 - 漏网之鱼, server: 176.32.33.73, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-007 - 漏网之鱼, server: 176.32.32.68, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-006 - 漏网之鱼, server: 46.29.161.15, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-005 - 漏网之鱼, server: 176.32.33.124, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-004 - 漏网之鱼, server: 46.29.161.228, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-喀山-003 - 漏网之鱼, server: 46.29.161.109, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-001 - 漏网之鱼, server: 194.87.68.196, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-004 - 漏网之鱼, server: 194.87.69.42, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-005 - 漏网之鱼, server: 195.58.49.173, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-006 - 漏网之鱼, server: 195.58.49.152, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-007 - 漏网之鱼, server: 176.32.39.181, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-008 - 漏网之鱼, server: 194.87.69.244, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-009 - 漏网之鱼, server: 194.87.69.56, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-010 - 漏网之鱼, server: 194.87.68.228, port: 40552, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇭 瑞士-日内瓦-001 - 漏网之鱼, server: 194.87.18.248, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.167, port: 45751, type: vmess, uuid: 3e8ed351-1616-4cbc-a571-60622ea1fa1c, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -320,13 +238,25 @@ proxies:
 - {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: 58a87b91-6775-4294-9696-aacff428c28d, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
+- {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40792, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
@@ -339,15 +269,6 @@ proxies:
 - {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
 - {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: 58a87b91-6775-4294-9696-aacff428c28d, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 58a87b91-6775-4294-9696-aacff428c28d, udp: true}
-- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 58a87b91-6775-4294-9696-aacff428c28d, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
