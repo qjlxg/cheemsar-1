@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 中转 | 美国 | ×0.1 - mbSurf, server: 183.240.180.46, port: 10005, type: vmess, uuid: 1891f827-f61d-3f2d-983e-696f5850d2f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
+- {name: 🇺🇸 直连 | 美国 | ×0.1 - mbSurf, server: a.us.mbsurfnode3.top, port: 86, type: vmess, uuid: 1891f827-f61d-3f2d-983e-696f5850d2f0, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.dugusite3.top, port: 5061, type: vmess, uuid: c47fb100-c730-31e8-aa1d-e14810dca8bd, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.dugusite3.top, port: 5061, type: vmess, uuid: c47fb100-c730-31e8-aa1d-e14810dca8bd, alterId: 00, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
