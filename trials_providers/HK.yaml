@@ -1,15 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 8a47e134-ee06-3a49-8397-4eed6a5295e1, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
-- {name: 🇭🇰 Game 香港01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 824, tfo: true, type: ss, cipher: aes-128-gcm, password: ayu1245, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Game 香港02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9054, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Game 香港03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9063, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Game 香港04-国际 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 20012, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Game 香港05-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 907, tfo: true, type: ss, cipher: aes-128-gcm, password: ayucles1, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Game 香港06-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 823, tfo: true, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Video 香港A-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9053, tfo: true, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Video 香港B-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 8001, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Video 香港C-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9052, tfo: true, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Web 香港I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 912, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
-- {name: 🇭🇰 Web 香港II-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 840, tfo: true, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: cb79a104871.download.windowsupdate.com}, udp: true}
+- &id001 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 40552, type: vmess, uuid: cc95bb92-d60f-4f07-900a-b2c625c90637, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- *id001
