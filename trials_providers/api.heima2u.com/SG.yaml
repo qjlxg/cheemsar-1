@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: 1a9c71ce-0768-4b05-a23a-22f11a4f07e2, skip-cert-verify: true, udp: true}

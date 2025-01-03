@@ -1,0 +1,18 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 3d35bfc8-0ef0-49d4-843a-70e0d0e66a97, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 3d35bfc8-0ef0-49d4-843a-70e0d0e66a97, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾节点1 - 老牛云, server: 183.232.159.51, port: 55971, type: ss, cipher: chacha20-ietf-poly1305, password: 3e790d17-bef5-4a26-bf06-71fdfda25405, udp: true}
+- {name: 🇹🇼 台湾节点2 - 老牛云, server: 183.232.159.51, port: 15132, type: ss, cipher: chacha20-ietf-poly1305, password: 3e790d17-bef5-4a26-bf06-71fdfda25405, udp: true}
+- {name: 🇹🇼 台湾节点3 - 老牛云, server: 183.232.159.51, port: 34401, type: ss, cipher: chacha20-ietf-poly1305, password: 3e790d17-bef5-4a26-bf06-71fdfda25405, udp: true}
+- {name: 🇹🇼 台湾节点4 - 老牛云, server: 183.232.159.51, port: 58246, type: ss, cipher: chacha20-ietf-poly1305, password: 3e790d17-bef5-4a26-bf06-71fdfda25405, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 71aa0cf8-94e4-4159-a762-489a9e7fcb8f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, type: vmess, uuid: 71aa0cf8-94e4-4159-a762-489a9e7fcb8f, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW台湾① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32131, type: ss, cipher: chacha20-ietf-poly1305, password: 364d990e-e39c-4323-aeec-73311544ae31, udp: true}
+- {name: 🇹🇼 TW台湾② - 铁蛋加速, server: an-cm2.tiedandddd.shop, port: 32132, type: ss, cipher: chacha20-ietf-poly1305, password: 364d990e-e39c-4323-aeec-73311544ae31, udp: true}
+- {name: 🇹🇼 台湾01 - uu加速首页, server: jscm1.yunnode.win, port: 31632, type: ss, cipher: chacha20-ietf-poly1305, password: bb3c7a46-0286-4918-a20c-0b1d6b2ad547, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: 53cb0091-e121-3e04-b2a0-08d0d1583c85, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: 1a9c71ce-0768-4b05-a23a-22f11a4f07e2, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d2c255ae-f257-4bd2-bc36-03db36db3a8e, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d2c255ae-f257-4bd2-bc36-03db36db3a8e, udp: true}
