@@ -1,0 +1,19 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- &id004 {name: 🇭🇰 香港01隧道0 - AZ云, server: twjpzz2.595780.xyz, port: 18861, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇭🇰 香港01直连 - AZ云, server: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, port: 11111, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id006 {name: 🇭🇰 香港02隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 61744, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
