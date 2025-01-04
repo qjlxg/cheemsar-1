@@ -1,0 +1,17 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 9b195c8b-aebc-4624-bdb1-376113603023, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 9b195c8b-aebc-4624-bdb1-376113603023, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 9b195c8b-aebc-4624-bdb1-376113603023, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 9b195c8b-aebc-4624-bdb1-376113603023, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 9b195c8b-aebc-4624-bdb1-376113603023, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 9b195c8b-aebc-4624-bdb1-376113603023, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: a04d9878-7059-4cdf-9935-ea7f43a16505, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: a04d9878-7059-4cdf-9935-ea7f43a16505, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: a04d9878-7059-4cdf-9935-ea7f43a16505, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: a04d9878-7059-4cdf-9935-ea7f43a16505, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
+- {name: 🇺🇸 United States 01 - DuckLink, server: cn.ducklink.top, port: 21501, type: ss, cipher: chacha20-ietf-poly1305, password: e38f2444-6a1b-40ea-a629-6aef14ae4753, udp: true}
+- {name: 🇺🇸 United States 02 - DuckLink, server: cn.ducklink.top, port: 21502, type: ss, cipher: chacha20-ietf-poly1305, password: e38f2444-6a1b-40ea-a629-6aef14ae4753, udp: true}
+- {name: 🇺🇸 United States 03 - DuckLink, server: cn.ducklink.top, port: 21503, type: ss, cipher: chacha20-ietf-poly1305, password: e38f2444-6a1b-40ea-a629-6aef14ae4753, udp: true}
+- {name: 🇺🇸 United States 04 - DuckLink, server: cn.ducklink.top, port: 21504, type: ss, cipher: chacha20-ietf-poly1305, password: e38f2444-6a1b-40ea-a629-6aef14ae4753, udp: true}
