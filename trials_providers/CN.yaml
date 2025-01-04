@@ -1,0 +1,23 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 43641, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 36858, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14407, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 11618, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20901, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇼 台湾中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 18841, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇼 台湾中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22297, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇼 台湾中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 32525, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇼 台湾中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34915, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇼 台湾中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 44454, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇭🇰 OBS宁波-香港-hy - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 58629, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇭🇰 OBS宁波-香港 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇭🇰 OBS宁波-香港1 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 21253, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇭🇰 OBS宁波-香港2 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 48435, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇭🇰 OBS江苏-香港aws - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 32181, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇭🇰 OBS江苏-香港gcp - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 14709, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}

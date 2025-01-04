@@ -1,0 +1,19 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34701, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇯🇵 日本中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 38180, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇯🇵 日本中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 14087, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇯🇵 日本中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20678, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇯🇵 日本中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 51578, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转01 - 草榴加速器, server: bbs.sadomasochismclub.site, port: 33917, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 28471, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 34804, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本B区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 44591, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本B区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 25939, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转01 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 37612, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转02 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 28365, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转03 - 草榴加速器, server: wjb5ekt8wf.fcbjw.com, port: 39098, type: ss, cipher: chacha20-ietf-poly1305, password: f0bed92d-7cbf-4497-9551-1a37d3528656, udp: true}

@@ -1,0 +1,26 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 国内直连官网：https://cn.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 备用官网：https://cn1.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22258, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35666, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35665, type: vmess, uuid: 0a527d76-c9c8-4e61-8d6c-cb7f179b22a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 建议有事没事都更新订阅 - 菜鸟机场, server: cainiao212.top, port: 666, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇬🇧 英国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 59863, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇬🇧 英国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 30518, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇬🇧 英国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22771, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇸🇪 瑞典中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 22539, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇻🇳 越南中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21071, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇭 泰国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20289, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇮🇳 印度中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21061, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇩🇪 德国中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21098, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇧🇷 巴西中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20936, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇹🇷 土耳其中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21048, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇦🇪 阿联酋中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21059, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇲🇾 马来西亚中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 20119, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: 🇰🇿 哈萨克斯坦中转✈ - 菜鸟机场, server: chiyu.myfczy169.top, port: 21081, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: ♡⃝♡⃝♡⃝♡⃝♡⃝ ◡̈下方为备用节点 - 菜鸟机场, server: 666.com, port: 777, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: ddfe19a1-6385-459b-be58-fda7a50dc979, udp: true}
+- {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: 7faccc5f-b310-37b7-adc4-dee7b3dd80a9, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
