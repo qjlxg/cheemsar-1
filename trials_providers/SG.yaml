@@ -1,14 +1,14 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 56e1a6b1-4ad8-4fd0-8ebe-448a47f88ce5, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id001 {name: 🇸🇬 新加坡01直连快 - AZ云, server: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, port: 805, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, skip-cert-verify: true, udp: true}
-- &id002 {name: 🇸🇬 新加坡02直连 - AZ云, server: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, port: 607, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
-- &id003 {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
-- &id004 {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
-- &id005 {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 3ebeda64-af24-4599-921d-fa03949b9b44, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 3ebeda64-af24-4599-921d-fa03949b9b44, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 3ebeda64-af24-4599-921d-fa03949b9b44, alterId: 00, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇸🇬 新加坡01直连快 - AZ云, server: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, port: 805, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇸🇬 新加坡02直连 - AZ云, server: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, port: 607, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id004 {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- &id005 {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
 - *id003

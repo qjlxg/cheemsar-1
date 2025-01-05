@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
-- &id002 {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
-- &id003 {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: ce6911b9-1629-46b8-ba33-ae7ffa1aab23, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: 985a41b3-ccef-4579-805a-781d732f35ae, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
 - *id001
 - *id002
 - *id003

@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: f891d2ac-3e12-4d40-bc9a-a0bed8d2da20, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: f891d2ac-3e12-4d40-bc9a-a0bed8d2da20, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: f891d2ac-3e12-4d40-bc9a-a0bed8d2da20, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01隧道0 - AZ云, server: twjpzz2.595780.xyz, port: 18861, type: trojan, password: f891d2ac-3e12-4d40-bc9a-a0bed8d2da20, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01直连 - AZ云, server: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, port: 11111, type: trojan, password: f891d2ac-3e12-4d40-bc9a-a0bed8d2da20, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 61744, type: trojan, password: f891d2ac-3e12-4d40-bc9a-a0bed8d2da20, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: 4b44c010-60af-4e85-bd2b-2b363f03d0a2, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: 4b44c010-60af-4e85-bd2b-2b363f03d0a2, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: 4b44c010-60af-4e85-bd2b-2b363f03d0a2, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01隧道0 - AZ云, server: twjpzz2.595780.xyz, port: 18861, type: trojan, password: 4b44c010-60af-4e85-bd2b-2b363f03d0a2, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01直连 - AZ云, server: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, port: 11111, type: trojan, password: 4b44c010-60af-4e85-bd2b-2b363f03d0a2, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 61744, type: trojan, password: 4b44c010-60af-4e85-bd2b-2b363f03d0a2, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
