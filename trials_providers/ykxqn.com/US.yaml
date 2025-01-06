@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, tfo: true, type: ss, cipher: aes-128-gcm, password: 450ffb28-1c3a-477b-9b41-1932a0d7024b, udp: true}
-- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, tfo: true, type: ss, cipher: aes-128-gcm, password: 450ffb28-1c3a-477b-9b41-1932a0d7024b, udp: true}
-- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, tfo: true, type: ss, cipher: aes-128-gcm, password: 450ffb28-1c3a-477b-9b41-1932a0d7024b, udp: true}
-- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, tfo: true, type: ss, cipher: aes-128-gcm, password: 450ffb28-1c3a-477b-9b41-1932a0d7024b, udp: true}
-- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, tfo: true, type: ss, cipher: aes-128-gcm, password: 450ffb28-1c3a-477b-9b41-1932a0d7024b, udp: true}
-- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, tfo: true, type: ss, cipher: aes-128-gcm, password: 450ffb28-1c3a-477b-9b41-1932a0d7024b, udp: true}

@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港-01|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20062, type: trojan, password: 301cb216-9ad4-3620-994d-bbdd43c27a90, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-01|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20060, type: vmess, uuid: 301cb216-9ad4-3620-994d-bbdd43c27a90, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk1.huajic.com, udp: true}
-- {name: 🇭🇰 香港-05|Trojan| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20025, type: trojan, password: 301cb216-9ad4-3620-994d-bbdd43c27a90, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港-05|V2RAY| ×1【V2】 - 滑稽场, server: guangzhou_v2v.huajiccloud.us, port: 20026, type: vmess, uuid: 301cb216-9ad4-3620-994d-bbdd43c27a90, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: hk5.huajic.icu, udp: true}
