@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡01（高速） - Welcome to nginx!, server: sg01.x.woyh.xyz, port: 38651, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - Welcome to nginx!, server: sg02.x.woyh.xyz, port: 38652, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - Welcome to nginx!, server: sg03.x.woyh.xyz, port: 38653, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - Welcome to nginx!, server: sg04.x.woyh.xyz, port: 38654, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - Welcome to nginx!, server: sg05.x.woyh.xyz, port: 38655, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - Welcome to nginx!, server: sg06.x.woyh.xyz, port: 38657, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}

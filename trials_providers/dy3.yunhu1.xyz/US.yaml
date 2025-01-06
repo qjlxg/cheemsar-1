@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国01（高速） - Welcome to nginx!, server: us01.x.woyh.xyz, port: 38670, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国02（高速） - Welcome to nginx!, server: us02.x.woyh.xyz, port: 38672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - Welcome to nginx!, server: us03.x.woyh.xyz, port: 38673, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - Welcome to nginx!, server: us04.x.woyh.xyz, port: 38674, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - Welcome to nginx!, server: us05.x.woyh.xyz, port: 38675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - Welcome to nginx!, server: us06.x.woyh.xyz, port: 38676, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}

@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 9a09baa6-4695-4c9e-8502-7eca33afb127, udp: true}
+- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 9a09baa6-4695-4c9e-8502-7eca33afb127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 9a09baa6-4695-4c9e-8502-7eca33afb127, udp: true}
+- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 9a09baa6-4695-4c9e-8502-7eca33afb127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: 2c260a5b-2b52-4968-91c1-99cc6bd128d0, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - Welcome to nginx!, server: sg01.x.woyh.xyz, port: 38651, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - Welcome to nginx!, server: sg02.x.woyh.xyz, port: 38652, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - Welcome to nginx!, server: sg03.x.woyh.xyz, port: 38653, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - Welcome to nginx!, server: sg04.x.woyh.xyz, port: 38654, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - Welcome to nginx!, server: sg05.x.woyh.xyz, port: 38655, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - Welcome to nginx!, server: sg06.x.woyh.xyz, port: 38657, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}

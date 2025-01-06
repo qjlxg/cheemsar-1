@@ -1,0 +1,31 @@
+%YAML 1.1
+---
+proxies:
+- &id001 {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 40552, tfo: true, type: vmess, uuid: 2f2e1c7c-db7a-413e-8b04-e85475c47437, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- *id001
+- *id001
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s4.db-link01.top, port: 8080, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.46.35, headers: {Host: 100-236-224-73.s4.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link02.top, port: 2095, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.19.14.121, headers: {Host: 100-234-74-243.s2.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 8880, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.140.143, headers: {Host: 100-87-46-79.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s4.cn-db.top, port: 2086, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.2.196, headers: {Host: 100-142-240-242.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s4.db-link02.top, port: 2082, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.39.55, headers: {Host: 100-54-222-112.s4.db-link02.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s1.db-link02.top, port: 80, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.9.144, headers: {Host: 100-11-221-7.s1.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.cn-db.top, port: 2095, type: vmess, uuid: 42945696-e1d3-338e-91f6-0181ce6d49c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.83.149, headers: {Host: 100-40-72-154.s4.cn-db.top}}, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 9a09baa6-4695-4c9e-8502-7eca33afb127, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 9a09baa6-4695-4c9e-8502-7eca33afb127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 9a09baa6-4695-4c9e-8502-7eca33afb127, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: 9a09baa6-4695-4c9e-8502-7eca33afb127, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 9a09baa6-4695-4c9e-8502-7eca33afb127, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[01] - Heima', server: 107.149.238.99, port: 658, type: trojan, password: 2c260a5b-2b52-4968-91c1-99cc6bd128d0, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[02]中转 - Heima', server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 2c260a5b-2b52-4968-91c1-99cc6bd128d0, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: 2c260a5b-2b52-4968-91c1-99cc6bd128d0, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: 2c260a5b-2b52-4968-91c1-99cc6bd128d0, skip-cert-verify: true, udp: true}
+- *id001
+- *id001
+- *id001
+- {name: 🇺🇸 美国01（高速） - Welcome to nginx!, server: us01.x.woyh.xyz, port: 38670, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国02（高速） - Welcome to nginx!, server: us02.x.woyh.xyz, port: 38672, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - Welcome to nginx!, server: us03.x.woyh.xyz, port: 38673, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - Welcome to nginx!, server: us04.x.woyh.xyz, port: 38674, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - Welcome to nginx!, server: us05.x.woyh.xyz, port: 38675, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - Welcome to nginx!, server: us06.x.woyh.xyz, port: 38676, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 1ac742b4-835b-4cba-a411-bacfe8b63a73, udp: true}
