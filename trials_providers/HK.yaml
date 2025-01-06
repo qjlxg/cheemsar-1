@@ -1,0 +1,16 @@
+%YAML 1.1
+---
+proxies:
+- &id001 {name: 🇭🇰 香港01隧道0 - AZ云, server: twjpzz2.595780.xyz, port: 18861, type: trojan, password: c386e438-be83-4921-a5d3-cefa7ec3d744, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇭🇰 香港01直连 - AZ云, server: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, port: 11111, type: trojan, password: c386e438-be83-4921-a5d3-cefa7ec3d744, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇭🇰 香港02隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 61744, type: trojan, password: c386e438-be83-4921-a5d3-cefa7ec3d744, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, type: vmess, uuid: 6fd12da5-0884-40af-bc22-fd6d0166c02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
