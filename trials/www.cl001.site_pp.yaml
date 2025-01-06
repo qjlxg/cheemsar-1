@@ -104,36 +104,36 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/www.cl001.site/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/www.cl001.site/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/www.cl001.site/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/www.cl001.site/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/www.cl001.site/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/www.cl001.site/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/www.cl001.site/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/www.cl001.site/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
