@@ -28,15 +28,31 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - HK
-  - TW
-  - SG
-  - JP
-  - US
-  - Other
-  - p_All_CN
+  proxies: &id001
+  - 🇭🇰 香港NO.1（GPT奈飞等） - 大师国际机场
+  - 🇭🇰 香港NO.2（GPT奈飞等） - 大师国际机场
+  - 🇭🇰 香港（直连） - 大师国际机场
+  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇸🇬 新加坡NO.1 - 大师国际机场
+  - 🇸🇬 新加坡NO.2 - 大师国际机场
+  - 🇯🇵 日本NO.1 - 大师国际机场
+  - 🇯🇵 日本NO.2 - 大师国际机场
+  - 🇺🇸 美国NO.1（GPT） - 大师国际机场
+  - 🇺🇸 美国NO.2（GPT） - 大师国际机场
+  - ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师国际机场
+  - 🇦🇺 澳大利亚原生1 - 大师国际机场
+  - 🇦🇺 澳大利亚原生2 - 大师国际机场
+  - 🇨🇦 加拿大1 - 大师国际机场
+  - 🇨🇦 加拿大2 - 大师国际机场
+  - 🇮🇳 印度1 - 大师国际机场
+  - 🇮🇳 印度2 - 大师国际机场
+  - 🇫🇷 法国1 - 大师国际机场
+  - 🇫🇷 法国2 - 大师国际机场
+  - 🇲🇴 澳门NO.2 - 大师国际机场
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -85,129 +101,118 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - HK
+  proxies: &id002
+  - 🇭🇰 香港NO.1（GPT奈飞等） - 大师国际机场
+  - 🇭🇰 香港NO.2（GPT奈飞等） - 大师国际机场
+  - 🇭🇰 香港（直连） - 大师国际机场
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - TW
+  proxies: &id003
+  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - HK
-  - TW
-  - p_All_CN
+  proxies: &id004
+  - 🇭🇰 香港NO.1（GPT奈飞等） - 大师国际机场
+  - 🇭🇰 香港NO.2（GPT奈飞等） - 大师国际机场
+  - 🇭🇰 香港（直连） - 大师国际机场
+  - 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场
+  - 🇲🇴 澳门NO.2 - 大师国际机场
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - SG
+  proxies: &id005
+  - 🇸🇬 新加坡NO.1 - 大师国际机场
+  - 🇸🇬 新加坡NO.2 - 大师国际机场
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - JP
+  proxies: &id006
+  - 🇯🇵 日本NO.1 - 大师国际机场
+  - 🇯🇵 日本NO.2 - 大师国际机场
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸 美国NO.1（GPT） - 大师国际机场
+  - 🇺🇸 美国NO.2（GPT） - 大师国际机场
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - Other
+  proxies: &id008
+  - ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师国际机场
+  - 🇦🇺 澳大利亚原生1 - 大师国际机场
+  - 🇦🇺 澳大利亚原生2 - 大师国际机场
+  - 🇨🇦 加拿大1 - 大师国际机场
+  - 🇨🇦 加拿大2 - 大师国际机场
+  - 🇮🇳 印度1 - 大师国际机场
+  - 🇮🇳 印度2 - 大师国际机场
+  - 🇫🇷 法国1 - 大师国际机场
+  - 🇫🇷 法国2 - 大师国际机场
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  HK:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/HK.yaml
-    interval: 180
-    path: trials_providers/HK.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  TW:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/TW.yaml
-    interval: 180
-    path: trials_providers/TW.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/SG.yaml
-    interval: 180
-    path: trials_providers/SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/Other.yaml
-    interval: 180
-    path: trials_providers/Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/p_All_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: 'ℹ️ 目前国内网址：xc1.shishi1.buzz   被墙可按下面规律：网址前缀xc4,xc5,xc6 - 大师国际机场', server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师国际机场, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师国际机场, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师国际机场, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师国际机场, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.1（GPT） - 大师国际机场, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.2（GPT） - 大师国际机场, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇲🇴 澳门NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.1 - 大师国际机场, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚原生1 - 大师国际机场, server: haa.dashuai.cyou, port: 45062, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇦🇺 澳大利亚原生2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45063, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大1 - 大师国际机场, server: haa.dashuai.cyou, port: 45064, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇨🇦 加拿大2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45065, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度1 - 大师国际机场, server: haa.dashuai.cyou, port: 45074, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45073, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国1 - 大师国际机场, server: haa.dashuai.cyou, port: 45072, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇫🇷 法国2 - 大师国际机场, server: xdd.dashuai.cyou, port: 45071, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港（直连） - 大师国际机场, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 8d97f4f1-f3f1-4bb4-af92-baf617f4c1fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
