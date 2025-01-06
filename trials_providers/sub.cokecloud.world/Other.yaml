@@ -1,12 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国1 - 老牛云, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇰🇷 韩国2 - 老牛云, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇬🇧 英国节点1 - 老牛云, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇬🇧 英国节点2 - 老牛云, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇻🇳 越南1 - 老牛云, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇻🇳 越南2 - 老牛云, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
 - {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 851cd98f-ba1e-45df-8c0d-47018198b229, udp: true}
 - {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 851cd98f-ba1e-45df-8c0d-47018198b229, udp: true}
 - {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 851cd98f-ba1e-45df-8c0d-47018198b229, udp: true}

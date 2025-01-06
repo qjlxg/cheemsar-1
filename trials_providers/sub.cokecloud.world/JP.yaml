@@ -1,10 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本节点1 - 老牛云, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇯🇵 日本节点2 - 老牛云, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇯🇵 日本节点3 - 老牛云, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
-- {name: 🇯🇵 日本节点4 - 老牛云, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: 2bf32196-5761-448b-954c-dcdd131d9f35, udp: true}
 - {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12187, type: trojan, password: 851cd98f-ba1e-45df-8c0d-47018198b229, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 851cd98f-ba1e-45df-8c0d-47018198b229, udp: true}
 - {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 851cd98f-ba1e-45df-8c0d-47018198b229, udp: true}
