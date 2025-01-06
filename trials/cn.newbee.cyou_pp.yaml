@@ -131,54 +131,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/cn.newbee.cyou/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/cn.newbee.cyou/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/cn.newbee.cyou/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/cn.newbee.cyou/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/cn.newbee.cyou/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/cn.newbee.cyou/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/cn.newbee.cyou/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/cn.newbee.cyou/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/cn.newbee.cyou/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/cn.newbee.cyou/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   p_All_CN:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/p_All_CN.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/cn.newbee.cyou/p_All_CN.yaml
     interval: 180
-    path: trials_providers/p_All_CN.yaml
+    path: trials_providers/cn.newbee.cyou/p_All_CN.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
