@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港宇宙量子专线 2x - 廉价机场, server: lz.lianjianode.cc, port: 25000, type: ss, cipher: aes-128-gcm, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, udp: true}
+- {name: 🇭🇰 香港BGP 三网直连1x - 廉价机场, server: f97ff242157d18aafece5ab789f69cc4.node.tro.node-is.green, port: 45297, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: live.douyin.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: de04b0f094160aa5b142020345f23441.node.tro.node-is.green, port: 46572, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 0ccaf8d64e55c3716b6be38c6c3bb3ec.node.tro.node-is.green, port: 44070, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 01 1.5x - 廉价机场, server: 4b60e2f11441ecc365c94eb44b78aab8.node.tro.node-is.green, port: 47373, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 02 1.5x - 廉价机场, server: 028a70e37408bed9c5545d537b3b5f93.node.tro.node-is.green, port: 43396, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 03 1.5x - 廉价机场, server: 52b06c82907234a1d829a561b746a683.node.tro.node-is.green, port: 42945, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰香港BGP 中转 04 1.5x - 廉价机场, server: b6dfa30a47ea745d5d43eaac09740700.node.tro.node-is.green, port: 41832, type: trojan, password: 5a0225bd-07c0-4b5b-9a54-73b94d180c0a, sni: console.ucloud.cn, skip-cert-verify: true, udp: true}
