@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 韩国1 - 老牛云, server: 183.232.159.51, port: 55518, type: ss, cipher: chacha20-ietf-poly1305, password: 97e6c9e1-25f0-418d-b61f-365fbd2617bb, udp: true}
+- {name: 🇰🇷 韩国2 - 老牛云, server: 183.232.159.51, port: 23707, type: ss, cipher: chacha20-ietf-poly1305, password: 97e6c9e1-25f0-418d-b61f-365fbd2617bb, udp: true}
+- {name: 🇬🇧 英国节点1 - 老牛云, server: 183.232.159.51, port: 59193, type: ss, cipher: chacha20-ietf-poly1305, password: 97e6c9e1-25f0-418d-b61f-365fbd2617bb, udp: true}
+- {name: 🇬🇧 英国节点2 - 老牛云, server: 183.232.159.51, port: 55446, type: ss, cipher: chacha20-ietf-poly1305, password: 97e6c9e1-25f0-418d-b61f-365fbd2617bb, udp: true}
+- {name: 🇻🇳 越南1 - 老牛云, server: 183.232.159.51, port: 44595, type: ss, cipher: chacha20-ietf-poly1305, password: 97e6c9e1-25f0-418d-b61f-365fbd2617bb, udp: true}
+- {name: 🇻🇳 越南2 - 老牛云, server: 183.232.159.51, port: 35071, type: ss, cipher: chacha20-ietf-poly1305, password: 97e6c9e1-25f0-418d-b61f-365fbd2617bb, udp: true}
