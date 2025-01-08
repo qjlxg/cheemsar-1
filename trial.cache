@@ -2,11 +2,11 @@
 buy  pass
 email  vrekloawm762@gmail.com
 name  AbyssVPN
-sub_info  0B  10G  2025-01-08 16:18:26+08:00  (剩余 10G 23:54:09.499532)
+sub_info  0B  10G  2025-01-08 16:18:26+08:00  (剩余 10G 7:20:14.547930)
 sub_url  https://sub.tiktijy.com/api/v1/client/subscribe?token=f300b0bfe374c12037ec9260137940e4
 time  2025-01-07 16:18:26.893375+08:00
 type  v2board
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 
 [sq9xy6.cpminig.com]
 buy  period=onetime_price&plan_id=25
@@ -14,7 +14,7 @@ email  kavanfw780@gmail.com
 sub_url  http://8.129.23.122/api/v1/client/subscribe?token=65d7a9a60a7afb375e529ed11d0c3270
 time  2025-01-07 16:18:28.145113+08:00
 type  v2board
-获取订阅失败  can only concatenate str (not "NoneType") to str
+更新旧订阅失败  can only concatenate str (not "NoneType") to str
 
 [vpn.sudatech.store]
 buy  period=onetime_price&plan_id=25
@@ -22,7 +22,7 @@ email  chhzyvz104@gmail.com
 sub_url  https://hn1r5k7322.bitmusttw.com/api/v1/client/subscribe?token=c9f29e7e3758c64189b14977e85c6b75
 time  2025-01-07 16:18:28.005565+08:00
 type  v2board
-获取订阅失败  can only concatenate str (not "NoneType") to str
+更新旧订阅失败  can only concatenate str (not "NoneType") to str
 
 [xn--4gqp1u.com]
 buy  pass
@@ -33,13 +33,14 @@ sub_url  https://sub.xn--4gqp1u.com/api/v1/client/subscribe?token=17cfb74268dc6b
 time  2025-01-07 16:18:26.214629+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(ollpoci872@gmail.com): 'NoneType' object is not subscriptable
 
 [www.kuaidog006.top]
 buy  pass
-email  rwfzrkiqi622@gmail.com
+email  nqzynxxqq247@gmail.com
 name  快狗云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=7eb30db4aa4fe783f3fd985a1f1db722
-time  2025-01-07 16:18:27.925182+08:00
+sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=56c672f90907688bff9ebf5622b8f825
+time  2025-01-08 08:52:38.661147+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
