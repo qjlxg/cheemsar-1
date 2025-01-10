@@ -23,10 +23,6 @@ proxy-groups:
   tolerance: 100
   proxies: &id001
   - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
-  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
-  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
-  - 🇺🇸 美国5 - SuLink速联网络
-  - 🇺🇸 美国5 - SuLink速联网络
   - 🇺🇸 美国5 - SuLink速联网络
 - name: 🛩️ ‍墙内
   type: select
@@ -71,16 +67,12 @@ proxy-groups:
   tolerance: 100
   proxies: &id002
   - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
-  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
-  - 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id003
-  - 🇺🇸 美国5 - SuLink速联网络
-  - 🇺🇸 美国5 - SuLink速联网络
   - 🇺🇸 美国5 - SuLink速联网络
 - name: 👆🏻 ‍指定
   type: select
@@ -92,8 +84,8 @@ proxy-groups:
   type: select
   proxies: *id003
 proxies:
-- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 058d273e-88f9-4fd3-8fad-18b4e1f15bf1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 058d273e-88f9-4fd3-8fad-18b4e1f15bf1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 66e845f7-ab0c-474a-8ab5-0040a6f42506, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: 66e845f7-ab0c-474a-8ab5-0040a6f42506, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
