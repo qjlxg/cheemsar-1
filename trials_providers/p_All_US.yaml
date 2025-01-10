@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国节点1 - 老牛云, server: 183.232.159.51, port: 11329, type: ss, cipher: chacha20-ietf-poly1305, password: 7c2511f1-3c40-46e0-9fc0-2c17f24f27d4, udp: true}
+- {name: 🇺🇸 美国节点2 - 老牛云, server: 183.232.159.51, port: 47046, type: ss, cipher: chacha20-ietf-poly1305, password: 7c2511f1-3c40-46e0-9fc0-2c17f24f27d4, udp: true}
+- {name: 🇺🇸 美国节点3 - 老牛云, server: 183.232.159.51, port: 37959, type: ss, cipher: chacha20-ietf-poly1305, password: 7c2511f1-3c40-46e0-9fc0-2c17f24f27d4, udp: true}
+- {name: 🇺🇸 美国节点4 - 老牛云, server: 183.232.159.51, port: 19505, type: ss, cipher: chacha20-ietf-poly1305, password: 7c2511f1-3c40-46e0-9fc0-2c17f24f27d4, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: ddcb27cb-b867-41f4-b0ba-8be0ec632a91, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 2679243c-4c35-4669-858a-ee2263d628f8, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 2679243c-4c35-4669-858a-ee2263d628f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 2679243c-4c35-4669-858a-ee2263d628f8, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: 2679243c-4c35-4669-858a-ee2263d628f8, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 2679243c-4c35-4669-858a-ee2263d628f8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
