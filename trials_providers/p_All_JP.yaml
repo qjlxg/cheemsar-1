@@ -1,0 +1,27 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本节点1 - 老牛云, server: 183.232.159.51, port: 33238, type: ss, cipher: chacha20-ietf-poly1305, password: e0088a12-f9a1-4af3-b6bb-8c78a84968cf, udp: true}
+- {name: 🇯🇵 日本节点2 - 老牛云, server: 183.232.159.51, port: 26714, type: ss, cipher: chacha20-ietf-poly1305, password: e0088a12-f9a1-4af3-b6bb-8c78a84968cf, udp: true}
+- {name: 🇯🇵 日本节点3 - 老牛云, server: 183.232.159.51, port: 41886, type: ss, cipher: chacha20-ietf-poly1305, password: e0088a12-f9a1-4af3-b6bb-8c78a84968cf, udp: true}
+- {name: 🇯🇵 日本节点4 - 老牛云, server: 183.232.159.51, port: 22064, type: ss, cipher: chacha20-ietf-poly1305, password: e0088a12-f9a1-4af3-b6bb-8c78a84968cf, udp: true}
+- {name: 🇯🇵 日本-01 - 畅游无限, server: 54.248.207.185, port: 8443, type: vmess, uuid: eff731a8-c122-4ae2-98c1-3e599285a65f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-02 - 畅游无限, server: 18.183.82.123, port: 8443, type: vmess, uuid: eff731a8-c122-4ae2-98c1-3e599285a65f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 3a3b524855d0f43b58ee1333f4cd6707.node.tro.node-is.green, port: 49337, type: trojan, password: 77f6f544-3332-4182-9571-cdf2b0addb36, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 6d6dce2294122af65f5b1e08d43b2b02.node.tro.node-is.green, port: 40415, type: trojan, password: 77f6f544-3332-4182-9571-cdf2b0addb36, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 3840d969-c09e-4df0-a198-f3d183572b20, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 3840d969-c09e-4df0-a198-f3d183572b20, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 3840d969-c09e-4df0-a198-f3d183572b20, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 3840d969-c09e-4df0-a198-f3d183572b20, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, type: vmess, uuid: ab273ef6-15ee-4855-b63f-c63a7fc57f53, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, type: vmess, uuid: ab273ef6-15ee-4855-b63f-c63a7fc57f53, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, type: vmess, uuid: ab273ef6-15ee-4855-b63f-c63a7fc57f53, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, type: vmess, uuid: ab273ef6-15ee-4855-b63f-c63a7fc57f53, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
+- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: cf3d5b47-55b7-4a09-bf07-a9e8a6c93cbe, udp: true}
+- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
+- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
+- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
+- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
+- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
+- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
