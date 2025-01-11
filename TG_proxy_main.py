@@ -18,6 +18,9 @@ home_urls =(
 'https://huajic.link',
 'https://abyssvpn.com',
 'https://w2.ddnsgo.xyz',
+'https://aa.dabai.in',
+'https://dy3.yunhu1.xyz',
+'https://api.heima2u.com',
 
 
 
