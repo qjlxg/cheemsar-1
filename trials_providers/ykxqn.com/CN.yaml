@@ -1,12 +1,12 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d99fd06e-924e-43e0-9b62-b86deca1075b, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: d70fe37c-ff84-4eda-995f-999c27480a0f, udp: true}

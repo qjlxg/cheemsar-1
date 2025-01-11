@@ -132,7 +132,7 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/lianjiasub.work/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/lianjiasub.work/HK.yaml
     interval: 180
     path: trials_providers/lianjiasub.work/HK.yaml
     health-check:
@@ -141,7 +141,7 @@ proxy-providers:
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/lianjiasub.work/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/lianjiasub.work/TW.yaml
     interval: 180
     path: trials_providers/lianjiasub.work/TW.yaml
     health-check:
@@ -150,7 +150,7 @@ proxy-providers:
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/lianjiasub.work/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/lianjiasub.work/SG.yaml
     interval: 180
     path: trials_providers/lianjiasub.work/SG.yaml
     health-check:
@@ -159,7 +159,7 @@ proxy-providers:
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/lianjiasub.work/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/lianjiasub.work/JP.yaml
     interval: 180
     path: trials_providers/lianjiasub.work/JP.yaml
     health-check:
@@ -168,7 +168,7 @@ proxy-providers:
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar.sub/main/trials_providers/lianjiasub.work/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/lianjiasub.work/US.yaml
     interval: 180
     path: trials_providers/lianjiasub.work/US.yaml
     health-check:

@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡-2 - 叼毛机场, server: 103.23.148.195, port: 59920, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

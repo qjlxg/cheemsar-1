@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 江苏-香港隧道专线-1 - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 10608, type: ss, cipher: chacha20-ietf-poly1305, password: b241240a-c8b4-4af8-b2f3-b5350a383bf5, udp: true}
+- {name: 🇭🇰 广东-香港隧道专线-1 - 叼毛机场, server: tunnel-07312159.520300.xyz, port: 12588, type: ss, cipher: chacha20-ietf-poly1305, password: b241240a-c8b4-4af8-b2f3-b5350a383bf5, udp: true}
+- {name: 🇯🇵 日本专线超快-15倍率慎用 - 叼毛机场, server: shjp1-08051751.520300.xyz, port: 42472, type: ss, cipher: chacha20-ietf-poly1305, password: b241240a-c8b4-4af8-b2f3-b5350a383bf5, udp: true}
+- {name: ℹ️ 新地址www.xiangminghao.top - 叼毛机场, server: tunnel-08301515.520300.xyz, port: 11410, type: ss, cipher: chacha20-ietf-poly1305, password: b241240a-c8b4-4af8-b2f3-b5350a383bf5, udp: true}
+- {name: 缅北 - 叼毛机场, server: 156.244.36.109, port: 59830, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇸🇬 新加坡-2 - 叼毛机场, server: 103.23.148.195, port: 59920, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港-1 - 叼毛机场, server: 103.23.148.195, port: 54680, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 香港-2 - 叼毛机场, server: 103.23.148.195, port: 52288, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-1 - 叼毛机场, server: 194.147.16.95, port: 57781, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇬🇧 英国-2 - 叼毛机场, server: 194.147.16.95, port: 57782, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: ℹ️ 官网地址www.kkjichang.top - 叼毛机场, server: 103.23.148.195, port: 59932, type: vmess, uuid: b241240a-c8b4-4af8-b2f3-b5350a383bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: df2c670f-e340-47d5-999a-4a4331d32e68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: faa205eb-e4ad-41a1-a400-e7fbe77caaf2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}

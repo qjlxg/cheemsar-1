@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
-- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
-- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
-- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
-- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
-- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: 671f864d-605d-4865-b1ba-e58943626d27, udp: true}
+- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
+- {name: 🇭🇰 香港01 - meiguis, server: pu001.xccccao.com, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
+- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
+- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
+- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
+- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
