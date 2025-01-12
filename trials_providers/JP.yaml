@@ -1,8 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇯🇵 日本-01 - 畅游无限, server: 52.195.183.36, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id002 {name: 🇯🇵 日本-02 - 畅游无限, server: 13.231.243.90, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- *id001
-- *id002
-- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
+- {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 17ef1eff-35a1-45ca-a32a-c1f06dd53713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 17ef1eff-35a1-45ca-a32a-c1f06dd53713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: 17ef1eff-35a1-45ca-a32a-c1f06dd53713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP日本-东京① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32141, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
+- {name: 🇯🇵 JP日本-东京② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32142, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
+- {name: 🇯🇵 JP日本-大阪③ - 铁蛋加速, server: cccc2024-zm1.tiedan168.xyz, port: 32143, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
+- {name: 🇯🇵 JP日本-大阪④ - 铁蛋加速, server: cccc2024-zm2.tiedan168.xyz, port: 32144, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
+- {name: '🇯🇵 [3x] 日本 IEPL专线NO1 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: 84973892-b409-4fb6-a658-829f6b1e7a78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x] 日本 IEPL专线NO2 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: 84973892-b409-4fb6-a658-829f6b1e7a78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}

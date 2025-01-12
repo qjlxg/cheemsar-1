@@ -1,17 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.169.206.77, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id002 {name: 🇸🇬 新加坡-02 - 畅游无限, server: 52.77.251.119, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id003 {name: 🇸🇬 新加坡-03 - 畅游无限, server: 13.212.23.203, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id004 {name: 🇸🇬 新加坡-04 - 畅游无限, server: 18.143.146.102, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id005 {name: 🇸🇬 新加坡-05 - 畅游无限, server: 47.129.117.250, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id006 {name: 🇸🇬 新加坡-06 - 畅游无限, server: 47.129.191.1, port: 8443, type: vmess, uuid: 98db4441-260d-407d-b029-f81ca47313f4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- {name: 🇸🇬 新加坡01 - meiguis, server: pu003.xccccao.com, port: 38603, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 71cb5263-f195-3d78-8e4d-2db9af1ff57d, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 17ef1eff-35a1-45ca-a32a-c1f06dd53713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 17ef1eff-35a1-45ca-a32a-c1f06dd53713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 17ef1eff-35a1-45ca-a32a-c1f06dd53713, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SG新加坡-狮城① - 铁蛋加速, server: dddd2024.zj-zz-cm1.tiedandddd.shop, port: 32111, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
+- {name: 🇸🇬 SG新加坡-狮城② - 铁蛋加速, server: dddd2024.zj-zz-cm2.tiedandddd.shop, port: 32112, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: 84973892-b409-4fb6-a658-829f6b1e7a78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: 84973892-b409-4fb6-a658-829f6b1e7a78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO3 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: 84973892-b409-4fb6-a658-829f6b1e7a78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO4 - needss云', server: i.needss.top, port: 44412, type: vmess, uuid: 84973892-b409-4fb6-a658-829f6b1e7a78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}

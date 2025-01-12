@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国01 - meiguis, server: pu003.xccccao.com, port: 38604, type: ss, cipher: chacha20-ietf-poly1305, password: c29ac9e3-2569-46ef-afd1-b319bdb4e4b6, udp: true}
