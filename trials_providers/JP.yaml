@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- &id001 {name: 🇯🇵 日本-01 - 畅游无限, server: 52.195.183.36, port: 8443, type: vmess, uuid: d5dff489-e956-41a7-8188-3f8efca2da00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- &id002 {name: 🇯🇵 日本-02 - 畅游无限, server: 13.231.243.90, port: 8443, type: vmess, uuid: d5dff489-e956-41a7-8188-3f8efca2da00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- *id001
-- *id002
-- {name: 🇯🇵 日本01 - meiguis, server: pu002.xccccao.com, port: 38605, type: ss, cipher: chacha20-ietf-poly1305, password: 07927325-c6f7-48da-b4ce-2ea2a89080eb, udp: true}
