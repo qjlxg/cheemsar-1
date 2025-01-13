@@ -1,13 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW台湾① - 铁蛋加速, server: an-cm1.tiedandddd.shop, port: 32131, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
-- {name: 🇹🇼 TW台湾② - 铁蛋加速, server: an-cm2.tiedandddd.shop, port: 32132, type: ss, cipher: chacha20-ietf-poly1305, password: 27c96032-19a6-4c27-89f9-65d850687552, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: e59aecf7-bce4-4569-9eb7-80f8ffdf6d41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: e59aecf7-bce4-4569-9eb7-80f8ffdf6d41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
-- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
-- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
-- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
-- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
-- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾01 - meiguis, server: pu002.xccccao.com, port: 38602, type: ss, cipher: chacha20-ietf-poly1305, password: 07927325-c6f7-48da-b4ce-2ea2a89080eb, udp: true}
+- {name: '🇹🇼 [vip①]台湾1|解锁NF|2.5倍率 - MG Network', server: 19.mamamajd.site, port: 23619, type: vmess, uuid: c44a0faa-965c-3b02-96fc-2b494a061083, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 19.mamamajd.site}}, udp: true}
