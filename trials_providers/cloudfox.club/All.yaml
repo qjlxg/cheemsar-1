@@ -1,69 +1,69 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 牢记域名:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: ℹ️ 有问题访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: ℹ️ 订阅失败访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: ℹ️ 防失联:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇰🇷 韩国01（高速） - CloudFox, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇰🇷 韩国02（高速） - CloudFox, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇰🇷 韩国03（IPLC稳定） - CloudFox, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇰🇷 韩国04（IPLC稳定） - CloudFox, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇰🇷 韩国05（GPT专用） - CloudFox, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇰🇷 韩国06（GPT专用） - CloudFox, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇳🇱 荷兰01 - CloudFox, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇳🇱 荷兰02 - CloudFox, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇷 土耳其01 (高速） - CloudFox, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇹🇷 土耳其02 (高速） - CloudFox, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇳🇬 尼日利亚-01 (高速） - CloudFox, server: ng01.x.woyh.xyz, port: 38799, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇳🇬 尼日利亚-02 (高速） - CloudFox, server: ng02.x.woyh.xyz, port: 38793, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇦🇺 澳大利亚01（高速） - CloudFox, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇦🇺 澳大利亚02（高速） - CloudFox, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇮🇳 印度01（高速） - CloudFox, server: in01.x.woyh.xyz, port: 38776, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇮🇳 印度02（高速） - CloudFox, server: in02.x.woyh.xyz, port: 38777, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇬🇧 英国01（高速） - CloudFox, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇬🇧 英国02（高速） - CloudFox, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇬🇧 英国03（IPLC稳定） - CloudFox, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇬🇧 英国04（IPLC稳定） - CloudFox, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇬🇧 英国05（GPT专用） - CloudFox, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇬🇧 英国06（GPT专用） - CloudFox, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇩🇪 德国01（高速） - CloudFox, server: ger01.x.woyh.xyz, port: 38786, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇩🇪 德国02（高速） - CloudFox, server: ger02.x.woyh.xyz, port: 38787, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇫🇷 法国01（高速） - CloudFox, server: fr01.x.woyh.xyz, port: 38784, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇫🇷 法国02（高速） - CloudFox, server: fr02.x.woyh.xyz, port: 38785, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇨🇦 加拿大01（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇨🇦 加拿大02（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇲🇽 墨西哥01（高速） - CloudFox, server: mex01.x.woyh.xyz, port: 38782, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇲🇽 墨西哥02（高速） - CloudFox, server: mex02.x.woyh.xyz, port: 38783, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇧🇷 巴西01（高速） - CloudFox, server: br01.x.woyh.xyz, port: 38788, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
-- {name: 🇧🇷 巴西02（高速） - CloudFox, server: br02.x.woyh.xyz, port: 38789, type: ss, cipher: chacha20-ietf-poly1305, password: 0f03fe02-aea1-40fe-81b6-7b5698d379cf, udp: true}
+- {name: ℹ️ 牢记域名:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇰🇷 韩国01（高速） - CloudFox, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇰🇷 韩国02（高速） - CloudFox, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - CloudFox, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - CloudFox, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - CloudFox, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - CloudFox, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇳🇱 荷兰01 - CloudFox, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇳🇱 荷兰02 - CloudFox, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - CloudFox, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - CloudFox, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇳🇬 尼日利亚-01 (高速） - CloudFox, server: ng01.x.woyh.xyz, port: 38799, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇳🇬 尼日利亚-02 (高速） - CloudFox, server: ng02.x.woyh.xyz, port: 38793, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - CloudFox, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - CloudFox, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇮🇳 印度01（高速） - CloudFox, server: in01.x.woyh.xyz, port: 38776, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇮🇳 印度02（高速） - CloudFox, server: in02.x.woyh.xyz, port: 38777, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇬🇧 英国01（高速） - CloudFox, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇬🇧 英国02（高速） - CloudFox, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - CloudFox, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - CloudFox, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - CloudFox, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - CloudFox, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇩🇪 德国01（高速） - CloudFox, server: ger01.x.woyh.xyz, port: 38786, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇩🇪 德国02（高速） - CloudFox, server: ger02.x.woyh.xyz, port: 38787, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇫🇷 法国01（高速） - CloudFox, server: fr01.x.woyh.xyz, port: 38784, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇫🇷 法国02（高速） - CloudFox, server: fr02.x.woyh.xyz, port: 38785, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - CloudFox, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇲🇽 墨西哥01（高速） - CloudFox, server: mex01.x.woyh.xyz, port: 38782, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇲🇽 墨西哥02（高速） - CloudFox, server: mex02.x.woyh.xyz, port: 38783, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇧🇷 巴西01（高速） - CloudFox, server: br01.x.woyh.xyz, port: 38788, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
+- {name: 🇧🇷 巴西02（高速） - CloudFox, server: br02.x.woyh.xyz, port: 38789, type: ss, cipher: chacha20-ietf-poly1305, password: 2379b622-80da-4f18-bf95-39e65387db62, udp: true}
