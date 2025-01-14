@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 6962f202-899e-4788-8bfd-bd8a21657da7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 6962f202-899e-4788-8bfd-bd8a21657da7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: fde08c13-3a37-43c1-9e04-c9ccce93a2a3, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: fde08c13-3a37-43c1-9e04-c9ccce93a2a3, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: c80a219e-abb1-4072-9f0d-a392fe411356, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: c80a219e-abb1-4072-9f0d-a392fe411356, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-芝加哥-001 - 漏网之鱼, server: 166.88.159.225, port: 61291, type: vmess, uuid: 84580608-0d8c-44a8-b999-f075b13daa5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: fb3e7be3-d4e3-4ebd-b324-a60cd0fcf09a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
