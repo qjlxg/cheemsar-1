@@ -11,6 +11,7 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
@@ -18,6 +19,7 @@ proxy-groups:
   - 🎏 ‍其他
   - 👆🏻 ‍指定
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
@@ -26,33 +28,14 @@ proxy-groups:
   - DIRECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港01 - NewBee国际机场
-  - 🇭🇰 香港02 - NewBee国际机场
-  - 🇭🇰 香港05-隧道 - NewBee国际机场
-  - 🇸🇬 新加坡01 - NewBee国际机场
-  - 🇸🇬 新加坡02 - NewBee国际机场
-  - 🇸🇬 新加坡03-隧道 - NewBee国际机场
-  - 🇯🇵 日本01 - NewBee国际机场
-  - 🇯🇵 日本02 - NewBee国际机场
-  - 🇯🇵 日本03-隧道 - NewBee国际机场
-  - 🇺🇸 美国原生01 - NewBee国际机场
-  - 🇺🇸 美国原生02 - NewBee国际机场
-  - 🇺🇸 美国01 - NewBee国际机场
-  - 🇺🇸 美国02 - NewBee国际机场
-  - 🇺🇸 美国03-隧道 - NewBee国际机场
-  - 🇺🇸 广港专线-美国04 - NewBee国际机场
-  - ℹ️ 国内直连官网：https://cn.newbee888.cc - NewBee国际机场
-  - ℹ️ 备用官网：https://cn1.newbee888.cc - NewBee国际机场
-  - 🇦🇺 澳大利亚01 - NewBee国际机场
-  - 🇦🇺 澳大利亚02 - NewBee国际机场
-  - 🇮🇳 印度01 - NewBee国际机场
-  - 🇮🇳 印度02 - NewBee国际机场
-  - 🇮🇳 印度03-隧道 - NewBee国际机场
-  - 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场
+  use: &id001
+  - HK
+  - TW
+  - SG
+  - JP
+  - US
+  - Other
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -70,20 +53,24 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - 🇭🇰 ‍香港
+  - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
   - ✈️ ‍起飞
   - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - 🇺🇸 ‍美国
+  - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
@@ -97,111 +84,119 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港01 - NewBee国际机场
-  - 🇭🇰 香港02 - NewBee国际机场
-  - 🇭🇰 香港05-隧道 - NewBee国际机场
+  use: &id002
+  - HK
+- name: 🇹🇼 ‍台湾
+  type: url-test
+  tolerance: 100
+  use: &id003
+  - TW
 - name: 🇨🇳 ‍中国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id003
-  - 🇭🇰 香港01 - NewBee国际机场
-  - 🇭🇰 香港02 - NewBee国际机场
-  - 🇭🇰 香港05-隧道 - NewBee国际机场
-  - 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场
+  use: &id004
+  - HK
+  - TW
 - name: 🇸🇬 ‍新加坡
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id004
-  - 🇸🇬 新加坡01 - NewBee国际机场
-  - 🇸🇬 新加坡02 - NewBee国际机场
-  - 🇸🇬 新加坡03-隧道 - NewBee国际机场
+  use: &id005
+  - SG
 - name: 🇯🇵 ‍日本
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id005
-  - 🇯🇵 日本01 - NewBee国际机场
-  - 🇯🇵 日本02 - NewBee国际机场
-  - 🇯🇵 日本03-隧道 - NewBee国际机场
+  use: &id006
+  - JP
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id006
-  - 🇺🇸 美国原生01 - NewBee国际机场
-  - 🇺🇸 美国原生02 - NewBee国际机场
-  - 🇺🇸 美国01 - NewBee国际机场
-  - 🇺🇸 美国02 - NewBee国际机场
-  - 🇺🇸 美国03-隧道 - NewBee国际机场
-  - 🇺🇸 广港专线-美国04 - NewBee国际机场
+  use: &id007
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id007
-  - ℹ️ 国内直连官网：https://cn.newbee888.cc - NewBee国际机场
-  - ℹ️ 备用官网：https://cn1.newbee888.cc - NewBee国际机场
-  - 🇦🇺 澳大利亚01 - NewBee国际机场
-  - 🇦🇺 澳大利亚02 - NewBee国际机场
-  - 🇮🇳 印度01 - NewBee国际机场
-  - 🇮🇳 印度02 - NewBee国际机场
-  - 🇮🇳 印度03-隧道 - NewBee国际机场
+  use: &id008
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
+- name: 👆🏻🇹🇼 ‍台湾
+  type: select
+  use: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  proxies: *id003
+  use: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  proxies: *id004
+  use: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  proxies: *id005
+  use: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id006
+  use: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id007
-proxies:
-- {name: ℹ️ 国内直连官网：https://cn.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 备用官网：https://cn1.newbee888.cc - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22258, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇦🇺 澳大利亚02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35666, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22256, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35665, type: vmess, uuid: e03e321f-ef75-49ad-b8ed-8f6850619aa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  use: *id008
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/cloudfox.club/HK.yaml
+    interval: 180
+    path: trials_providers/cloudfox.club/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  TW:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/cloudfox.club/TW.yaml
+    interval: 180
+    path: trials_providers/cloudfox.club/TW.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  SG:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/cloudfox.club/SG.yaml
+    interval: 180
+    path: trials_providers/cloudfox.club/SG.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  JP:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/cloudfox.club/JP.yaml
+    interval: 180
+    path: trials_providers/cloudfox.club/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/cloudfox.club/US.yaml
+    interval: 180
+    path: trials_providers/cloudfox.club/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/cloudfox.club/Other.yaml
+    interval: 180
+    path: trials_providers/cloudfox.club/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
