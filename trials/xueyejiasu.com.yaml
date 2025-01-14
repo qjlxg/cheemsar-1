@@ -33,8 +33,6 @@ proxy-groups:
   - 🇭🇰 香港01 - 血液加速器
   - 🇭🇰 香港02 - 血液加速器
   - 🇭🇰 香港03 - 血液加速器
-  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
-  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
   - 🇹🇼 台湾 1 - 血液加速器
   - 🇹🇼 台湾01 - 血液加速器
   - 🇯🇵 日本01 - 血液加速器
@@ -97,8 +95,6 @@ proxy-groups:
   - 🇭🇰 香港01 - 血液加速器
   - 🇭🇰 香港02 - 血液加速器
   - 🇭🇰 香港03 - 血液加速器
-  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
-  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -116,8 +112,6 @@ proxy-groups:
   - 🇭🇰 香港01 - 血液加速器
   - 🇭🇰 香港02 - 血液加速器
   - 🇭🇰 香港03 - 血液加速器
-  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载
-  - 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2
   - 🇹🇼 台湾 1 - 血液加速器
   - 🇹🇼 台湾01 - 血液加速器
 - name: 🇯🇵 ‍日本
@@ -167,20 +161,18 @@ proxy-groups:
   type: select
   proxies: *id007
 proxies:
+- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
-- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 - {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 51299902-a825-4612-b1cd-fb838648618c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
-- {name: 🇭🇰 香港HGC-1000M可奈飞 迪士尼 油管 - pg娱乐电子游戏平台官方版-IOS/最新版/官方版/手机版/手机app下载 2, server: hkt.littleqqq.co, port: 20759, type: vmess, uuid: 51299902-a825-4612-b1cd-fb838648618c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: hkt.littleqqq.co}}, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 4109b55c-8939-4be6-92a0-ea0221781e8d, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
