@@ -1,198 +1,84 @@
-[fly.myluckys.org]
-banned_domains  disbox.org  555.cpsbpgr9yt8.shop
-name  luckys
+[tyty.club]
+name  Tyty
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(wnqiwwsd701@555.cpsbpgr9yt8.shop)
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qkriolnz288@bccto.cc","success":"false"}'
 
-[us.oteacc.org]
+[一元机场.com]
 
-[ap.novaedu.top]
-name  Novabroad
+[大机场.net]
+name  大机场 Big Airport
 type  v2board
-更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+更新订阅链接/续费续签失败  发送邮箱验证码失败(rnfvktrea920@wfes.site): {'message': '验证码有误'}
 
-[caihongyun.one]
-
-[youzi.win]
-name  柚子酱
+[www.paopao.dog]
+name  泡泡Dog
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"zbdlywin798@rgzx.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(dfjtthldg252@moakt.ws): {'message': '图形验证码不正确请重新输入'}
 
-[tiziya.net]
-banned_domains  maxamba.com  tmails.net
-name  梯子鸭！嘎
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(atebfjejr922@tmails.net)
+[ppg.369.cyou]
 
-[13.115.248.13:13333]
-
-[lbei.net]
-banned_domains  miteon.com  nespressopixie.com
-name  零北机场
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(orppkyg675@nespressopixie.com)
-
-[a.chuanshiqi.top]
-name  十点半
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(uclfebh44@guerrillamailblock.com): {'message': '邮箱后缀不处于白名单中'}
-
-[ya.tiziya.cc]
-banned_domains  nespressopixie.com
-name  梯子鸭！嘎
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"fhhoqpxc314@lplso.tmmad.com","success":"false"}'
-
-[64.110.90.57:13333]
-
-[x.yun.cat]
-name  YunCat
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ojeilkj783@xxxhi.cc): {'message': '验证码有误'}
-
-[36y.me]
-
-[butterflar.pro]
-api_host  sui.jahbd.bio
-banned_domains  nespressopixie.com
-name  蝴蝶云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[tiziya.club]
-banned_domains  moakt.cc
-name  梯子鸭！嘎
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"uhpzswdu940@jkb.tmmad.com","success":"false"}'
-
-[205.198.65.134:10599]
-
-[cf.loveqyun.cyou]
-banned_domains  xxxhi.cc
-name  轻云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(wtagfdyw945@xxxhi.cc)
-
-[qingyunjia.cc]
-
-[jaybest.top]
-api_host  back1030.jaycloud11111.top
+[nicecloud.io]
 buy  pass
-email  fcxtkwiz166@gmail.com
-name  杰雲
-sub_url  https://jaybest.sbs/study?yes=7f3a12e203b0b11161f6f0375aaf9f0d
-time  2025-01-14 19:39:40.871720+08:00
-type  v2board
-更新旧订阅失败  (https://back1030.jaycloud11111.top/study?yes=7f3a12e203b0b11161f6f0375aaf9f0d): 500 Internal Server Error 'error'
-
-[pq5rstu2vwxy7za.x-cair.moe]
-banned_domains  moakt.co  guerrillamail.org
-name  小C-AirPort
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(aishvqd633@guerrillamail.org)
-
-[front.fishport.cloud]
-banned_domains  guerrillamail.de  guerrillamail.com
-name  FishPort
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(xnwjzrn848@guerrillamail.com)
-
-[a.soda01.top]
-buy  pass
-email  tyrhthwt17@gmail.com
-name  苏打云-不限时加速
+email  buegevev511@gmail.com
+name  耐思云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://kd3sd.mingri.icu/api/v1/client/subscribe?token=4aacbb575aec970453fb55e620dc78c6
-time  2025-01-15 09:14:35.483865+08:00
+sub_url  https://kqwp4nc.xz61.cn/api/v1/client/subscribe?token=b5892872a49853edad7e84b30514917e
+time  2025-01-15 09:18:52.484128+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[as.saururus.ink]
+[mojie.me]
 
-[a1.csjs4.top]
+[良心机场.com]
+
+[yunanyun.app]
+
+[翻墙机场.com]
+name  翻墙机场
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"dwiubnal825@xiaoyaoemail.cc","success":"false"}'
+
+[zhoushuren.cloud]
+
+[bajie.pw]
+name  八戒
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(yxbewbtw745@lista.cc): {'message': '验证码有误'}
+
+[veeevpn.net]
+
+[shadowsocksvpn.net]
+
+[anycastjiasu.com]
+
+[user.vpnjs.net/signin]
+
+[www.ngvcloud.net]
+name  NGV
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"vjlmowjy383@555.anztyy.shop","success":"false"}'
+
+[cn.逆天机场.com]
+
+[www.feiba.cyou]
 buy  pass
-email  tuxuoui355@gmail.com
-sub_url  https://cs.xfhgmd.cn/api/v1/client/subscribe?token=6ca3e863e36018e1a4ddfdcd261ba15d
-time  2025-01-14 19:39:41.469370+08:00
-type  v2board
-更新旧订阅失败  can only concatenate str (not "NoneType") to str
-
-[dash.996cloud.top]
-name  FSCloud
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(nwrqvquty376@965.tmmad.com): {'message': '邮箱后缀不处于白名单中'}
-
-[tutu.tutugood.store]
-name  tutucloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(kwrfgwna251@gmail.com): 'NoneType' object is not subscriptable
-
-[ajax.vmssr.xyz]
-buy  pass
-email  nghynpn132@gmail.com
-name  VMSSR - 优质加速
+email  mcmjxrrnl97@gmail.com
+name  飞吧
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://ajax.vmssr.xyz/api/v1/client/subscribe?token=1b1d1649ea14609f890cd027bd9781b8
-time  2025-01-15 09:14:33.494298+08:00
+sub_url  https://cupcloud.vip/api/v1/client/subscribe?token=65ae9488abf90362072486a6ac9b78b6
+time  2025-01-15 09:18:54.523770+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[miaona.org]
-name  Miaona!
+[shandianvpn.net]
+
+[熊云机场.com]
+name  熊云( 小虎 )
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(sixtlmgct956@tmpeml.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  注册失败(ympvsqpk934@tmpmail.net): 邮箱后缀不处于白名单中
 
-[grdcloud.org]
-buy  pass
-email  kvoucwvm183@gmail.com
-name  GrdCloud
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abc.xhonor.top:9066/v2b/grd/api/v1/client/subscribe?token=b53c6baf49632fedc4c69ab2e1aa62ef
-time  2025-01-15 09:12:32.980723+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+[www.wallmama.com]
 
-[a.grdcloud.xyz]
+[www.jafiyun.cc]
 
-[book.jjcloud.xyz]
-
-[shenco.top]
-name  大欣机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(iktatxlne573@gmail.com): 'NoneType' object is not subscriptable
-
-[hongancc.me]
-
-[pigeon-cloud.one]
-name  Stardream
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"clooyqdl228@rgzx.tmmad.com","success":"false"}'
-
-[kan.gar.ooo]
-email_domain  freedom
-name  Kangaroo✦Network
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"fubsbzxe511@965.tmmad.com","success":"false"}'
-
-[rookiecloud.day]
-
-[yuyan.vin]
-name  雨燕云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(utfehhpk94@gmail.com): 'NoneType' object is not subscriptable
-
-[一元机场.art]
-
-[42.51.46.79:36318]
-
-[gouvpn.cn]
-
-[cloudfox.club]
-buy  pass
-email  nvaciioov647@gmail.com
-name  CloudFox
-node_n  66
-sub_info  0B  1G  2025-01-15 10:12:27+08:00  (剩余 1G 0:59:56.655081)
-sub_url  https://dy.yh11.ink/api/v1/client/subscribe?token=7d52bb46041ae37dc6d2e3b7551950e9
-time  2025-01-15 09:12:27.859105+08:00
-type  v2board
+[91fanqiang.com]
