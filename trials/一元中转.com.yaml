@@ -14,9 +14,13 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -32,6 +36,8 @@ proxy-groups:
   - 🇸🇬 新加坡-02 - 一元中转.com
   - 🇯🇵 日本-01 - 一元中转.com
   - 🇯🇵 日本-02 - 一元中转.com
+  - 🇺🇸 美国-01 - 一元中转.com
+  - 🇰🇷 韩国-01 - 一元中转.com
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -58,11 +64,15 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -96,6 +106,20 @@ proxy-groups:
   proxies: &id004
   - 🇯🇵 日本-01 - 一元中转.com
   - 🇯🇵 日本-02 - 一元中转.com
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id005
+  - 🇺🇸 美国-01 - 一元中转.com
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id006
+  - 🇰🇷 韩国-01 - 一元中转.com
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -105,6 +129,12 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
 - {name: 🇭🇰 香港-01 - 一元中转.com, server: hkg01.yyzzlink.top, port: 23701, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
 - {name: 🇭🇰 香港-02 - 一元中转.com, server: hkg02.yyzzlink.top, port: 23702, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
@@ -113,6 +143,8 @@ proxies:
 - {name: 🇸🇬 新加坡-02 - 一元中转.com, server: sgp02.yyzzlink.top, port: 26502, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
 - {name: 🇯🇵 日本-01 - 一元中转.com, server: jpn01.yyzzlink.top, port: 28101, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
 - {name: 🇯🇵 日本-02 - 一元中转.com, server: jpn02.yyzzlink.top, port: 28102, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
+- {name: 🇰🇷 韩国-01 - 一元中转.com, server: kor01.yyzzlink.top, port: 28201, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
+- {name: 🇺🇸 美国-01 - 一元中转.com, server: usa01.yyzzlink.top, port: 22101, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

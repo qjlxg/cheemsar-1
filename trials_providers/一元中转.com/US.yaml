@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国-01 - 一元中转.com, server: usa01.yyzzlink.top, port: 22101, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}

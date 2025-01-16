@@ -14,9 +14,13 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -26,6 +30,8 @@ proxy-groups:
   - HK
   - SG
   - JP
+  - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -52,11 +58,15 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -80,6 +90,16 @@ proxy-groups:
   tolerance: 100
   use: &id004
   - JP
+- name: 🇺🇸 ‍美国
+  type: url-test
+  tolerance: 300
+  use: &id005
+  - US
+- name: 🎏 ‍其他
+  type: url-test
+  tolerance: 100
+  use: &id006
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
@@ -89,6 +109,12 @@ proxy-groups:
 - name: 👆🏻🇯🇵 ‍日本
   type: select
   use: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  use: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  use: *id006
 proxy-providers:
   HK:
     type: http
@@ -113,6 +139,24 @@ proxy-providers:
     url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/一元中转.com/JP.yaml
     interval: 180
     path: trials_providers/一元中转.com/JP.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/一元中转.com/US.yaml
+    interval: 180
+    path: trials_providers/一元中转.com/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/一元中转.com/Other.yaml
+    interval: 180
+    path: trials_providers/一元中转.com/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

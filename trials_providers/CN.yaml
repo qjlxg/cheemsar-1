@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 17926, type: vmess, uuid: f58963bf-3a5a-4452-b9a0-2636f5f80d2f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇹🇼 台湾1(GPT等流媒体1.5倍） - 大师专线, server: haa.dashuai.cyou, port: 45078, type: vmess, uuid: 4baa9cc9-2538-4a0e-8126-aa68fe42ec5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 台湾2(GPT等流媒体1.5倍） - 大师专线, server: xdd.dashuai.cyou, port: 45077, type: vmess, uuid: 4baa9cc9-2538-4a0e-8126-aa68fe42ec5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 4baa9cc9-2538-4a0e-8126-aa68fe42ec5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -13,7 +12,6 @@ proxies:
 - {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 8a50bc75-0d3d-4dba-8fe3-db6ee467f394, udp: true}
 - {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 8a50bc75-0d3d-4dba-8fe3-db6ee467f394, udp: true}
 - {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 8a50bc75-0d3d-4dba-8fe3-db6ee467f394, udp: true}
-- *id001
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO1 - needss云', server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: de1dce8b-a11d-4172-b045-ab7b03785896, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO2 - needss云', server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: de1dce8b-a11d-4172-b045-ab7b03785896, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO3 - needss云', server: i.needss.top, port: 65533, tfo: true, type: vmess, uuid: de1dce8b-a11d-4172-b045-ab7b03785896, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -23,7 +21,7 @@ proxies:
 - {name: 🇭🇰 香港-01 - 一元中转.com, server: hkg01.yyzzlink.top, port: 23701, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
 - {name: 🇭🇰 香港-02 - 一元中转.com, server: hkg02.yyzzlink.top, port: 23702, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
 - {name: 🇭🇰 香港-03 - 一元中转.com, server: hkg03.yyzzlink.top, port: 23703, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
-- *id001
-- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, tfo: true, type: vmess, uuid: 9ad510f2-4722-4a63-83ca-32e301467fd3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
-- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: f82da05f-1228-420c-92d0-b5508ca9f449, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
-- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: f82da05f-1228-420c-92d0-b5508ca9f449, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
+- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 17926, type: vmess, uuid: f58963bf-3a5a-4452-b9a0-2636f5f80d2f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇹🇼 台湾2全天极速优先使用|X3 - SuLink速联网络, server: yx.sulink.one, port: 2052, type: vmess, uuid: 17af08f7-95a8-4fd5-ba75-7b7faa27b116, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: tw02.xn--io0a7iw0ab67b.xyz}}, udp: true}
+- {name: '🇹🇼 [vmess]台湾02-3倍率-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: d749d00e-5fa0-46f7-b2b9-b1187d7b580a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /af323d, headers: {Host: tw02.hy2.one}}, udp: true}
+- {name: '🇭🇰 [vmess]香港06-流媒体 - HY-2', server: cf.hy2.one, port: 80, type: vmess, uuid: d749d00e-5fa0-46f7-b2b9-b1187d7b580a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: hk06.hy-2.top}}, udp: true}
