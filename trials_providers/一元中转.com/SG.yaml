@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇬 新加坡-01 - 一元中转.com, server: sgp01.yyzzlink.top, port: 26501, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
+- {name: 🇸🇬 新加坡-02 - 一元中转.com, server: sgp02.yyzzlink.top, port: 26502, type: ss, cipher: chacha20-ietf-poly1305, password: 505ab5ef-26bc-4d93-a9de-2d5c97a14099, udp: true}
