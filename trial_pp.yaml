@@ -10,6 +10,7 @@ proxy-groups:
   type: select
   proxies:
   - DIRECT
+  - REJECT
 - name: 🛩️ ‍墙内
   type: select
   proxies:
