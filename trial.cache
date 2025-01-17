@@ -1,7 +1,7 @@
 [www.chaoyue.shop]
 name  超悦
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vyhgkex358@gmail.com): 人机验证失败，请稍后再试
+更新订阅链接/续费续签失败  注册失败(rvviywa319@gmail.com): 人机验证失败，请稍后再试
 
 [jichangtuijian.com]
 
@@ -16,12 +16,12 @@ type  v2board
 [cn.tcity.icu]
 name  暮城国际机场
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pryitfo462@jkb.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  发送邮箱验证码失败(bupfqxoyr953@miteon.com): {'message': '验证码有误'}
 
 [allgpt.xianyuw.cn]
 error  <string>:1 Unexpected "-" at column 3
 type  v2board
-更新订阅链接/续费续签失败  注册失败(jmgniinlw120@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
+更新订阅链接/续费续签失败  注册失败(qvfouly298@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
 
 [us.wuhenlink.cc]
 
@@ -32,27 +32,28 @@ type  v2board
 [baobaoap.com]
 
 [my.pass-rabbit.com]
+banned_domains  guerrillamail.de
 name  🐇 爬兔兔
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pqshutc916@bareed.ws): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱验证码超时(cahwadeb551@guerrillamail.de)
 
 [www.caacnews.com.cn]
 
 [www.gptapi.us]
 error  <string>:1 Unexpected "u" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(bamqgzk594@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
+更新订阅链接/续费续签失败  注册失败(lnbccfjcz87@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
 
 [api.wlai.vip]
 error  substring not found
 type  v2board
-更新订阅链接/续费续签失败  注册失败(guetuge210@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
+更新订阅链接/续费续签失败  注册失败(zlokfmbgq832@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
 
 [koko.119.buzz]
 banned_domains  555.66liu.shop
 name  口口云-原Kokoro Cloud（后台）
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(lxhelqfo99@555.66liu.shop)
+更新订阅链接/续费续签失败  注册失败(aatxnkol910@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [vps100.net]
 
@@ -64,11 +65,11 @@ type  v2board
 
 [abide.ness.news]
 buy  pass
-email  lgllhqu516@gmail.com
+email  zaysusnrp602@gmail.com
 name  VMSSR - 优质加速
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://abide.ness.news/api/v1/client/subscribe?token=eac3558073b401b5fa5ab6bd9705ec1e
-time  2025-01-16 20:20:52.939057+08:00
+sub_url  https://abide.ness.news/api/v1/client/subscribe?token=4a80b235dc2afa6c1dbb0a7f70e4e3c3
+time  2025-01-17 09:13:41.400448+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -77,7 +78,7 @@ type  v2board
 [迷雾世界.com]
 name  Fog World
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(poqkuakvk511@tmpeml.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(dszukybb152@nespressopixie.com): {'message': '验证码有误'}
 
 [dengde.org]
 
@@ -90,15 +91,15 @@ type  v2board
 [gptapi.us]
 error  <string>:1 Unexpected "u" at column 7
 type  v2board
-更新订阅链接/续费续签失败  注册失败(cxozcfk747@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
+更新订阅链接/续费续签失败  注册失败(sjxvdyojy313@gmail.com): {'error': {'message': 'Invalid URL (POST /api/v1/passport/auth/register)', 'type': 'invalid_request_error', 'param': '', 'code': ''}}
 
 [uuzi.net]
 
 [www.yhcjiasu.com]
-banned_domains  snapmail.cc
+banned_domains  snapmail.cc  grr.la
 name  萤火虫
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(ywcgtkxko66@snapmail.cc)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(mgnrzqvq923@grr.la)
 
 [gorelay.net]
 
@@ -112,11 +113,11 @@ type  v2board
 
 [51ssr.com]
 buy  pass
-email  ewiodjj331@gmail.com
+email  aecljghc623@gmail.com
 name  BestSSR
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://91ssr.com/api/v1/client/subscribe?token=f2007ed8c40664f9cc4ba2810c2ad863
-time  2025-01-16 20:20:54.753335+08:00
+sub_url  https://91ssr.com/api/v1/client/subscribe?token=a65f0d81904101035405f70689ad2d53
+time  2025-01-17 09:11:44.949552+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -124,12 +125,12 @@ type  v2board
 
 [ykxqn.com]
 buy  pass
-email  xgvqxuy369@gmail.com
+email  eussxhl992@gmail.com
 name  LIME
 node_n  30
-sub_info  0B  1G  2025-01-16 21:20:53+08:00  (剩余 1G 0:59:56.179168)
-sub_url  https://dy.lime5.xyz/api/v1/client/subscribe?token=68f8d85a583cba730600c387709182c6
-time  2025-01-16 20:20:54.137744+08:00
+sub_info  0B  1G  2025-01-17 10:11:41+08:00  (剩余 1G 0:59:57.139373)
+sub_url  https://dy.lime5.xyz/api/v1/client/subscribe?token=4834ea4211286bd669f40a47dc099194
+time  2025-01-17 09:11:42.108151+08:00
 type  v2board
 
 [www.qf1.us]
@@ -137,11 +138,11 @@ type  v2board
 [ffkjwl.com]
 name  饭饭云
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"lhlvniijt420@555.anztyy.shop","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"yasqxnexm688@wfes.site","success":"false"}'
 
 [光喵.com]
 name  光喵机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(xvuakrcsk187@lista.cc): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(dpigoqojf114@wfes.site): {'message': '邮箱后缀不处于白名单中'}
 
 [www.shop.sanfen.co]
