@@ -1,0 +1,44 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 7d6223a8-367a-4ab4-936a-563dd5903b27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: 7d6223a8-367a-4ab4-936a-563dd5903b27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: 7d6223a8-367a-4ab4-936a-563dd5903b27, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45056, type: vmess, uuid: 7d3e8180-20cc-4257-8f25-ab1e135a42df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45057, type: vmess, uuid: 7d3e8180-20cc-4257-8f25-ab1e135a42df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 21bceea8945519c990fd100391b0986c.node.tro.node-is.green, port: 40073, type: trojan, password: 6bf2fd0d-04ee-43e1-8a99-ca403c1a9a0e, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 4259661e1d1c4919cef407c53311bd7e.node.tro.node-is.green, port: 49606, type: trojan, password: 6bf2fd0d-04ee-43e1-8a99-ca403c1a9a0e, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, type: trojan, password: 4648aa05-9db7-4d2c-94c8-6538644e7adc, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, type: trojan, password: 4648aa05-9db7-4d2c-94c8-6538644e7adc, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, type: trojan, password: 4648aa05-9db7-4d2c-94c8-6538644e7adc, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, type: trojan, password: 4648aa05-9db7-4d2c-94c8-6538644e7adc, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, type: trojan, password: 4648aa05-9db7-4d2c-94c8-6538644e7adc, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, type: trojan, password: 4648aa05-9db7-4d2c-94c8-6538644e7adc, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: dc7ff3e5-facb-4543-ae4c-98d19556e552, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: dc7ff3e5-facb-4543-ae4c-98d19556e552, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: dc7ff3e5-facb-4543-ae4c-98d19556e552, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: dc7ff3e5-facb-4543-ae4c-98d19556e552, udp: true}
+- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 32211, type: trojan, password: 7fb29e3c-96aa-4fc4-acfa-d0ee557596d3, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 7fb29e3c-96aa-4fc4-acfa-d0ee557596d3, udp: true}
+- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 7fb29e3c-96aa-4fc4-acfa-d0ee557596d3, udp: true}
+- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 7fb29e3c-96aa-4fc4-acfa-d0ee557596d3, udp: true}
+- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 7fb29e3c-96aa-4fc4-acfa-d0ee557596d3, udp: true}
+- {name: '🇯🇵 [3x] 日本 IEPL专线NO1 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: d3d5ccb2-fbad-4d59-b1c8-e63cb9f636b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x] 日本 IEPL专线NO2 - needss云', server: i.needss.top, port: 20017, type: vmess, uuid: d3d5ccb2-fbad-4d59-b1c8-e63cb9f636b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本298•高速 - 飞翔吧, server: gy.58n.net, port: 20298, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 中转•日本300•原生 - 飞翔吧, server: gy.58n.net, port: 20300, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速114•高速 - 飞翔吧, server: gy.58n.net, port: 41767, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速115•高速 - 飞翔吧, server: gy.58n.net, port: 54178, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速139•铂金 - 飞翔吧, server: gy.58n.net, port: 20139, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速140•铂金 - 飞翔吧, server: gy.58n.net, port: 20140, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速141•铂金 - 飞翔吧, server: gy.58n.net, port: 20141, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速142•原生 - 飞翔吧, server: gy.58n.net, port: 20142, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速59•青铜 - 飞翔吧, server: gy.58n.net, port: 20059, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速71•高速 - 飞翔吧, server: gy.58n.net, port: 20071, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本•高速76•高速 - 飞翔吧, server: gy.58n.net, port: 20076, type: trojan, password: 86a513cd-9633-36e4-b472-dce836ed08d5, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: cdba2dcc-7bcf-4c80-9676-b28afebcaad0, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: cdba2dcc-7bcf-4c80-9676-b28afebcaad0, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: cdba2dcc-7bcf-4c80-9676-b28afebcaad0, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: cdba2dcc-7bcf-4c80-9676-b28afebcaad0, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: cdba2dcc-7bcf-4c80-9676-b28afebcaad0, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: cdba2dcc-7bcf-4c80-9676-b28afebcaad0, udp: true}

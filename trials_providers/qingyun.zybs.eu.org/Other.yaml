@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, tfo: true, type: trojan, password: f57ae002-6b3d-4a8a-9776-3c393dc35529, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
