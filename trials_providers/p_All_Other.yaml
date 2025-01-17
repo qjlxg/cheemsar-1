@@ -6,7 +6,6 @@ proxies:
 - {name: ℹ️ 【备用网址】oneairport.xyz - one airport, server: 0, port: 25262, type: ssr, cipher: aes-256-cfb, password: 8Gh33a, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: ℹ️ 【机场网址】oneairport.club - one airport, server: 0, port: 25262, type: ssr, cipher: aes-256-cfb, password: 8Gh33a, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
 - {name: 【警告】禁止涉及政治 - one airport, server: 0, port: 25262, type: ssr, cipher: aes-256-cfb, password: 8Gh33a, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
-- &id001 {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: ce86ef7b-12ae-35a2-9503-f72719c55bf5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 请手动选带地名的节点 - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: a2d9934c-61d5-4889-b0d8-0142471e73b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 最新:www.kugou8.cloud - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: a2d9934c-61d5-4889-b0d8-0142471e73b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 官网发布页:kugou2.top - KUGOU云, server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: a2d9934c-61d5-4889-b0d8-0142471e73b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -30,8 +29,6 @@ proxies:
 - {name: '🇬🇧 [1x]CM 隧道 英国 - KUGOU云', server: xd1.kugovip.xyz, port: 18590, type: vmess, uuid: a2d9934c-61d5-4889-b0d8-0142471e73b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇵🇱 [1x]CM 隧道 波兰 - KUGOU云', server: xd1.kugovip.xyz, port: 18605, type: vmess, uuid: a2d9934c-61d5-4889-b0d8-0142471e73b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云', server: bl1.kugovip.xyz, port: 18481, type: vmess, uuid: a2d9934c-61d5-4889-b0d8-0142471e73b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- *id001
-- *id001
 - {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: af71a08a-7dff-486b-9311-5794f1c94aa3, udp: true}
 - {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: af71a08a-7dff-486b-9311-5794f1c94aa3, udp: true}
 - {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: af71a08a-7dff-486b-9311-5794f1c94aa3, udp: true}
