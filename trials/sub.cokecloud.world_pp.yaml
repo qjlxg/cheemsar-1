@@ -146,54 +146,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/ykxqn.com/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/sub.cokecloud.world/HK.yaml
     interval: 180
-    path: trials_providers/ykxqn.com/HK.yaml
+    path: trials_providers/sub.cokecloud.world/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/ykxqn.com/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/sub.cokecloud.world/TW.yaml
     interval: 180
-    path: trials_providers/ykxqn.com/TW.yaml
+    path: trials_providers/sub.cokecloud.world/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/ykxqn.com/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/sub.cokecloud.world/SG.yaml
     interval: 180
-    path: trials_providers/ykxqn.com/SG.yaml
+    path: trials_providers/sub.cokecloud.world/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/ykxqn.com/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/sub.cokecloud.world/JP.yaml
     interval: 180
-    path: trials_providers/ykxqn.com/JP.yaml
+    path: trials_providers/sub.cokecloud.world/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/ykxqn.com/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/sub.cokecloud.world/US.yaml
     interval: 180
-    path: trials_providers/ykxqn.com/US.yaml
+    path: trials_providers/sub.cokecloud.world/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/ykxqn.com/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/sub.cokecloud.world/Other.yaml
     interval: 180
-    path: trials_providers/ykxqn.com/Other.yaml
+    path: trials_providers/sub.cokecloud.world/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

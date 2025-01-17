@@ -33,36 +33,44 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
-  - 🇸🇬 新加坡一 - LIME
-  - 🇸🇬 新加坡二 - LIME
-  - 🇸🇬 新加坡三 - LIME
-  - 🇸🇬 新加坡四 - LIME
-  - 🇸🇬 新加坡五 - LIME
-  - 🇸🇬 新加坡六 - LIME
-  - 🇯🇵 日本一 - LIME
-  - 🇯🇵 日本二 - LIME
-  - 🇯🇵 日本三 - LIME
-  - 🇯🇵 日本四 - LIME
-  - 🇯🇵 日本五 - LIME
-  - 🇯🇵 日本六 - LIME
-  - 🇺🇸 美国一 - LIME
-  - 🇺🇸 美国二 - LIME
-  - 🇺🇸 美国三 - LIME
-  - 🇺🇸 美国四 - LIME
-  - 🇺🇸 美国五 - LIME
-  - 🇺🇸 美国六 - LIME
-  - xqnqn.com防失联 - LIME
-  - 🇰🇷 韩国一 - LIME
-  - 🇰🇷 韩国二 - LIME
+  - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -118,81 +126,90 @@ proxy-groups:
   interval: 15
   tolerance: 100
   proxies: &id002
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
+  - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 🇹🇼 ‍台湾
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id003
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
+  - 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 🇨🇳 ‍中国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id004
-  - 🇭🇰 香港一 - LIME
-  - 🇭🇰 香港二 - LIME
-  - 🇭🇰 香港三 - LIME
-  - 🇭🇰 香港四 - LIME
-  - 🇭🇰 香港五 - LIME
-  - 🇭🇰 香港七 - LIME
-  - 🇭🇰 香港八 - LIME
-  - 🇹🇼 台湾一 - LIME
-  - 🇹🇼 台湾二 - LIME
+  - 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 🇸🇬 ‍新加坡
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id005
-  - 🇸🇬 新加坡一 - LIME
-  - 🇸🇬 新加坡二 - LIME
-  - 🇸🇬 新加坡三 - LIME
-  - 🇸🇬 新加坡四 - LIME
-  - 🇸🇬 新加坡五 - LIME
-  - 🇸🇬 新加坡六 - LIME
+  - 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 🇯🇵 ‍日本
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id006
-  - 🇯🇵 日本一 - LIME
-  - 🇯🇵 日本二 - LIME
-  - 🇯🇵 日本三 - LIME
-  - 🇯🇵 日本四 - LIME
-  - 🇯🇵 日本五 - LIME
-  - 🇯🇵 日本六 - LIME
+  - 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
   proxies: &id007
-  - 🇺🇸 美国一 - LIME
-  - 🇺🇸 美国二 - LIME
-  - 🇺🇸 美国三 - LIME
-  - 🇺🇸 美国四 - LIME
-  - 🇺🇸 美国五 - LIME
-  - 🇺🇸 美国六 - LIME
+  - 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
   proxies: &id008
-  - xqnqn.com防失联 - LIME
-  - 🇰🇷 韩国一 - LIME
-  - 🇰🇷 韩国二 - LIME
+  - 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+  - ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
@@ -215,36 +232,44 @@ proxy-groups:
   type: select
   proxies: *id008
 proxies:
-- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 35234, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 20293, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 43850, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
-- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 38838, type: ss, cipher: aes-128-gcm, password: 07a20d4c-a119-4ac8-89db-9d68526b08ac, udp: true}
+- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.A | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 21552, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45449, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 38630, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 33575, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 12672, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.F - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 45861, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 HK.香港.G | 多入口 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xctransfer1st.cokecloud.top, port: 44489, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 12258, type: trojan, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43289, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇸🇬 SGP.新加坡.A | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 43461, type: ss, cipher: aes-128-gcm, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇸🇬 SGP.新加坡.B | 负载均衡 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 10420, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 SGP.新加坡.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 29611, type: ss, cipher: chacha20-ietf-poly1305, password: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, udp: true}
+- {name: 🇸🇬 SGP.新加坡.D | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 25878, type: vmess, uuid: 8afaeb30-0389-4817-bcb5-61c639ef3bb4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
