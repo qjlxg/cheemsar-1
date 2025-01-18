@@ -1,0 +1,26 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 18841, type: ss, cipher: chacha20-ietf-poly1305, password: 41095450-0c8c-43d8-965e-c532059d9794, udp: true}
+- {name: 🇹🇼 台湾中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22297, type: ss, cipher: chacha20-ietf-poly1305, password: 41095450-0c8c-43d8-965e-c532059d9794, udp: true}
+- {name: 🇹🇼 台湾中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 32525, type: ss, cipher: chacha20-ietf-poly1305, password: 41095450-0c8c-43d8-965e-c532059d9794, udp: true}
+- {name: 🇹🇼 台湾中转✈04 - 菜鸟机场, server: chiyu.myfczy169.top, port: 34915, type: ss, cipher: chacha20-ietf-poly1305, password: 41095450-0c8c-43d8-965e-c532059d9794, udp: true}
+- {name: 🇹🇼 台湾中转✈05 - 菜鸟机场, server: chiyu.myfczy169.top, port: 44454, type: ss, cipher: chacha20-ietf-poly1305, password: 41095450-0c8c-43d8-965e-c532059d9794, udp: true}
+- &id001 {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: f4ad01ca-9756-420e-b908-4885e4d81479, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, type: trojan, password: f4ad01ca-9756-420e-b908-4885e4d81479, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: f4ad01ca-9756-420e-b908-4885e4d81479, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
+- {name: 🇹🇼 台湾 1 - 血液加速器, server: gy.666666222.shop, port: 20032, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 6cb60ed8-bdca-4437-920a-2dd4ec65495d, udp: true}
+- {name: 🇹🇼 台湾01 - 血液加速器, server: gy.666666222.shop, port: 47564, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 6cb60ed8-bdca-4437-920a-2dd4ec65495d, udp: true}
+- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 1c560b54-5d6d-4ae1-a2c0-e5af0f658c24, udp: true}
+- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 1c560b54-5d6d-4ae1-a2c0-e5af0f658c24, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 1c560b54-5d6d-4ae1-a2c0-e5af0f658c24, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 1c560b54-5d6d-4ae1-a2c0-e5af0f658c24, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 1c560b54-5d6d-4ae1-a2c0-e5af0f658c24, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 1c560b54-5d6d-4ae1-a2c0-e5af0f658c24, udp: true}
+- {name: 🇹🇼 台湾一 - LIME, server: 01.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 09f57c4a-66bc-4906-b1fb-742e7062e588, udp: true}
+- {name: 🇹🇼 台湾二 - LIME, server: 02.kjahbg.info, port: 46192, type: ss, cipher: aes-128-gcm, password: 09f57c4a-66bc-4906-b1fb-742e7062e588, udp: true}

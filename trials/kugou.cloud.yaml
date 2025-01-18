@@ -29,27 +29,58 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - US
-  - p_All_Other
-  - p_All_HK_CN
-  - p_All_TW_CN
-  - p_All_JP
-  - p_All_SG
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
-  - p_All_All_SG_SG
-  - p_All_All_SG_SG
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
+  proxies: &id001
+  - 🇭🇰 [3x]IEPL专线 香港1 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港2 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港3 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港4 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港5 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港6 - KUGOU云
+  - 🇭🇰 [1x]CM 隧道 香港1 - KUGOU云
+  - 🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云
+  - 🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云
+  - 🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云
+  - 🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云
+  - 🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云
+  - 🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云
+  - 🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云
+  - 🇯🇵 [3x]IEPL专线 日本1 - KUGOU云
+  - 🇯🇵 [3x]IEPL专线 日本2 - KUGOU云
+  - 🇯🇵 [1x]CM 隧道 日本1 - KUGOU云
+  - 🇯🇵 [1x]CM 隧道 日本2 - KUGOU云
+  - 🇺🇸 [3x]IEPL专线 美国1 - KUGOU云
+  - 🇺🇸 [3x]IEPL专线 美国2 - KUGOU云
+  - 🇺🇸 [1x]CM 隧道 美国1 - KUGOU云
+  - 🇺🇸 [1倍率]临时直连 美国 - KUGOU云
+  - 请手动选带地名的节点 - KUGOU云
+  - ℹ️ 最新:www.kugou8.cloud - KUGOU云
+  - ℹ️ 官网发布页:kugou2.top - KUGOU云
+  - 🇬🇧 [3x]IEPL专线 英国1 - KUGOU云
+  - 🇬🇧 [3x]IEPL专线 英国2 - KUGOU云
+  - 🇰🇷 [3x]IEPL专线 韩国 - KUGOU云
+  - 🇹🇭 [3x]IEPL专线 泰国 - KUGOU云
+  - 🇻🇳 [3x]IEPL专线 越南 - KUGOU云
+  - 🇫🇷 [3x]IEPL专线 法国 - KUGOU云
+  - 🇳🇱 [3x]IEPL专线 荷兰 - KUGOU云
+  - 🇦🇺 [3x]IEPL专线 澳洲 - KUGOU云
+  - 🇩🇪 [3x]IEPL专线 德国 - KUGOU云
+  - 🇿🇦 [3x]IEPL专线 南非 - KUGOU云
+  - 🇵🇱 [3x]IEPL专线 波兰 - KUGOU云
+  - 🇷🇺 [3x]IEPL专线 俄罗斯 - KUGOU云
+  - 🇹🇷 [3x]IEPL专线 土耳其 - KUGOU云
+  - 🇦🇷 [3x]IEPL专线 阿根廷 - KUGOU云
+  - 🇺🇦 [3x]IEPL专线 乌克兰 - KUGOU云
+  - 1x普通线路因管局通报 - KUGOU云
+  - 1x可能会不定时离线 - KUGOU云
+  - 🇬🇧 [1x]CM 隧道 英国 - KUGOU云
+  - 🇵🇱 [1x]CM 隧道 波兰 - KUGOU云
+  - 🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -98,175 +129,167 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - p_All_HK_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
+  proxies: &id002
+  - 🇭🇰 [3x]IEPL专线 香港1 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港2 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港3 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港4 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港5 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港6 - KUGOU云
+  - 🇭🇰 [1x]CM 隧道 香港1 - KUGOU云
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - p_All_TW_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  proxies: &id003
+  - 🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云
+  - 🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - p_All_HK_CN
-  - p_All_TW_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
+  proxies: &id004
+  - 🇭🇰 [3x]IEPL专线 香港1 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港2 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港3 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港4 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港5 - KUGOU云
+  - 🇭🇰 [3x]IEPL专线 香港6 - KUGOU云
+  - 🇭🇰 [1x]CM 隧道 香港1 - KUGOU云
+  - 🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云
+  - 🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - p_All_SG
-  - p_All_All_SG_SG
-  - p_All_All_SG_SG
+  proxies: &id005
+  - 🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云
+  - 🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云
+  - 🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云
+  - 🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云
+  - 🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - p_All_JP
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
+  proxies: &id006
+  - 🇯🇵 [3x]IEPL专线 日本1 - KUGOU云
+  - 🇯🇵 [3x]IEPL专线 日本2 - KUGOU云
+  - 🇯🇵 [1x]CM 隧道 日本1 - KUGOU云
+  - 🇯🇵 [1x]CM 隧道 日本2 - KUGOU云
 - name: 🇺🇸 ‍美国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 300
-  use: &id007
-  - US
+  proxies: &id007
+  - 🇺🇸 [3x]IEPL专线 美国1 - KUGOU云
+  - 🇺🇸 [3x]IEPL专线 美国2 - KUGOU云
+  - 🇺🇸 [1x]CM 隧道 美国1 - KUGOU云
+  - 🇺🇸 [1倍率]临时直连 美国 - KUGOU云
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - p_All_Other
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
+  proxies: &id008
+  - 请手动选带地名的节点 - KUGOU云
+  - ℹ️ 最新:www.kugou8.cloud - KUGOU云
+  - ℹ️ 官网发布页:kugou2.top - KUGOU云
+  - 🇬🇧 [3x]IEPL专线 英国1 - KUGOU云
+  - 🇬🇧 [3x]IEPL专线 英国2 - KUGOU云
+  - 🇰🇷 [3x]IEPL专线 韩国 - KUGOU云
+  - 🇹🇭 [3x]IEPL专线 泰国 - KUGOU云
+  - 🇻🇳 [3x]IEPL专线 越南 - KUGOU云
+  - 🇫🇷 [3x]IEPL专线 法国 - KUGOU云
+  - 🇳🇱 [3x]IEPL专线 荷兰 - KUGOU云
+  - 🇦🇺 [3x]IEPL专线 澳洲 - KUGOU云
+  - 🇩🇪 [3x]IEPL专线 德国 - KUGOU云
+  - 🇿🇦 [3x]IEPL专线 南非 - KUGOU云
+  - 🇵🇱 [3x]IEPL专线 波兰 - KUGOU云
+  - 🇷🇺 [3x]IEPL专线 俄罗斯 - KUGOU云
+  - 🇹🇷 [3x]IEPL专线 土耳其 - KUGOU云
+  - 🇦🇷 [3x]IEPL专线 阿根廷 - KUGOU云
+  - 🇺🇦 [3x]IEPL专线 乌克兰 - KUGOU云
+  - 1x普通线路因管局通报 - KUGOU云
+  - 1x可能会不定时离线 - KUGOU云
+  - 🇬🇧 [1x]CM 隧道 英国 - KUGOU云
+  - 🇵🇱 [1x]CM 隧道 波兰 - KUGOU云
+  - 🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
+  proxies: *id006
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  use: *id007
+  proxies: *id007
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_HK_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_HK_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_HK_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_TW_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_TW_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_TW_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_SG_SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_SG_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_All_SG_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_TW_TW_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_HK_HK_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_JP_JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_JP_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_All_JP_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id008
+proxies:
+- {name: 请手动选带地名的节点 - KUGOU云, server: vip1.kugovip.xyz, port: 50124, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 最新:www.kugou8.cloud - KUGOU云, server: vip1.kugovip.xyz, port: 50124, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 官网发布页:kugou2.top - KUGOU云, server: vip1.kugovip.xyz, port: 50124, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾1 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x]IEPL专线 台湾2 - KUGOU云', server: vip1.kugovip.xyz, port: 50102, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [3x]IEPL专线 英国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50120, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [3x]IEPL专线 英国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50104, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50114, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [3x]IEPL专线 韩国 - KUGOU云', server: vip1.kugovip.xyz, port: 50117, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 [3x]IEPL专线 泰国 - KUGOU云', server: vip1.kugovip.xyz, port: 50116, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇻🇳 [3x]IEPL专线 越南 - KUGOU云', server: vip1.kugovip.xyz, port: 50108, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 [3x]IEPL专线 法国 - KUGOU云', server: vip1.kugovip.xyz, port: 50101, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇱 [3x]IEPL专线 荷兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50105, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 [3x]IEPL专线 澳洲 - KUGOU云', server: vip1.kugovip.xyz, port: 50123, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [3x]IEPL专线 德国 - KUGOU云', server: vip1.kugovip.xyz, port: 50121, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇿🇦 [3x]IEPL专线 南非 - KUGOU云', server: vip1.kugovip.xyz, port: 50119, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [3x]IEPL专线 波兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50118, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇷🇺 [3x]IEPL专线 俄罗斯 - KUGOU云', server: vip1.kugovip.xyz, port: 50103, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇷 [3x]IEPL专线 土耳其 - KUGOU云', server: vip1.kugovip.xyz, port: 50109, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇷 [3x]IEPL专线 阿根廷 - KUGOU云', server: vip1.kugovip.xyz, port: 50100, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇦 [3x]IEPL专线 乌克兰 - KUGOU云', server: vip1.kugovip.xyz, port: 50127, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 1x普通线路因管局通报 - KUGOU云, server: xd1.kugovip.xyz, port: 18591, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 1x可能会不定时离线 - KUGOU云, server: xd1.kugovip.xyz, port: 18589, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18591, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇬🇧 [1x]CM 隧道 英国 - KUGOU云', server: xd1.kugovip.xyz, port: 18590, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇱 [1x]CM 隧道 波兰 - KUGOU云', server: xd1.kugovip.xyz, port: 18605, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
+- {name: '🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云', server: bl1.kugovip.xyz, port: 18481, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

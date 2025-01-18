@@ -16,40 +16,42 @@ proxy-groups:
   - 🇨🇳 ‍中国
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - US
-  - p_All_Other
-  - p_All_HK_CN
-  - p_All_TW_CN
-  - p_All_JP
-  - p_All_SG
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
-  - p_All_All_SG_SG
-  - p_All_All_SG_SG
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
+  proxies: &id001
+  - 🇭🇰 香港01隧道0 - AZ云
+  - 🇭🇰 香港01直连 - AZ云
+  - 🇭🇰 香港02隧道快 - AZ云
+  - 🇹🇼 台湾01直连 - AZ云
+  - 🇹🇼 台湾02直连 - AZ云
+  - 🇹🇼 台湾03直连 - AZ云
+  - 🇸🇬 新加坡01直连快 - AZ云
+  - 🇸🇬 新加坡02直连 - AZ云
+  - 🇸🇬 新加坡01隧道快 - AZ云
+  - 🇸🇬 新加坡01隧道4 - AZ云
+  - 🇸🇬 新加坡01隧道5 - AZ云
+  - 🇯🇵 日本03直连 - AZ云
+  - 🇯🇵 日本04直连 - AZ云
+  - 🇯🇵 日本04隧道快 - AZ云
+  - 🇯🇵 日本04隧道1 - AZ云
+  - 🇯🇵 日本03隧道快 - AZ云
+  - 🇯🇵 日本03隧道1 - AZ云
+  - 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -77,13 +79,11 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
@@ -98,175 +98,101 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id002
-  - p_All_HK_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
+  proxies: &id002
+  - 🇭🇰 香港01隧道0 - AZ云
+  - 🇭🇰 香港01直连 - AZ云
+  - 🇭🇰 香港02隧道快 - AZ云
 - name: 🇹🇼 ‍台湾
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id003
-  - p_All_TW_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
+  proxies: &id003
+  - 🇹🇼 台湾01直连 - AZ云
+  - 🇹🇼 台湾02直连 - AZ云
+  - 🇹🇼 台湾03直连 - AZ云
 - name: 🇨🇳 ‍中国
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id004
-  - p_All_HK_CN
-  - p_All_TW_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_TW_TW_CN_CN
-  - p_All_All_HK_HK_CN_CN
-  - p_All_All_HK_HK_CN_CN
+  proxies: &id004
+  - 🇭🇰 香港01隧道0 - AZ云
+  - 🇭🇰 香港01直连 - AZ云
+  - 🇭🇰 香港02隧道快 - AZ云
+  - 🇹🇼 台湾01直连 - AZ云
+  - 🇹🇼 台湾02直连 - AZ云
+  - 🇹🇼 台湾03直连 - AZ云
 - name: 🇸🇬 ‍新加坡
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id005
-  - p_All_SG
-  - p_All_All_SG_SG
-  - p_All_All_SG_SG
+  proxies: &id005
+  - 🇸🇬 新加坡01直连快 - AZ云
+  - 🇸🇬 新加坡02直连 - AZ云
+  - 🇸🇬 新加坡01隧道快 - AZ云
+  - 🇸🇬 新加坡01隧道4 - AZ云
+  - 🇸🇬 新加坡01隧道5 - AZ云
 - name: 🇯🇵 ‍日本
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
   tolerance: 100
-  use: &id006
-  - p_All_JP
-  - p_All_All_JP_JP
-  - p_All_All_JP_JP
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id007
-  - US
+  proxies: &id006
+  - 🇯🇵 日本03直连 - AZ云
+  - 🇯🇵 日本04直连 - AZ云
+  - 🇯🇵 日本04隧道快 - AZ云
+  - 🇯🇵 日本04隧道1 - AZ云
+  - 🇯🇵 日本03隧道快 - AZ云
+  - 🇯🇵 日本03隧道1 - AZ云
 - name: 🎏 ‍其他
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id008
-  - p_All_Other
-  - p_All_All_Other_Other
-  - p_All_All_Other_Other
+  proxies: &id007
+  - 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  use: *id002
+  proxies: *id002
 - name: 👆🏻🇹🇼 ‍台湾
   type: select
-  use: *id003
+  proxies: *id003
 - name: 👆🏻🇨🇳 ‍中国
   type: select
-  use: *id004
+  proxies: *id004
 - name: 👆🏻🇸🇬 ‍新加坡
   type: select
-  use: *id005
+  proxies: *id005
 - name: 👆🏻🇯🇵 ‍日本
   type: select
-  use: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id007
+  proxies: *id006
 - name: 👆🏻🎏 ‍其他
   type: select
-  use: *id008
-proxy-providers:
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_HK_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_HK_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_HK_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_TW_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_TW_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_TW_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_SG_SG:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_SG_SG.yaml
-    interval: 180
-    path: trials_providers/p_All_All_SG_SG.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_TW_TW_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_TW_TW_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_HK_HK_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_HK_HK_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_JP_JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_JP_JP.yaml
-    interval: 180
-    path: trials_providers/p_All_All_JP_JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+  proxies: *id007
+proxies:
+- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01直连快 - AZ云, server: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, port: 805, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾02直连 - AZ云, server: sg1111.233235.xyz, port: 8060, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: sg1111.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01隧道0 - AZ云, server: twjpzz2.595780.xyz, port: 18861, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01直连 - AZ云, server: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, port: 11111, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 61744, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: yunhk017190e68f-806d-4811-b517-480c32770fb6.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02直连 - AZ云, server: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, port: 607, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, tfo: true, type: trojan, password: 34fb82a4-afa9-4dcd-b796-979a9fbf5a08, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
