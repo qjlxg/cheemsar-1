@@ -1,7 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, tfo: true, type: vmess, uuid: ad1778c9-7924-4665-b2d1-1795497082c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
