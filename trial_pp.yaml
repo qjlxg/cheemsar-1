@@ -31,18 +31,12 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id001
+  - HK
   - TW
   - SG
   - JP
   - US
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_Other
-  - p_All_HK_CN
+  - Other
   - p_All_CN
 - name: 👆🏻 ‍指定
   type: select
@@ -97,10 +91,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id002
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_HK_CN
+  - HK
 - name: 🇹🇼 ‍台湾
   type: url-test
   tolerance: 100
@@ -110,11 +101,8 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id004
+  - HK
   - TW
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_All_All_HK_HK_HK_CN_CN_CN
-  - p_All_HK_CN
   - p_All_CN
 - name: 🇸🇬 ‍新加坡
   type: url-test
@@ -135,10 +123,7 @@ proxy-groups:
   type: url-test
   tolerance: 100
   use: &id008
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_All_All_Other_Other_Other
-  - p_All_Other
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
   use: *id002
@@ -161,6 +146,15 @@ proxy-groups:
   type: select
   use: *id008
 proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/HK.yaml
+    interval: 180
+    path: trials_providers/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
   TW:
     type: http
     url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/TW.yaml
@@ -197,38 +191,11 @@ proxy-providers:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
-  p_All_All_All_Other_Other_Other:
+  Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_All_Other_Other_Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/Other.yaml
     interval: 180
-    path: trials_providers/p_All_All_All_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_HK_HK_HK_CN_CN_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_All_HK_HK_HK_CN_CN_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_HK_HK_HK_CN_CN_CN.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_HK_CN:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_HK_CN.yaml
-    interval: 180
-    path: trials_providers/p_All_HK_CN.yaml
+    path: trials_providers/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

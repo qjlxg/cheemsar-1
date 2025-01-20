@@ -14,11 +14,13 @@ proxy-groups:
   - 🇭🇰 ‍香港
   - 🇹🇼 ‍台湾
   - 🇨🇳 ‍中国
+  - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇹🇼 ‍台湾
   - 👆🏻🇨🇳 ‍中国
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -35,6 +37,8 @@ proxy-groups:
   - 🇭🇰 [3x] 香港 IEPL专线NO4 - needss云
   - 🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云
   - 🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云
+  - 🇯🇵 [3x] 日本 IEPL专线NO3 - needss云
+  - 🇯🇵 [3x] 日本 IEPL专线NO4 - needss云
   - 🇺🇸 [3x] 美国 IEPL专线NO1 - needss云
   - 🇺🇸 [3x] 美国 IEPL专线NO2 - needss云
   - ℹ️ 最新官网：6.needss.one(可直接访问） - needss云
@@ -94,10 +98,12 @@ proxy-groups:
   proxies:
   - 🇺🇸 ‍美国
   - 🇹🇼 ‍台湾
+  - 🇯🇵 ‍日本
   - 🎏 ‍其他
   - ✈️ ‍起飞
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🇹🇼 ‍台湾
+  - 👆🏻🇯🇵 ‍日本
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -137,12 +143,20 @@ proxy-groups:
   - 🇭🇰 [3x] 香港 IEPL专线NO4 - needss云
   - 🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云
   - 🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id005
+  - 🇯🇵 [3x] 日本 IEPL专线NO3 - needss云
+  - 🇯🇵 [3x] 日本 IEPL专线NO4 - needss云
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id005
+  proxies: &id006
   - 🇺🇸 [3x] 美国 IEPL专线NO1 - needss云
   - 🇺🇸 [3x] 美国 IEPL专线NO2 - needss云
 - name: 🎏 ‍其他
@@ -150,7 +164,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id006
+  proxies: &id007
   - ℹ️ 最新官网：6.needss.one(可直接访问） - needss云
   - ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云
   - ℹ️ 网址发布页：aa.needss1.top - needss云
@@ -185,46 +199,51 @@ proxy-groups:
 - name: 👆🏻🇨🇳 ‍中国
   type: select
   proxies: *id004
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id005
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id006
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id007
 proxies:
-- {name: ℹ️ 最新官网：6.needss.one(可直接访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 网址发布页：aa.needss1.top - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x] 香港 IEPL专线NO1 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x] 香港 IEPL专线NO2 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x] 香港 IEPL专线NO3 - needss云', server: i.needss.top, port: 65533, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x] 香港 IEPL专线NO4 - needss云', server: i.needss.top, port: 65533, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇭 [3x] 泰国 IEPL专线 NO1 - needss云', server: i.needss.top, port: 30028, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇭 [3x] 泰国 IEPL专线 NO2 - needss云', server: i.needss.top, port: 30028, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO1 - needss云', server: i.needss.top, port: 20014, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO2 - needss云', server: i.needss.top, port: 20014, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [3x] 韩国 IEPL专线NO1 - needss云', server: i.needss.top, port: 20021, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇰🇷 [3x] 韩国 IEPL专线NO2 - needss云', server: i.needss.top, port: 20021, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [3x] 印度 IEPL专线NO1 - needss云', server: i.needss.top, port: 15442, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇮🇳 [3x] 印度 IEPL专线NO2 - needss云', server: i.needss.top, port: 15442, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇳🇴 [3x]  非洲 IEPL专线 NO1 - needss云', server: i.needss.top, port: 44410, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇳🇴 [3x]  非洲 IEPL专线 NO2 - needss云', server: i.needss.top, port: 44410, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO1 - needss云', server: i.needss.top, port: 20011, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO2 - needss云', server: i.needss.top, port: 20011, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [3x] 德国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54787, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇩🇪 [3x] 德国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54787, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇨🇦 [3x] 加拿大 IEPL专线 NO1 - needss云', server: i.needss.top, port: 45112, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇨🇦 [3x] 加拿大 IEPL专线 NO2 - needss云', server: i.needss.top, port: 45112, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇵🇹 [2x] 葡萄牙 IEPL专线NO1 - needss云', server: qd.needss.top, port: 31001, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇵🇹 [2x] 葡萄牙 IEPL专线NO2 - needss云', server: qd.needss.top, port: 31001, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇳🇱 [1x] 荷兰 IEPL专线NO1 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇳🇱 [1x] 荷兰 IEPL专线NO2 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇫🇷 [1x] 法国 CM 隧道NO1 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇫🇷 [1x] 法国 CM 隧道NO2 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: 69044cc2-8ec2-4b19-96f6-d3b1619979f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 最新官网：6.needss.one(可直接访问） - needss云, server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云, server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 网址发布页：aa.needss1.top - needss云, server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x] 香港 IEPL专线NO1 - needss云', server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x] 香港 IEPL专线NO2 - needss云', server: i.needss.top, port: 20013, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x] 香港 IEPL专线NO3 - needss云', server: i.needss.top, port: 65533, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x] 香港 IEPL专线NO4 - needss云', server: i.needss.top, port: 65533, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x] 日本 IEPL专线NO3 - needss云', server: i.needss.top, port: 52117, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x] 日本 IEPL专线NO4 - needss云', server: i.needss.top, port: 52117, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 [3x] 泰国 IEPL专线 NO1 - needss云', server: i.needss.top, port: 30028, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 [3x] 泰国 IEPL专线 NO2 - needss云', server: i.needss.top, port: 30028, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO1 - needss云', server: i.needss.top, port: 20014, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇷 [3x] 阿根廷 IEPL专线NO2 - needss云', server: i.needss.top, port: 20014, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [3x] 韩国 IEPL专线NO1 - needss云', server: i.needss.top, port: 20021, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇰🇷 [3x] 韩国 IEPL专线NO2 - needss云', server: i.needss.top, port: 20021, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [3x] 印度 IEPL专线NO1 - needss云', server: i.needss.top, port: 15442, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 [3x] 印度 IEPL专线NO2 - needss云', server: i.needss.top, port: 15442, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇴 [3x]  非洲 IEPL专线 NO1 - needss云', server: i.needss.top, port: 44410, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇴 [3x]  非洲 IEPL专线 NO2 - needss云', server: i.needss.top, port: 44410, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO1 - needss云', server: i.needss.top, port: 20011, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 [3x] 澳大利亚 IEPL专线NO2 - needss云', server: i.needss.top, port: 20011, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [3x] 德国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54787, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 [3x] 德国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54787, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇨🇦 [3x] 加拿大 IEPL专线 NO1 - needss云', server: i.needss.top, port: 45112, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇨🇦 [3x] 加拿大 IEPL专线 NO2 - needss云', server: i.needss.top, port: 45112, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇹 [2x] 葡萄牙 IEPL专线NO1 - needss云', server: qd.needss.top, port: 31001, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇵🇹 [2x] 葡萄牙 IEPL专线NO2 - needss云', server: qd.needss.top, port: 31001, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇱 [1x] 荷兰 IEPL专线NO1 - needss云', server: qd.needss.top, port: 20014, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇳🇱 [1x] 荷兰 IEPL专线NO2 - needss云', server: qd.needss.top, port: 20014, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 [1x] 法国 CM 隧道NO1 - needss云', server: qd.needss.top, port: 52108, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 [1x] 法国 CM 隧道NO2 - needss云', server: qd.needss.top, port: 52108, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
