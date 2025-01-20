@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本 - 01 - 一元中转.com, server: jpn01.yyzzlink.top, port: 28101, type: ss, cipher: chacha20-ietf-poly1305, password: b6dab638-6a0a-4b3b-8570-e37ae471ca4d, udp: true}
-- {name: 🇯🇵 日本 - 02 - 一元中转.com, server: jpn02.yyzzlink.top, port: 28102, type: ss, cipher: chacha20-ietf-poly1305, password: b6dab638-6a0a-4b3b-8570-e37ae471ca4d, udp: true}

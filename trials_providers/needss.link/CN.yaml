@@ -1,11 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 192bf90d-283c-466c-b9fc-6c905c3f3a35, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 192bf90d-283c-466c-b9fc-6c905c3f3a35, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 192bf90d-283c-466c-b9fc-6c905c3f3a35, udp: true}
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO1 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO2 - needss云', server: i.needss.top, port: 20013, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO3 - needss云', server: i.needss.top, port: 65533, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇭🇰 [3x] 香港 IEPL专线NO4 - needss云', server: i.needss.top, port: 65533, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

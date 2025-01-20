@@ -1,8 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: ab00711a-84d2-4840-abb1-ad8a0bb4fcab, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
-- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 192bf90d-283c-466c-b9fc-6c905c3f3a35, udp: true}
 - {name: ℹ️ 最新官网：6.needss.one(可直接访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 永久官网：needss.link(需挂梯子访问） - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: ℹ️ 网址发布页：aa.needss1.top - needss云, server: i.needss.top, port: 20013, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -28,9 +26,3 @@ proxies:
 - {name: '🇳🇱 [1x] 荷兰 IEPL专线NO2 - needss云', server: qd.needss.top, port: 20014, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇫🇷 [1x] 法国 CM 隧道NO1 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇫🇷 [1x] 法国 CM 隧道NO2 - needss云', server: qd.needss.top, port: 52108, type: vmess, uuid: 4f356f91-5ab0-4fb3-8a4f-618eceb7c775, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼, server: 194.87.69.50, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 17926, type: vmess, uuid: 85a92c26-5c49-4530-8088-7bfe9e0c780b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
