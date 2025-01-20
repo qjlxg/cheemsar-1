@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

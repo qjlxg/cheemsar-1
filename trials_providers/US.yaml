@@ -1,11 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 2ce9a7bf-4f8e-49fa-a6fc-e01e4596a2b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 2ce9a7bf-4f8e-49fa-a6fc-e01e4596a2b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 80472b70-7cbb-49af-ab08-72aa313bbe6a, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 80472b70-7cbb-49af-ab08-72aa313bbe6a, udp: true}
-- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, tfo: true, type: vmess, uuid: e1fb506e-f0d6-44b4-b3be-2b5e58112239, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 美国 - 01 - 一元中转.com, server: usa01.yyzzlink.top, port: 22101, type: ss, cipher: chacha20-ietf-poly1305, password: b6dab638-6a0a-4b3b-8570-e37ae471ca4d, udp: true}
-- {name: 🇺🇸 美国5 - SuLink速联网络, server: yx.sulink.one, port: 80, type: vmess, uuid: e3fd0767-f272-4821-8317-0f8a4a6ebaad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us5.sulink.one}}, udp: true}
