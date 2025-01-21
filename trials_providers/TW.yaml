@@ -1,6 +1,18 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 01 1.5x - 廉价机场, server: 72764cf877090ceefe814007d23bf107.node.tro.node-is.green, port: 41129, type: trojan, password: c3ea3cd4-4683-4a3a-bbe3-7aa1274ddb34, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 🇨🇳 台湾BGP 中转 02 1.5x - 廉价机场, server: 1e5520fbda73ff4f9e9120e111bb4ff7.node.tro.node-is.green, port: 40986, type: trojan, password: c3ea3cd4-4683-4a3a-bbe3-7aa1274ddb34, sni: www.ahu.edu.cn, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇹🇼 TW.台湾.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 13255, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id002 {name: 🇹🇼 TW.台湾.B | 推荐 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 29299, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id003 {name: 🇹🇼 TW.台湾.C | 高速2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xdtw.cokecloud.top, port: 53497, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
+- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, udp: true}
+- {name: 🇹🇼 台湾01（高速） - Welcome to nginx!, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇼 台湾02（高速） - Welcome to nginx!, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇼 台湾03（IPLC稳定） - Welcome to nginx!, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇼 台湾04（IPLC稳定） - Welcome to nginx!, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇼 台湾05（GPT专用） - Welcome to nginx!, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇼 台湾06（GPT专用） - Welcome to nginx!, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}

@@ -1,20 +1,123 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: 6599dde8-f3ff-3baf-bc5c-1d68cd43d6bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id001 {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 17926, type: vmess, uuid: e2f67fe9-2e06-4c70-9fbc-4b802e2528bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id002 {name: 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼, server: 194.87.69.50, port: 17926, type: vmess, uuid: e2f67fe9-2e06-4c70-9fbc-4b802e2528bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id003 {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 17926, type: vmess, uuid: e2f67fe9-2e06-4c70-9fbc-4b802e2528bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id004 {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 17926, type: vmess, uuid: e2f67fe9-2e06-4c70-9fbc-4b802e2528bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id005 {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 17926, type: vmess, uuid: e2f67fe9-2e06-4c70-9fbc-4b802e2528bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- &id006 {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 17926, type: vmess, uuid: e2f67fe9-2e06-4c70-9fbc-4b802e2528bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
 - *id001
-- {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
-- {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- &id007 {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id008 {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id009 {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id010 {name: 🇮🇩 ID.印度尼西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 15447, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id011 {name: 🇹🇷 TUR.土耳其.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: turtf.cokecloud.top, port: 53355, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id012 {name: 🇹🇭 TH.泰国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: thtf.cokecloud.top, port: 34523, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id013 {name: 🇻🇳 VN.越南.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcsgp.cokecloud.top, port: 17463, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id014 {name: 🇦🇺 AU.澳洲.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: autf.cokecloud.top, port: 18071, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id015 {name: 🇮🇳 IN.印度.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: idtf.cokecloud.top, port: 32725, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id016 {name: 🇫🇷 FR.法国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frtf.cokecloud.top, port: 15468, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id017 {name: 🇬🇧 UK.英国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xcuk.cokecloud.top, port: 18227, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id018 {name: 🇩🇪 FRK.德国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id019 {name: 🇷🇺 RU.俄国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: rutf.cokecloud.top, port: 44753, type: ss, cipher: chacha20-ietf-poly1305, password: 125fa915-60aa-46a4-9246-6d76366951a3, udp: true}
+- &id020 {name: ℹ️ 导航页：www.可乐云.net - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: frg.cokecloud.top, port: 13646, type: vmess, uuid: 125fa915-60aa-46a4-9246-6d76366951a3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- *id007
+- *id008
+- *id009
+- *id010
+- *id011
+- *id012
+- *id013
+- *id014
+- *id015
+- *id016
+- *id017
+- *id018
+- *id019
+- *id020
+- {name: '🇰🇷 韩国[01] - Heima', server: pop.ff34894a-296c-446f-af39-20b90947f3a7.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇹🇭 泰国[01] - Heima', server: pop.e2e6e30c-9832-4092-a925-034ef112f346.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇫🇷 法国[01] - Heima', server: pop.b1c7d2ec-e636-4521-a9f7-abb10044e3a5.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[03] - Heima', server: pop.4b470bd6-cc42-4520-9fe6-d7d53a67b022.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇦🇺 澳大利亚[01] - Heima', server: pop.25cbab93-4c08-4a3c-8521-3f3d8c4b36ae.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇮🇳 印度[01] - Heima', server: pop.6801ae4e-545d-471e-8de5-413dc61b505b.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇻🇳 越南[01] - Heima', server: pop.4519b5e5-ebc7-400b-90c5-3eb372a5c2c1.heima360.cc, port: 443, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇩🇪 德国[01]中转 - Heima', server: vip.baima360.com, port: 55997, type: ss, cipher: chacha20-ietf-poly1305, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, udp: true}
+- {name: '🇨🇦 加拿大[01]中转 - Heima', server: vip.baima360.com, port: 29292, type: ss, cipher: chacha20-ietf-poly1305, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, udp: true}
+- {name: '🇬🇧 英国[01]中转 - Heima', server: vip.baima360.com, port: 10683, type: ss, cipher: chacha20-ietf-poly1305, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, udp: true}
+- {name: '🇧🇷 巴西[01]中转 - Heima', server: vip.baima360.com, port: 30752, type: ss, cipher: chacha20-ietf-poly1305, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, udp: true}
+- {name: '🇷🇺 俄罗斯[01]中转 - Heima', server: vip.baima360.com, port: 23499, type: ss, cipher: chacha20-ietf-poly1305, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, udp: true}
+- {name: '🇲🇾 马来西亚[01] - Heima', server: 103.75.189.152, port: 100, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- {name: '🇲🇾 马来西亚[02] - Heima', server: 103.75.188.189, port: 101, type: trojan, password: 877980fc-c6bc-4240-8f13-8afb7c05869a, skip-cert-verify: true, udp: true}
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- *id001
+- *id002
+- *id003
+- *id004
+- *id005
+- *id006
+- {name: ℹ️ 牢记域名:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国01（高速） - Welcome to nginx!, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国02（高速） - Welcome to nginx!, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - Welcome to nginx!, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - Welcome to nginx!, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - Welcome to nginx!, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - Welcome to nginx!, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇱 荷兰01 - Welcome to nginx!, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇱 荷兰02 - Welcome to nginx!, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - Welcome to nginx!, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - Welcome to nginx!, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇬 尼日利亚-01 (高速） - Welcome to nginx!, server: ng01.x.woyh.xyz, port: 38799, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇬 尼日利亚-02 (高速） - Welcome to nginx!, server: ng02.x.woyh.xyz, port: 38793, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - Welcome to nginx!, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - Welcome to nginx!, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇮🇳 印度01（高速） - Welcome to nginx!, server: in01.x.woyh.xyz, port: 38776, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇮🇳 印度02（高速） - Welcome to nginx!, server: in02.x.woyh.xyz, port: 38777, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国01（高速） - Welcome to nginx!, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国02（高速） - Welcome to nginx!, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - Welcome to nginx!, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - Welcome to nginx!, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - Welcome to nginx!, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - Welcome to nginx!, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇩🇪 德国01（高速） - Welcome to nginx!, server: ger01.x.woyh.xyz, port: 38786, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇩🇪 德国02（高速） - Welcome to nginx!, server: ger02.x.woyh.xyz, port: 38787, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇫🇷 法国01（高速） - Welcome to nginx!, server: fr01.x.woyh.xyz, port: 38784, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇫🇷 法国02（高速） - Welcome to nginx!, server: fr02.x.woyh.xyz, port: 38785, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - Welcome to nginx!, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - Welcome to nginx!, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇲🇽 墨西哥01（高速） - Welcome to nginx!, server: mex01.x.woyh.xyz, port: 38782, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇲🇽 墨西哥02（高速） - Welcome to nginx!, server: mex02.x.woyh.xyz, port: 38783, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇧🇷 巴西01（高速） - Welcome to nginx!, server: br01.x.woyh.xyz, port: 38788, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇧🇷 巴西02（高速） - Welcome to nginx!, server: br02.x.woyh.xyz, port: 38789, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}

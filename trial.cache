@@ -1,1269 +1,1541 @@
-[dash.fscloud.cc]
-name  FSCloud
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"mpntofhj468@555.66liu.shop","success":"false"}'
-
-[tagss04.pro]
-
-[glados.space]
-name
-type  v2board
-更新订阅链接/续费续签失败  注册失败(fovcvqgrn456@gmail.com): 没有权限
-
-[reborn.kaochang.ltd]
-name  Sausage Cloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(fkxzuta299@gmail.com): 'NoneType' object is not subscriptable
-
-[xqcloud.net]
-
-[starlink.to]
-name  星星加速器
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xhucbcae637@lyx13.xyz","success":"false"}'
-
-[bajie.pw]
-name  八戒
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(fvzmzgy738@bareed.ws): {'message': '验证码有误'}
-
-[marslink.org]
-name  MarsLink
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qehlnyl90@pastryofistanbul.com): {'message': '图形验证码不正确请重新输入'}
-
-[mojie.best]
-
-[www.chaojijichang.com]
-name  超级机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(nqvetlrcj248@gmail.com): 本站已关闭注册
-
-[dog.ssrdog.com]
-name  SSRDOG
-type  v2board
-更新订阅链接/续费续签失败  注册失败(rrvmwvyw613@gmail.com): 郵箱驗證碼不能為空
-
-[www.dotsvpn.com]
-
-[xiaojicf.com]
-buy  pass
-email  lpxbvtwo220@gmail.com
-name  小鸡快跑 ChickenRun
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://api01.xjsublink.com/api/v1/client/subscribe?token=149d5b70e415cf96f86b0ac7c0f8780d
-time  2025-01-21 10:48:16.972853+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[v2.xiaojikp.cc]
-
-[vilavpn.net]
-
-[v2free.net]
-auto_invite  F
-buy  pass
-email  pkygxzii512@teihu.com
-last_checkin  0
-name  V2free
-sub_info  0B  1G  2025-02-20 10:48:22+08:00  (剩余 1G 29 days, 23:59:49.762056)
-sub_url  https://v1.v2ai.top/link/f5RGbJVpAX7rvzjge89DK50PU5vWj5FXJKrq?sub=3
-time  2025-01-21 10:48:23.291840+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  {'ret': 0, 'msg': '系统无法接受您的验证结果，请完成非机器人验证。如果看不到非机器人验证按钮，请先翻墙再刷新页面。'}
-
-[大机场.net]
-name  大机场 Big Airport
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ltxqshfz513@sharklasers.com): {'message': '验证码有误'}
-
-[www.netbridge.uk]
-name  NET BRIDGE
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ueabqhmt980@xxxhi.cc): {'message': '遇到了些问题，我们正在进行处理'}
-
-[www.totocloud.com]
-banned_domains  guerrillamail.de
-name  ToTo Cloud
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(spbhigzqn168@guerrillamail.de)
-
-[crelay.net]
-banned_domains  guerrillamail.com
-name  crelay
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(mesenpmpy844@guerrillamail.com)
-
-[justmysocks.cn.com]
-
-[colacloudnet.com]
-
-[web3vpn.net]
-
-[lajichang.eu]
-
-[shuttle.gt-all.com]
-
-[一元.org]
-
-[haita.io]
-banned_domains  snapmail.cc
-error  HTTPSConnectionPool(host='www.haita.io', port=443): Max retries exceeded with url: /env.js (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f15ad989270>: Failed to resolve 'www.haita.io' ([Errno -2] Name or service not known)"))
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(lkcmdjzp17@snapmail.cc)
-
-[balecc.com]
-
-[b.ikunvpn.com]
-name  ikunVPN
-type  v2board
-更新订阅链接/续费续签失败  注册失败(yphfdegno401@gmail.com): 'NoneType' object is not subscriptable
-
-[www.cyberghostvpn.com]
-
-[www.ggkuai.com]
-
-[u.niceduck.cc]
-
-[ovofast.com]
-name  OvO
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(joopfecqi20@bareed.ws): {'message': '邮箱后缀不处于白名单中'}
-
-[shandianpro.com]
-name  闪电⚡
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(mckahdd5@tmpeml.com): {'message': '图形验证码不正确请重新输入'}
-
-[sd.369.cyou]
-
-[zhuanlan.zhihu.com]
-error  <string>:1 Unexpected "-" at column 3
-type  v2board
-更新订阅链接/续费续签失败  注册失败(cmpvgkcz870@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html><title>404: Not Found</title><body>404: Not Found</body></html>')
-
-[adguard-vpn.com]
-
-[www.biubiu.tw]
-
 [cokecloud.net]
 buy  pass
-email  mjvrqzsa85@gmail.com
+email  uadzfoy678@gmail.com
 name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 node_n  38
-sub_info  0B  1G  2025-01-21 11:48:17+08:00  (剩余 1G 0:59:41.900661)
-sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=0ee2222ce9e5f43afdb91a9e0e89d911
-time  2025-01-21 10:48:19.145122+08:00
+sub_info  0B  1G  2025-01-21 15:25:55+08:00  (剩余 1G 0:59:53.171636)
+sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=788d45532a6e5e231e6153a87de9e006
+time  2025-01-21 14:25:56.242974+08:00
 type  v2board
 
-[download.easylinkvpn.com]
+[cm-sub.pz.pe]
 
-[mars.369.cyou]
+[xboard.sswiwi.com]
+name  Xboard!
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
-[getoutline.org]
+[s.33y.run]
 
-[aha-speed.net]
+[damp-mode-4de5.6006101.workers.dev]
 
-[jfcat.net]
-auto_invite  F
+[yuxi.fanqiev2.work]
+
+[sub123.71345.xyz]
+
+[088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz]
+
+[dy.pmy666.xyz]
+name  平民云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"blrywdx322@jkd.tmmad.com","success":"false"}'
+
+[em7.buzz]
+
+[user.wolf-iran.ir]
+
+[music.easygourl.xyz]
+
+[www.flyintpro01.com]
+name  FlyintPro
+type  v2board
+更新订阅链接/续费续签失败  注册失败(kbvkjxss55@gmail.com): The given data was invalid.
+
+[youxiu7540.xiaofeixia.click]
 buy  pass
-email  wbztgeh957@gmail.com
-last_checkin  2025-01-21 10:48:23.044172+08:00
-name  JFCLOUND
-node_n  1
-sub_info  0B  444M  2025-01-21 10:48:20+08:00  (剩余 444M -1 day, 23:59:53.682354)
-sub_url  https://jif421.net/link/prVKNfv21WV9fivg?sub=3
-time  2025-01-21 10:48:24.790204+08:00
-type  sspanel
-
-[mistycloud.io]
-
-[www.ducklink.net]
-buy  pass
-email  zobytjve705@gmail.com
-name  DuckLink
+email  fjgumal439@gmail.com
+name  小飞侠
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sub.ducklink.net/api/v1/client/subscribe?token=5b8ef574a3a098a0e54bb6b3fb72c9ae
-time  2025-01-21 10:48:21.001400+08:00
+sub_url  https://youxiu1379.xiaofeixia.info/api/v1/client/subscribe?token=45d6a1888a436d5bc3cb90997315731f
+time  2025-01-21 14:25:00.386909+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[motivpn.com]
+[bujidao.cc]
 
-[proxyhub.me]
+[sub.xn--4gq62ffxz.net]
 
-[www.rockyhsu.com]
-
-[miaona.pro]
+[cola.xn--chqu2nzsxv3y.com]
+api_host  www.baidu.com
+name  百度一下，你就知道
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"mpmhlimri48@lyx13.xyz","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(qmabivcie860@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL /api/v1/passport/auth/register was not found on this server.</p>\n</body></html>\n')
 
-[www.sky888.cc]
-
-[www.1day.sbs]
-
-[imginn.com]
-
-[www.09axjsq.com]
-
-[ibale.co]
-
-[user.colacloudnet.com]
+[jjz.31465.cfd]
+name  绝绝子机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(zkebszbk340@rgzx.tmmad.com): {'code': 200, 'message': 'Success.', 'payload': True, 's': '8D461154C92F48A68944F949E93ABF37'}
+更新订阅链接/续费续签失败  注册失败(ixmkmepmg722@moakt.ws): 邮箱后缀不处于白名单中
 
-[quickq.io]
+[linke.phantasy.life]
 
-[www.skylinevpn.net]
+[kcsub.vip]
 
-[jf97.net]
+[xby2.op-house.top:2096]
+
+[subscribe.fastsocks.xyz]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(reiwvvwis360@bccto.cc): {'message': '验证码有误'}
+
+[zero.76898102.xyz]
+
+[sub.sanfen021.xyz]
+name  Site is created successfully!
+type  v2board
+更新订阅链接/续费续签失败  注册失败(smjcaec54@gmail.com): 'NoneType' object is not subscriptable
+
+[sub.xn--4gqp1u.com]
+
+[sub.xn--ioru3fc2t1hb.com]
+
+[1321078938-11mmjf3qkb-hk.scf.tencentcs.com]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ueosmbyr379@gmail.com): 'NoneType' object is not subscriptable
+
+[bdsafhh.yiyuanlx.cc]
+name  一元乐享
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(kjrsxdp495@oakon.com): {'message': '验证码有误'}
+
+[s1.byte33.com]
+
+[gbtgurl.me]
+name  果宝特攻
+type  v2board
+更新订阅链接/续费续签失败  注册失败(wizwkrzn924@gmail.com): 'NoneType' object is not subscriptable
+
+[sub.cokecloud.world]
+buy  pass
+email  sdaqlipj387@gmail.com
+name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+node_n  38
+sub_info  0B  1G  2025-01-21 15:25:01+08:00  (剩余 1G 0:59:50.614252)
+sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=b78818cc211a64cd8cb3f5cfd4d41ebd
+time  2025-01-21 14:25:03.367421+08:00
+type  v2board
+
+[get.biu001.xyz]
+name  superbiu
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"pbxvdubg221@mail.wvwvw.tech","success":"false"}'
+
+[088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz]
+
+[s1.bnsubservdom.com]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(emgytfy421@555.anztyy.shop): {'message': '验证码有误'}
+
+[sub.htg8866.us.kg]
+
+[v2.bgp.dedyn.io]
+
+[196284.nginxzfd.xyz]
+
+[mlshu.com]
+name  马铃薯
+type  v2board
+更新订阅链接/续费续签失败  注册失败(aleskaq68@gmail.com): 'NoneType' object is not subscriptable
+
+[pavo.eu.org]
+name  天狼星公益机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(afxolwjs42@gmail.com): 'NoneType' object is not subscriptable
+
+[mlshu.xyz]
+
+[www.066664.xyz]
+name  行云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(exzwiftd562@gmail.com): 'NoneType' object is not subscriptable
+
+[52daishu.uk]
+
+[d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz]
+
+[ch.cukug.website]
+buy  period=month_price&plan_id=19
+email  lkejmld501@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:25:02+08:00  (剩余 1000G 30 days, 23:59:48.107645)
+sub_url  https://ch.vfkum.website/api/v1/client/subscribe?token=b0bfbead07e10c459d95d3f2a587c110
+time  2025-01-21 14:25:02.863873+08:00
+type  v2board
+
+[hdfy8sub.achaemenidempireofpersia.uk]
+
+[subs.pithecia.com]
+name  Pithecia
+type  v2board
+更新订阅链接/续费续签失败  注册失败(hyraylky786@gmail.com): 'NoneType' object is not subscriptable
+
+[b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz]
+
+[study.jaycloud11111.top]
+
+[sub.mogufan.com]
+
+[feigou.zhunchuanpb.com]
+buy  pass
+email  wfhsymgbv674@gmail.com
+sub_url  http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=306fa4390cf46905f0ab08f96ae29006
+time  2025-01-21 14:25:04.928582+08:00
+type  v2board
+获取订阅失败  can only concatenate str (not "NoneType") to str
+
+[s.youyun666.site]
+
+[bpjc.lol]
+buy  pass
+email  bybqahefb942@gmail.com
+name  白嫖机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://bpjc.lol/api/bpjclol?token=357ad1e0e7c70a765a433e043a7c4549
+time  2025-01-21 14:25:01.611280+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[b.bbydy.org]
+
+[tz.vfkum.website]
+buy  period=month_price&plan_id=19
+email  qaiakkcyq257@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:25:04+08:00  (剩余 1000G 30 days, 23:59:47.938893)
+sub_url  https://ch.vfkum.website/api/v1/client/subscribe?token=61c3c0f1b7d4b91d5c1582695d45d900
+time  2025-01-21 14:25:05.130332+08:00
+type  v2board
+
+[qq.xlm.plus]
+name  闪云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(gzwlhqqks348@lista.cc): {'message': '验证码有误'}
+
+[server.fylink.link]
+
+[zjsub.gitpub.top]
+name  Mac2win
+type  v2board
+更新订阅链接/续费续签失败  注册失败(mcrdzthxn123@gmail.com): 'NoneType' object is not subscriptable
+
+[ant77.top]
+
+[api-0609.m55u97uleod7lm5.download]
+name  TOTYUN
+type  v2board
+更新订阅链接/续费续签失败  注册失败(fuuxadsev527@gmail.com): 'NoneType' object is not subscriptable
+
+[api.123417.xyz]
+
+[api.sgjc.xyz]
+
+[api.xn--14ra41gd24b.xyz]
+name  嘎嘎机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rlkhvtc443@gmail.com): 'NoneType' object is not subscriptable
+
+[cloudupup.com]
 auto_invite  F
 buy  pass
-email  otolfzctn709@gmail.com
-last_checkin  2025-01-21 10:48:25.174524+08:00
-name  JFCLOUND
-node_n  1
-sub_info  0B  656M  2025-01-21 10:48:22+08:00  (剩余 656M -1 day, 23:59:51.956377)
-sub_url  https://jif421.net/link/J6GAjLUqc8R6QdHb?sub=3
-time  2025-01-21 10:48:27.572558+08:00
+email  pnktodqxm515@gmail.com
+last_checkin  0
+name  CloudUpUp
+type  sspanel
+尝试签到失败  {'ret': 0, 'msg': '未激活账号无法签到'}
+更新订阅链接/续费续签失败  未找到订阅链接
+
+[dashabi.ping-zi-yun.icu]
+
+[dingyue.myzone.site]
+banned_domains  teihu.com
+name  MZFastCloud - 登陆
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(huzlrdz657@teihu.com)
+
+[dingyue2.qyjc.xyz]
+
+[dingyue3.qyjc.xyz]
+
+[dishujichang.xyz]
+
+[dy.changyouVPN.top]
+name  畅游VPN
+type  v2board
+更新订阅链接/续费续签失败  注册失败(pqgxapa35@gmail.com): 'NoneType' object is not subscriptable
+
+[dy.changyouvpn.top]
+name  畅游VPN
+type  v2board
+更新订阅链接/续费续签失败  注册失败(nsrifkef523@gmail.com): 'NoneType' object is not subscriptable
+
+[dy.hpyjc.top]
+
+[dy.xyyjc.top]
+
+[e8a580bd3a51b6050aabd8919a17d106.52pokemon.top]
+
+[fanqiang88.top]
+name  翻墙吧
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"ajzqhqrd539@jkd.tmmad.com","success":"false"}'
+
+[fbapiv1.fbsublink.com]
+
+[fdgdr0dg3.xbvpn.vip]
+
+[free.ninecloud.co]
+
+[fs123121.cdn.22.jiacdnd123456789.com]
+
+[g3i.buzz]
+
+[gbtgurl01.org]
+name  果宝特攻
+type  v2board
+更新订阅链接/续费续签失败  注册失败(lmpsqgab220@gmail.com): 'NoneType' object is not subscriptable
+
+[ggiuwegivhe123.a123.bond]
+
+[hpyjc.top]
+
+[jshou.top]
+
+[laobideng.xyz]
+
+[lianjiasub.work]
+
+[ly.ccwink.cc]
+name  凌云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ydowpkf881@gmail.com): 'NoneType' object is not subscriptable
+
+[mf.kejifan88.top]
+
+[mine.subcsyun.online]
+
+[n15uvht4r659107p.eastasia.cloudapp.azure.com]
+
+[nangang.pro]
+
+[on1vejas4m6z.w7yxefcx0i11.click]
+
+[panda.xn--i8sx78aisa52z.com]
+
+[panda.xn--lbrx91akmhm30c.com]
+
+[s.kalaa.me]
+
+[s1.subcsyun.online]
+
+[s3.subcsyun.online]
+
+[s4.subcsyun.online]
+
+[sub.sub.sub.subsub123456789.com]
+
+[sub.xn--54qu5qypuo1o.xn--fiqs8s]
+
+[user.tsunaminet.cc]
+
+[v2-1.806cms.top]
+
+[vip.365cloud.me]
+name  365Cloud
+type  v2board
+更新订阅链接/续费续签失败  注册失败(carkmfpez927@555.66liu.shop): 邮箱后缀不处于白名单中
+
+[vps.huanshi88.sbs]
+
+[www.fanqiang88.top]
+name  翻墙吧
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(jprootxfq954@tmail.ws): {'message': '验证码有误'}
+
+[www.freeflyingcloud.xyz]
+
+[www.mmsbs.buzz]
+name  白纸机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(pucnzgqx297@gmail.com): 'NoneType' object is not subscriptable
+
+[www.pingzicloud.top]
+
+[x1yjc.top]
+
+[xbvpn.vip]
+
+[xsj520.top]
+
+[xyyjc.top]
+
+[yy-cmi.mozhiti.top]
+
+[yzxxy.top]
+
+[QTjDQsor6e7D.configbit.com]
+
+[a.aikllc.tech]
+buy  pass
+email  nnhgzimg870@gmail.com
+name  AiK-X
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://a.aikllc.tech/api/v1/client/subscribe?token=b13dbce3ff93b10cd683fd63909765e3
+time  2025-01-21 14:25:06.811105+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[a.fsyun.xyz]
+banned_domains  linshiyou.com
+name  飞速云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(yrconrp657@linshiyou.com)
+
+[a.jiedianxielou.workers.dev]
+
+[a.mtdwoodwork.com]
+
+[a.qcsub.top]
+
+[a.sdwan.im]
+
+[a.suixincloud.top]
+
+[a2673b60-aca1-48c2-a4ad-abeb518e18f9.fengchenginx.com]
+
+[a2789293-639e-49f5-9506-c8040b488438.nginxxy.xyz]
+
+[a76.aaa7.info]
+
+[a94d418e-1898-42df-bcf2-d970a5f3a939.mysubsoft.com]
+name  403 Forbidden
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(bxvmnsb168@xxxhi.cc): {'message': '验证码有误'}
+
+[aa.dabai.in]
+auto_invite  F
+buy  shop=31
+email  vxwohpro639@gmail.com
+last_checkin  2025-01-21 14:25:11.135196+08:00
+name  大白
+node_n  7
+sub_info  0B  1T  2025-02-20 14:25:10+08:00  (剩余 1T 29 days, 23:57:02.117082)
+sub_url  https://aa.dabai.in/link/T96BCZq1HhzeLLiw?sub=3
+time  2025-01-21 14:25:12.342350+08:00
 type  sspanel
 
-[techmusea.com]
+[aaa.us123.icu]
 
-[fscloud111.gitbook.io]
-
-[tizimao.com]
-
-[www.letsvpn.im]
-
-[wd-cloud.net]
-
-[nexitallysafe.com]
-
-[tolink.pro]
-error  substring not found
+[aaa.yunduanjc.top]
+name  云端
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nbjmyyirn898@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found 'Not Found')
+更新订阅链接/续费续签失败  注册失败(ojjjghr633@gmail.com): 'NoneType' object is not subscriptable
 
-[www.plexvpn.pro]
-error  <string>:1 Unexpected "]" at column 3
+[aaaa.gay]
+
+[abc.xhonor.top:9066]
+
+[abyssvpnya.net]
+
+[ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz]
+
+[ac59a7cd-11af-3e35-a098-b785688ec627.aliyunsub.com]
+
+[acl.syyn.pw]
+
+[adtzwnkwqq.southeastasia.cloudapp.azure.com]
+
+[ae86.235999.xyz]
+
+[aicccc.top]
+
+[aigame.totwo.xyz]
+name  To2＆自留地 🏆
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yerhtzwv934@gmail.com): 404 Not Found
+更新订阅链接/续费续签失败  发送邮箱验证码失败(eoxknexfc859@guerrillamail.net): {'message': '验证码有误'}
 
-[jpcdn.ts123.cc]
+[aini.200566.xyz]
 
-[lantern.io]
+[aiosjhdy.forbit-api.boats]
 
-[zmyun.github.io]
+[air.nicetive.site]
 
-[viraywinter.com]
+[airport.raloar.top]
 
-[portal.colacloud.net]
-name  ColaCloudNet
+[alpha.sagittarius-link.com]
+
+[alvless.filegear-sg.me]
+
+[ap.niaodi.top]
+
+[ap.niubi.site]
+
+[api-qw.02000.net]
+banned_domains  moakt.cc
+name  Bluetile.biz
 type  v2board
-更新订阅链接/续费续签失败  注册失败(otdfylnae312@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ctpqjkr595@moakt.cc)
 
-[www.vpnunlimited.com]
+[api-zz.xn--14ra41gd24b.xyz]
+buy  pass
+email  fktojytrt381@gmail.com
+name  小丑云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://1.worldfirst.eu.org/api/v1/client/subscribe?token=98e300335f0269004704f44d2efcfb91
+time  2025-01-21 14:25:12.330966+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[getmalus.com]
+[api.1vpn.sbs]
 
-[web.fscloud.cc]
-name  FSCloud
+[api.abyssyun.top]
+
+[api.acaisbest.shop]
+
+[api.e986532.top]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[api.fanss.vip]
+
+[api.fenghuolun.xyz]
+
+[api.fuckvps.net]
+buy  pass
+email  wrxzesr677@gmail.com
+name  超实惠机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://cshjc.xz61.cn/api/v1/client/subscribe?token=5d6f5539688e862213e332138205745f
+time  2025-01-21 14:25:13.236128+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[api.fuckyun.cc]
+
+[api.heima2u.com]
+buy  pass
+email  sebqggxur129@gmail.com
+name  Heima
+node_n  26
+sub_info  0B  5G  2025-01-22 14:25:14+08:00  (剩余 5G 23:57:09.671225)
+sub_url  https://api.heima2u.com/api/v1/client/subscribe?token=4096fdb2d3a669601b3d103e255028c3
+time  2025-01-21 14:25:14.742756+08:00
+type  v2board
+
+[api.hy2.lol]
+
+[api.ktcat.online]
+
+[api.liltjay.ip-ddns.com]
+
+[api.nutbit-node.lat]
+
+[api.pithecia.com]
+name  Pithecia
+type  v2board
+更新订阅链接/续费续签失败  注册失败(nqzijekv772@gmail.com): 'NoneType' object is not subscriptable
+
+[api.ssrsub.com]
+name  恭喜，站点创建成功！
+type  v2board
+更新订阅链接/续费续签失败  注册失败(royexqtd611@gmail.com): 'NoneType' object is not subscriptable
+
+[api.steeves-j-brown.com]
+
+[api.tshl.cc]
+
+[api.xiaofeigun.online]
+
+[api.xinyo.vip]
+name  星遇.Next
 type  v2board
 更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
-[bajie.ac]
+[api.xn--yfr72t8r4bvhd.xyz]
 
-[www.zhihu.com]
+[api.xqc.best]
 
-[goflyvpn.com]
+[api.xtt777.com]
 
-[bit.ly/gofly666]
+[api.zzzzzl.me]
 
-[bitbucket.org]
+[api03.cjpaoche.xyz]
 
-[www.baiyuncloud.cc]
+[api1.441166.xyz]
 
-[smjcdh.com]
-buy  pass
-email  hzzmlqsjg201@gmail.com
-name  三毛机场
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dy-1.smjcdh.com/api/v1/client/subscribe?token=27aa26ddfc3845e1945f1be9bac23ce8
-time  2025-01-21 10:48:19.044477+08:00
+[api1.danidapigu.top]
+
+[api1.fzdwf.top]
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(uxuzbmc517@gmail.com): 'NoneType' object is not subscriptable
 
-[fastlink.ws]
+[api1.okaycloud.top]
 
-[hide.mn]
+[api1.xn--bnq37rc0nw50b.com]
 
-[www.godualnet.com]
+[api2.mbo-xxx.top]
 
-[m.wawaapp.net]
+[api2.okaycloud.top]
 
-[star.369.cyou]
+[api2.xn--bnq37rc0nw50b.com]
 
-[sslinkcn.com]
+[api3.6yuan.top]
 
-[www.bilibili.com]
+[api7.6yuan.top]
 
-[apps.apple.com]
+[apidy.pqjc.site]
 
-[haigui1.com]
+[apisub.mcwy.xyz]
 
-[a.smjcdh.com]
-buy  pass
-email  xgupcwm293@gmail.com
-name  三毛机场
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dy-1.smjcdh.com/api/v1/client/subscribe?token=5d2c28c74702d92e47d0ec7a8a85deae
-time  2025-01-21 10:48:18.999165+08:00
+[apiv2.lemongg.top]
+
+[apiv2.lipulai.com]
+
+[apopcloud.com]
+
+[app.cloudlion.me]
+name  新狮云
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(jhjkoxa240@gmail.com): 'NoneType' object is not subscriptable
 
-[www.abcjsa.com]
+[app.gomeow.cloud]
 
-[慈善机场.com]
-buy  pass
-email  nbjasgok358@gmail.com
-name  慈善机场
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dy-1.xn--30rs3bu7r87f.online/api/v1/client/subscribe?token=7415cec47d5c44fdb05d9c6c18f621c8
-time  2025-01-21 10:48:18.982327+08:00
+[app.jisovpn.site]
+name  极搜云
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(jekqcfi524@gmail.com): 'NoneType' object is not subscriptable
 
-[ltss.cc]
-
-[三毛机场.com]
-buy  pass
-email  nrlrtvnsa949@gmail.com
-name  三毛机场
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://dy-1.smjcdh.com/api/v1/client/subscribe?token=ba3ca0ad1d5538643fcdb0a4c1d8c996
-time  2025-01-21 10:48:19.116376+08:00
+[app.legeth.cc]
+name  万里行机场
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(qpphsxw262@gmail.com): 'NoneType' object is not subscriptable
 
-[merlin.colacloud.net]
+[app.lwjyj.com]
+name  🎃小南瓜
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(jrumddf569@questtechsystems.com): {'code': 200, 'message': 'Success.', 'payload': True, 's': 'D76BB561A4DE40DD840C36735C0C9A21'}
+更新订阅链接/续费续签失败  注册失败(pxitwzv480@gmail.com): 'NoneType' object is not subscriptable
 
-[3w.付费机场.com]
-name  免费机场-付费机场-Hysteria机场
+[app.tline.website]
+
+[aq.louwangzhiyu.xyz]
+buy  period=month_price&plan_id=19
+email  cmnovgkp54@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:25:21+08:00  (剩余 1000G 30 days, 23:59:56.478663)
+sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=1228ce7e95c07bd9a2dbf5cf6497c905
+time  2025-01-21 14:25:22.462670+08:00
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"tjewnotqr933@ipiso.tmmad.com","success":"false"}'
 
-[www.qiuyinjsd.com]
+[artislg.com]
 
-[user.vcsite01.com]
-
-[flyingbird.pro]
-auto_invite  F
-buy  pass
-email  ioedquqc605@gmail.com
-last_checkin  2025-01-21 10:48:22.667816+08:00
-name  FlyingBird
-sub_info  0B  119M  2025-01-20 10:48:20+08:00  (剩余 119M -2 days, 23:57:49.599808)
-sub_url  https://fbapiv3.fbsublink.com/flydsubal/jmacensapgx6squr?sub=3
-time  2025-01-21 10:48:25.304967+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[www.abruning.com]
-
-[tuxings.com]
-api_host  mp.tuxings.com
-name  土星通信
+[asa.lol]
+name  ASA加速器
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"binurqm76@965.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(kodtgvgu776@gmail.com): 'NoneType' object is not subscriptable
 
-[chn.windscribe.com]
-
-[wzpwmu.com]
-
-[cocoduck.cc]
-
-[www.v2ny.com]
-name  奈云
+[asa01.888545.xyz]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pznlgwpsx841@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ygneionz13@gmail.com): 'NoneType' object is not subscriptable
 
-[www.okss.us]
-error  'host'
-name  S加速
+[asa035.888545.xyz]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pnfxagakf429@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(bygsusaqd728@gmail.com): 'NoneType' object is not subscriptable
 
-[guolicheng.cc]
-
-[www.v2qc.com]
-
-[www.hd10.co]
-
-[hjid888.com]
-
-[www.easylinkvpn.com]
-
-[hitun.io]
-
-[mojie.la]
-buy  pass
-email  rqzzazmyl279@gmail.com
-name  魔戒.net
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://onlysub.mjurl.com/api/v1/client/subscribe?token=8210c345958029158f7c16e4a6f2652c
-time  2025-01-21 10:48:23.550115+08:00
+[asdf.888545.xyz]
 type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(lgwedisq346@gmail.com): 'NoneType' object is not subscriptable
 
-[vip.tinnyrick.com]
+[atacyun.yydsii.com]
 
-[w.abcjsf.com]
+[atong88.top]
 
-[www.flashpro.io]
-error  <string>:1 Unexpected "!" at column 14
+[auth.newlikebooks.xyz]
+
+[awacloud.online]
+name  Nertron Network
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ydupxuya938@gmail.com): Cannot POST /api/v1/passport/auth/register
+更新订阅链接/续费续签失败  注册失败(rxqvxvn610@gmail.com): 'NoneType' object is not subscriptable
 
-[jf16.net]
-auto_invite  F
-buy  pass
-email  xsismvo745@gmail.com
-last_checkin  2025-01-21 10:48:28.228298+08:00
-name  JFCLOUND
-node_n  1
-sub_info  0B  691M  2025-01-21 10:48:25+08:00  (剩余 691M -1 day, 23:59:51.640495)
-sub_url  https://jif421.net/link/JWQ1sWsb7jkI6NZ0?sub=3
-time  2025-01-21 10:48:30.116907+08:00
-type  sspanel
+[b.jiedianxielou.workers.dev]
 
-[www.heu.ee]
-
-[sysmusk.com]
-
-[jgjs02.com]
-
-[to.flyintpro.com]
-
-[ilink-a.com]
-
-[www.jiguang.cn]
-
-[g.nga.cn]
-
-[hidemy.io]
-
-[www.maulusvpn.com]
-
-[xiaomeivpn.org]
-
-[zhshi.gitlab.io]
-
-[paoche.ga]
-
-[一元机场.art]
-
-[www.xiabk.com]
-
-[www.abcvpns.com]
-
-[www.ck971.com]
-
-[slowerssr.com]
-name  Slower
-type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(flxwykipd723@xiaoyaoemail.cc): {'ret': 0, 'msg': '非法请求'}
-
-[www.eevpn.org]
-error  <string>:1 Unexpected "f" at column 7
+[b.xiaow.cc]
+name  小江の节点
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fzoldmob546@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<!DOCTYPE html><html lang="en-US"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;max-width:60rem;padding-left:1.5rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{font-size:1.5rem;font-weight:500;line-height:2.25rem}@media (width <= 720px){.h2{font-size:1.25rem;line-height:1.5rem}}#challenge-error-text{background-image:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+);background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme:dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="390"></head><body class="no-js"><div class="main-wrapper" role="main"><div class="main-content"><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt={cvId: \'3\',cZone: "www.eevpn.org",cType: \'managed\',cRay: \'9053fc1f7ab1eade\',cH: \'p3EM1so5tdIfT4d.WczjaqUwWznl1jjRG2OnTOjDu9s-1737427701-1.2.1.1-eMjkR2711ghF46QoqP8cYOd3PVzmag9zILdo_gxwHOXOZnrQPyaGYC5biM5H8Yv_\',cUPMDTk: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_tk=ETgmpPkPg.7FfFiuwfnMiFwU5OOTojmKqgJnDRXcm.E-1737427701-1.0.1.1-2Bu3rnnrXQMrdPN18Aod0uq8muM6.w80zVlZSy6o8cQ",cFPWv: \'g\',cITimeS: \'1737427701\',cTTimeMs: \'1000\',cMTimeMs: \'390000\',cTplC: 0,cTplV: 5,cTplB: \'cf\',cK: "",fa: "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_f_tk=ETgmpPkPg.7FfFiuwfnMiFwU5OOTojmKqgJnDRXcm.E-1737427701-1.0.1.1-2Bu3rnnrXQMrdPN18Aod0uq8muM6.w80zVlZSy6o8cQ",md: ".kHG5I3Twmn85EyJiC_4vcCPx3loA91euqOqBydguxg-1737427701-1.2.1.1-rI_BNLQ6wigin7hyVFi2w7AovoESuvdK6OZHK7xmDLPY0hvDqESGPs4dbCSjcqIGZLH4PGaoBvdrKtsiBtweA0DmKuHdV41kkcoaTWPX2mwVlRz.HG2nAJdeIsYEgyVeqqVn6xt1ygp3mTB26FrcwyqjbhpKWCVGZWqCeLgdU13dfC1uQ2H9EQCbHlogP3M0XPGeiGcnFcYfTOOTLsfOGnMLGXMsT1VyWBRuDWQgtifxxJLYdptIQiHDafXkYpEkgG3uM7TdbSy5r80Bm.7l_roqzAkGJaXM3LUbq8wdDY92oWCaX7znynOqcNYHjksaDLoes7oeaB2PywMgtzfnYz9YbD139Qema9k4l4To33khTbfHjq7xO3QHJZUhb.GCmWWA.lL5F5gKorSuX6N9a6E60K.rpv9kQ2_pebZy0T7wooijofeluvTw4mn996AC4B9vN1cgSdZCxLsAI73x.UB0XScrB1_hNDNQKEATyN.WmSkMxz5NhDMUUmDcvlVoF0b1NCnJF7Ti.phCqISwFys9nozQlNvn0aarMLvhHBP5EYA0Xf1vIeSnXQoYwTzQSxiU7BQvB6SO9iu9FS7nMqNPIFCEvVrh0PFX68NOvMQKiY7d5okl2hu7ka8ZvgQUAIETu.G0CBlVPVg6Z4WSrqgpA9xDOhmBLAhwDVrq38CJCbtxRIGj.eLlIiILNSld8I7CZitLkjUOTih8cv1w0LeCIbgOzhmYIpxi4rRZUNCDX6QvFoFuszJMOEZQJJw2tn8j_3l945vkuKz4QF_xK.XB40iBh9MzwkS83GIaV9LQqNwOvgj3imx7oQ5SwpokXimgVJ2oe9x3K99OaDpU4hyRn5Havi0mrhzjMkUp5cEguLD2kCp0RrysjGOrDovp5bhrucDiEwyRvQTtrzIfpNCApTh91xPHb5wCSfyl7YsljgUaGRROLc9u6llPBT_O8QkKyUZL62Tv6sXhh8H7TSmppn863r0eYBi6WOJystpqW8OxZ3h_YiTLeQCv55Nfs7UBqGARnLKTKKlpmj3wneZWICEF4Z4pBxcDmFQH1L6MSQ_D7zwRuZOZ0DFzU050QYies2dshYMsfhsdzF9uD5pFBISUbj1SNQtV7JwVsvVKy48po3yR2DuJTAe9zDhh7C2PEVV1RURIST7cSSzIGOPdWyrKOeJLrn5Jl95ylENhztY_NfCN6y8KZjprzihEKRMqz9oaPKbCBkqtENrMsZ49S218AYremI3pRiBYO4BLi6o4OXc1lIyHA4z5HEq4jCVXa.o59eUnjZXzJYVgvHSiOdablN8kN7CZayH0B8z9fdhz3z.BqWxUAQKEplAX4w9UUUKvPgtTRFihwTufVRmGEf4hmmBTU5mNswoChyOH7TfnwCt5eAq_9YHqfCMLY0eDc89GoPVRpom0YlUh5yjpFm0FyaEyaPszdwdwdgD7SQawwiseIQzlYbdkrm32KrRL2LSiG_T1X3M0uRQnJCf_lRdm9DFznGoIng2uxZPKHz.slMjBhhDFsOryEI9eF9sk9UHzHk7U5o_iRTKayGeuMUgo7RWmkBio0uUvc.GsDpVo6aZRrpY9WIkVJq0vhpDci5aACNdVryPniSElXAwi6N39YoVSkjEwmQTHR_E9k_7Pz1Hmc2fdwVDyyDH9ZDYcymRG8hw5Lzg2MNJ4yI6draWkn85bGCuTKRfI20m3tbvcqpd9iUwMC26oUdqHxgBXmb4GlGbobKq_4QoK14oMsoDOjOuMPrIVKTJGSt79jYdo4qHFIBY8hSp.ffGJcF1EOia9sTFDt0fnNZIKce082vj629pnylUKGQ48K4Z6G8ixWuMXT2u1rO_APgkHD79yW1OhvzZUnwvkFjw7UWGAsY.1x9Fj48Slit7Iofl3IGgH5wE6Oc4hAJUIjK3MjWxcRofjeEpDovWlm3kB8jvoHH1kqRUey5c_WfeKfdzn3N_UkS6uvCpvHKPjoQI8q0hhAaHILQGg5xBd951DZzLSXxwyANipbrbpybJnAzl1C4z62Q2IcKMRExaC8jVXvQ5Kx0c3T.kv0D7SCAKnqms.KpDUgM4AeJTizHple56vjwo7z54mmQkSw0LKjgWbUwjwMj66IpRYd6oapNUJl_3UcyCGNbbJJCfNbXe3NvOTd18He1OpI9v7ZPTrF5pcJE236QmBNpIwo84.9C4JF33663bdoSUjLt25mfeTN_OqD1JHXtGDAOZ1aTBXpdEHVu_eWtvEhnZsSaKsYCrq8o8MKwelk3saEojOhmTzNmpwOI2opeqri6b8t2fG1bST38i4I34BQApKUmzVawfGg50BYjza525dU68JgfMiOpBMi6LHl0DyR6qZcei203yml_l943mtILs6HCWvG3qwcw",mdrd: "quiPPTPerYYQDAGIIkcWNj4dgU0gm0ZaNwrrDAC7glU-1737427701-1.2.1.1-MIRQQ2oIhXbMxu_ttQk77JhwBwJg47pZHQBstDft3YLuZt9JhBV3Fe1GvfWBDAhIdh1vdnwi463ZcY9x5uYCT9MW6wABO7WVrRa06ChcXi9Ml.edODorbRKObA4gm7gYirFD5.ZyIeqWQW4d5pG.obiOxLaZF105ihTipMqv2JHIT.9wl51o6RFfu_9KUGZ31v1DF2Pxd7BSz.AD0is148OGBSzjAe1xmOn8ch1RLVI8h6OgCfu_B8GAg6YqTFaMMX4P6yGeG2a13l6PpqB3bpb_g2vWqCDclhS2NeiaTGTkwUj_SI5jVeIXJU4i4EyxsHGhJKFoPqUdG2DNw9nsUsmTn2MxnZ4WLG9taBzm6_A.n15YIp4xvPfnsQXUb.haYhjTVEM4P2Po1QwLDdat30vfKLIWFFEgQzhgkgUS91DYUTc8zyzBxgETUQj1ANdEWlftLKtMfQJqJg50NPzkwm6YZ03nWsrhra_GKWKIX7IlthfrudXMXViXc1CtMfVcxvUsXwvrasL7C828r3NPWm.QxsQY37vLgNXk5hNkzALC0Rs0rhPIFb_OdLMooXhcSfWClAPwZvmZyZvQVxnE1gf95OfRuu1ZtKO3dq0JuaAMDsycdq.yujlWAVyOC8B4KQ6RGXNlsJmi4PVPtSlvMU9H7UUlDtwRC4ox_5IphbkuzY0iZhF7W2zHGZIeWCUMjwON4qryw7Gm2R46jeBQO.vMNTPoCKYUKPPpScXmilkvUvv1oa66nm7KbN1.goZJRFDUoTdLD7y4Qcky6u.hzV6BrPmqTFVda1q_lBlYIlHsWVN7lBAK2UoSJtegI3LrWdzx40hdVwD0v_P.0l6CSUDm6SbUspUe_duWBQ6ognF.Er4TK0we7eWluRJJJIegD53oj3xugX2M2cdF_M.gsafMCxd6H1by.1DEVTx_.zX0cFh9fmz8I8O5IPDKTaOztayPNj2ZYxXoJDMdnByyBvnWO3ZFU590V9U35eRz2s3hiRuDeocZg7fTOghZImCS8SWzx6Az3Q.p5MX3PKGitKRr6lV.R96HUM81WubMcS45OkJjBiXDxRyJKEpNBA_3XB19ZiZACLnsr2zQLCK.UNV6IsdDkodoaPjoqFFR1HA6_DZozsPJibusR8U2Gt2Bn5sFgXbCQ04w.DhJkTL.6.TBxw2JWNhqM3xoZoiOmMrqDBSBlzraquJHsMN_1WTBIn7OelIRbyc.c.dMYcq4ADe6MyURIge0ESoDgJQAyozwMgiS9PdMHcbbhzLKepd6UXSgl0BKjEp04pGx1FFTMY2ZlXacoNJS5AfimTW_AYglz8x2FatHvr1oI3eA._tNDWdYCr3a8l2seVYJ3pLHN7ti5yfP60PGuuN4t3vINcOJsAd4PFwgz4hL6Cwkr_WPPUbE7mSFTU_so6ojIbJc0tGZeo1AQ5UCH5Gdw.17tcO5ntftEz0EJARHXyXBSIIDat4piIQ9MeAPsCgDez1876ei.ToS6vx9TGyRtgzfZvLnB7uMXA0Wvl3bnV3mWHFAk.1e2pHsX0dABNNr8fLVq6wYm2axH0u7FjovMPi4s_u4WBH1Y19nPqWslz304qL7QWMZ0arB77TkV4oxPRUjyoGS_qVRasYb02PR7lZMgupTPoj7jgm5HDNYDMLW8HLX3Mc2JMi5awmGwK5rhSwcDx_UlPfFUeawU.d0jxGhCYZqyUXUVVJ9iXQFaasqL0lexETuJHPt8DjadRMYecuysoV.cF1ch8uUQPWsEppxmpZ28h8UnxLardAJBAsVjWSOeSwIK0biGrHmghFh7KgEoHUAMzCMpma84Mfvmj..BKa_k8aiOuwqoMS4Qd3IIq8VJjBF7YZCxjslY4w0iQFQ5SFdYFkE9ySpkqokXF7q2cvG_3cphEVNS0HkIikpbOV6F596YJpN1gQLY1CKfDjC9vInNMcS4LosxpJwBBP3gLUmta5qc.iQQ9Eu_hZgjwUOQWqEtZ6DVBno0oHo8GhId3qXNsgveN_iqr1AsLYKIxHgvObEJs778u0HyrEQjNLahaiWljUe1291pKBcaYqZ_oSg4Z9mMYw.yXOiXlNQ3vVTylnwzxDBh1PcgZ_ok6mlxkZJDlMcblMNxWCN0liJOItZ0II_LV4wuPFZwNFMe1B.Lt19t3YIzadWJyNRX2hCiVZ47rOif5sZ3z7qR4aprM13tcyR3Yk7eBuFZhtQk9Lq.0BY60Gb22KvWeiQNP4gzfNRNY5RUdDVqDFt.qOdlUD33bBNBM4PdrOSFKm_rJJitIzRRVEm99SbjVnISRyWxyGKiKoMEss2uFyLCWTM2dZ124cXi2oNFjId5iSkviA2ydhl_16ZPpIovNkFUkO85bmkc89_WSs0j8.BmmCQnv61_b44cP0yufwIkRUcL3o"};var cpo = document.createElement(\'script\');cpo.src = \'/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=9053fc1f7ab1eade\';window._cf_chl_opt.cOgUHash = location.hash === \'\' && location.href.indexOf(\'#\') !== -1 ? \'#\' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === \'\' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf(\'?\') !== -1 ? \'?\' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null, "\\/api\\/v1\\/passport\\/auth\\/register?__cf_chl_rt_tk=ETgmpPkPg.7FfFiuwfnMiFwU5OOTojmKqgJnDRXcm.E-1737427701-1.0.1.1-2Bu3rnnrXQMrdPN18Aod0uq8muM6.w80zVlZSy6o8cQ" + window._cf_chl_opt.cOgUHash);cpo.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName(\'head\')[0].appendChild(cpo);}());</script></body></html>')
+更新订阅链接/续费续签失败  注册失败(dqmcshcgz79@gmail.com): 本站已关闭注册
 
-[ztnet.io]
+[baigou.kkhhddnn.cn]
 
-[suyunti557.com]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(byvelzxqe91@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[socloud.cc]
-name  SoCloud
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"jmkluztsp439@555.anztyy.shop","success":"false"}'
-
-[app.kissiya.com]
-
-[www.98kjsq.com]
-
-[mxwljsq.com]
-name  猫熊网络加速器
-type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(kwdhtpahd27@guerrillamail.biz): {'ret': 0, 'msg': '邮箱不在白名单内'}
-
-[www.xiaomeivpn.org]
-
-[www.letsconn.com]
-
-[极速时代.com]
-
-[www.v2aky.net]
-
-[acc.xiaoheihe.cn]
-
-[v2.fastlink-aff02.com]
-
-[cave99.com]
-name  CloudCave
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(kagqdtwvu772@gmail.com): 请点击按钮进行验证
-
-[ss.cn88.net]
-
-[machbbs.com]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(asayaerno654@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[www.chetee.com]
-
-[qingkuai.org]
-
-[fbaff20231021.fyb-aff02.com]
-auto_invite  F
-buy  pass
-email  csmmwfp553@gmail.com
-last_checkin  2025-01-21 10:48:26.596472+08:00
-name  FlyingBird
-sub_info  0B  113M  2025-01-20 10:48:24+08:00  (剩余 113M -2 days, 23:57:50.184491)
-sub_url  https://fbapiv3.fbsublink.com/flydsubal/yfx3xvxer7ny6xlq?sub=3
-time  2025-01-21 10:48:28.727562+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[daxun.info]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(svtipfols646@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[sjiasu.com]
-error  'host'
-name  S加速
-type  v2board
-更新订阅链接/续费续签失败  注册失败(hkvnoaag461@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
-
-[www.fastlink.pro]
-auto_invite  F
-buy  pass
-email  agpnhiy558@gmail.com
-last_checkin  2025-01-21 10:48:25.274344+08:00
-name  FASTLINK
-sub_info  0B  159M  2025-01-20 10:48:23+08:00  (剩余 159M -2 days, 23:59:54.056841)
-sub_url  https://fldyv1.bmr5j1.com/zvlqjih1t/ir5zbqzv8hsegezt?sub=3
-time  2025-01-21 10:48:26.397004+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[blog.xinmedia.com]
-
-[www.leidianjiasu.com]
-
-[any01.cc]
-
-[ucjiasuqi.com]
-
-[www.zy-zk.com]
-
-[juzicloud.net]
-name  桔子云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(gtdmbjb987@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[mojie.nl]
-buy  pass
-email  bpnkqei396@gmail.com
-name  魔戒.net
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://onlysub.mjurl.com/api/v1/client/subscribe?token=f058b924a3445d4c033f2d76b2aecfa7
-time  2025-01-21 10:48:27.629813+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[www.sixfast8.com]
-
-[www.sgdjsq.com]
-
-[heiziv.flyb-aff01.com]
-auto_invite  F
-buy  pass
-email  tdqupph713@gmail.com
-last_checkin  2025-01-21 10:48:28.296120+08:00
-name  FlyingBird
-sub_info  0B  112M  2025-01-20 10:48:25+08:00  (剩余 112M -2 days, 23:59:45.828957)
-sub_url  https://fbapiv3.fbsublink.com/flydsubal/uktdaby4dsnh5azb?sub=3
-time  2025-01-21 10:48:30.285602+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[dlercloud.com]
-
-[newspaper.jcrb.com]
-
-[www.lingti.com]
-
-[www.tanzcloud.com]
-name  飞毯加速
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(mtjtdypi652@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[www.machbbs.com]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(frljgdl718@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[www.doveee.com]
-
-[bat.vpnb.net]
-name  Login to your account - BatVPN
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(mflepzfdb354@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="utf-8" />\n <meta http-equiv="X-UA-Compatible" content="IE=edge">\n <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">\n <link rel="apple-touch-icon" sizes="76x76" href="/theme/material-dashboard-pro/img/apple-icon.png">\n <link rel="icon" type="image/png" href="/theme/material-dashboard-pro/img/favicon.png">\n <title>Internal server error - BatVPN</title>\n <meta name="keywords" content="VPN, easy -to -use VPN, speed VPN, stable VPN, the safest VPN" />\n <meta name="description" content="BatVPN provides a stable VPN service. The industry has a very high line rate, excellent user evaluation, high cost performance than peer competition, easy installation and use, customer service service rapid response, unique anti -blocking agreement, special optimization for Chinese lines, careful intentions, intentional intentions Serving Chinese overwall users" />\n <!-- Styling -->\n <!-- Fonts -->\n <link href="/theme/material-dashboard-pro/css/css.css?family=Roboto300,400,500,700,900Roboto+Slab400,700" rel="stylesheet">\n <!-- Icons -->\n <link href="/theme/material-dashboard-pro/css/nucleo-icons.css" rel="stylesheet">\n <link href="/theme/material-dashboard-pro/css/nucleo-svg.css" rel="stylesheet">\n\n <!-- Font Awesome Icons 本地化-->\n <link rel="stylesheet" href="/theme/material-dashboard-pro/css/plugins/fontawesome/free.min.css">\n <link rel="stylesheet" href="/theme/material-dashboard-pro/css/plugins/fontawesome/free-v4-shims.min.css">\n <link rel="stylesheet" href="/theme/material-dashboard-pro/css/plugins/fontawesome/free-v4-font-face.min.css">\n\n <!-- CSS Files -->\n <link href="/theme/material-dashboard-pro/css/material-dashboard.min.css" rel="stylesheet">\n <link href="/theme/material-dashboard-pro/css/icon.css?family=Material+Icons+Round" rel="stylesheet">\n\n <link href="/theme/material-dashboard-pro/css/custom.css" rel="stylesheet">\n\n <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n <!-- WARNING: Respond.js doesn\'t work if you view the page via file:// -->\n <!--[if lt IE 9]>\n <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>\n <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>\n <![endif]-->\n <script src="/theme/material-dashboard-pro/js/jquery.min.js"></script>\n</head>\n<body class="g-sidenav-show bg-gray-200">\n \n <!--aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-2 fixed-start ms-2" id="sidenav-main">\n <div class="sidenav-header">\n <i class="fas fa-times p-3 cursor-pointer opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>\n <a href="javascript:location.reload();" class="navbar-brand m-0 d-flex">\n <img src="/theme/material-dashboard-pro/img/logo-ct-dark.svg" alt="Co.,Ltd." class="navbar-brand-img h-100">\n <span class="h5 ms-1 font-weight-bold text-white Co">batvpn</span>\n </a>\n </div>\n <div class="collapse navbar-collapse w-auto h-auto">\n <ul class="navbar-nav">\n <hr class="horizontal mt-0 mb-2 dark">\n <li class="nav-item">\n <a class="nav-link text-white" href=".php">\n <i class="material-icons-round">home</i>\n <span class="sidenav-normal ms-2 ps-1">yyy</span>\n </a>\n </li>\n\n </ul>\n </div>\n </aside-->\n\n <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">\n <!-- Navbar -->\n <nav class="navbar navbar-main navbar-expand-lg position-sticky mt-2 top-2 px-0 mx-2 shadow-none border-radius-xl z-index-sticky" id="navbarBlur111" data-scroll="true" style="-webkit-backdrop-filter:saturate(200%) blur(30px);backdrop-filter:saturate(200%) blur(30px);background-color:hsla(0,0%,100%,.1)!important;">\n <div class="container container-fluid py-1 px-3">\n <!--div class="sidenav-toggler sidenav-toggler-inner d-xl-block d-none">\n <a href="javascript:;" class="nav-link text-white p-0">\n <div class="sidenav-toggler-inner">\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n </div>\n </a>\n </div>\n <li class="nav-item d-xl-none d-flex align-items-center">\n <a href="javascript:location.reload();" class="navbar-brand m-0 d-flex">\n <img src="/theme/material-dashboard-pro/img/logo-ct-dark.svg" alt="batvpn" class="navbar-brand-img h-100 me-3">\n </a>\n <a href="javascript:;" class="nav-link p-0 text-white" id="iconNavbarSidenav">\n <div class="sidenav-toggler-inner">\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n </div>\n </a>\n </li-->\n\n <a href="/" class="navbar-brand m-0">\n <img src="" class="h-100">\n <span class="sidenav navbar-collapse"></span>\n </a>\n\n <i class="fas fa-times p-3 cursor-pointer opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>\n <a href="/" class="navbar-brand m-0 d-flex">\n <img src="/theme/material-dashboard-pro/img/logo-ct-dark.svg" alt="Co.,Ltd." class="navbar-brand-img h-100">\n <span class="h5 ms-1 font-weight-bold text-white Co">batvpn</span>\n </a>\n\n <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">\n <div class="ms-md-auto pe-md-3 d-flex align-items-center">\n </div>\n <ul class="navbar-nav justify-content-end align-items-center">\n <li class="nav-item d-flex px-0">\n <div class="searchContainer d-flex input-group input-group-sm input-group-outline">\n <input type="text" class="form-control form-control-sm" placeholder="输入搜索的问题" id="searchInput" style="display:none;width:150px;">\n <span class="me-0 p-2 d-flex" id="searchToggle">\n <i class="fas fa-search" aria-hidden="true"></i>\n </span>\n </div>\n <script>\n $(document).ready(function() {\n $(\'#searchToggle\').click(function() {\n if ($(\'#searchInput\').is(\':hidden\')) {\n $(\'#searchInput\').animate({\n width: \'toggle\',\n paddingRight: \'toggle\',\n paddingLeft: \'toggle\'\n },\n 500);\n } else {\n performSearch()\n }\n });\n $(document).click(function(e) {\n if (!$(e.target).closest(\'.searchContainer\').length) {\n $(\'#searchInput\').animate({\n width: \'hide\',\n paddingRight: \'hide\',\n paddingLeft: \'hide\'\n },\n 500);\n }\n });\n $(\'#searchInput\').on(\'keydown\', function(e) {\n if ($(this).is(\':visible\') && e.key === \'Enter\') {\n performSearch();\n }\n });\n function performSearch() {\n const searchQuery = $(\'#searchInput\').val();\n const searchUrl = \'/help#\'+searchQuery;\n window.open(searchUrl, \'_blank\');\n }\n });\n </script> </li>\n <li class="nav-item d-flex align-items-center px-2 d-sm-inline d-none">\n <a href="/invite" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-users me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Invite Rebate</span>\n </a>\n </li>\n <li class="nav-item d-flex dropdown px-0 d-lg-inline d-none">\n <div class="dropdown">\n <a role="button" class="dropdown-toggle position-relative nav-link text-white font-weight-bold" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">\n <i class="fa fa-download me-0" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">download</span>\n </a>\n <div class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" aria-labelledby="dropdownMenuBlocks">\n <ul class="list-group">\n <a class="dropdown-header font-weight-bolder d-flex align-items-center" href="/download">\n <i class="material-icons opacity-6 me-2 text-md">download</i>\n <span>download</span>\n </a>\n <a href="/download/windows" class="dropdown-item border-radius-md">\n <span class="ps-2">Windows</span>\n </a>\n <a href="/download/macos" class="dropdown-item border-radius-md">\n <span class="ps-2">MacOS</span>\n </a>\n <a href="/download/linux" class="dropdown-item border-radius-md">\n <span class="ps-2">Linux</span>\n </a>\n <a href="/download/ios" class="dropdown-item border-radius-md">\n <span class="ps-2">iOS</span>\n </a>\n <a href="/download/android" class="dropdown-item border-radius-md">\n <span class="ps-2">Android</span>\n </a>\n </ul>\n </div>\n </div>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-sm-inline d-none">\n <a href="/apps" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-cogs me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">install</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-inline d-none">\n <a href="/nodes" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-globe me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Node Link</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-sm-inline d-none">\n <a href="/pricing" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-tag me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">price</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-inline d-none">\n <a href="/announcements" class="dropdown nav-link text-white font-weight-bold px-0">\n <i class="fa fa-bell me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Announcements</span>\n <span class="position-absolute top-5 start-100 translate-middle badge rounded-pill bg-danger border border-white small py-1 px-2">\n <span class="small">1</span>\n </span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-inline d-none">\n <a href="/contact" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-comment me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Contact Us</span>\n </a>\n </li>\n <li class="nav-item dropdown px-2 d-flex">\n\n <div class="dropdown dropdown-language">\n <a href="#" class="dropdown-toggle nav-link text-white font-weight-bold px-0" data-bs-toggle="dropdown" aria-expanded="false" id="dropdown-flag">\n <img src="/theme/material-dashboard-pro/img/flags/en.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 flag-icon" alt="">\n <span class="d-lg-inline-block d-none selected-language">English</span>\n </a>\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" aria-labelledby="dropdown-flag">\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/en.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n English\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/zh/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/zh.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 简体中文\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/zh-tw/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/zh-tw.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 繁體中文\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/ja/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/ja.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 日本語\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/ko/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/ko.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 한국어\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/fa/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/fa.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n Persian\n </a>\n </li>\n </ul>\n </div>\n \n </li>\n <li class="nav-item dropdown px-2 d-lg-inline d-none">\n <div class="dropdown">\n <a href="javascript:void(0);" class="dropdown-toggle position-relative nav-link text-white font-weight-bold px-0 nav-link-style" data-bs-toggle="dropdown" aria-expanded="false" id="navbarDropdownMenuLink3">\n <i class="fa fa-anchor"></i>\n </a>\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4 nav-link-style-dropdown" aria-labelledby="navbarDropdownMenuLink3">\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-anchor me-sm-1"></i> Follow system\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-adjust me-sm-1"></i> Follow day and night\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-sun me-sm-1"></i> Light\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-moon me-sm-1"></i> Dark\n </a>\n </li>\n </ul>\n </div>\n </li>\n <!--li class="nav-item dropdown px-2">\n <a href="javascript:;" class="nav-link text-white p-0" id="accountNotifications" data-bs-toggle="dropdown" aria-expanded="false">\n <i class="fa fa-bell me-sm-1 cursor-pointer"></i>\n <span class="d-sm-inline d-none"></span>\n <span class="label label-info"></span>\n <span class="position-absolute top-5 start-100 translate-middle badge rounded-pill bg-danger border border-white small py-1 px-2">\n <span class="small">11</span>\n <span class="visually-hidden">unread notifications</span>\n </span>\n </a>\n\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" style="min-width:20rem;" aria-labelledby="accountNotifications">\n <li>\n <a class="dropdown-item border-radius-md" href="">\n <div class="d-flex align-items-center py-1">\n <i class="fas fa-fw fa-"></i>\n <div class="ms-2">\n <h6 class="text-sm font-weight-normal my-auto" style="white-space: normal;">\n \n </h6>\n </div>\n </div>\n </a>\n </li>\n </ul>\n </li-->\n <li class="nav-item d-flex align-items-center px-2">\n <a href="/login" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-user me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Login</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-none">\n <a href="javascript:document.querySelector(\'.fixed-plugin\').classList.add(\'show\');" class="nav-link text-body p-0">\n <div class="sidenav-toggler-inner">\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n </div>\n </a>\n </li>\n </ul>\n \n </div>\n </div>\n </nav>\n <!-- End Navbar -->\n\n\n<section class="min-vh-100 d-flex align-items-center">\n<div class="container">\n<div class="row mt-lg-0 mt-8">\n<div class="col-lg-5 my-auto">\n<h1 class="display-1 text-bolder text-gradient text-warning fadeIn1 fadeInBottom mt-5">Error 500</h1>\n<h2 class="fadeIn3 fadeInBottom opacity-8">Something went wrong</h2>\n<p class="lead opacity-6 fadeIn2 fadeInBottom">Internal Server Error.</p>\n<a type="button" href="/" class="btn bg-gradient-warning mt-4 fadeIn2 fadeInBottom">Go to Homepage</a>\n</div>\n<div class="col-lg-7 my-auto">\n<img class="w-100 fadeIn1 fadeInBottom" src="/theme/material-dashboard-pro/img/illustrations/error-500.png" alt="500-error">\n</div>\n</div>\n</div>\n</section>\n\n <!-- -------- START FOOTER 1 w/ COMPANY DESCRIPTION AND 4 COLS ------- -->\n <footer class="footer py-7">\n <div class="container">\n <div class="row">\n <div class="col-lg-3 mb-5 mb-lg-0">\n <h6 class="text-uppercase mb-2">About us</h6>\n <p class="mb-4 pb-2">\n <span>BatVPN has been leading the VPN industry for over a decade. With a strict no-logs policy, world-class servers, and transparent open source software, we put your online privacy, security and freedom above all else.</span>\n </p>\n <a href="https://www.facebook.com/batvpncom" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-facebook"></span>\n </a>\n <a href="https://twitter.com/batvpn" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-twitter"></span>\n </a>\n <a href="https://t.me/bat_vpn" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-telegram"></span>\n </a>\n <a href="https://www.instagram.com/batvpn" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-instagram"></span>\n </a>\n <a href="https://www.pinterest.com/batvpn/" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-pinterest"></span>\n </a>\n <a href="https://www.github.com/batvpn/" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-github"></span>\n </a>\n <a href="/theme/material-dashboard-pro/img/illustrations/batvpnSite.png" download="BatVPN.png"><img class="content-wrapper-img w-20" src="/theme/material-dashboard-pro/img/illustrations/batvpnQRcode.png" alt="BatVPN 永久官网 二维码" onclick="saveImage1(this)">保存网址</a>\n </div>\n <div class="col-md-2 col-6 ms-lg-auto mb-md-0 mb-4">\n <h6 class="text-sm">Company</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n About Us\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Careers\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Press\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Blog\n </a>\n </li>\n </ul>\n </div>\n\n <div class="col-md-2 col-6 mb-md-0 mb-4">\n <h6 class="text-sm">Pages</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n <span>Login</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n <span>Signup</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Add list\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/contact" target="_blank">\n <span>Contact Us</span>\n </a>\n </li>\n </ul>\n </div>\n\n <div class="col-md-2 col-6 mb-md-0 mb-4">\n <h6 class="text-sm">Legal</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/termsofservice" target="_blank">\n <span>Terms of Service</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/about" target="_blank">\n <span>About Us</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Team\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/privacypolicy" target="_blank">\n <span>Privacy Policy</span>\n </a>\n </li>\n </ul>\n </div>\n\n <div class="col-md-2 col-6 mb-md-0 mb-4">\n <h6 class="text-sm">Resources</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/blog/zh/" target="_blank">\n 博客\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/help" target="_blank">\n 帮助\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/help" target="_blank">\n 常见问题\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/pricing" target="_blank">\n <span>price</span>\n </a>\n </li>\n </ul>\n </div>\n </div>\n <hr class="horizontal dark mt-lg-5 mt-4 mb-sm-4 mb-1">\n <div class="row">\n <div class="col-8 mx-lg-auto text-lg-center">\n <p class="text-sm text-secondary">\n Copyright © <script>document.write(new Date().getFullYear())</script> by BatVPN\n </p>\n </div>\n </div>\n </div>\n </footer>\n </main>\n <!-- -------- END FOOTER 1 w/ COMPANY DESCRIPTION AND 4 COLS ------- -->\n <div class="modal fade" id="modalAjax" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-bs-focus="false">\n <div class="modal-dialog modal-dialog-centered" role="document">\n <div class="modal-content">\n <div class="modal-header">\n <h5 class="modal-title font-weight-normal" id="exampleModalLabel"></h5>\n <button type="button" class="btn-close text-dark" data-bs-dismiss="modal" aria-label="Close">\n <span aria-hidden="true">&times;</span>\n </button>\n </div>\n <div class="modal-body">\n \n </div>\n <div class="modal-footer">\n <button type="button" class="btn bg-gradient-secondary" data-bs-dismiss="modal">取消</button>\n <button type="button" class="btn bg-gradient-primary">确定</button>\n </div>\n </div>\n </div>\n </div>\n <div class="toast-container">\n </div>\n\n <div class="fixed-plugin">\n \n <!--a class="fixed-plugin-button text-dark position-fixed px-3 py-2">\n <i class="material-icons py-2">mark_chat_unread</i>\n </a-->\n \n <div class="card shadow-lg">\n <div class="card-header pb-0 pt-3">\n <div class="float-start">\n <h5 class="mt-3 mb-0">BatVPN</h5>\n <p></p>\n </div>\n <div class="float-end mt-4">\n <button class="btn btn-link text-dark p-0 fixed-plugin-close-button">\n <i class="material-icons">clear</i>\n </button>\n </div>\n <!-- End Toggle Button -->\n </div>\n <hr class="horizontal dark my-1">\n <div class="card-body pt-sm-3 pt-0">\n <!-- Sidebar Backgrounds -->\n <div>\n <!--h6 class="mb-0">Sidebar Colors</h6-->\n </div>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/invite" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-users me-sm-2" aria-hidden="true"></i>\n <span class="">Invite Rebate</span>\n </a>\n </li>\n <li class="nav-item d-flex dropdown align-items-center px-3 pt-3">\n <div class="dropdown">\n <a role="button" class="dropdown-toggle position-relative nav-link text-white font-weight-bold" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">\n <i class="fa fa-download me-sm-1" aria-hidden="true"></i>\n <span>download</span>\n </a>\n <div class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" aria-labelledby="dropdownMenuBlocks">\n <ul class="list-group">\n <a class="dropdown-header font-weight-bolder d-flex align-items-center" href="/download">\n <i class="material-icons opacity-6 me-2 text-md">download</i>\n <span>download</span>\n </a>\n <a href="/download/windows" class="dropdown-item border-radius-md">\n <span class="ps-2">Windows</span>\n </a>\n <a href="/download/macos" class="dropdown-item border-radius-md">\n <span class="ps-2">MacOS</span>\n </a>\n <a href="/download/linux" class="dropdown-item border-radius-md">\n <span class="ps-2">Linux</span>\n </a>\n <a href="/download/ios" class="dropdown-item border-radius-md">\n <span class="ps-2">iOS</span>\n </a>\n <a href="/download/android" class="dropdown-item border-radius-md">\n <span class="ps-2">Android</span>\n </a>\n </ul>\n </div>\n </div>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/apps" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-cogs me-sm-2" aria-hidden="true"></i>\n <span class="">install</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/nodes" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-globe me-sm-2" aria-hidden="true"></i>\n <span class="">Node Link</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/pricing" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-tag me-sm-2" aria-hidden="true"></i>\n <span class="">price</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/announcements" class="dropdown nav-link text-white font-weight-bold px-0">\n <i class="fa fa-bell me-sm-2" aria-hidden="true"></i>\n <span class="">Announcements</span>\n <span class="position-absolute top-5 start-100 translate-middle badge rounded-pill bg-danger border border-white small py-1 px-2">\n <span class="small">1</span>\n </span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/contact" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-comment me-sm-2" aria-hidden="true"></i>\n <span class="">Contact Us</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/help" class="nav-link text-white font-weight-bold px-0">\n <i class="fas fa-question me-sm-2" aria-hidden="true"></i>\n <span class="">Help</span>\n </a>\n </li>\n <li class="nav-item dropdown d-flex align-items-center px-3 pt-3">\n <div class="dropdown">\n <a href="javascript:void(0);" class="dropdown-toggle nav-link text-white font-weight-bold px-0" data-bs-toggle="dropdown" aria-expanded="false" id="navbarDropdownMenuLink6">\n <i class="fa fa-anchor me-sm-2"></i>\n <span class="">系统风格</span>\n </a>\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4 nav-link-style-dropdown" aria-labelledby="navbarDropdownMenuLink6">\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-anchor me-sm-1"></i> Follow system\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-adjust me-sm-1"></i> Follow day and night\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-sun me-sm-1"></i> Light\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-moon me-sm-1"></i> Dark\n </a>\n </li>\n </ul>\n </div>\n </li>\n\n <!--a href="javascript:void(0)" class="switch-trigger background-color">\n <div class="badge-colors my-2 text-start">\n <span class="badge filter bg-gradient-primary active" data-color="primary" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-dark" data-color="dark" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-info" data-color="info" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-success" data-color="success" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-warning" data-color="warning" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-danger" data-color="danger" onclick="sidebarColor(this)"></span>\n </div>\n </a-->\n <!-- Sidenav Type -->\n <!--div class="mt-3">\n <h6 class="mb-0">Sidenav Type</h6>\n <p class="text-sm">Choose between 2 different sidenav types.</p>\n </div-->\n <div class="d-flex d-none">\n <button class="btn bg-gradient-dark px-3 mb-2 active" data-class="bg-gradient-dark" id="bg-gradient-dark" onclick="sidebarType(this)">Dark</button>\n <button class="btn bg-gradient-dark px-3 mb-2 ms-2" data-class="bg-transparent" id="bg-transparent" onclick="sidebarType(this)">Transparent</button>\n <button class="btn bg-gradient-dark px-3 mb-2 ms-2" data-class="bg-white" id="bg-white" onclick="sidebarType(this)">White</button>\n </div>\n <!--p class="text-sm d-xl-none d-block mt-2">You can change the sidenav type just on desktop view.</p>\n <!-- Navbar Fixed -->\n <!--div class="mt-3 d-flex">\n <h6 class="mb-0">Navbar Fixed</h6>\n <div class="form-check form-switch ps-0 ms-auto my-auto">\n <input class="form-check-input mt-1 ms-auto" type="checkbox" id="navbarFixed" onclick="navbarFixed(this)">\n </div>\n </div>\n <hr class="horizontal dark my-3">\n <div class="mt-2 d-flex">\n <h6 class="mb-0">Sidenav Mini</h6>\n <div class="form-check form-switch ps-0 ms-auto my-auto">\n <input class="form-check-input mt-1 ms-auto" type="checkbox" id="navbarMinimize" onclick="navbarMinimize(this)">\n </div>\n </div>\n <hr class="horizontal dark my-3">\n <div class="mt-2 d-flex">\n <h6 class="mb-0">Light / Dark</h6>\n <div class="form-check form-switch ps-0 ms-auto my-auto">\n <input class="form-check-input mt-1 ms-auto" type="checkbox" id="dark-version" onclick="darkMode(this)">\n </div>\n </div-->\n <hr class="horizontal dark my-sm-4">\n <a class="btn bg-gradient-success w-100" href="/pricing">购买服务</a>\n <a class="btn bg-gradient-primary w-100" href="/login">Login</a>\n <a class="btn btn-outline-dark w-100" href="/signup">Signup</a>\n <!--div class="w-100 text-center">\n <a class="github-button" href="" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star creativetimofficial/material-dashboard on GitHub">Star</a>\n <h6 class="mt-3">Thank you for sharing!</h6>\n <a href="" class="btn btn-dark mb-0 me-2" target="_blank">\n <i class="fab fa-twitter me-1" aria-hidden="true"></i> Tweet\n </a>\n <a href="" class="btn btn-dark mb-0 me-2" target="_blank">\n <i class="fab fa-facebook-square me-1" aria-hidden="true"></i> Share\n </a>\n </div-->\n <hr class="horizontal dark my-sm-4">\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/theme/material-dashboard-pro/img/illustrations/batvpnSite.png" download="BatVPN.png" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-save me-sm-2" aria-hidden="true"></i>\n <span class="">收藏我们的网址</span>\n <img class="content-wrapper-img w-60" src="/theme/material-dashboard-pro/img/illustrations/batvpnQRcode.png" alt="BatVPN 永久官网 二维码" onclick="saveImage1(this)">\n </a>\n </li>\n </div>\n\n <!-- Core -->\n <script src="/theme/material-dashboard-pro/js/core/popper.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/core/bootstrap.min.js"></script>\n \n <!-- Font Awesome Icons 本地化-->\n <!--script src="/theme/material-dashboard-pro/js/fontawesome.js" crossorigin="anonymous"></script-->\n\n <script src="/theme/material-dashboard-pro/js/plugins/sweetalert.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/perfect-scrollbar.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/smooth-scrollbar.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/choices.min.js"></script>\n <!--script src="/theme/material-dashboard-pro/js/plugins/multistep-form.js"></script-->\n <script src="/theme/material-dashboard-pro/js/plugins/dragula/dragula.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/jkanban/jkanban.js"></script>\n <!--script src="/theme/material-dashboard-pro/js/plugins/i18next/i18next.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/i18next/i18nextHttpBackend.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/jquery-i18next/jquery-i18next.min.js"></script-->\n <!-- Theme JS -->\n <script src="/theme/material-dashboard-pro/js/material-dashboard.js"></script>\n\n <!--script src="/theme/materialdashboardpro/js/plugins/bootstrap-selectpicker.js"></script-->\n <!--script src="/theme/materialdashboardpro/js/plugins/bootstrap-notify.js"></script-->\n <script src="/theme/material-dashboard-pro/js/plugins/qrcode/qrcode.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/clipboard/clipboard.min.js"></script>\n <script type="text/javascript">\n //点击显示密码\n $(".lookpasswd").click(function() {\n if($("input[type=\'password\']").attr("type") == "password"){\n $("input[type=\'password\']").attr("type", "textpasswd");\n $(".lookpasswd").children().attr("class", "fa fa-eye-slash")\n }else{\n $("input[type=\'textpasswd\']").attr("type","password");\n $(".lookpasswd").children().attr("class", "fa fa-eye")\n }\n });\n //Toast初始化\n //toastr(\'success\',\'hello\',\'can i help you\',\'top-0 end-0\',)\n function toastr(style,title,message,position,options) {\n var randomNumber = Math.floor(10000000+Math.random()*90000000) //随机8位数\n var newToastHTML = \'<div class="toast fade align-items-center bg-gradient-\'+style+\'" role="alert" aria-live="assertive" aria-atomic="true" id="toast_\'+style+\'_\'+randomNumber+\'" data-bs-delay="5000">\'+\n \'<div class="toast-body text-white">\'+\n message\n \'</div>\'+\n \'</div>\';\n $(\'.toast-container\').append(newToastHTML);\n $(\'.toast-container\').attr(\'class\',\'toast-container \'+position); //需在初始化之前 右上(top-0 end-0) 中上(top-0 start-50 translate-middle-x) 左上(top-0 start-0)\n if (title){\n var newToastTitle = \'<div class="toast-header bg-transparent border-0">\'+\n \'<i class="material-icons text-white me-2">campaign</i>\'+\n \'<span class="me-auto text-white font-weight-bold">\'+title+\'</span>\'+\n \'<small class="text-white">now</small>\'+\n \'<i class="fas fa-times text-md text-white ms-3 cursor-pointer" data-bs-dismiss="toast" aria-label="Close"></i>\'+\n \'</div>\'+\n \'<hr class="horizontal light m-0">\';\n $(\'#toast_\'+style+\'_\'+randomNumber).prepend(newToastTitle);\n }\n new bootstrap.Toast(\'#toast_\'+style+\'_\'+randomNumber).show(); //success info warning danger//需要使用随机id，来实现堆叠效果\n if (options) { //hide hidden show shown\n var optionsKey = Object.keys(options)[0]\n document.getElementById(\'toast_\'+style+\'_\'+randomNumber).addEventListener(optionsKey+\'.bs.toast\', () => {\n options[optionsKey]();\n })\n }\n }\n //菜单高亮\n //var urlstr = location.href;\n var urlstr = window.location.pathname; //获取当前路径\n var urlquery = window.location.search; //获取当前参数\n var urlstatus=false;\n //console.log(\'参数\'+(urlstr+urlquery))\n $(".navbar-nav > li > a, .navbar-nav > li > div > ul > li > a").each(function () {\n if ((urlstr+urlquery).indexOf($(this).attr(\'href\')) > -1 && $(this).attr(\'href\')!=\'\' && $(this).attr(\'href\') != \'/account\' && $(this).attr(\'href\') != \'/clientarea.php\') {\n $(this).addClass(\'active\').find(\'i.far.fa-circle\').removeClass(\'fa-circle\').addClass(\'fa-dot-circle\').siblings().removeClass(\'active\'); //子菜单选中\n $(this).parent().addClass(\'active\').siblings().removeClass(\'active\'); //子菜单上一级选中 以显示自定义选中色\n $(this).parent().parent().parent().addClass(\'show\').siblings().removeClass(\'active\'); //母菜单展开\n $(this).parent().parent().parent().prev().addClass(\'active\').siblings().removeClass(\'active\'); //母菜单选中\n $(this).parent().parent().parent().prev().attr(\'aria-expanded\',\'true\'); //母菜单右侧箭头\n urlstatus = true;\n }\n if (urlstr == \'/account\' && $(this).attr(\'href\') == \'/account\') {\n $(this).addClass(\'active\'); //子菜单选中\n }\n if ((urlstr+urlquery) == \'/clientarea.php\' && $(this).attr(\'href\') == \'/clientarea.php\') {\n $(this).addClass(\'active\'); //子菜单选中\n }\n });\n //侧边开关\n $(function() {\n if (localStorage.getItem(\'compactMenu\') == \'true\'){\n navbarMinimize("checked");\n }\n $(".sidenav-toggler").click(function(){\n if(localStorage.getItem(\'compactMenu\') == \'true\') {\n localStorage.setItem(\'compactMenu\', \'false\');\n }else{\n localStorage.setItem(\'compactMenu\', \'true\');\n }\n });\n });\n //alert(lightdark);\n // alert($(\'#styleSwitch\').val());\n //alert("checked"); followsystem\n //自动主题功能\n const mediaQueryListDark = window.matchMedia(\'(prefers-color-scheme: dark)\');\n var lightdark = mediaQueryListDark.matches ? \'dark\' : \'light\';\n //console.log(\'当前设备系统的主题：\', lightdark);\n function handleChange (mediaQueryListEvent) { //主题变动监控事件\n if (mediaQueryListEvent.matches) {\n //console.log(\'切换到了暗色(dark)主题：\', mediaQueryListDark.matches ? \'dark\' : \'light\');\n $("#bg-gradient-dark").click();\n darkMode("checked"); //禁用了隐藏工具栏l d 切换按钮\n } else {\n //console.log(\'切换到了亮色(light)主题：\', mediaQueryListDark.matches ? \'dark\' : \'light\');\n $("#bg-white").click();\n darkMode();\n }\n }\n function followsystem(){\n if(lightdark == \'dark\'){\n $("#bg-gradient-dark").click();\n darkMode("checked");\n }else{\n $("#bg-white").click();\n darkMode();\n }\n }\n function followtime(){\n var t = new Date().getHours();\n if (t >= 18 || t <= 6){\n //alert(t)\n $("#bg-gradient-dark").click();\n darkMode("checked");\n } else {\n $("#bg-white").click();\n darkMode();\n }\n }\n function whatFood(mealtime,skinHtml) { //应用风格动作\n if(skinHtml != null){\n $(".nav-link-style").html(skinHtml); //设置当前风格的图片\n }\n switch (mealtime) {\n case 0:\n followsystem(); //跟随系统风格\n mediaQueryListDark.addListener(handleChange); // 添加主题变动监控事件\n break;\n case 1:\n followtime(); //根据日出日落设置主题\n break;\n case 2:\n $("#bg-white").click();\n darkMode();\n break;\n case 3:\n $("#bg-gradient-dark").click();\n darkMode("checked");\n break;\n default: //如果未设置或者设置为跟随系统\n followsystem(); //跟随系统风格\n mediaQueryListDark.addListener(handleChange); // 添加主题变动监控事件\n //mediaQueryListDark.removeListener(handleChange); // 移除主题变动监控事件\n //console.log(\'当前主题：\', mediaQueryListDark.matches ? \'dark\' : \'light\');\n }\n }\n $(".nav-link-style-dropdown li").click(function() {\n var skinText=$(this).text().trim(); //获取文字\n var skinHtml=$(this).find(\'a\').html().replace(skinText,"").trim(); //获取图片\n //localStorage.setItem(\'light-layout-current-skin\', skinText);\n localStorage.setItem(\'light-layout-current-skin\', $(this).index());\n //$(".nav-link-style").html(skinHtml); //设置当前风格的图片\n whatFood($(this).index(),skinHtml);\n //console.log($(this).find(\'a\').html().replace(skinText,""));\n });\n var currentSkin = localStorage.getItem(\'light-layout-current-skin\')\n //console.log(currentSkin)\n if (!currentSkin) { //如果未设置风格\n whatFood();\n }else{\n $(".nav-link-style-dropdown li").each(function () {\n var skinText=$(this).text().trim(); //获取文字\n var skinHtml=$(this).find(\'a\').html().replace(skinText,"").trim(); //获取图片\n if($(this).index()==currentSkin){ //如果循环到的值等于获取的存储值 就选中\n whatFood($(this).index(),skinHtml);\n //console.log(skinHtml);\n return false; //跳出循环\n }\n })\n }\n if(lightdark ==\'\'){\n //$(".followsystem").attr(\'disabled\', true); //如果不支持风格就禁用按钮\n }\n //自动主题功能\n //自动语言设置\n /*\n var languageData = {\'zh-tw\':\'繁体中文\', \'zh\':\'简体中文\', \'en\':\'English\', \'ja\':\'日本語\', \'ko\':\'한국어\', \'fa\':\'Persian\'};\n $.each(languageData,function(index, value){\n //console.log(\'My array has at position \' + index + \', this value: \' + value);\n var dropdownList = \'<li>\'+\n \'<a class="dropdown-item border-radius-md" href=javascript:setLanguage("\'+index+\'") data-language="\'+index+\'">\'+\n \'<img src="/theme/material-dashboard-pro/img/flags/\'+index+\'.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2 flag-icon"/>\'+value\n \'</a>\'+\n \'</li>\'\n $(\'.dropdown-language\').find(\'.dropdown-menu\').append(dropdownList)\n });\n var params;\n var nowUrl = window.location.href; //获取当前url\n var nowUrlLanguage = nowUrl.indexOf("language=")!=-1 ? nowUrl.substr(1).match(new RegExp("(^|[?|&])language=([^&]*)(\\\\s|&|$)", "i"))[2] : \'\'; //获取当前url中的language值\n var urlquery = window.location.search; //获取当前参数\n var symbol;\n (urlquery)?symbol=\'&\':symbol=\'?\'; //有无参数区分加符号\n var lang = (navigator.language || navigator.browserLanguage).toLowerCase();\n var firstVisit = localStorage.getItem(\'firstVisit\')\n if (!firstVisit) { //如果第一次访问\n switch(lang){\n case \'ar\':\n case \'ar-ae\':\n case \'ar-bh\':\n case \'ar-dz\':\n case \'ar-eg\':\n case \'ar-iq\':\n case \'ar-jo\':\n case \'ar-qa\':\n case \'ar-qw\':\n case \'ar-kw\':\n case \'ar-lb\':\n case \'ar-ly\':\n case \'ar-ma\':\n case \'ar-om\':\n case \'ar-sa\':\n case \'ar-sy\':\n case \'ar-tn\':\n case \'ar-ye\':\n params = \'ar\'\n break;\n case \'az\':\n params = \'az\';\n break;\n case \'ca\':\n params = \'ca\';\n break;\n case \'zh-hk\':\n case \'zh-tw\':\n params = \'zh-tw\';\n break;\n case \'zh\':\n case \'zh-cn\':\n case \'zh-sg\':\n params = \'zh\';\n break;\n case \'hr\':\n params = \'hr\';\n break;\n case \'cs\':\n params = \'cs\';\n break;\n case \'da\':\n params = \'da\';\n break;\n case \'nl\':\n case \'nl-be\':\n params = \'nl\';\n break;\n case \'en\':\n case \'en-au\':\n case \'en-bz\':\n case \'en-ca\':\n case \'en-gb\':\n case \'en-ie\':\n case \'en-jm\':\n case \'en-nz\':\n case \'en-ph\':\n case \'en-tt\':\n case \'en-us\':\n case \'en-za\':\n case \'en-zw\':\n params = \'en\';\n break;\n case \'et\':\n params = \'et\';\n break;\n case \'fa\':\n case \'fa-ir\':\n params = \'fa\';\n break;\n case \'fr\':\n case \'fr-be\':\n case \'fr-ca\':\n case \'fr-ch\':\n case \'fr-fr\':\n case \'fr-lu\':\n case \'fr-mc\':\n params = \'fr\';\n break;\n case \'de\':\n case \'de-at\':\n case \'de-ch\':\n case \'de-de\':\n case \'de-li\':\n case \'de-lu\':\n params = \'de\';\n break;\n case \'ja\':\n params = \'ja\';\n break;\n case \'ko\':\n params = \'ko\';\n break;\n case \'he\':\n params = \'he\';\n break;\n case \'hu\':\n params = \'hu\';\n break;\n case \'it\':\n case \'it-ch\':\n params = \'it\';\n break;\n case \'mk\':\n params = \'mk\';\n break;\n case \'no\':\n case \'nb\':\n case \'nn\':\n params = \'no\';\n break;\n case \'pt-br\':\n params = \'pt-br\';\n break;\n case \'pt\':\n params = \'pt\';\n break;\n case \'ro\':\n params = \'ro\';\n break;\n case \'ru\':\n case \'ru-mo\':\n params = \'ru\';\n break;\n case \'es\':\n case \'es-ar\':\n case \'es-bo\':\n case \'es-cl\':\n case \'es-co\':\n case \'es-cr\':\n case \'es-do\':\n case \'es-ec\':\n case \'es-es\':\n case \'es-gt\':\n case \'es-hn\':\n case \'es-mx\':\n case \'es-ni\':\n case \'es-pa\':\n case \'es-py\':\n case \'es-pe\':\n case \'es-pr\':\n case \'es-sv\':\n case \'es-uy\':\n case \'es-ve\':\n params = \'es\';\n break;\n case \'si\':\n params = \'si\';\n break;\n case \'sv\':\n case \'sv-fi\':\n case \'sv-sv\':\n params = \'sv\';\n break;\n case \'tr\':\n params = \'tr\';\n break;\n case \'uk\':\n params = \'uk\';\n break;\n default:\n params = \'en\';\n }\n if(nowUrl.indexOf("language=") == -1 && params != firstVisit){ //如果正在设置语言并且站点设置的语言等于浏览器语言 不动作\n //window.location.href=nowUrl+symbol+\'language=\'+params; //修改远程语言后跳转\n }\n setLanguage(params)\n }else{ //非第一次访问，url方式改语言\n if(nowUrl.indexOf("language=") != -1 && params != firstVisit && params != nowUrlLanguage && nowUrlLanguage != firstVisit){ //如果url 有语言参数 需要严格模式容易发生bug造成多次请求\n //setLanguage(nowUrlLanguage);\n }\n }\n var language;\n if(firstVisit == null){ //第一次访问\n language = params //console.log(\'1\')\n }else{ //第n次\n language = firstVisit //console.log(\'2\')\n }\n if (language != null) {\n if(JSON.stringify(languageData).indexOf(language) == -1 ){ //如果当前设置语言不在语言数组内\n setLanguage(\'en\');\n }\n var selectedLang = $(\'.dropdown-language\').find(\'a[data-language=\' + language + \']\').text();\n var selectedFlag = $(\'.dropdown-language\').find(\'a[data-language=\' + language + \'] .flag-icon\').attr(\'src\');\n $(\'#dropdown-flag .selected-language\').text(selectedLang);\n $(\'#dropdown-flag .flag-icon\').attr("src", selectedFlag);\n\n i18next.use(i18nextHttpBackend).init({ //初始化i18n\n lng : language, //指定语言\n ns: [\'translation\'],\n load: \'languageOnly\',\n fallbackLng: \'en\',\n \n backend:{\n loadPath: \'/theme/material-dashboard-pro/locales/\'+language+\'.json\',\n //addPath: \'/theme/material-dashboard-pro/locales/en\',\n },\n debug:false\n },function(err, t){\n setTimeout(function(){\n $("body").localize(); // 通过body集体翻译\n },1)\n //$(\'[data-i18n]\').i18n(); // 通过选择器集体翻译\n //var temp = $.t("nav.home"); //通过t函数获得某个翻译的值\n jqueryI18next.init(i18next, $,{\n tName: \'t\', // --> appends $.t = i18next.t\n i18nName: \'i18n\', // --> appends $.i18n = i18next\n handleName: \'localize\', // --> appends $(selector).localize(opts);\n selectorAttr: \'data-i18n\', // selector for translating elements\n targetAttr: \'i18n-target\', // data-() attribute to grab target element to translate (if diffrent then itself)\n optionsAttr: \'i18n-options\', // data-() attribute that contains options, will load/set if useOptionsAttr = true\n useOptionsAttr: false, // see optionsAttr\n parseDefaultValueFromContent: true // parses default values from content ele.val or ele.text\n });\n //$(\'.nav\').localize();\n //$(\'.content\').localize();\n //$(\'[data-i18n]\').i18n(); // 通过选择器集体翻译\n //var temp = $.t("nav.home"); //通过t函数获得某个翻译的值\n });\n }*/\n function setLanguage(currentLanguage) { //设置语言\n /*$.i18n.init({\n lng : currentLanguage, //指定语言\n resGetPath : \'/theme/material-dashboard-pro/locales/\'+currentLanguage+\'.json\', \n },function(err, t){\n $("body").i18n();\n });*/\n localStorage.setItem(\'firstVisit\', currentLanguage); //增加保存语言设置\n //if(firstVisit != null) { //第一次访问不需要刷新\n location.reload()\n //};\n if(nowUrl.indexOf("language=") != -1){ //如果已经包含 //console.log(nowUrlLanguage) \n //window.location.href = nowUrl.replace(nowUrlLanguage, currentLanguage); //替换url其中一个参数值language\n }else{\n //window.location.href = nowUrl+symbol+\'language=\'+currentLanguage;\n }\n };\n </script>\n <!--识别客户端start-->\n <script type="text/javascript">\n if(/iPhone|iPad|iPod/i.test(navigator.userAgent) && /MicroMessenger|QQ/i.test(navigator.userAgent)){\n Swal.fire({\n imageUrl: \'/images/iossafari.png\',\n imageWidth: 100,\n imageHeight: 150,\n animation: false,\n confirmButtonClass: "btn btn-danger",\n html: \'Click the upper right button<i class="material-icons">more_horiz</i>Click Open in default browser\',\n showConfirmButton:false,\n allowOutsideClick:false,\n buttonsStyling: false,\n //icon: "danger"\n })\n }else if(/Android|Linux/i.test(navigator.userAgent) && /MicroMessenger|QQ/i.test(navigator.userAgent)){\n Swal.fire({\n imageUrl: \'/images/androidbrowser.png\',\n imageWidth: 100,\n imageHeight: 130,\n animation: false,\n confirmButtonClass: "btn btn-danger",\n html: \'Click the upper right button<i class="material-icons">more_horiz</i>Click Open with browser\',\n showConfirmButton:false,\n allowOutsideClick:false,\n buttonsStyling: false,\n //icon: "danger"\n })\n }/*else if(window.location.hash.indexOf(\'windows\') != -1){\n //alert(\'windows\');\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }else if(window.location.hash.indexOf(\'android\') != -1){\n //alert(\'android\');\n $("#ssr_android").addClass("active show"); \n $("#all_ssr_android").addClass("active show"); \n }else if(window.location.hash.indexOf(\'ios\') != -1){\n //alert(\'iphone和iPad\');\n $("#ssr_ios").addClass("active show"); \n $("#all_ssr_ios").addClass("active show"); \n }else if(window.location.hash.indexOf(\'mac\') != -1){\n //alert(\'mac\');\n $("#ssr_mac").addClass("active show"); \n $("#all_ssr_mac").addClass("active show"); \n }else if(window.location.hash.indexOf(\'linux\') != -1){\n //alert(\'linux\');\n $("#ssr_linux").addClass("active show"); \n $("#all_ssr_linux").addClass("active show"); \n }else if(/Windows/i.test(navigator.userAgent)){\n //alert(\'windows\');\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }else if(/Android/i.test(navigator.userAgent)){\n //alert(\'android\');\n $("#ssr_android").addClass("active show"); \n $("#all_ssr_android").addClass("active show"); \n }else if(/iPhone|iPad|iPod/i.test(navigator.userAgent)){\n //alert(\'iphone和iPad\');\n $("#ssr_ios").addClass("active show"); \n $("#all_ssr_ios").addClass("active show"); \n }else if(/Mac/i.test(navigator.userAgent)){\n //alert(\'mac\');\n $("#ssr_mac").addClass("active show"); \n $("#all_ssr_mac").addClass("active show"); \n }else if(/Linux/i.test(navigator.userAgent)){\n //alert(\'linux\');\n $("#ssr_linux").addClass("active show"); \n $("#all_ssr_linux").addClass("active show"); \n }else if(/Windows NT 5/i.test(navigator.userAgent)){\n //alert(\'xp\');\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }else{\n //alert("不支持的操作系统");\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }*/\n var osNames = ["windows", "android", "ios", "mac", "linux"];\n var userAgent = navigator.userAgent.toLowerCase();\n var hash = window.location.hash.toLowerCase();\n var urlHash\n for (var i = 0; i < osNames.length; i++) {\n var osName = osNames[i];\n var selector = "#ssr_" + osName + ", #all_ssr_" + osName;\n if (hash.indexOf(osName) !== -1) {\n $(selector).addClass("active show");\n urlHash = true\n break; // 如果匹配到一个操作系统，停止循环\n }\n }\n for (var i = 0; i < osNames.length; i++) {\n var osName = osNames[i];\n var selector = "#ssr_" + osName + ", #all_ssr_" + osName;\n if ((osName === "ios" && /iphone|ipad|ipod/i.test(userAgent)) || new RegExp(osName, "i").test(userAgent)) { //单独考虑ios的情况\n if(!urlHash){\n $(selector).addClass("active show");\n }\n $(".system").html(osName);\n break; // 如果匹配到一个操作系统，停止循环\n }\n }\n </script>\n <!--识别客户端end-->\n <script>\n //gravatar 头像方案\n if($(\'#email\').length > 0 && $(\'#email\').val() != ""){\n var url=\'\';\n var gravatar = \'www.gravatar.com\';\n var items=[\n //url,\n url.replace(gravatar,"www.gravatar.com"),\n url.replace(gravatar,"gravatar.w3tt.com"),\n url.replace(gravatar,"cdn.mwm.moe"),\n url.replace(gravatar,"gravatar.ews1.com"),\n url.replace(gravatar,"gravatar.kuibu.net"),\n url.replace(gravatar,"cdn.sep.cc"),\n url.replace(gravatar,"gravatar.webp.se"),\n url.replace(gravatar,"gravatar.loli.net"),\n url.replace(gravatar,"use.sevencdn.com"),\n url.replace(gravatar,"seccdn.libravatar.org"),\n url.replace(gravatar,"cn.gravatar.com"),\n ]; //ajax循环请求for的变形形式，避免循环停止不生效\n var gravatarIndex = 0;\n if($(\'#email\').val().indexOf("@qq.com") != -1){\n var qqNumber = $(\'#email\').val().replace(\'@qq.com\',\'\');\n //getGravatar("https://qlogo3.store.qq.com/qzone/"+qqNumber+"/"+qqNumber+"/100")\n //getGravatar("https://v1.alapi.cn/api/avatar?email="+qqNumber+"&size=100")\n getGravatar("https://q1.qlogo.cn/g?b=qq&nk="+qqNumber+"&s=100")\n //getGravatar("https://q2.qlogo.cn/headimg_dl?dst_uin="+qqNumber+"&spec=100");\n }else{\n getGravatar(items[gravatarIndex])\n }\n function getGravatar(itemUrl){\n if(gravatarIndex >= items.length){ //全部循环一遍\n return;\n }\n //console.log(gravatarIndex)\n function checkImage(url, success, error) { //判断图片是否可以访问 可避免跨域问题\n var img = new Image();\n img.onload = function() {\n success();\n };\n img.onerror = function() {\n error();\n };\n img.src = url;\n }\n //方案1 加载过程会反馈给浏览器\n /*checkImage(itemUrl, function(){\n //console.log(\'图片可以访问\');\n $(\'#gravatar\').attr("src", itemUrl);\n }, function() {\n //console.log(\'图片无法访问\');\n if($(\'#email\').val().indexOf("@qq.com") == -1){ //如果返回错误，自增id继续下一个循环，直到循环完为止 同时不是qq邮箱\n gravatarIndex++;\n getGravatar(items[gravatarIndex])\n console.log(gravatarIndex)\n }\n });*/\n //方案2\n if($(\'#email\').val().indexOf("@qq.com") != -1){\n checkImage(itemUrl, function(){\n //console.log(\'图片可以访问\');\n $(\'#gravatar\').attr("src", itemUrl);\n }, function() {\n //console.log(\'图片无法访问\');\n });\n }else{\n $.ajax({\n url: itemUrl,\n type: \'get\',\n async: true, //必须开启异步\n xhrFields:{ //二进制形式\n responseType: \'blob\'\n },\n timeout: 3000, // 设置超时时间，单位为毫秒\n success: function(res) {\n if(res) {\n var url = window.URL || window.webkitURL;\n $(\'#gravatar\').attr("src", url.createObjectURL(res));\n }\n },\n error : function (XMLHttpRequest, textStatus, errorThrown) {\n if(textStatus!=""){ //如果返回错误，自增id继续下一个循环，直到循环完为止\n gravatarIndex++;\n getGravatar(items[gravatarIndex])\n console.log(gravatarIndex)\n }\n },\n complete: function (XMLHttpRequest, textStatus) {\n if(textStatus!=""){\n }\n },\n });\n }\n }\n }\n </script>\n <!-- Matomo -->\n <script>\n var _paq = window._paq = window._paq || [];\n /* tracker methods like "setCustomDimension" should be called before "trackPageView" */\n _paq.push([\'trackPageView\']);\n _paq.push([\'enableLinkTracking\']);\n (function() {\n var u="//matomo.owlvpn.net/";\n _paq.push([\'setTrackerUrl\', u+\'matomo.php\']);\n _paq.push([\'setSiteId\', \'1\']);\n var d=document, g=d.createElement(\'script\'), s=d.getElementsByTagName(\'script\')[0];\n g.async=true; g.src=u+\'matomo.js\'; s.parentNode.insertBefore(g,s);\n })();\n </script>\n <!-- End Matomo Code -->\n <script type="text/javascript">\n <!---->\n (function(c,l,a,r,i,t,y){\n c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;\n y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n })(window, document, "clarity", "script", "jtb50xjsm8");\n <!---->\n </script>\n <!--五彩纸屑start-->\n <script type="text/javascript">\n if(sessionStorage.getItem(\'confettiBundle\')) {\n var script = document.createElement(\'script\');\n script.type = \'text/javascript\';\n script.src = "/theme/material-dashboard-pro/js/plugins/tsparticles/tsparticles.confetti.bundle.min.js";\n script.onload = function() {\n var defaults = {\n scalar: 2,\n spread: 270,\n decay: 0.85,\n ticks: 50,\n particleCount: 50,\n origin: { y: 0.1 },\n startVelocity: 35,\n };\n confetti({\n ...defaults,\n particleCount: 50,\n shapes: ["image"],\n shapeOptions: {\n image: [\n { src: "/theme/material-dashboard-pro/img/prefix/us.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-chatgpt.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-apple.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-discord.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-facebook.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-github.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-google.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-hbo.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-hulu.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-Instagram.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-line.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-messenger.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-netflix.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-pinterest.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-pornhub.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-reddit.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-slack.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-snapchat.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-spotify.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-steam.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-telegram.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-tiktok.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-tumblr.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-twitch.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-twitter.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-whatsapp.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-wikipedia.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-youtube.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-zoom.svg" },\n ],\n },\n });\n confetti({\n ...defaults,\n particleCount: 250,\n scalar: 1.5,\n shapes: ["star","circle","heart","square","diamond","spade","club","triangle","polygon"],\n });\n confetti({\n ...defaults,\n particleCount: 50,\n scalar: 2,\n shapes: ["text"],\n shapeOptions: {\n text: {\n value: ["✨","🎁","🙌","🍻","🎈","🥳","🎊","🎉","💐","🌹","❄️","🔥","🎅","❤️","💋","🧨","🧧","🍁","🍂","☘️","💧","🔞","🎃","🎄","🎋","🥂","👏","㊗️","💰","🤑","🏮","🍾","🎀","💝","🎗️","💎","✌️","🌸","🌈","💳","👛","💲","🎫","🍦","🤝"],\n },\n },\n });\n }; // 回调函数，当脚本加载完成时执行\n document.head.appendChild(script); // 将脚本添加到页面的 <head> 元素中\n sessionStorage.removeItem(\'confettiBundle\')\n }\n </script>\n <!--五彩纸屑end-->\n \n\n\n\n<script type="text/javascript">\n <!---->\n var email = $(\'#email\').val();\n var user_name = $(\'#user_name\').val();\n var ymwl={};\n ymwl.visiter_id=email;\n ymwl.visiter_name=user_name;\n ymwl.avatar=\'\';//\n ymwl.product=\'\';//json\n var diyUrl;\n const scriptChat = document.createElement(\'script\');\n <!---->\n scriptChat.src = \'https://chat.owlvpn.net/assets/diy/mini/ymwl_diy_1.js\';\n <!---->\n scriptChat.onerror = () => { // 监听 error 事件\n console.error(\'Failed to load script\');\n loadScript([\'https://chat.boda10086.com/assets/diy/mini/ymwl_diy_1.js\',\'https://chat.batvpn.eu.org/assets/diy/mini/ymwl_diy_1.js\']);\n };\n document.head.appendChild(scriptChat); // 将 script 添加到页面\n function loadScript(urls, index = 0) { //递归函数轮询加载脚本\n if (index >= urls.length) {\n console.error(\'All script URLs failed to load.\');\n return;\n }\n const parsedUrl = new URL(urls[index]); //设置domain\n diyUrl= `${parsedUrl.protocol}//${parsedUrl.host}`;\n //console.log(diyUrl);\n const script = document.createElement(\'script\');\n script.src = urls[index]+"?_="+Math.random();\n script.onload = () => {\n console.log(`Successfully loaded script: ${urls[index]}`);\n };\n script.onerror = () => {\n console.error(`Failed to load script: ${urls[index]}`);\n loadScript(urls, index + 1); // Try the next URL\n };\n document.head.appendChild(script);\n }\n <!---->\n</script>\n</body>\n</html>')
-
-[cs.zhvpn.com]
-
-[www.mydown.com]
-
-[www.naiyouu.com]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(zyjfzpikq987@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[cntizi1.com]
-
-[www.mg188online.com]
-
-[liebao.yuzhewangluo.cn]
-
-[llgjc1.com]
-
-[socloud.me]
-name  SoCloud
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[tagss01.pro]
-
-[ikuuu.org]
-name  
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[wwz.lanzoul.com]
-
-[bbxy.info]
-name  百变小樱
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(onirqpss449@gmail.com): 系统无法接受你的验证结果，请刷新页面后重试!!
-
-[fastlink.la]
-auto_invite  F
-buy  pass
-email  jgghhzaie772@gmail.com
-last_checkin  2025-01-21 10:48:29.915116+08:00
-name  FASTLINK
-sub_info  0B  180M  2025-01-20 10:48:28+08:00  (剩余 180M -2 days, 23:59:49.106971)
-sub_url  https://fldyv1.bmr5j1.com/zvlqjih1t/e4wmgsp3pzsdxuku?sub=3
-time  2025-01-21 10:48:31.272717+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[feijiyun55.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(jmuqhlegq227@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[www.freepatentsonline.com]
-
-[feiji89.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(khvfkqff14@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[lanfancloud.com]
-
-[aming.lanzouq.com]
-
-[feijiyun911.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(lnbymreg189@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[chwy.niedzfs.com]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(ltpncut555@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[get.surfshark.net]
-
-[v0120230829.sctaff.com]
-auto_invite  F
-buy  pass
-email  krcbgpn197@gmail.com
-last_checkin  2025-01-21 10:48:30.739895+08:00
-name  SPEEDCAT
-sub_info  0B  105M  2025-01-20 10:48:29+08:00  (剩余 105M -2 days, 23:59:47.111020)
-sub_url  https://scdy03.scsub.com/apiv2/dbduwttgcajhdpgx?sub=3
-time  2025-01-21 10:48:31.912873+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[feijiyun88.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(libonutbg409@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[v0120230609.sctaff.com]
-auto_invite  F
-buy  pass
-email  czjjroef908@gmail.com
-last_checkin  2025-01-21 10:48:30.863178+08:00
-name  SPEEDCAT
-sub_info  0B  63M  2025-01-20 10:48:29+08:00  (剩余 63M -2 days, 23:59:51.732204)
-sub_url  https://scdy03.scsub.com/apiv2/yd6pm7buoeyttu84?sub=3
-time  2025-01-21 10:48:31.988116+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[lf.lanfan.cc]
-
-[v0120230421.sctaff.com]
-auto_invite  F
-buy  pass
-email  nqphtogp145@gmail.com
-last_checkin  2025-01-21 10:48:31.367787+08:00
-name  SPEEDCAT
-sub_info  0B  70M  2025-01-20 10:48:29+08:00  (剩余 70M -2 days, 23:59:51.494239)
-sub_url  https://scdy03.scsub.com/apiv2/qq8x6y6rl4iq0tup?sub=3
-time  2025-01-21 10:48:32.513200+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[v0120230425.sctaff.com]
-auto_invite  F
-buy  pass
-email  svusrrwsg21@gmail.com
-last_checkin  2025-01-21 10:48:31.462121+08:00
-name  SPEEDCAT
-sub_info  0B  71M  2025-01-20 10:48:29+08:00  (剩余 71M -2 days, 23:57:46.874022)
-sub_url  https://scdy03.scsub.com/apiv2/gvd1s0infggvcmjz?sub=3
-time  2025-01-21 10:48:32.662865+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[wwz.lanzouv.com]
-
-[bbxy.shop]
-name  百变小樱
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(qnzabohvd913@gmail.com): 系统无法接受你的验证结果，请刷新页面后重试!!
-
-[lanjingapp.cn]
-
-[feijiyun77.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(eujezro37@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[v0120230709.sctaff.com]
-auto_invite  F
-buy  pass
-email  kusvcpuc981@gmail.com
-last_checkin  2025-01-21 10:48:32.121855+08:00
-name  SPEEDCAT
-sub_info  0B  58M  2025-01-20 10:48:30+08:00  (剩余 58M -2 days, 23:59:51.223766)
-sub_url  https://scdy03.scsub.com/apiv2/0ngvjrado2yhfdaj?sub=3
-time  2025-01-21 10:48:33.487794+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[v0120230905.sctaff.com]
-auto_invite  F
-buy  pass
-email  fdvgduy555@gmail.com
-last_checkin  2025-01-21 10:48:32.039376+08:00
-name  SPEEDCAT
-sub_info  0B  84M  2025-01-20 10:48:30+08:00  (剩余 84M -2 days, 23:59:52.335030)
-sub_url  https://scdy03.scsub.com/apiv2/cayoekpey61uk3tq?sub=3
-time  2025-01-21 10:48:33.328189+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[v0120230716.sctaff.com]
-auto_invite  F
-buy  pass
-email  uyxmblai159@gmail.com
-last_checkin  2025-01-21 10:48:32.113765+08:00
-name  SPEEDCAT
-sub_info  0B  130M  2025-01-20 10:48:30+08:00  (剩余 130M -2 days, 23:57:47.105779)
-sub_url  https://scdy03.scsub.com/apiv2/jsutfoio3lpoyczy?sub=3
-time  2025-01-21 10:48:33.447246+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[suying00.com]
-
-[v0120230830.sctaff.com]
-auto_invite  F
-buy  pass
-email  cjvlekj313@gmail.com
-last_checkin  2025-01-21 10:48:32.190465+08:00
-name  SPEEDCAT
-sub_info  0B  107M  2025-01-20 10:48:30+08:00  (剩余 107M -2 days, 23:59:52.232134)
-sub_url  https://scdy03.scsub.com/apiv2/otqr3njq4bclcgo3?sub=3
-time  2025-01-21 10:48:33.581051+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[jump.p6p.net]
-
-[www.pgyer.com]
-
-[www.aliyundrive.com]
-
-[flaff20230628.fastlink-aff02.com]
-
-[kerrynotes.com]
-
-[feijicloud.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(rvynhujbf699@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[news.jxcn.cn]
-
-[www.bajie.pw]
+[bajie.info]
 name  八戒
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(veuufamx923@lista.cc): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ffavgcwlr186@tmpmail.org): {'message': '验证码有误'}
 
-[www.wwz.lanzoul.com]
-
-[bwh1.net]
-
-[v0120230413.sctaff.com]
-auto_invite  F
-buy  pass
-email  actxofiu337@gmail.com
-last_checkin  2025-01-21 10:48:34.413683+08:00
-name  SPEEDCAT
-sub_info  0B  79M  2025-01-20 10:48:32+08:00  (剩余 79M -2 days, 23:59:52.953454)
-sub_url  https://scdy03.scsub.com/apiv2/es5eu4uboxo1iuzs?sub=3
-time  2025-01-21 10:48:35.599839+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[www.ttjsq.net]
-
-[juzi69.com]
-
-[feiji86.net]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(phvlqfuz867@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[juzi80.net]
-name  桔子云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(ocowyhrf500@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[news.jstv.com]
-
-[www.dlairport.com]
-
-[feijiyun66.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(bhyqaly157@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[feijiyun666.net]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(toguoth270@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[suyunti2.com]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(frjqxon779@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[www.dogyun.com]
-
-[c.jmsnode.com]
-
-[www.fyb-aff.com]
-auto_invite  F
-buy  pass
-email  cdeaffu798@gmail.com
-last_checkin  2025-01-21 10:48:38.863254+08:00
-name  FlyingBird
-sub_info  0B  91M  2025-01-20 10:48:36+08:00  (剩余 91M -2 days, 23:59:46.368076)
-sub_url  https://fbapiv3.fbsublink.com/flydsubal/h2wnkngkwrifobm2?sub=3
-time  2025-01-21 10:48:40.698999+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[v0120230925.sctaff.com]
-auto_invite  F
-buy  pass
-email  vwgjognv567@gmail.com
-last_checkin  2025-01-21 10:48:37.463980+08:00
-name  SPEEDCAT
-sub_info  0B  185M  2025-01-20 10:48:35+08:00  (剩余 185M -2 days, 23:57:51.822993)
-sub_url  https://scdy03.scsub.com/apiv2/1yeyakdf09ddftfu?sub=3
-time  2025-01-21 10:48:38.621588+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[privadovpn.com]
-
-[url08.ctfile.com]
-
-[dengta4.com]
-
-[www.hdyun.cc]
-name  黑洞加速
+[bajie.xyz]
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ydxujxbg690@555.anztyy.shop): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  发送邮箱验证码失败(tnrcdvylg540@guerrillamail.de): {'message': '验证码有误'}
 
-[a.hdyun.icu]
+[bakconntoserver.nuomi.info]
 
-[wwi.lanzoub.com]
+[bansub7.bplink.xyz]
 
-[wwi.lanzoui.com]
+[bansub8.bplink.xyz]
 
-[juzi1111.com]
-name  桔子云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(cwenfifv497@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[base64.bigwatermelon.org]
 
-[win.dowwsoft.com]
-
-[suyunti888.net]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(pvsnuhkso979@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[juzicloud.org]
-name  桔子云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(qpgkbckpk957@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
-
-[www.websiterating.com]
-
-[hidemyname.io]
-
-[down.wsyhn.com]
-
-[billing.purevpn.com]
-
-[iklyun.com]
-
-[fanyongzhuji.com]
-
-[muchong.com]
-
-[mojie.app]
-email  aeeqepdk479@gmail.com
+[bb.jmvks.cn]
 type  v2board
-更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
+更新订阅链接/续费续签失败  注册失败(lomvnfilj711@gmail.com): 'NoneType' object is not subscriptable
 
-[frjs.jschina.com.cn]
+[bbjc.xyz]
 
-[veee.vip]
+[blueAir.colacloud.free.hr]
 
-[flyingbirds.cc]
+[board.k6.gay]
 
-[ikuuu.one]
-banned_domains  spam4.me
-name  
-type  sspanel
-更新订阅链接/续费续签失败  获取邮箱验证码超时(lxmfmlra846@spam4.me)
-
-[apps.microsoft.com]
-
-[ysbzc.click]
-name  云深不知处
+[board.nsde.date]
+name  年前AIR
 type  v2board
-更新订阅链接/续费续签失败  注册失败(gzfnsyj179@tmails.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(jbckhfhty367@gmail.com): 'NoneType' object is not subscriptable
 
-[www.nicesocks.net]
+[boou.colacloud.free.hr]
 
-[filehippo.com]
+[bozhi.591haoka.com]
 
-[www.pipinpv.com]
+[bptz.xyz]
 
-[www.cryxr.com]
-name  探索者
+[bunnyspeedox.online]
+
+[bxy.re]
+
+[c.066664.xyz]
+name  行云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(wqncwutoa65@tmails.net): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(fnnqnuqyj9@gmail.com): 'NoneType' object is not subscriptable
 
-[cfooo.riolu.ooo]
-name  常用工具全解锁 & 高速安全,企业服务 | 精靈學院
+[c3.notesync.org]
+api_host  nclouds.link
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zkemdywgq571@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(helgwlusy716@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (301 Moved Permanently '<html>\r\n<head><title>301 Moved Permanently</title></head>\r\n<body>\r\n<center><h1>301 Moved Permanently</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n')
 
-[www.ababybus.com]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(mezuvyjng904@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
+[cainiao164.top]
 
-[www.leiting.io]
+[cainiao172.top]
 
-[www.789jiasu01.com]
+[cainiaofit.cc]
 
-[us.freecat.cloud]
-
-[xbsj9728.space]
-
-[docs.reizs.cyou]
-
-[apricot.red]
-
-[microsoftedge.microsoft.com]
-
-[skystars.top]
-
-[a.yunxi.app]
-name  云栖
+[cat.ikkt.cn]
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"matlxcfjx289@mail.wvwvw.tech","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(dmyarhofe53@gmail.com): 'NoneType' object is not subscriptable
 
-[www.nthu1.com]
+[cdn-web-api.moeu.top]
 
-[xbsj5632.website]
+[cdn.1454250.xyz]
 
-[v2.nanoport.xyz]
+[cdn.fraternizey.com]
 
-[mitu.icu]
+[cdn.wumaojichang.com]
 
-[dhh.app]
+[cdn1.xr56385d.qianglie.cloud]
 
-[app.fanqiev2.work]
+[cdn1711437153.ppgnginx.com]
 
-[xpoti.com]
+[cdn1712594108.ppgnginx.com]
 
-[v2.tankecloud.me]
+[cdn1715497317.ppgnginx.com]
 
-[oneclick.earth]
+[cdnbao.foxi4.com]
 
-[www.mozilla.org]
+[cedb4ccc-89b7-3a24-962c-ea8f65b11deb.aliyunsub.com]
 
-[pqjc.site]
+[ceshi.888451.xyz]
 
-[www.mikasa.cloud]
-error  substring not found
+[cf-workers-sub-691.pages.dev]
+
+[cf-workers-sub-9s8.pages.dev]
+
+[cf.7854128.xyz]
+
+[cf.lemshow.top]
+
+[cf.loveqyun.cyou]
+name  轻云
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xirqhpbn318@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found 'Not Found')
+更新订阅链接/续费续签失败  注册失败(hyzptoguf266@555.vupkl.shop): 邮箱后缀不处于白名单中
 
-[www.gsou.link]
+[cfyun.top]
 
-[alice.sale]
-
-[daxun.pro]
-banned_domains  tmail.ws
-name  大讯云
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(fnnymnw830@tmail.ws)
-
-[www.有连.com]
-
-[one.one.one.one]
-
-[www.qingzhou.world]
-name  轻舟
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bwykggmap882@gmail.com): 'NoneType' object is not subscriptable
-
-[qzhome.cc]
-
-[www.zerocloud.works]
-name  Loading...
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(ldxtawylb366@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
-
-[chromewebstore.google.com]
-
-[bywa-1.art]
-
-[bbs.jczxw.cn]
-
-[candy2.top]
-name  AIRCANDY | 助您飞越长城
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(fglbchec978@guerrillamail.com): {'message': '验证码有误'}
-
-[hutao.cloud]
-
-[nillink.net]
-
-[xsus.wiki]
-
-[front.fishport.cloud]
-name  FishPort
+[cfyun01.sbs]
 type  v2board
 更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
-[lanpangyun.net]
-banned_domains  xiaoyaoemail.cc
-name  
+[ch.louwangzhiyu.xyz]
+buy  period=month_price&plan_id=19
+email  hoyfjjw328@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:25:45+08:00  (剩余 1000G 30 days, 23:59:56.025460)
+sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=e527de8ff5b0f72fa7384cc58fa03a49
+time  2025-01-21 14:25:45.908362+08:00
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(lmsmsghf498@xiaoyaoemail.cc)
 
-[feijiyun38.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(zlkzrlp177@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[ch.owokkvsxks.store]
+buy  period=month_price&plan_id=19
+email  owvpypl828@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:25:45+08:00  (剩余 1000G 30 days, 23:57:54.071223)
+sub_url  https://ch.vfkum.website/api/v1/client/subscribe?token=88588b7db1a77836b3fe3973549fc8ee
+time  2025-01-21 14:25:46.394228+08:00
+type  v2board
 
-[flaff-a9cc20a43a.fastlinkaff.com]
-auto_invite  F
+[chaozhijc.xyz]
+
+[checkhere.top]
+
+[chiguayun.pro]
 buy  pass
-email  hrftqyieb205@gmail.com
-last_checkin  2025-01-21 10:48:45.804443+08:00
-name  FASTLINK
-sub_info  0B  67M  2025-01-20 10:48:44+08:00  (剩余 67M -2 days, 23:57:48.670830)
-sub_url  https://fldyv1.bmr5j1.com/zvlqjih1t/wexydfqvldmgqa9y?sub=3
-time  2025-01-21 10:48:47.023845+08:00
-type  sspanel
+email  lhqbtqfl830@gmail.com
+name  ChiguaYun
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://chiguayun.me/api/v1/client/subscribe?token=80449bff7d6112c93d1bd3f35f84b623
+time  2025-01-21 14:25:44.881966+08:00
+type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[zerocloud.works]
+[china.huawei-cloud.shop]
 
-[tieba.baidu.com]
+[citi.terminal69.win]
 
-[chs.software.fish]
-name  
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(weyidbjnn155@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html><html lang="zh-Hans" translate="no"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><meta http-equiv="x-ua-compatible" content="ie=edge"><link rel="preload" href="/css/styles.css?4943ac397b0baee5050f606ddc3c05fd" as="style"><link rel="preload" href="/js/custom.js?3ba255ee5f5fc42d36cccf16a3cb07cb" as="script"><title></title><meta name="title" content=""><meta name="description" content=""><meta name="keywords" content=""><meta property="og:type" content="website"><meta property="og:url" content="https://chs.software.fish/auth/register"><meta property="og:title" content=""><meta property="og:description" content=""><meta property="og:image" content="https://chs.software.fish/pics/og-image-fish.jpg"><meta property="twitter:card" content="summary_large_image"><meta property="twitter:url" content="https://chs.software.fish/auth/register"><meta property="twitter:title" content=""><meta property="twitter:description" content=""><meta property="twitter:image" content="https://chs.software.fish/pics/og-image-fish.jpg"><meta name="referrer" content="no-referrer"><link href="/css/styles.css?4943ac397b0baee5050f606ddc3c05fd" rel="stylesheet" type="text/css"><link rel="apple-touch-icon" sizes="180x180" href="/icons/fish/apple-touch-icon.png?dd04291b77cee6e3a295908de3c4ebf1"><link rel="icon" type="image/png" sizes="32x32" href="/icons/fish/favicon-32x32.png?dd04291b77cee6e3a295908de3c4ebf1?dd04291b77cee6e3a295908de3c4ebf1"><link rel="icon" type="image/png" sizes="16x16" href="/icons/fish/favicon-16x16.png?dd04291b77cee6e3a295908de3c4ebf1"><link rel="manifest" href="/icons/fish/manifest.json?dd04291b77cee6e3a295908de3c4ebf1"><link rel="mask-icon" href="/icons/fish/safari-pinned-tab.svg?dd04291b77cee6e3a295908de3c4ebf1" color="#5bbad5"><link rel="shortcut icon" href="/icons/fish/favicon.ico?dd04291b77cee6e3a295908de3c4ebf1"><meta name="apple-mobile-web-app-title" content="Fish"><meta name="application-name" content="Fish"><meta name="msapplication-TileColor" content="#ffc40d"><meta name="msapplication-config" content="/icons/fish/browserconfig.xml?dd04291b77cee6e3a295908de3c4ebf1"><meta name="theme-color" content="#ffffff"></head><body><div class="menu-lg-top mb-4"><div class="container min-height-52"><div id="topmenu" class="row collapse show"><div class="col-12 col-md-6 text-left d-flex align-items-center min-height-52"><a href="/" class="d-inline-block"><img src="/csvg/software-fish-logo.svg" class="logo-img-top w-100" alt="chs.software.fish" title="chs.software.fish"></a></div><div class="col-12 col-md-6 pl-rtl-0 d-none d-md-block"><div class="text-right float-right"><nav class="navbar navbar-expand-lg pl-rtl-0"><div class="collapse navbar-collapse" id="navbarSupportedContent"><ul class="navbar-nav mr-auto"><li class="nav-item"><a class="nav-link" href="/">主页</a></li><li class="nav-item dropdown pl-md-4"><a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">类别</a><div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink"><a class="dropdown-item align-items-center d-flex" href="/parental-control/">家长控制 App</a><a class="dropdown-item align-items-center d-flex" href="/password-manager/">密码管理器</a><a class="dropdown-item align-items-center d-flex" href="/adblocker/">广告拦截器</a><a class="dropdown-item align-items-center d-flex" href="/crm-software/">CRM 软件</a><a class="dropdown-item align-items-center d-flex" href="/hosting-services/">网站托管服务</a><a class="dropdown-item align-items-center d-flex" href="/graphic-design/">照片编辑app</a><a class="dropdown-item align-items-center d-flex" href="/project-management-software/">项目管理软件</a><a class="dropdown-item align-items-center d-flex" href="/grammar-correction/">语法检查</a><a class="dropdown-item align-items-center d-flex" href="/antivirus/">防病毒</a><a class="dropdown-item align-items-center d-flex" href="/pdf/">PDF</a><a class="dropdown-item align-items-center d-flex" href="/vpn/">VPN</a></div></li><li class="nav-item pl-md-4"><a class="nav-link" href="/i/about-us">关于我们</a></li></ul></div></nav></div></div></div><div id="sidemenubg" class="sidemenubg collapse d-md-none" data-toggle="collapse" data-target="#topmenu,#sidebarmenu,#sidemenubg" aria-expanded="false" aria-controls="sidebarmenu" role="navigation"></div><div class="secondary-menu-close d-lg-none"><button type="button" class="btn btn-secondary" data-toggle="collapse" data-target="#topmenu,#sidebarmenu,#sidemenubg" aria-expanded="false" aria-controls="sidebarmenu" aria-label="Menu"><svg class="hamburger" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path fill="currentColor" d="M288 44v40c0 8.837-7.163 16-16 16H16c-8.837 0-16-7.163-16-16V44c0-8.837 7.163-16 16-16h256c8.837 0 16 7.163 16 16zM0 172v40c0 8.837 7.163 16 16 16h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16zm16 312h416c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16zm256-200H16c-8.837 0-16 7.163-16 16v40c0 8.837 7.163 16 16 16h256c8.837 0 16-7.163 16-16v-40c0-8.837-7.163-16-16-16z"></path></svg></button></div><div class="collapse navbar-collapse sidemenu" id="sidebarmenu"><div class="row text-left mt-2"><div class="col-12"><ul class="navbar-nav mr-auto"><li class="nav-item active"><a class="nav-link" href="/">主页</a></li><li class="nav-item"><a class="nav-link nav-link-triangle collapsed text-truncate" href="#submenu1" data-toggle="collapse" data-target="#submenu1"><span class="d-sm-inline">类别</span></a><div class="collapse" id="submenu1" aria-expanded="false" role="navigation"><ul class="flex-column pl-2 nav"><li class="nav-item p-1"><a class="nav-link py-0" href="/parental-control/">家长控制 App</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/password-manager/">密码管理器</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/adblocker/">广告拦截器</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/crm-software/">CRM 软件</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/hosting-services/">网站托管服务</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/graphic-design/">照片编辑app</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/project-management-software/">项目管理软件</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/grammar-correction/">语法检查</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/antivirus/">防病毒</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/pdf/">PDF</a></li><li class="nav-item p-1"><a class="nav-link py-0" href="/vpn/">VPN</a></li></ul></div></li><li class="nav-item"><a class="nav-link" href="/i/about-us">关于我们</a></li></ul></div></div></div></div></div><div class="blog-item article-item text-left"><div class="container"><div class="row"><div class="col-12 mt-3 mt-md-2 mb-3"><a href="/">主页</a> &raquo; Page not Found</div></div><div class="row"><div class="col-12 text-center"><h1 class="text-responsive">Page not Found</h1><div class="mt-3 mb-4"><a href="/"><img class="max-height-200" src="/pics/error-404-icon.svg"/></a></div><p>This is not the page you were looking for.<br /><a href="/" class="">Go To The Homepage</a></p></div></div></div></div><div class="modal fade" id="exitModal" tabindex="-1" role="dialog"><div class="modal-dialog modal-full-height modal-right" role="document"> <div class="modal-content"><img id="modal-exit" src="/pics/x-mark.png" class="modal-exit" alt="X"><div class="modal-body"><div class="row"><div class="d-none d-md-block col-md-5 text-center pr-0 mr-0"><a href="/v/168?o=free" target="_blank" class="exit-href" rel="noopener noreferrer nofollow"><img class="img-fluid rounded max-height-420" src="/images/totalav-box-win.png?dd04291b77cee6e3a295908de3c4ebf1" alt=""></a></div><div class="col-12 col-md-7 text-left"><div id="modal-title-1" class="modal-title text-dark"><div class="text-uppercase font-weight-bold">再看一眼……</div><div class="popup-title-2">免费试试这款获奖的防病毒软件！</div></div><ul class="mt-4 features font-16"><li>进行每日病毒定义更新的实时杀毒软件</li><li>保证你的身份和在线购物安全可靠</li><li>被 AV Comparatives 评为 2025 年的 ADVANCED+ 产品</li><li>保护 Windows、Mac、Android 和 iOS 设备</li></ul><div class="text-center mt-4 mb-3"><span class="text-uppercase font-weight-bold align-middle mr-2">编辑推荐</span><img class="img-fluid" src="/pics/tr8.png" alt="编辑推荐"><span class="align-middle ml-2"><b>4.8</b>/5</span></div><div class="text-center"><a class="btn btn-danger btn-custom jumpy w-100 pulse" target="_blank" href="/v/168?o=free" rel="noopener noreferrer nofollow">免费获取 TOTALAV</a></div><div class="text-center mt-2"><a class="text-dark jumpy" href="/v/168?o=free" target="_blank" rel="noopener noreferrer nofollow" >www.totalav.com</a></div></div></div></div> </div> </div></div><div class="wrap-footer mt-5"><div class="container p-4 pb-0 pb-md-5"><div class="row"><div class="col-md-3 mt-4 mt-md-0 text-center text-md-left d-none d-md-block"><ul><li><span class="footer-header">类别</span></li><li><a class="font-14" href="/parental-control/">家长控制 App</a></li><li><a class="font-14" href="/password-manager/">密码管理器</a></li><li><a class="font-14" href="/adblocker/">广告拦截器</a></li><li><a class="font-14" href="/crm-software/">CRM 软件</a></li><li><a class="font-14" href="/hosting-services/">网站托管服务</a></li><li><a class="font-14" href="/graphic-design/">照片编辑app</a></li><li><a class="font-14" href="/project-management-software/">项目管理软件</a></li><li><a class="font-14" href="/grammar-correction/">语法检查</a></li><li><a class="font-14" href="/antivirus/">防病毒</a></li><li><a class="font-14" href="/pdf/">PDF</a></li><li><a class="font-14" href="/vpn/">VPN</a></li></ul></div><div class="col-md-3 mt-4 mt-md-0 text-center text-md-left"><ul><li><span class="footer-header">重要信息</span></li><li><a class="font-14" href="/i/privacy-policy">隐私政策</a></li><li><a class="font-14" href="/i/terms-of-use">服务条款</a></li><li><a class="font-14" href="/i/disclaimer">免责声明</a></li></ul><ul class="mt-4"><li><span class="footer-header">快速链接</span></li><li><a class="font-14" href="/">主页</a></li><li><a class="font-14" href="/i/about-us">关于我们</a></li></ul></div><div class="col-md-6 mt-4 mt-md-0 text-center text-md-left"><a href="/" class="d-inline-block"><img src="/csvg/software-fish-logo.svg" class="logo-img-top w-100" alt="chs.software.fish" title="chs.software.fish"></a><p class="text-center text-md-left font-14 copyright mt-2">版权所有 © 2025 年 Algoclick Limited 保留所有权利。通过使用我们的内容、产品和服务，您同意我们的服务条款和隐私政策。严禁复制本网站的全部或部分内容。</p> </div></div></div></div><input id="locale-month-year" type="hidden" value="zh-CN"><script src="/js/custom.js?3ba255ee5f5fc42d36cccf16a3cb07cb"></script><script type="application/ld+json">{\t"@context": "https://schema.org/",\t"@type": "Organization",\t"name": "chs.software.fish",\t"alternateName": "chs.software.fish",\t"url": "//chs.software.fish/",\t"logo":"//chs.software.fish/images/software.fish/logo-big.png"\n}</script></body></html>')
+[ck2.yunxiangvip.mom]
 
-[fxyjs.fun]
-name  Speed17|放心云
+[cleave.edudigy.cc]
+
+[cloud.anyijc.top]
+name  安心机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(robylxbf299@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(dcusvcb44@gmail.com): 'NoneType' object is not subscriptable
 
-[speed17.net]
+[cloud.asdkd.top]
 
-[www.arr.network]
+[cloud.chaozhijc.xyz]
 
-[大白机场.com]
+[cloud.gyyun.top]
 
-[support.qq.com]
-
-[www.chachajichang.top]
-
-[home.caiyun.mom]
-name  彩云Caiyun
+[cloud.jsfx.tech]
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(fadbcxdz124@555.anztyy.shop): {'message': '图形验证码不正确请重新输入'}
+更新订阅链接/续费续签失败  注册失败(frtverjxg316@gmail.com): 'NoneType' object is not subscriptable
 
-[caiyun.369.cyou]
+[cloud.optionwiney.com]
 
-[feijiyun889.net]
-name  飞机云
+[cloud.yydschina.top]
+
+[cloudcat.top]
+
+[cloudfisher.net]
+
+[cloudflaresub.yuwan.link]
+
+[cloudlion.me]
+
+[cm.qc77.cn]
+
+[cococloud.online]
+name  🥤Coco
+type  v2board
+更新订阅链接/续费续签失败  注册失败(tmhbccn241@gmail.com): 'NoneType' object is not subscriptable
+
+[config.huojian111.com]
+auto_invite  F
+buy  pass
+email  preurmmt240@gmail.com
+last_checkin  2025-01-21 14:25:54.139325+08:00
+name  火箭代理中心
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(mzvfghsu652@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+更新订阅链接/续费续签失败  未找到订阅链接
 
-[suyunti911.com]
-name  速云梯
+[cpdd.one]
+
+[csgo.fask511.cfd]
+name  绝绝子机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(hjghtbh592@555.vupkl.shop): 邮箱后缀不处于白名单中
+
+[csgo1.fask511.cfd]
+banned_domains  lista.cc
+name  绝绝子机场
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(gqvkmnzj980@lista.cc)
+
+[cshjc.xz61.cn]
+
+[csicd782-isu.acyunv.buzz]
+name  acyun
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ewuaumriy612@guerrillamail.net): {'message': '邮箱后缀不处于白名单中'}
+
+[csyun.t1csyun.shop]
+
+[d.palu123.com]
+
+[d.waka.plus]
+name  嘟噜云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(wuuxrid232@gmail.com): 'NoneType' object is not subscriptable
+
+[d1.dlsdist.net]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(bcimyvv798@555.vtnli.shop): {'message': '验证码有误'}
+
+[d1to2me5cb4qc0.cloudfront.net]
+name  anydoor
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"prvoqja748@555.vtnli.shop","success":"false"}'
+
+[d2f42a86-2a1f-49b5-bd2f-d2154daa6a09.com]
+
+[d3keb6jjtp861e.cloudfront.net]
+
+[d57761d6-e86d-4f55-9a5d-aece8a55cc26.xn--mes358a.art]
+
+[dadada.acaisbest.com]
+
+[dash.djjc.cfd]
+
+[dash.ftclashcloud.mom]
+
+[dash.yfjc.xyz]
+
+[datacenter_us.pithecia.com]
+
+[datmicxg.mdssconfig.com]
+
+[dawson0207.xn--3iq226gfdb94q.com]
+api_host  www.xn--3iq226gfdb94q.com
+name  久盛电缆
+type  v2board
+更新订阅链接/续费续签失败  注册失败(tdawyydff790@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+
+[daxun.buzz]
+banned_domains  youxiang.dev
+name  大讯云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(gorxack708@youxiang.dev)
+
+[dbjc.xyz]
+
+[dd.csjc.win]
+
+[dd.moonriver.cfd]
+buy  period=month_price&plan_id=6
+email  hbzxetyrk467@gmail.com
+name  MoonRiver月河村
+sub_info  0B  1G  2025-02-21 14:26:04+08:00  (剩余 1G 30 days, 23:55:13.537603)
+sub_url  https://dd01.moonriver.cfd/api/v1/client/subscribe?token=a87192baa5ccef6e7c4e5762c72a1d50
+time  2025-01-21 14:26:04.868536+08:00
+type  v2board
+保存base64/clash订阅失败  'proxies'
+
+[dd.xz61.cn]
+banned_domains  tmails.net
+name  滴滴加速
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nqucwvi393@tmails.net)
+
+[ddd.trc20.top]
+
+[dddddddddddddd.cc]
+
+[df810594c639v.cloudfront.net]
+name  anydoor
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qcvddtfx765@spam4.me): {'message': '验证码有误'}
+
+[dfgsdfg.ghkjfgjkdfghrjfghjvbnm.cfd]
+
+[dingyue.trojanws.xyz]
+
+[dingyue.wenlianyun.vip]
+
+[dingyue.xxss.org]
+
+[dingyue1.b-cdn.net]
+
+[djjc.cfd]
+
+[dkcc71fg830ah.cloudfront.net]
+
+[dl.owokkvsxks.store]
+buy  period=month_price&plan_id=19
+email  bgnxxlu626@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:26:09+08:00  (剩余 1000G 30 days, 23:59:49.158590)
+sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=631907c9593f32ac59c2430e3abd2f9b
+time  2025-01-21 14:26:10.341852+08:00
+type  v2board
+
+[dl.vfkum.website]
+buy  period=month_price&plan_id=19
+email  vtjvrurgr208@gmail.com
+name  漏网之鱼
+node_n  7
+sub_info  0B  1000G  2025-02-21 14:26:10+08:00  (剩余 1000G 30 days, 23:59:48.728946)
+sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=11f26a66cce05bbf3f26f3a9c971b0f7
+time  2025-01-21 14:26:10.751594+08:00
+type  v2board
+
+[doata.net]
+
+[doucat.top]
+name  逗猫
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[duijie.cfyun.top]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ulmwomuj815@x866.cc): {'message': '邮箱后缀不处于白名单中'}
+
+[duijie.pingziyun.top]
+
+[dump.facal.one]
+
+[dxapp.jmvks.cn]
+name  大熊cloud
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ttxapkdo981@gmail.com): 'NoneType' object is not subscriptable
+
+[dy-1.smjcdh.com]
+
+[dy.chaozhijc.xyz]
+
+[dy.huidu718.com]
+
+[dy.jntm.ikun.moshen.tech]
+
+[dy.kuailejc.xyz]
+name  快乐机场
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(nzpayrh600@tmails.net): {'message': '验证码有误'}
+
+[dy.kunkun.v6.navy]
+
+[dy.naisicloud.xyz]
+buy  pass
+email  rrrpdhn226@gmail.com
+name  奈斯云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://dy.naisicloud.xyz/api/v1/client/subscribe?token=71051e996b11eadadf4f6894d2d516ba
+time  2025-01-21 14:26:13.356103+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[dy.netfly.sbs]
+
+[dy.qjfjc.top]
+
+[dy.shihuijeidian.xyz]
+
+[dy.smjc.top]
+
+[dy.ssysub6.xyz]
+
+[dy.tagsub.net]
+
+[dy.tgmini.top]
+
+[dy.twittei.link]
+
+[dy0.mmydy.xyz]
+
+[dy01.mmydy.xyz]
+
+[dy1.hhyun.in]
+
+[dy1.mmydy.xyz]
+
+[dy2.mmydy.xyz]
+
+[dy3.yunhu1.xyz]
+buy  pass
+email  jwgedsth162@gmail.com
+name  Welcome to nginx!
+node_n  66
+sub_info  0B  1G  2025-01-21 15:26:30+08:00  (剩余 1G 0:59:49.172026)
+sub_url  https://dy.yh11.ink/api/v1/client/subscribe?token=c334852890eaf3ec31ff48007cf3eeac
+time  2025-01-21 14:26:32.001157+08:00
+type  v2board
+
+[dy4.mmydy.xyz]
+
+[dy5.mmydy.xyz]
+
+[dy513.mmydy.xyz]
+
+[dy6.mmydy.xyz]
+
+[dy7.mmydy.xyz]
+
+[dy9.mmydy.xyz]
+
+[dyapp123.355m.cn]
+
+[dycd.gsjc.sbs]
+
+[dycd.knjc.cfd]
+
+[dydz.csjc.win]
+
+[dydz.xn--mesv8bx6xtx3b.com]
+
+[dyvip.ianong.cn]
+
+[dzpd.jiedianxielou.workers.dev]
+
+[e1452652-32ee-b946-e3e7-d9be7070058e.buou.lol]
+
+[edu.kuaifaka.me]
+
+[ee7b114b-2dff-4e9d-b427-4d1c2ac2e12f.fengchenginx.com]
+
+[eggtartcloud.biz]
+
+[emm-7zy.pages.dev]
+
+[faf047da-5e7e-4da7-8414-2799d48ad63a.nginxcatnet.xyz]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(dmomtme616@linshiyou.com): {'message': '图形验证码不正确请重新输入'}
+
+[falcocloud.730894.xyz]
+
+[fast.gfwstable.icu]
+buy  pass
+email  igrlkfsa738@gmail.com
+name  TG-Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://tg.tggov.top/api/v1/client/subscribe?token=8160bb9bdbbae94b2f34e2cadbe67b51
+time  2025-01-21 14:27:02.676120+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[fast.yt]
+
+[fast1.baipiaoi489hy0p44ty.xyz]
+
+[feima.xn--fiqr3f3yq87hgq1c.com]
+
+[feiniaoyun11.life]
+buy  pass
+email  qwyfepvct625@gmail.com
+name  飞鸟云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=ce8a25e73fb9eacbc972890a8854c1d2
+time  2025-01-21 14:27:04.220233+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[fellayun.cc]
+
+[fengqunvpnvip.jmvks.cn]
+
+[ff3a7d92-7568-4cca-a053-37087bee70b7.xn--mes358a.art]
+
+[fgsfgs.12306.sbs]
+
+[fhfdf.ghkjfgjkdfghrjfghjvbnm.cfd]
+
+[fly0001.buzz]
+
+[flybit.pages.dev]
+error  <string>:1 Unexpected "p" at column 12
+type  v2board
+更新订阅链接/续费续签失败  注册失败(yfqlilmz544@gmail.com): 'NoneType' object is not subscriptable
+
+[fn1.170809.xyz]
+buy  pass
+email  gggvsylti196@gmail.com
+name  飞鸟云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=837e267fbb2af8ed75e714c164626d34
+time  2025-01-21 14:27:06.981941+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[followcloud.space]
+buy  pass
+email  jxxqahggy801@guerrillamail.org
+name  掂过碌蔗
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://followcloud.space/api/v1/client/subscribe?token=5b042439107b15ccc860947e35d80477
+time  2025-01-21 14:27:30.231560+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[forks.giegie.loan]
+
+[free.andiliba.cc]
+name  free の country
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(qgyybqnsw351@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+更新订阅链接/续费续签失败  注册失败(gbkksmcf742@gmail.com): 请同意服务条款
 
-[www.08axjsq.com]
+[free.cfnode.shop]
 
-[jifeng99.xyz]
+[free.colacloud.free.hr]
 
-[go.mecloud.icu]
+[free.kcjs.me]
 
-[mp.weixin.qq.com]
+[free2.govmail.top]
+buy  pass
+email  tptkebjr116@gmail.com
+name  FreeCloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://fr.cfvip.top/api/v1/client/subscribe?token=0e4bb4d127e20a5c787523d925b79646
+time  2025-01-21 14:27:09.173488+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[juzi27.com]
-name  桔子云
+[freeflyingcloud.com]
+
+[freejc.xyz]
+
+[fsc.jiediandingyuejiji.homes]
+
+[fuqing.ch]
+
+[gates.djjc.cfd]
+
+[gateway.51tu.lol]
+
+[gauss.life]
+
+[gauss.lol]
+
+[gawrgura.moe]
+
+[gbshct.spphhnhg.top]
+
+[get.getccad.top]
+
+[get.ninesub.us.kg]
+
+[getafreenode.com]
+
+[getinfo.bigbigwatermelon.com]
+
+[getinfo.bigwatermelon.org]
+
+[gg2.hneko.buzz]
+name  Hneko云
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(cxhckakua683@grr.la): {'message': '邮箱后缀不处于白名单中'}
+
+[gmcenter.prim-e-cloud.com]
+
+[go.hhyun.in]
+
+[grslfa.clashx.app]
+
+[gs.kkhhddnn.cn]
+
+[gsea.buzz]
+
+[gsjc.sbs]
+
+[guolicheng.cfd]
+
+[gx.591haoka.com]
+
+[gyyun.top]
+
+[h.bbydy.org]
+
+[haitunfree.luodaifan.top]
+
+[haitunyun.online]
+
+[helloworld-gkhnaabtdcefa9d5.z01.azurefd.net]
+
+[hh.haibucuo.xyz]
+name  还不错机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ckiqjhmx718@gmail.com): 'NoneType' object is not subscriptable
+
+[hh.hnekoo.top]
+name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hpuavswc562@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+更新订阅链接/续费续签失败  注册失败(gzjxptx113@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
-[juziyun69.net]
-name  桔子云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(gpjvzsvze641@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[hongxingdl.club]
 
-[www.firefox.net.cn]
+[hongxingdl.com]
 
-[cloud.dengta0.com]
+[hongxingdl.love]
 
-[a3.nsc01.xyz]
+[host.ssrbox.com]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(sofsdlqk878@gmail.com): 郵箱驗證碼不能為空
 
-[suyunti100.com]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(xmbqutiv432@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[htcmi-20240805.mozhiti.top]
 
-[juziyun996.xyz]
-name  桔子云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(ozccwii745@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[htdy02.mozhiti.top]
 
-[nordwangluo.com]
+[huahe.link]
 
-[suyunti168.net]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(nsgfjssml102@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[huaxia.tcekx.cn]
+name  华夏加速器
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(entulgsbq467@disbox.org): {'message': '验证码有误'}
 
-[feijiyun520.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(pznsxlsoa923@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[huaxia.wueh.cn]
 
-[feijiyun2828.com]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(yckleibh114@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[huotuichang.top]
 
-[feijiyun38.xyz]
-name  飞机云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(tjjqbqt762@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[hutaod.com]
 
-[jifeng15.xyz]
+[hx0618.xn--wqr30o34q.xn--io0a7i]
 
-[rj.viptwo.top]
+[ierboryt.spphhnhg.top]
 
-[lanfancloud.net]
+[ifaner.dd94wan.com]
 
-[jf.jifengocv.xyz]
+[ihjlkbcueiwqnwior.duboji.vip]
 
-[click.aliyun.com]
+[ikuajingbus.com]
 
-[suyunti999.com]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(vwlojjhtf153@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[inangua.lwjyj.com]
 
-[tg.hupi.shop]
+[info.iic08924f5w3b65o.xyz]
 
-[user.vipfive.xyz]
+[ins77.link]
 
-[owo-qvq-uvu-owo.跑路机场.com]
+[install.cdn-sd.xyz]
 
-[jike251.xyz]
-name  极客云
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(xaewrwm80@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[ipngc.no-mad-world.club]
 
-[suyunti999.xyz]
-name  速云梯
-type  sspanel
-更新订阅链接/续费续签失败  注册失败(bsbnfxny521@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+[j2s.buzz]
 
-[haxc.cvhjytg.cn]
+[jb.taipeicity.news]
+buy  pass
+email  avhqvfdm825@gmail.com
+sub_url  https://dj.taipeicity.news/api/v1/client/subscribe?token=64351bfff8249ae4e70823be439f6ca3
+time  2025-01-21 14:27:22.547285+08:00
+type  v2board
+获取订阅失败  can only concatenate str (not "NoneType") to str
 
-[suying0000.com]
+[jc.sux.lol]
+
+[jilu.uuvpn.xyz]
+name  哆啦A梦 ∨PN-海外高速机场🛩
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rumodutyf301@gmail.com): 'NoneType' object is not subscriptable
+
+[jindoucloud.xyz]
+
+[jindouyun88.life]
+
+[jisovpn.site]
+name  极搜云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(sfkeqtopw39@gmail.com): 'NoneType' object is not subscriptable
+
+[jiumaojiu.jiumaojiu.net]
+
+[jixingnetwork.sbs]
+
+[jj.mikasajzy.dynv6.net]
+
+[jlhcloud.us.kg]
+
+[jp.taishan1.pro]
+
+[jsjc.cfd]
+
+[jxpodzmq93s8etq0.wmcssw.org]
+
+[k61kz.no-mad-world.club]
+
+[kaochang.click]
+name  Sausage Cloud
+type  v2board
+更新订阅链接/续费续签失败  注册失败(vnmzbmyap115@gmail.com): 'NoneType' object is not subscriptable
+
+[ki.hello1.xyz]
+
+[kiking1223.xn--49st2e1z0f.xn--55qx5d]
+
+[kitsch.xn--8stx8olrwkucjq3b.com]
+
+[knjc.cfd]
+
+[kobee.metatai.xyz]
+
+[koumakan.quickline.top]
+banned_domains  xiaoyaoemail.cc
+name  红魔馆网络
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nroasml239@xiaoyaoemail.cc)
+
+[ktmcloud.cc]
+buy  pass
+email  tcxkideja421@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=a54ae3db8386d43da118f8af6f87025f
+time  2025-01-21 14:27:28.305051+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.club]
+buy  pass
+email  gnnketqc685@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=3f9e26e4a2bb4888ffb736d5c075a8ba
+time  2025-01-21 14:27:28.503667+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.co]
+buy  pass
+email  jrtyqownq354@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=6161dcc402bbc5ce9511d95a9aa92378
+time  2025-01-21 14:27:28.529561+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.cool]
+buy  pass
+email  tplhszw521@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=299ee2bd61bcb009ad99a6e23d2dbab7
+time  2025-01-21 14:27:28.935386+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.fun]
+buy  pass
+email  wleyzhna802@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=be99fd304de6921feff0837cb719089e
+time  2025-01-21 14:27:29.386769+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.life]
+buy  pass
+email  jxvdobvck657@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=2016d6bb51275104c9f275d98449009b
+time  2025-01-21 14:27:31.529727+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.link]
+buy  pass
+email  lhpqbfjmf67@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=8e526c208d5a9c446eb2bd26861f5c74
+time  2025-01-21 14:27:38.041342+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.lol]
+buy  pass
+email  baymplghi925@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=21f6294ae937504f71920cf03da2eb4a
+time  2025-01-21 14:27:34.173875+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.me]
+buy  pass
+email  xekozudcu720@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=b44695c3d4a1d7e8578bcf6ec6470eef
+time  2025-01-21 14:27:34.757676+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.men]
+buy  pass
+email  snkxpta32@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=596fd1af09acbd7a64e77b8e13f5e175
+time  2025-01-21 14:27:34.907408+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud.win]
+buy  pass
+email  clbbiprp218@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=42ee9450d6d1d3f1354fef7d5ccc406b
+time  2025-01-21 14:27:35.106256+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ktmcloud1.club]
+buy  pass
+email  dbodvvmq487@gmail.com
+name  KTM Cloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://ktmcloud.vip/api/v1/client/subscribe?token=ff0524c7ef04cf9c2d6843503cda9a9a
+time  2025-01-21 14:27:38.156963+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[l.db-link01.top]
+
+[lafuseevansbazc.only4subs.uk]
+
+[lancloud.zichuanlan.top]
+
+[lbxjc.online]
+buy  pass
+email  xpwvbpt899@gmail.com
+name  老百姓机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://www.lbxdy01.com/api/v1/client/subscribe?token=45d0e57089e2800987758aae7f1d2e69
+time  2025-01-21 14:27:41.930265+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[let.bnsubservdom.com]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(vofogwie479@wfes.site): {'message': '验证码有误'}
+
+[liangyuandian.xyz]
+buy  pass
+email  dustspyng80@gmail.com
+name  两元店
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://www.xn--5hqx9equq.org/api/v1/client/subscribe?token=d286cd79a8f6c9308b120e381de81c94
+time  2025-01-21 14:27:40.846585+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[lianjiajichang.com]
+buy  pass
+email  ofgrvytg611@gmail.com
+name  廉价机场
+node_n  16
+sub_info  0B  20G  2025-01-21 17:27:41+08:00  (剩余 20G 2:59:54.452477)
+sub_url  https://subscription-gov.lianjiasub.work/api/v1/client/subscribe?token=55dbc2fea7295150d137056eeed3b13d
+time  2025-01-21 14:27:43.048293+08:00
+type  v2board
+
+[lianjievpn.com]
+name  链接VPN
+type  v2board
+更新订阅链接/续费续签失败  注册失败(bksrqud668@gmail.com): 'NoneType' object is not subscriptable

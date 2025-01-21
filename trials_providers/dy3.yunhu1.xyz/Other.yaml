@@ -1,0 +1,39 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 牢记域名:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: ℹ️ 有问题访问:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: ℹ️ 订阅失败访问:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: ℹ️ 防失联:yh12.xyz - Welcome to nginx!, server: hk01.x.woyh.xyz, port: 38631, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国01（高速） - Welcome to nginx!, server: kr01.x.woyh.xyz, port: 38641, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国02（高速） - Welcome to nginx!, server: kr02.x.woyh.xyz, port: 38642, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国03（IPLC稳定） - Welcome to nginx!, server: kr03.x.woyh.xyz, port: 38643, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国04（IPLC稳定） - Welcome to nginx!, server: kr04.x.woyh.xyz, port: 38644, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国05（GPT专用） - Welcome to nginx!, server: kr05.x.woyh.xyz, port: 38645, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇰🇷 韩国06（GPT专用） - Welcome to nginx!, server: kr06.x.woyh.xyz, port: 38646, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇱 荷兰01 - Welcome to nginx!, server: nl01.x.woyh.xyz, port: 38794, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇱 荷兰02 - Welcome to nginx!, server: nl02.x.woyh.xyz, port: 38795, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇷 土耳其01 (高速） - Welcome to nginx!, server: tur01.x.woyh.xyz, port: 38790, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇹🇷 土耳其02 (高速） - Welcome to nginx!, server: tur02.x.woyh.xyz, port: 38791, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇬 尼日利亚-01 (高速） - Welcome to nginx!, server: ng01.x.woyh.xyz, port: 38799, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇳🇬 尼日利亚-02 (高速） - Welcome to nginx!, server: ng02.x.woyh.xyz, port: 38793, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇦🇺 澳大利亚01（高速） - Welcome to nginx!, server: au01.x.woyh.xyz, port: 38778, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇦🇺 澳大利亚02（高速） - Welcome to nginx!, server: au02.x.woyh.xyz, port: 38779, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇮🇳 印度01（高速） - Welcome to nginx!, server: in01.x.woyh.xyz, port: 38776, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇮🇳 印度02（高速） - Welcome to nginx!, server: in02.x.woyh.xyz, port: 38777, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国01（高速） - Welcome to nginx!, server: uk01.x.woyh.xyz, port: 38661, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国02（高速） - Welcome to nginx!, server: uk02.x.woyh.xyz, port: 38662, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国03（IPLC稳定） - Welcome to nginx!, server: uk03.x.woyh.xyz, port: 38663, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国04（IPLC稳定） - Welcome to nginx!, server: uk04.x.woyh.xyz, port: 38664, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国05（GPT专用） - Welcome to nginx!, server: uk05.x.woyh.xyz, port: 38665, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇬🇧 英国06（GPT专用） - Welcome to nginx!, server: uk06.x.woyh.xyz, port: 38667, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇩🇪 德国01（高速） - Welcome to nginx!, server: ger01.x.woyh.xyz, port: 38786, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇩🇪 德国02（高速） - Welcome to nginx!, server: ger02.x.woyh.xyz, port: 38787, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇫🇷 法国01（高速） - Welcome to nginx!, server: fr01.x.woyh.xyz, port: 38784, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇫🇷 法国02（高速） - Welcome to nginx!, server: fr02.x.woyh.xyz, port: 38785, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇨🇦 加拿大01（高速） - Welcome to nginx!, server: ca01.x.woyh.xyz, port: 38780, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇨🇦 加拿大02（高速） - Welcome to nginx!, server: ca01.x.woyh.xyz, port: 38781, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇲🇽 墨西哥01（高速） - Welcome to nginx!, server: mex01.x.woyh.xyz, port: 38782, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇲🇽 墨西哥02（高速） - Welcome to nginx!, server: mex02.x.woyh.xyz, port: 38783, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇧🇷 巴西01（高速） - Welcome to nginx!, server: br01.x.woyh.xyz, port: 38788, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
+- {name: 🇧🇷 巴西02（高速） - Welcome to nginx!, server: br02.x.woyh.xyz, port: 38789, type: ss, cipher: chacha20-ietf-poly1305, password: 64171232-2c38-429f-afbf-520a733a3ea4, udp: true}
