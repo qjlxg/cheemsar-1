@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: e1330d58-5481-36dc-8154-a39f0265ce8d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
