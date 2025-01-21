@@ -1,438 +1,752 @@
-[mlshu.com]
-name  马铃薯
-type  v2board
-更新订阅链接/续费续签失败  注册失败(zgaqaec596@gmail.com): 'NoneType' object is not subscriptable
-
-[bpjc.lol]
-buy  pass
-email  dkpfckzqs216@gmail.com
-name  白嫖机场
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://bpjc.lol/api/bpjclol?token=99ab5049bcd28baff5d0832bc723898c
-time  2025-01-21 16:40:23.854936+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[app.gomeow.cloud]
-
-[asa.lol]
-name  ASA加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(xjchiyck206@gmail.com): 'NoneType' object is not subscriptable
-
 [doucat.top]
 name  逗猫
 type  v2board
 更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
-[www.z1z1.top]
-
-[honven20.dgywzc.com]
-
-[jp.taishan.pro]
-
-[reurl.cc]
-error  <string>:1 Unexpected "p" at column 12
-type  v2board
-更新订阅链接/续费续签失败  注册失败(vjmqwsg58@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE html><html><head><title>縮短網址產生器 - reurl</title><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta name="robots" content="noindex,nosnippet"/><link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/kbcpafllcaoefpacjojiliohdhfjgbmo"/><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"/><link rel="stylesheet" href="https://storage.reurl.cc/stylesheets/rwd/style.css?v=1"/><script async="async" src="https://storage.reurl.cc/javascripts/ga2.js"></script><script async="async" src="https://www.googletagmanager.com/gtag/js?id=G-N394QBRGC0"></script><script> window.dataLayer = window.dataLayer || [];\n function gtag() {dataLayer.push(arguments);}\n gtag(\'js\', new Date());\n gtag(\'config\', \'G-N394QBRGC0\');\n</script><script> window.gnshbrequest = window.gnshbrequest || {cmd: []};\n window.gnshbrequest.cmd.push(function () {\n window.gnshbrequest.forceInternalRequest();\n });</script><script async="async" src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script><script async="async" src="https://cpt.geniee.jp/hb/v1/219632/1441/wrapper.min.js"></script></head><body><input type="hidden" id="label" value="MTcyLjE4My4xMzMuMjQz"/><input type="hidden" id="category" value="0"/><section id="main-sec" class="mt-2"><div class="overlay text-center"><h1 class="pt-4">轉址失敗</h1></div></section><section id="search-main"><div class="container"><div class="row"><div class="col-12 text-center"><span class="lead"></span><br/><span class="lead">找不到該網址或系統忙碌中</span><br/><span class="lead">請確認網址或稍後再試</span></div></div><div class="row mb-3 mt-1"><div class="col-md-12 text-center"><span class="lead"><a href="https://reurl.cc">離開此頁</a></span></div></div></div><div class="container"><div class="row"><div class="col-12 text-center"><div data-cptid="1562610_reurl_300x250_responsive_1" style="display: block;"><script> window.gnshbrequest.cmd.push(function() {\n window.gnshbrequest.applyPassback("1562610_reurl_300x250_responsive_1", "[data-cptid=\'1562610_reurl_300x250_responsive_1\']");\n });</script></div></div></div></div><div class="container"><div data-cptid="1562615_reurl_overlay_responsive" style="display: block;"><script> window.gnshbrequest.cmd.push(function() {\n window.gnshbrequest.applyPassback("1562615_reurl_overlay_responsive", "[data-cptid=\'1562615_reurl_overlay_responsive\']");\n });\n</script></div></div></section><div id="renews" class="container"><div class="row"><div class="col-md-6 col-12 mt-1 pl-0 pr-0"><div id="div-onead-nd"></div><script type="text/javascript"> var custom_call_ND = function (params) {\n if (params.hasAd) {\n console.log(\'[ONEAD] ND 首頁 has AD\')\n } else {\n console.log(\'[ONEAD] ND 首頁 AD Empty\');\n window.document.getElementsByClassName("col-md-6 col-12 mt-1 pl-0 pr-0")[0].setAttribute(\'style\', \'display:none;\');\n }\n }\n ONEAD_TEXT = {};\n ONEAD_TEXT.pub = {};\n ONEAD_TEXT.pub.uid = 1000480;\n ONEAD_TEXT.pub.slotobj = document.getElementById("div-onead-nd");\n ONEAD_TEXT.pub.player_mode = "native-drive";\n ONEAD_TEXT.pub.space_id = "";\n ONEAD_TEXT.pub.queryAdCallback = custom_call_ND;\n window.ONEAD_text_pubs = window.ONEAD_text_pubs || [];\n ONEAD_text_pubs.push(ONEAD_TEXT);</script><script src="https://ad-specs.guoshipartners.com/static/js/ad-serv.min.js"></script></div><div v-for="post in latestPosts" class="col-md-6 col-12 mt-1 pl-0 pr-0"><div class="card"><div class="row no-gutters"><div class="col-4"><a :href="post.link"><img :src="post.image" class="card-img mw-100 cropped"/></a></div><div class="col-8"><div class="card-body pt-1 pb-1 pr-1"><p class="card-title" v-text="post.title"></p><a :href="post.link" class="stretched-link"><p class="card-text"><span class="card-text text-muted" v-text="post.publish_date"></span><span>&nbsp;</span><span class="card-text text-muted" v-text="post.source_data.name"></span></p></a></div></div></div></div></div></div></div><hr/><div class="container"><div class="row"><div class="col-12 col-md-6 text-left"><div class="row"><div class="col-12 text-center"><span class="lead">其他免費線上工具</span></div></div><div class="row text-left"><div class="col-6 text-left"><ul><li><a href="https://youtils.cc/emoji" target="_blank"><span class="lead">表情符號(emoji)</span></a></li><li><a href="https://youtils.cc/geoip" target="_blank"><span class="lead">IP查詢</span></a></li><li><a href="https://youtils.cc/big5gb" target="_blank"><span class="lead">繁簡轉換</span></a></li><li><a href="https://youtils.cc/qrcode" target="_blank"><span class="lead">QRCode</span></a></li><li><a href="https://youtils.cc/length" target="_blank"><span class="lead">身高/長度換算</span></a></li></ul></div><div class="col-6 text-left"><ul><li><a href="https://www.comptw.com/" target="_blank"><span class="lead">台灣公司查詢網</span></a></li><li><a href="https://stockinfo.tw/" target="_blank"><span class="lead">台股資訊網</span></a></li><li><a href="https://youtils.cc/wordcounter/zh-Hants" target="_blank"><span class="lead">字數統計</span></a></li><li><a href="https://youtils.cc/dateCalculator" target="_blank"><span class="lead">日期計算機</span></a></li><li><a href="https://youtils.cc/lunarCalendar" target="_blank"><span class="lead">農曆轉國曆</span></a></li></ul></div></div><div class="row"><div class="col-12 text-center"><span class="lead">工具介紹</span></div></div><div class="row"><div class="col-12 text-left"><ul><li><a href="https://youtils.cc/geoip" target="_blank"><span>IP查詢</span></a><span>- 可以查詢自己的IP位址，也可以輸入IP查詢所在位置</span></li><li><a href="https://youtils.cc/big5gb" target="_blank"><span>繁簡轉換</span></a><span>: 可進行繁轉簡或是簡轉繁</span></li><li><a href="https://youtils.cc/qrcode" target="_blank"><span>QRCode</span></a><span>- 輸入網址或是任何其他資訊，快速產生QRCode下載使用</span></li><li><a href="https://youtils.cc/utm" target="_blank"><span>UTM網址</span></a><span>- 選擇UTM參數並輸入網址，自動產生UTM網址複製使用</span></li></ul></div></div></div><div class="col-12 col-md-6 text-center"><iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FCreditCards.com.tw%2F&amp;tabs=timeline&amp;width=340&amp;height=500&amp;small_header=false&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe></div></div></div><div class="container mt-3"><div class="row"><div class="col-12 col-md-5"><div class="row"><div class="col-4 text-right"><span>語系: 繁體中文</span></div><div class="col-8"><a href="/api/v1/passport/auth/register?lang=en">English</a><span>&nbsp;,&nbsp;</span><a href="/api/v1/passport/auth/register?lang=tw">繁體中文</a><span>&nbsp;,&nbsp;</span><a href="/api/v1/passport/auth/register?lang=cn">簡體中文</a></div></div></div><div class="col-12 col-md-6"><div class="row"><div class="col-6 col-md-6 text-right"><span>&copy2020 reurl.cc v3.0.0</span></div><div class="col-6 col-md-3"><a class="btn footer-button" href="/policy/terms/tw"><span class="small">條款</span></a><span>&nbsp;</span><span>&nbsp;</span><a class="btn footer-button" href="/policy/privacy/tw"><span class="small">隱私權</span></a></div><div class="col-6 col-md-3 text-center"><span>Adtech provided by Geniee</span></div></div></div></div></div><div id="oneadMIRSPEEDDFPTag"></div><script type="text/javascript"> var custom_call_MIR = function (params) {\n\n if ( params === null || params.hasAd === false ) {\n \n\n var divRowSide;\n var oindex;\n for (oindex = 0; oindex < ONEADs.length; oindex++) {\n if (ONEADs[oindex].pub.player_mode === "mobile-inread") {\n divRowSide = ONEADs[oindex].pub.slotobj;\n }\n }\n divRowSide.style.setProperty("text-align", "center");\n\n var AdXPassbackIframe = document.createElement(\'iframe\');\n AdXPassbackIframe.id = \'OneADMIRPassbackAdX\';\n AdXPassbackIframe.scrolling = \'no\';\n AdXPassbackIframe.marginWidth = 0;\n AdXPassbackIframe.marginHeight = 0;\n AdXPassbackIframe.frameBorder = 0;\n AdXPassbackIframe.style.setProperty("width", "0px");\n AdXPassbackIframe.style.setProperty("height", "0px");\n AdXPassbackIframe.style.setProperty("margin", "0px");\n AdXPassbackIframe.style.setProperty("border", "0px");\n AdXPassbackIframe.style.setProperty("text-align", "center");\n\n var AdXPassback = "<body>\\x3Cscript src = \'https://securepubads.g.doubleclick.net/tag/js/gpt.js\'></scr" + "ipt><div id=\'gpt-passback\'>\\x3Cscript> " +\n "window.googletag = window.googletag || {cmd: []};" +\n "googletag.cmd.push(function() {" +\n " googletag.defineSlot(\'/128002626/GPT_縮短網址產生器reurl/reurl_passback測試\', [300, 250], \'gpt-passback\').addService(googletag.pubads());" +\n " googletag.enableServices();" +\n " googletag.display(\'gpt-passback\');" +\n "});" +\n "googletag.pubads().addEventListener(\'slotRenderEnded\', function (e) { " +\n "if (!e.isEmpty) { " +\n "if (e.slot.getAdUnitPath() === \'/128002626/GPT_縮短網址產生器reurl/reurl_passback測試\') {" +\n "if (parseInt(e.size[0]) <= 1 && parseInt(e.size[1]) <= 1) {" +\n "parent.document.getElementById(\'OneADMIRPassbackAdX\').style.width = parseInt(e.size[0]) + \'px\';" +\n "parent.document.getElementById(\'OneADMIRPassbackAdX\').style.height = parseInt(e.size[1]) + \'px\';" +\n "} else {" +\n "parent.document.getElementById(\'OneADMIRPassbackAdX\').style.width = parseInt(e.size[0]) + 16 + \'px\';" +\n "parent.document.getElementById(\'OneADMIRPassbackAdX\').style.height = parseInt(e.size[1]) + 16 + \'px\';" +\n "}" +\n "}" +\n "} " +\n "});" +\n "<\\/script></div></body>";\n AdXPassbackIframe.onload = function () {\n AdXPassbackIframe.contentWindow.document.write(AdXPassback);\n }\n divRowSide.appendChild(AdXPassbackIframe);\n console.log(\'[ONEAD MIR] Passback Clickforce\');\n } else {\n console.log(\'[ONEAD MIR] AD Available\');\n }\n\n }\n var _ONEAD = {};\n _ONEAD.pub = {};\n _ONEAD.pub.slotobj = document.getElementById("oneadMIRSPEEDDFPTag");\n _ONEAD.pub.slots = ["div-onead-ad"];\n _ONEAD.pub.uid = "1000480";\n _ONEAD.pub.external_url = "https://onead.onevision.com.tw/";\n _ONEAD.pub.scopes = ["spotbuy", "speed"];\n _ONEAD.pub.player_mode_div = "div-onead-ad";\n _ONEAD.pub.player_mode = "mobile-inread";\n _ONEAD.pub.queryAdCallback = custom_call_MIR;\n _ONEAD.pub.is_same_adUnit = true;\n var ONEAD_pubs = ONEAD_pubs || [];\n ONEAD_pubs.push(_ONEAD);</script><script type="text/javascript" src="https://ad-specs.guoshipartners.com/static/js/onead-lib.min.js"></script><script src="https://cdn.jsdelivr.net/npm/vue@2.5.16/dist/vue.min.js"></script><script src="https://storage.reurl.cc/javascripts/renews.js"></script></body></html>')
-
-[cloud.speedypro.xyz]
-name  Speedy
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(mtzurqpcf531@jkb.tmmad.com): {'message': '验证码有误'}
-
-[www.qlgq.top]
-
-[www.v2ny.com]
-name  奈云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ldfrtnebp734@gmail.com): 'NoneType' object is not subscriptable
-
-[ikuuu.me]
-
-[xn--iiq540h.com]
-
-[jgjs02.com]
-
-[xn--4gq62f52gdss.com]
-
-[yuyan.online]
-
-[board.jike99.xyz]
-
 [dash.fscloud.cc]
 name  FSCloud
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(skwwiwv521@guerrillamail.biz): {'message': '邮箱后缀不处于白名单中'}
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xarkibj251@965.tmmad.com","success":"false"}'
 
-[www.mojie.me]
-
-[besnow.me]
-
-[lksi.xyz]
-
-[www.taishan.pro]
-banned_domains  tmpmail.org
-name  TaiShan Net
+[apanel.tinnyrick.com]
+email  esxfnttc735@gmail.com
+name  TinnyRick加速器
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(nnxgboyxj925@tmpmail.org)
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
 
-[zhu.suyun.bio]
+[azicloud.azzico.cc]
+name  Azi加速器
+type  v2board
+更新订阅链接/续费续签失败  注册失败(uledzewjc668@guerrillamail.com): 邮箱后缀不处于白名单中
 
-[glados.space]
+[azzico.cc]
+banned_domains  lista.cc
+name  Azi加速器
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(yczsrrt674@lista.cc)
+
+[azzico.com]
+name  Azi加速器
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"fjjrmksed204@mxl001.win","success":"false"}'
+
+[blackholeservices.com]
+name  黑洞加速
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ilykeshs566@sharklasers.com): 邮箱后缀不处于白名单中
+
+[cn.tcity.icu]
+name  暮城国际机场
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xjdxqfl994@wfes.site","success":"false"}'
+
+[dageyun.net]
+buy  pass
+email  ehplgmj854@gmail.com
 name  
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://9g1be.tdwj.net:108/api/v1/client/subscribe?token=11b20d88ee3a0e276b73032a472a7285
+time  2025-01-21 17:31:17.479871+08:00
 type  v2board
-更新订阅链接/续费续签失败  注册失败(aqqmwidh136@gmail.com): 没有权限
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[tly.sh]
+[daishu.pro]
 
-[sockboom.love]
+[dongligang.me]
 
-[panel.keleofficial.com]
-name  🥤
+[gxfast.com]
+api_host  qdapi.tgsas.cn
+email  saxtskq807@guerrillamail.net
+name  Global-Fast
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(oixywetcf104@guerrillamail.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
 
-[daniu.e300daniu.top]
+[hdyun.cc]
+name  黑洞加速
+type  v2board
+更新订阅链接/续费续签失败  注册失败(kksdjsncp363@tmpmail.net): 邮箱后缀不处于白名单中
 
-[klxq.djgskc.top]
+[huajic.pro]
+banned_domains  guerrillamail.org
+name  滑稽场Pro
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(uiynrsls142@guerrillamail.org)
 
-[px.bt3.one]
+[kuaimajiasu.com]
+name  快马加速
+type  v2board
+更新订阅链接/续费续签失败  注册失败(acbkptw244@gmail.com): 本站已关闭注册
 
-[chy.fit]
+[llcool.net]
+name  冰灵加速
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
-[v3ssy.xyz]
+[m.lightningvpns.com]
+name  闪电加速器
+type  v2board
+更新订阅链接/续费续签失败  注册失败(gyemlrv735@guerrillamail.com): 邮箱后缀不处于白名单中
 
-[www.proxyvip.xyz]
+[miaona.org]
+name  Miaona!
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(ifykcek831@moakt.ws): {'message': '验证码有误'}
+
+[newsfpwd.sf-express.com]
+
+[qiuyin.us]
+banned_domains  jkd.tmmad.com
+name  蚯蚓机场_小火箭节点购买订阅_免费节点【官方】
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(logjemrk451@jkd.tmmad.com)
+
+[sanliujiasu.com]
+buy  pass
+email  mcqxwjwsk790@gmail.com
+name  三流加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://abc.xhonor.top:9066/v2b/moc/api/v1/client/subscribe?token=723be718b385a0e04665b62411c41e49
+time  2025-01-21 17:31:13.961262+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[smjcdh.com]
+buy  pass
+email  cjmxhbgh424@gmail.com
+name  三毛机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://dy-1.smjcdh.com/api/v1/client/subscribe?token=c61bf0df8068148d96b15a6ca39c2a78
+time  2025-01-21 17:31:12.398371+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[tanti.me]
+
+[tiziya.club]
+banned_domains  teihu.com
+name  梯子鸭！嘎
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(porqpkfj136@teihu.com)
+
+[www.abruning.com]
+
+[www.bajie.pw]
+name  八戒
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+
+[www.cat77.org]
+
+[www.cootechs.com]
+
+[www.xihoogsi.com]
+name  西红柿🍅
+type  v2board
+更新订阅链接/续费续签失败  注册失败(acpbwaqs722@moakt.cc): 邮箱后缀不处于白名单中
+
+[www.友连.net]
+
+[xianwang.cc]
+buy  pass
+email  llbkhjen394@gmail.com
+name  创世专线机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://subscribe.guanwang.us/api/v1/client/subscribe?token=d29015a506fd5e38a8764a4d4b13301c
+time  2025-01-21 17:31:13.918372+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[xianzhey01.top]
+api_host  iii1.caty.moe
+buy  pass
+email  fmtademv259@guerrillamail.biz
+name  贤者云xianzheyun.top
+sub_url  https://baidu.nekoy01.com:10018/api/v1/client/subscribe?token=a29ba787b92b51c3ed7ec64be8a3c715
+time  2025-01-21 17:31:26.209921+08:00
+type  v2board
+获取订阅失败  (https://iii1.caty.moe/api/v1/client/subscribe?token=a29ba787b92b51c3ed7ec64be8a3c715): 403 Forbidden '{"error":"\\u5957\\u9910\\u5df2\\u8fc7\\u671f\\u6216\\u8005\\u5df2\\u88ab\\u7981\\u7528"}'
+
+[ya.tiziya.cc]
+name  梯子鸭！嘎
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+
+[ya.tiziya.net]
+banned_domains  spam4.me
+name  梯子鸭！嘎
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ginfjcc926@spam4.me)
+
+[yohaokun.com]
+banned_domains  guerrillamail.com
+name  小金鱼
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(zpwakhbn352@guerrillamail.com)
+
+[10010.mojieurl.com]
+
+[185.243.242.63]
+buy  pass
+email  cxyvnwayl789@gmail.com
+name  SDK DNS
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://8.153.15.14/api/v1/client/subscribe?token=2f1480b12333825e489c2084f7a5312c
+time  2025-01-21 17:31:17.443956+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[1password.com]
+
+[1yunti.org]
+
+[1元机场.com]
+
+[36y.me]
+
+[3w.付费机场.com]
+name  免费机场-付费机场-Hysteria机场
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(sqqtgrhk377@guerrillamail.biz): {'message': '验证码有误'}
+
+[4ft35t.github.io]
+
+[51ssr.com]
+buy  pass
+email  ypztvyncg638@gmail.com
+name  BestSSR
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://91ssr.com/api/v1/client/subscribe?token=3dbe86a0f40956b2b3ab51bba362dde2
+time  2025-01-21 17:31:16.698048+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[51tiger.cc]
+buy  pass
+email  gdnghmij308@gmail.com
+name  TigerCloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://45.88.192.25:21886/api/v1/client/subscribe?token=1a09b0d03660241a6623e642d160b35e
+time  2025-01-21 17:31:16.361978+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[51tiger.club]
+buy  pass
+email  lyxetcmvq231@gmail.com
+name  TigerCloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://45.88.192.25:21886/api/v1/client/subscribe?token=772e5ea6d277b5ef8437cbf84960af10
+time  2025-01-21 17:31:16.395276+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[58rocket.com]
+buy  pass
+email  yuuoqpmt366@gmail.com
+name  火箭云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://sub.588rocket.me/api/v1/client/subscribe?token=ca355daf8550a319b25aa70e6c714baa
+time  2025-01-21 17:31:17.227134+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[666.milou6.com]
+name  加速您的访问
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"hvfmwuwoy527@555.vupkl.shop","success":"false"}'
+
+[666.xbsj.org]
+banned_domains  tmpmail.net
+name  西部世界
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(bwckfutn873@tmpmail.net)
+
+[666.youtu2.com]
+name  加速您的访问
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+
+[66caihong.com]
+name  彩虹云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"dzhwlaw424@lplso.tmmad.com","success":"false"}'
+
+[91unicorn.cloud]
+
+[a.gf-fast.com]
+api_host  qdapi.tgsas.cn
+email  wggdavqrg947@guerrillamail.biz
+name  Global-Fast
+type  v2board
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
+
+[a.gscloud.icu]
+
+[a.hdyun.icu]
+
+[a.moc.homes]
+
+[a.sdyun.top]
+
+[a.smjcdh.com]
+buy  pass
+email  jkmijkb442@gmail.com
+name  三毛机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://dy-1.smjcdh.com/api/v1/client/subscribe?token=657e157303ab78ada13079470f6542e5
+time  2025-01-21 17:31:16.199421+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[a.soda01.top]
+buy  pass
+email  gifwdjuro301@gmail.com
+name  苏打云-不限时加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://kd3sd.mingri.icu/api/v1/client/subscribe?token=49db33f169ee8adef80dc271a937b264
+time  2025-01-21 17:31:16.487285+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[a.sudacloud.top]
+buy  pass
+email  cxafinu107@gmail.com
+name  苏打云-不限时加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://kd3sd.mingri.icu/api/v1/client/subscribe?token=d8d569d34f5b324878cfe1cd5ed6fed2
+time  2025-01-21 17:31:16.728372+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[a.yunxi.app]
+banned_domains  mail.shouyou789.com
+name  云栖
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(poxcpqd831@mail.shouyou789.com)
+
+[a01.nyc01.xyz]
+
+[abstraction.vmssr.online]
+buy  pass
+email  bwsqvmf189@gmail.com
+name  VMSSR - 优质加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://abstraction.vmssr.online/api/v1/client/subscribe?token=cdadc9fa0665c7f26292869251e84bd2
+time  2025-01-21 17:31:17.614114+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[access.feishayun.com]
+name  飞鲨云加速
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"whcubvrcm752@mail.wvwvw.tech","success":"false"}'
+
+[access.vmssr.online]
+buy  pass
+email  igkiopvy63@gmail.com
+name  VMSSR - 优质加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://access.vmssr.online/api/v1/client/subscribe?token=691fdc7cd91241b105de6dbf2fbbf8af
+time  2025-01-21 17:31:18.391563+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[accounts.qq.com]
+
+[acebot.me]
+buy  pass
+email  jzstpycxj662@gmail.com
+name  荔枝加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://mydss.vip/api/v1/client/subscribe?token=c478a9c9a5c4cbc97b182a728b369c3e
+time  2025-01-21 17:31:19.152007+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[aff.91jsq.org]
+
+[airport-wiki.gitbook.io]
+
+[alice.sale]
+
+[anitcloud.net]
+
+[anycast.yto2.com.php]
+
+[anyland.club]
+buy  pass
+email  iwzzcnyqo329@gmail.com
+name  ANYLAND
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://103.118.41.241:25678/api/v1/client/subscribe?token=d684f95b2be2d2b708b455f2b8e92ce5
+time  2025-01-21 17:31:20.517076+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[app.tandem.net]
+
+[as.saururus.ink]
+
+[az2.233235.xyz]
+buy  pass
+email  gazwnuszv897@gmail.com
+name  AZ云
+node_n  18
+sub_info  0B  1G  2025-01-21 18:31:21+08:00  (剩余 1G 0:59:56.321791)
+sub_url  https://az2.233235.xyz/api/v1/client/subscribe?token=397e977549d639eca9fc27167184d1bb
+time  2025-01-21 17:31:22.211092+08:00
+type  v2board
+
+[azi.azzico.com]
+name  Azi加速器
+type  v2board
+更新订阅链接/续费续签失败  注册失败(eilzkrqic883@guerrillamail.org): 邮箱后缀不处于白名单中
+
+[azi.homes]
+
+[azyun.top]
+buy  pass
+email  bzxrgzc749@gmail.com
+name  AZ云
+node_n  18
+sub_info  0B  1G  2025-01-21 18:31:22+08:00  (剩余 1G 0:59:55.910564)
+sub_url  https://az2.233235.xyz/api/v1/client/subscribe?token=a5b5ab97fcf8bc1920f864d9464c66c4
+time  2025-01-21 17:31:22.869014+08:00
+type  v2board
+
+[azz.azzico.com]
 banned_domains  xxxhi.cc
-name  Proxyvip
+name  Azi加速器
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(nvoeqkvic954@xxxhi.cc)
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qnituwva556@xxxhi.cc)
 
-[daxun.club]
-
-[bcast.ink]
-
-[b0chi.r-yu.me]
-
-[cd520.xyz]
-name  cd1314.xyz
+[b.ikunvpn.com]
+name  ikunVPN
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"hjggejgra109@ipiso.tmmad.com","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(atlrxxw355@gmail.com): 'NoneType' object is not subscriptable
 
-[www.aoxiangyun.top]
+[b.youlian400.org]
 
-[www.mickey.business]
+[bajie.pw]
+name  八戒
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(aehojvlgy507@555.waocq.shop): {'message': '验证码有误'}
 
-[sp.nfsq.me]
-
-[cocolink.org]
-
-[oukasou.xyz]
-
-[www.aimacloud.info]
-
-[user.xinna.co]
-
-[nanmin.xyz]
-
-[qiaoxbbq.com]
-
-[mxwljsq.xyz]
-name  猫熊网络加速器
+[bat.vpnb.net]
+name  Login to your account - BatVPN
 type  sspanel
-更新订阅链接/续费续签失败  发送邮箱验证码失败(scunqbd867@mail.shouyou789.com): {'ret': 0, 'msg': '邮箱不在白名单内'}
+更新订阅链接/续费续签失败  注册失败(cyryofq677@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n<head>\n <meta charset="utf-8" />\n <meta http-equiv="X-UA-Compatible" content="IE=edge">\n <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">\n <link rel="apple-touch-icon" sizes="76x76" href="/theme/material-dashboard-pro/img/apple-icon.png">\n <link rel="icon" type="image/png" href="/theme/material-dashboard-pro/img/favicon.png">\n <title>Internal server error - BatVPN</title>\n <meta name="keywords" content="VPN, easy -to -use VPN, speed VPN, stable VPN, the safest VPN" />\n <meta name="description" content="BatVPN provides a stable VPN service. The industry has a very high line rate, excellent user evaluation, high cost performance than peer competition, easy installation and use, customer service service rapid response, unique anti -blocking agreement, special optimization for Chinese lines, careful intentions, intentional intentions Serving Chinese overwall users" />\n <!-- Styling -->\n <!-- Fonts -->\n <link href="/theme/material-dashboard-pro/css/css.css?family=Roboto300,400,500,700,900Roboto+Slab400,700" rel="stylesheet">\n <!-- Icons -->\n <link href="/theme/material-dashboard-pro/css/nucleo-icons.css" rel="stylesheet">\n <link href="/theme/material-dashboard-pro/css/nucleo-svg.css" rel="stylesheet">\n\n <!-- Font Awesome Icons 本地化-->\n <link rel="stylesheet" href="/theme/material-dashboard-pro/css/plugins/fontawesome/free.min.css">\n <link rel="stylesheet" href="/theme/material-dashboard-pro/css/plugins/fontawesome/free-v4-shims.min.css">\n <link rel="stylesheet" href="/theme/material-dashboard-pro/css/plugins/fontawesome/free-v4-font-face.min.css">\n\n <!-- CSS Files -->\n <link href="/theme/material-dashboard-pro/css/material-dashboard.min.css" rel="stylesheet">\n <link href="/theme/material-dashboard-pro/css/icon.css?family=Material+Icons+Round" rel="stylesheet">\n\n <link href="/theme/material-dashboard-pro/css/custom.css" rel="stylesheet">\n\n <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->\n <!-- WARNING: Respond.js doesn\'t work if you view the page via file:// -->\n <!--[if lt IE 9]>\n <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>\n <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>\n <![endif]-->\n <script src="/theme/material-dashboard-pro/js/jquery.min.js"></script>\n</head>\n<body class="g-sidenav-show bg-gray-200">\n \n <!--aside class="sidenav navbar navbar-vertical navbar-expand-xs border-0 border-radius-xl my-2 fixed-start ms-2" id="sidenav-main">\n <div class="sidenav-header">\n <i class="fas fa-times p-3 cursor-pointer opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>\n <a href="javascript:location.reload();" class="navbar-brand m-0 d-flex">\n <img src="/theme/material-dashboard-pro/img/logo-ct-dark.svg" alt="Co.,Ltd." class="navbar-brand-img h-100">\n <span class="h5 ms-1 font-weight-bold text-white Co">batvpn</span>\n </a>\n </div>\n <div class="collapse navbar-collapse w-auto h-auto">\n <ul class="navbar-nav">\n <hr class="horizontal mt-0 mb-2 dark">\n <li class="nav-item">\n <a class="nav-link text-white" href=".php">\n <i class="material-icons-round">home</i>\n <span class="sidenav-normal ms-2 ps-1">yyy</span>\n </a>\n </li>\n\n </ul>\n </div>\n </aside-->\n\n <main class="main-content position-relative max-height-vh-100 h-100 border-radius-lg ">\n <!-- Navbar -->\n <nav class="navbar navbar-main navbar-expand-lg position-sticky mt-2 top-2 px-0 mx-2 shadow-none border-radius-xl z-index-sticky" id="navbarBlur111" data-scroll="true" style="-webkit-backdrop-filter:saturate(200%) blur(30px);backdrop-filter:saturate(200%) blur(30px);background-color:hsla(0,0%,100%,.1)!important;">\n <div class="container container-fluid py-1 px-3">\n <!--div class="sidenav-toggler sidenav-toggler-inner d-xl-block d-none">\n <a href="javascript:;" class="nav-link text-white p-0">\n <div class="sidenav-toggler-inner">\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n </div>\n </a>\n </div>\n <li class="nav-item d-xl-none d-flex align-items-center">\n <a href="javascript:location.reload();" class="navbar-brand m-0 d-flex">\n <img src="/theme/material-dashboard-pro/img/logo-ct-dark.svg" alt="batvpn" class="navbar-brand-img h-100 me-3">\n </a>\n <a href="javascript:;" class="nav-link p-0 text-white" id="iconNavbarSidenav">\n <div class="sidenav-toggler-inner">\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n </div>\n </a>\n </li-->\n\n <a href="/" class="navbar-brand m-0">\n <img src="" class="h-100">\n <span class="sidenav navbar-collapse"></span>\n </a>\n\n <i class="fas fa-times p-3 cursor-pointer opacity-5 position-absolute end-0 top-0 d-none d-xl-none" aria-hidden="true" id="iconSidenav"></i>\n <a href="/" class="navbar-brand m-0 d-flex">\n <img src="/theme/material-dashboard-pro/img/logo-ct-dark.svg" alt="Co.,Ltd." class="navbar-brand-img h-100">\n <span class="h5 ms-1 font-weight-bold text-white Co">batvpn</span>\n </a>\n\n <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4" id="navbar">\n <div class="ms-md-auto pe-md-3 d-flex align-items-center">\n </div>\n <ul class="navbar-nav justify-content-end align-items-center">\n <li class="nav-item d-flex px-0">\n <div class="searchContainer d-flex input-group input-group-sm input-group-outline">\n <input type="text" class="form-control form-control-sm" placeholder="输入搜索的问题" id="searchInput" style="display:none;width:150px;">\n <span class="me-0 p-2 d-flex" id="searchToggle">\n <i class="fas fa-search" aria-hidden="true"></i>\n </span>\n </div>\n <script>\n $(document).ready(function() {\n $(\'#searchToggle\').click(function() {\n if ($(\'#searchInput\').is(\':hidden\')) {\n $(\'#searchInput\').animate({\n width: \'toggle\',\n paddingRight: \'toggle\',\n paddingLeft: \'toggle\'\n },\n 500);\n } else {\n performSearch()\n }\n });\n $(document).click(function(e) {\n if (!$(e.target).closest(\'.searchContainer\').length) {\n $(\'#searchInput\').animate({\n width: \'hide\',\n paddingRight: \'hide\',\n paddingLeft: \'hide\'\n },\n 500);\n }\n });\n $(\'#searchInput\').on(\'keydown\', function(e) {\n if ($(this).is(\':visible\') && e.key === \'Enter\') {\n performSearch();\n }\n });\n function performSearch() {\n const searchQuery = $(\'#searchInput\').val();\n const searchUrl = \'/help#\'+searchQuery;\n window.open(searchUrl, \'_blank\');\n }\n });\n </script> </li>\n <li class="nav-item d-flex align-items-center px-2 d-sm-inline d-none">\n <a href="/invite" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-users me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Invite Rebate</span>\n </a>\n </li>\n <li class="nav-item d-flex dropdown px-0 d-lg-inline d-none">\n <div class="dropdown">\n <a role="button" class="dropdown-toggle position-relative nav-link text-white font-weight-bold" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">\n <i class="fa fa-download me-0" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">download</span>\n </a>\n <div class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" aria-labelledby="dropdownMenuBlocks">\n <ul class="list-group">\n <a class="dropdown-header font-weight-bolder d-flex align-items-center" href="/download">\n <i class="material-icons opacity-6 me-2 text-md">download</i>\n <span>download</span>\n </a>\n <a href="/download/windows" class="dropdown-item border-radius-md">\n <span class="ps-2">Windows</span>\n </a>\n <a href="/download/macos" class="dropdown-item border-radius-md">\n <span class="ps-2">MacOS</span>\n </a>\n <a href="/download/linux" class="dropdown-item border-radius-md">\n <span class="ps-2">Linux</span>\n </a>\n <a href="/download/ios" class="dropdown-item border-radius-md">\n <span class="ps-2">iOS</span>\n </a>\n <a href="/download/android" class="dropdown-item border-radius-md">\n <span class="ps-2">Android</span>\n </a>\n </ul>\n </div>\n </div>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-sm-inline d-none">\n <a href="/apps" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-cogs me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">install</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-inline d-none">\n <a href="/nodes" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-globe me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Node Link</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-sm-inline d-none">\n <a href="/pricing" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-tag me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">price</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-inline d-none">\n <a href="/announcements" class="dropdown nav-link text-white font-weight-bold px-0">\n <i class="fa fa-bell me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Announcements</span>\n <span class="position-absolute top-5 start-100 translate-middle badge rounded-pill bg-danger border border-white small py-1 px-2">\n <span class="small">1</span>\n </span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-inline d-none">\n <a href="/contact" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-comment me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Contact Us</span>\n </a>\n </li>\n <li class="nav-item dropdown px-2 d-flex">\n\n <div class="dropdown dropdown-language">\n <a href="#" class="dropdown-toggle nav-link text-white font-weight-bold px-0" data-bs-toggle="dropdown" aria-expanded="false" id="dropdown-flag">\n <img src="/theme/material-dashboard-pro/img/flags/en.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 flag-icon" alt="">\n <span class="d-lg-inline-block d-none selected-language">English</span>\n </a>\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" aria-labelledby="dropdown-flag">\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/en.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n English\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/zh/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/zh.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 简体中文\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/zh-tw/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/zh-tw.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 繁體中文\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/ja/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/ja.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 日本語\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/ko/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/ko.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n 한국어\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="https://bat.vpnb.net/fa/auth/register">\n <img src="/theme/material-dashboard-pro/img/flags/fa.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2"/>\n Persian\n </a>\n </li>\n </ul>\n </div>\n \n </li>\n <li class="nav-item dropdown px-2 d-lg-inline d-none">\n <div class="dropdown">\n <a href="javascript:void(0);" class="dropdown-toggle position-relative nav-link text-white font-weight-bold px-0 nav-link-style" data-bs-toggle="dropdown" aria-expanded="false" id="navbarDropdownMenuLink3">\n <i class="fa fa-anchor"></i>\n </a>\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4 nav-link-style-dropdown" aria-labelledby="navbarDropdownMenuLink3">\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-anchor me-sm-1"></i> Follow system\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-adjust me-sm-1"></i> Follow day and night\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-sun me-sm-1"></i> Light\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-moon me-sm-1"></i> Dark\n </a>\n </li>\n </ul>\n </div>\n </li>\n <!--li class="nav-item dropdown px-2">\n <a href="javascript:;" class="nav-link text-white p-0" id="accountNotifications" data-bs-toggle="dropdown" aria-expanded="false">\n <i class="fa fa-bell me-sm-1 cursor-pointer"></i>\n <span class="d-sm-inline d-none"></span>\n <span class="label label-info"></span>\n <span class="position-absolute top-5 start-100 translate-middle badge rounded-pill bg-danger border border-white small py-1 px-2">\n <span class="small">11</span>\n <span class="visually-hidden">unread notifications</span>\n </span>\n </a>\n\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" style="min-width:20rem;" aria-labelledby="accountNotifications">\n <li>\n <a class="dropdown-item border-radius-md" href="">\n <div class="d-flex align-items-center py-1">\n <i class="fas fa-fw fa-"></i>\n <div class="ms-2">\n <h6 class="text-sm font-weight-normal my-auto" style="white-space: normal;">\n \n </h6>\n </div>\n </div>\n </a>\n </li>\n </ul>\n </li-->\n <li class="nav-item d-flex align-items-center px-2">\n <a href="/login" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-user me-sm-1" aria-hidden="true"></i>\n <span class="d-lg-inline-block d-none">Login</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-2 d-lg-none">\n <a href="javascript:document.querySelector(\'.fixed-plugin\').classList.add(\'show\');" class="nav-link text-body p-0">\n <div class="sidenav-toggler-inner">\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n <i class="sidenav-toggler-line"></i>\n </div>\n </a>\n </li>\n </ul>\n \n </div>\n </div>\n </nav>\n <!-- End Navbar -->\n\n\n<section class="min-vh-100 d-flex align-items-center">\n<div class="container">\n<div class="row mt-lg-0 mt-8">\n<div class="col-lg-5 my-auto">\n<h1 class="display-1 text-bolder text-gradient text-warning fadeIn1 fadeInBottom mt-5">Error 500</h1>\n<h2 class="fadeIn3 fadeInBottom opacity-8">Something went wrong</h2>\n<p class="lead opacity-6 fadeIn2 fadeInBottom">Internal Server Error.</p>\n<a type="button" href="/" class="btn bg-gradient-warning mt-4 fadeIn2 fadeInBottom">Go to Homepage</a>\n</div>\n<div class="col-lg-7 my-auto">\n<img class="w-100 fadeIn1 fadeInBottom" src="/theme/material-dashboard-pro/img/illustrations/error-500.png" alt="500-error">\n</div>\n</div>\n</div>\n</section>\n\n <!-- -------- START FOOTER 1 w/ COMPANY DESCRIPTION AND 4 COLS ------- -->\n <footer class="footer py-7">\n <div class="container">\n <div class="row">\n <div class="col-lg-3 mb-5 mb-lg-0">\n <h6 class="text-uppercase mb-2">About us</h6>\n <p class="mb-4 pb-2">\n <span>BatVPN has been leading the VPN industry for over a decade. With a strict no-logs policy, world-class servers, and transparent open source software, we put your online privacy, security and freedom above all else.</span>\n </p>\n <a href="https://www.facebook.com/batvpncom" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-facebook"></span>\n </a>\n <a href="https://twitter.com/batvpn" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-twitter"></span>\n </a>\n <a href="https://t.me/bat_vpn" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-telegram"></span>\n </a>\n <a href="https://www.instagram.com/batvpn" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-instagram"></span>\n </a>\n <a href="https://www.pinterest.com/batvpn/" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-pinterest"></span>\n </a>\n <a href="https://www.github.com/batvpn/" target="_blank" class="text-secondary me-xl-4 me-2" ref="external nofollow">\n <span class="text-lg fab fa-github"></span>\n </a>\n <a href="/theme/material-dashboard-pro/img/illustrations/batvpnSite.png" download="BatVPN.png"><img class="content-wrapper-img w-20" src="/theme/material-dashboard-pro/img/illustrations/batvpnQRcode.png" alt="BatVPN 永久官网 二维码" onclick="saveImage1(this)">保存网址</a>\n </div>\n <div class="col-md-2 col-6 ms-lg-auto mb-md-0 mb-4">\n <h6 class="text-sm">Company</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n About Us\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Careers\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Press\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Blog\n </a>\n </li>\n </ul>\n </div>\n\n <div class="col-md-2 col-6 mb-md-0 mb-4">\n <h6 class="text-sm">Pages</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n <span>Login</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n <span>Signup</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Add list\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/contact" target="_blank">\n <span>Contact Us</span>\n </a>\n </li>\n </ul>\n </div>\n\n <div class="col-md-2 col-6 mb-md-0 mb-4">\n <h6 class="text-sm">Legal</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/termsofservice" target="_blank">\n <span>Terms of Service</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/about" target="_blank">\n <span>About Us</span>\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="" target="_blank">\n Team\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/privacypolicy" target="_blank">\n <span>Privacy Policy</span>\n </a>\n </li>\n </ul>\n </div>\n\n <div class="col-md-2 col-6 mb-md-0 mb-4">\n <h6 class="text-sm">Resources</h6>\n <ul class="flex-column ms-n3 nav">\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/blog/zh/" target="_blank">\n 博客\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/help" target="_blank">\n 帮助\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/help" target="_blank">\n 常见问题\n </a>\n </li>\n\n <li class="nav-item">\n <a class="nav-link text-secondary" href="/pricing" target="_blank">\n <span>price</span>\n </a>\n </li>\n </ul>\n </div>\n </div>\n <hr class="horizontal dark mt-lg-5 mt-4 mb-sm-4 mb-1">\n <div class="row">\n <div class="col-8 mx-lg-auto text-lg-center">\n <p class="text-sm text-secondary">\n Copyright © <script>document.write(new Date().getFullYear())</script> by BatVPN\n </p>\n </div>\n </div>\n </div>\n </footer>\n </main>\n <!-- -------- END FOOTER 1 w/ COMPANY DESCRIPTION AND 4 COLS ------- -->\n <div class="modal fade" id="modalAjax" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true" data-bs-focus="false">\n <div class="modal-dialog modal-dialog-centered" role="document">\n <div class="modal-content">\n <div class="modal-header">\n <h5 class="modal-title font-weight-normal" id="exampleModalLabel"></h5>\n <button type="button" class="btn-close text-dark" data-bs-dismiss="modal" aria-label="Close">\n <span aria-hidden="true">&times;</span>\n </button>\n </div>\n <div class="modal-body">\n \n </div>\n <div class="modal-footer">\n <button type="button" class="btn bg-gradient-secondary" data-bs-dismiss="modal">取消</button>\n <button type="button" class="btn bg-gradient-primary">确定</button>\n </div>\n </div>\n </div>\n </div>\n <div class="toast-container">\n </div>\n\n <div class="fixed-plugin">\n \n <!--a class="fixed-plugin-button text-dark position-fixed px-3 py-2">\n <i class="material-icons py-2">mark_chat_unread</i>\n </a-->\n \n <div class="card shadow-lg">\n <div class="card-header pb-0 pt-3">\n <div class="float-start">\n <h5 class="mt-3 mb-0">BatVPN</h5>\n <p></p>\n </div>\n <div class="float-end mt-4">\n <button class="btn btn-link text-dark p-0 fixed-plugin-close-button">\n <i class="material-icons">clear</i>\n </button>\n </div>\n <!-- End Toggle Button -->\n </div>\n <hr class="horizontal dark my-1">\n <div class="card-body pt-sm-3 pt-0">\n <!-- Sidebar Backgrounds -->\n <div>\n <!--h6 class="mb-0">Sidebar Colors</h6-->\n </div>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/invite" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-users me-sm-2" aria-hidden="true"></i>\n <span class="">Invite Rebate</span>\n </a>\n </li>\n <li class="nav-item d-flex dropdown align-items-center px-3 pt-3">\n <div class="dropdown">\n <a role="button" class="dropdown-toggle position-relative nav-link text-white font-weight-bold" id="dropdownMenuBlocks" data-bs-toggle="dropdown" aria-expanded="false">\n <i class="fa fa-download me-sm-1" aria-hidden="true"></i>\n <span>download</span>\n </a>\n <div class="dropdown-menu dropdown-menu-end p-2 me-sm-n4" aria-labelledby="dropdownMenuBlocks">\n <ul class="list-group">\n <a class="dropdown-header font-weight-bolder d-flex align-items-center" href="/download">\n <i class="material-icons opacity-6 me-2 text-md">download</i>\n <span>download</span>\n </a>\n <a href="/download/windows" class="dropdown-item border-radius-md">\n <span class="ps-2">Windows</span>\n </a>\n <a href="/download/macos" class="dropdown-item border-radius-md">\n <span class="ps-2">MacOS</span>\n </a>\n <a href="/download/linux" class="dropdown-item border-radius-md">\n <span class="ps-2">Linux</span>\n </a>\n <a href="/download/ios" class="dropdown-item border-radius-md">\n <span class="ps-2">iOS</span>\n </a>\n <a href="/download/android" class="dropdown-item border-radius-md">\n <span class="ps-2">Android</span>\n </a>\n </ul>\n </div>\n </div>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/apps" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-cogs me-sm-2" aria-hidden="true"></i>\n <span class="">install</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/nodes" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-globe me-sm-2" aria-hidden="true"></i>\n <span class="">Node Link</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/pricing" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-tag me-sm-2" aria-hidden="true"></i>\n <span class="">price</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/announcements" class="dropdown nav-link text-white font-weight-bold px-0">\n <i class="fa fa-bell me-sm-2" aria-hidden="true"></i>\n <span class="">Announcements</span>\n <span class="position-absolute top-5 start-100 translate-middle badge rounded-pill bg-danger border border-white small py-1 px-2">\n <span class="small">1</span>\n </span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/contact" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-comment me-sm-2" aria-hidden="true"></i>\n <span class="">Contact Us</span>\n </a>\n </li>\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/help" class="nav-link text-white font-weight-bold px-0">\n <i class="fas fa-question me-sm-2" aria-hidden="true"></i>\n <span class="">Help</span>\n </a>\n </li>\n <li class="nav-item dropdown d-flex align-items-center px-3 pt-3">\n <div class="dropdown">\n <a href="javascript:void(0);" class="dropdown-toggle nav-link text-white font-weight-bold px-0" data-bs-toggle="dropdown" aria-expanded="false" id="navbarDropdownMenuLink6">\n <i class="fa fa-anchor me-sm-2"></i>\n <span class="">系统风格</span>\n </a>\n <ul class="dropdown-menu dropdown-menu-end p-2 me-sm-n4 nav-link-style-dropdown" aria-labelledby="navbarDropdownMenuLink6">\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-anchor me-sm-1"></i> Follow system\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="fa fa-adjust me-sm-1"></i> Follow day and night\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-sun me-sm-1"></i> Light\n </a>\n </li>\n <li>\n <a class="dropdown-item border-radius-md" href="javascript:void(0);">\n <i class="far fa-moon me-sm-1"></i> Dark\n </a>\n </li>\n </ul>\n </div>\n </li>\n\n <!--a href="javascript:void(0)" class="switch-trigger background-color">\n <div class="badge-colors my-2 text-start">\n <span class="badge filter bg-gradient-primary active" data-color="primary" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-dark" data-color="dark" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-info" data-color="info" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-success" data-color="success" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-warning" data-color="warning" onclick="sidebarColor(this)"></span>\n <span class="badge filter bg-gradient-danger" data-color="danger" onclick="sidebarColor(this)"></span>\n </div>\n </a-->\n <!-- Sidenav Type -->\n <!--div class="mt-3">\n <h6 class="mb-0">Sidenav Type</h6>\n <p class="text-sm">Choose between 2 different sidenav types.</p>\n </div-->\n <div class="d-flex d-none">\n <button class="btn bg-gradient-dark px-3 mb-2 active" data-class="bg-gradient-dark" id="bg-gradient-dark" onclick="sidebarType(this)">Dark</button>\n <button class="btn bg-gradient-dark px-3 mb-2 ms-2" data-class="bg-transparent" id="bg-transparent" onclick="sidebarType(this)">Transparent</button>\n <button class="btn bg-gradient-dark px-3 mb-2 ms-2" data-class="bg-white" id="bg-white" onclick="sidebarType(this)">White</button>\n </div>\n <!--p class="text-sm d-xl-none d-block mt-2">You can change the sidenav type just on desktop view.</p>\n <!-- Navbar Fixed -->\n <!--div class="mt-3 d-flex">\n <h6 class="mb-0">Navbar Fixed</h6>\n <div class="form-check form-switch ps-0 ms-auto my-auto">\n <input class="form-check-input mt-1 ms-auto" type="checkbox" id="navbarFixed" onclick="navbarFixed(this)">\n </div>\n </div>\n <hr class="horizontal dark my-3">\n <div class="mt-2 d-flex">\n <h6 class="mb-0">Sidenav Mini</h6>\n <div class="form-check form-switch ps-0 ms-auto my-auto">\n <input class="form-check-input mt-1 ms-auto" type="checkbox" id="navbarMinimize" onclick="navbarMinimize(this)">\n </div>\n </div>\n <hr class="horizontal dark my-3">\n <div class="mt-2 d-flex">\n <h6 class="mb-0">Light / Dark</h6>\n <div class="form-check form-switch ps-0 ms-auto my-auto">\n <input class="form-check-input mt-1 ms-auto" type="checkbox" id="dark-version" onclick="darkMode(this)">\n </div>\n </div-->\n <hr class="horizontal dark my-sm-4">\n <a class="btn bg-gradient-success w-100" href="/pricing">购买服务</a>\n <a class="btn bg-gradient-primary w-100" href="/login">Login</a>\n <a class="btn btn-outline-dark w-100" href="/signup">Signup</a>\n <!--div class="w-100 text-center">\n <a class="github-button" href="" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star creativetimofficial/material-dashboard on GitHub">Star</a>\n <h6 class="mt-3">Thank you for sharing!</h6>\n <a href="" class="btn btn-dark mb-0 me-2" target="_blank">\n <i class="fab fa-twitter me-1" aria-hidden="true"></i> Tweet\n </a>\n <a href="" class="btn btn-dark mb-0 me-2" target="_blank">\n <i class="fab fa-facebook-square me-1" aria-hidden="true"></i> Share\n </a>\n </div-->\n <hr class="horizontal dark my-sm-4">\n <li class="nav-item d-flex align-items-center px-3 pt-3">\n <a href="/theme/material-dashboard-pro/img/illustrations/batvpnSite.png" download="BatVPN.png" class="nav-link text-white font-weight-bold px-0">\n <i class="fa fa-save me-sm-2" aria-hidden="true"></i>\n <span class="">收藏我们的网址</span>\n <img class="content-wrapper-img w-60" src="/theme/material-dashboard-pro/img/illustrations/batvpnQRcode.png" alt="BatVPN 永久官网 二维码" onclick="saveImage1(this)">\n </a>\n </li>\n </div>\n\n <!-- Core -->\n <script src="/theme/material-dashboard-pro/js/core/popper.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/core/bootstrap.min.js"></script>\n \n <!-- Font Awesome Icons 本地化-->\n <!--script src="/theme/material-dashboard-pro/js/fontawesome.js" crossorigin="anonymous"></script-->\n\n <script src="/theme/material-dashboard-pro/js/plugins/sweetalert.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/perfect-scrollbar.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/smooth-scrollbar.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/choices.min.js"></script>\n <!--script src="/theme/material-dashboard-pro/js/plugins/multistep-form.js"></script-->\n <script src="/theme/material-dashboard-pro/js/plugins/dragula/dragula.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/jkanban/jkanban.js"></script>\n <!--script src="/theme/material-dashboard-pro/js/plugins/i18next/i18next.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/i18next/i18nextHttpBackend.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/jquery-i18next/jquery-i18next.min.js"></script-->\n <!-- Theme JS -->\n <script src="/theme/material-dashboard-pro/js/material-dashboard.js"></script>\n\n <!--script src="/theme/materialdashboardpro/js/plugins/bootstrap-selectpicker.js"></script-->\n <!--script src="/theme/materialdashboardpro/js/plugins/bootstrap-notify.js"></script-->\n <script src="/theme/material-dashboard-pro/js/plugins/qrcode/qrcode.min.js"></script>\n <script src="/theme/material-dashboard-pro/js/plugins/clipboard/clipboard.min.js"></script>\n <script type="text/javascript">\n //点击显示密码\n $(".lookpasswd").click(function() {\n if($("input[type=\'password\']").attr("type") == "password"){\n $("input[type=\'password\']").attr("type", "textpasswd");\n $(".lookpasswd").children().attr("class", "fa fa-eye-slash")\n }else{\n $("input[type=\'textpasswd\']").attr("type","password");\n $(".lookpasswd").children().attr("class", "fa fa-eye")\n }\n });\n //Toast初始化\n //toastr(\'success\',\'hello\',\'can i help you\',\'top-0 end-0\',)\n function toastr(style,title,message,position,options) {\n var randomNumber = Math.floor(10000000+Math.random()*90000000) //随机8位数\n var newToastHTML = \'<div class="toast fade align-items-center bg-gradient-\'+style+\'" role="alert" aria-live="assertive" aria-atomic="true" id="toast_\'+style+\'_\'+randomNumber+\'" data-bs-delay="5000">\'+\n \'<div class="toast-body text-white">\'+\n message\n \'</div>\'+\n \'</div>\';\n $(\'.toast-container\').append(newToastHTML);\n $(\'.toast-container\').attr(\'class\',\'toast-container \'+position); //需在初始化之前 右上(top-0 end-0) 中上(top-0 start-50 translate-middle-x) 左上(top-0 start-0)\n if (title){\n var newToastTitle = \'<div class="toast-header bg-transparent border-0">\'+\n \'<i class="material-icons text-white me-2">campaign</i>\'+\n \'<span class="me-auto text-white font-weight-bold">\'+title+\'</span>\'+\n \'<small class="text-white">now</small>\'+\n \'<i class="fas fa-times text-md text-white ms-3 cursor-pointer" data-bs-dismiss="toast" aria-label="Close"></i>\'+\n \'</div>\'+\n \'<hr class="horizontal light m-0">\';\n $(\'#toast_\'+style+\'_\'+randomNumber).prepend(newToastTitle);\n }\n new bootstrap.Toast(\'#toast_\'+style+\'_\'+randomNumber).show(); //success info warning danger//需要使用随机id，来实现堆叠效果\n if (options) { //hide hidden show shown\n var optionsKey = Object.keys(options)[0]\n document.getElementById(\'toast_\'+style+\'_\'+randomNumber).addEventListener(optionsKey+\'.bs.toast\', () => {\n options[optionsKey]();\n })\n }\n }\n //菜单高亮\n //var urlstr = location.href;\n var urlstr = window.location.pathname; //获取当前路径\n var urlquery = window.location.search; //获取当前参数\n var urlstatus=false;\n //console.log(\'参数\'+(urlstr+urlquery))\n $(".navbar-nav > li > a, .navbar-nav > li > div > ul > li > a").each(function () {\n if ((urlstr+urlquery).indexOf($(this).attr(\'href\')) > -1 && $(this).attr(\'href\')!=\'\' && $(this).attr(\'href\') != \'/account\' && $(this).attr(\'href\') != \'/clientarea.php\') {\n $(this).addClass(\'active\').find(\'i.far.fa-circle\').removeClass(\'fa-circle\').addClass(\'fa-dot-circle\').siblings().removeClass(\'active\'); //子菜单选中\n $(this).parent().addClass(\'active\').siblings().removeClass(\'active\'); //子菜单上一级选中 以显示自定义选中色\n $(this).parent().parent().parent().addClass(\'show\').siblings().removeClass(\'active\'); //母菜单展开\n $(this).parent().parent().parent().prev().addClass(\'active\').siblings().removeClass(\'active\'); //母菜单选中\n $(this).parent().parent().parent().prev().attr(\'aria-expanded\',\'true\'); //母菜单右侧箭头\n urlstatus = true;\n }\n if (urlstr == \'/account\' && $(this).attr(\'href\') == \'/account\') {\n $(this).addClass(\'active\'); //子菜单选中\n }\n if ((urlstr+urlquery) == \'/clientarea.php\' && $(this).attr(\'href\') == \'/clientarea.php\') {\n $(this).addClass(\'active\'); //子菜单选中\n }\n });\n //侧边开关\n $(function() {\n if (localStorage.getItem(\'compactMenu\') == \'true\'){\n navbarMinimize("checked");\n }\n $(".sidenav-toggler").click(function(){\n if(localStorage.getItem(\'compactMenu\') == \'true\') {\n localStorage.setItem(\'compactMenu\', \'false\');\n }else{\n localStorage.setItem(\'compactMenu\', \'true\');\n }\n });\n });\n //alert(lightdark);\n // alert($(\'#styleSwitch\').val());\n //alert("checked"); followsystem\n //自动主题功能\n const mediaQueryListDark = window.matchMedia(\'(prefers-color-scheme: dark)\');\n var lightdark = mediaQueryListDark.matches ? \'dark\' : \'light\';\n //console.log(\'当前设备系统的主题：\', lightdark);\n function handleChange (mediaQueryListEvent) { //主题变动监控事件\n if (mediaQueryListEvent.matches) {\n //console.log(\'切换到了暗色(dark)主题：\', mediaQueryListDark.matches ? \'dark\' : \'light\');\n $("#bg-gradient-dark").click();\n darkMode("checked"); //禁用了隐藏工具栏l d 切换按钮\n } else {\n //console.log(\'切换到了亮色(light)主题：\', mediaQueryListDark.matches ? \'dark\' : \'light\');\n $("#bg-white").click();\n darkMode();\n }\n }\n function followsystem(){\n if(lightdark == \'dark\'){\n $("#bg-gradient-dark").click();\n darkMode("checked");\n }else{\n $("#bg-white").click();\n darkMode();\n }\n }\n function followtime(){\n var t = new Date().getHours();\n if (t >= 18 || t <= 6){\n //alert(t)\n $("#bg-gradient-dark").click();\n darkMode("checked");\n } else {\n $("#bg-white").click();\n darkMode();\n }\n }\n function whatFood(mealtime,skinHtml) { //应用风格动作\n if(skinHtml != null){\n $(".nav-link-style").html(skinHtml); //设置当前风格的图片\n }\n switch (mealtime) {\n case 0:\n followsystem(); //跟随系统风格\n mediaQueryListDark.addListener(handleChange); // 添加主题变动监控事件\n break;\n case 1:\n followtime(); //根据日出日落设置主题\n break;\n case 2:\n $("#bg-white").click();\n darkMode();\n break;\n case 3:\n $("#bg-gradient-dark").click();\n darkMode("checked");\n break;\n default: //如果未设置或者设置为跟随系统\n followsystem(); //跟随系统风格\n mediaQueryListDark.addListener(handleChange); // 添加主题变动监控事件\n //mediaQueryListDark.removeListener(handleChange); // 移除主题变动监控事件\n //console.log(\'当前主题：\', mediaQueryListDark.matches ? \'dark\' : \'light\');\n }\n }\n $(".nav-link-style-dropdown li").click(function() {\n var skinText=$(this).text().trim(); //获取文字\n var skinHtml=$(this).find(\'a\').html().replace(skinText,"").trim(); //获取图片\n //localStorage.setItem(\'light-layout-current-skin\', skinText);\n localStorage.setItem(\'light-layout-current-skin\', $(this).index());\n //$(".nav-link-style").html(skinHtml); //设置当前风格的图片\n whatFood($(this).index(),skinHtml);\n //console.log($(this).find(\'a\').html().replace(skinText,""));\n });\n var currentSkin = localStorage.getItem(\'light-layout-current-skin\')\n //console.log(currentSkin)\n if (!currentSkin) { //如果未设置风格\n whatFood();\n }else{\n $(".nav-link-style-dropdown li").each(function () {\n var skinText=$(this).text().trim(); //获取文字\n var skinHtml=$(this).find(\'a\').html().replace(skinText,"").trim(); //获取图片\n if($(this).index()==currentSkin){ //如果循环到的值等于获取的存储值 就选中\n whatFood($(this).index(),skinHtml);\n //console.log(skinHtml);\n return false; //跳出循环\n }\n })\n }\n if(lightdark ==\'\'){\n //$(".followsystem").attr(\'disabled\', true); //如果不支持风格就禁用按钮\n }\n //自动主题功能\n //自动语言设置\n /*\n var languageData = {\'zh-tw\':\'繁体中文\', \'zh\':\'简体中文\', \'en\':\'English\', \'ja\':\'日本語\', \'ko\':\'한국어\', \'fa\':\'Persian\'};\n $.each(languageData,function(index, value){\n //console.log(\'My array has at position \' + index + \', this value: \' + value);\n var dropdownList = \'<li>\'+\n \'<a class="dropdown-item border-radius-md" href=javascript:setLanguage("\'+index+\'") data-language="\'+index+\'">\'+\n \'<img src="/theme/material-dashboard-pro/img/flags/\'+index+\'.svg" class="avatar avatar-xs shadow shadow-dark mt-n1 me-2 flag-icon"/>\'+value\n \'</a>\'+\n \'</li>\'\n $(\'.dropdown-language\').find(\'.dropdown-menu\').append(dropdownList)\n });\n var params;\n var nowUrl = window.location.href; //获取当前url\n var nowUrlLanguage = nowUrl.indexOf("language=")!=-1 ? nowUrl.substr(1).match(new RegExp("(^|[?|&])language=([^&]*)(\\\\s|&|$)", "i"))[2] : \'\'; //获取当前url中的language值\n var urlquery = window.location.search; //获取当前参数\n var symbol;\n (urlquery)?symbol=\'&\':symbol=\'?\'; //有无参数区分加符号\n var lang = (navigator.language || navigator.browserLanguage).toLowerCase();\n var firstVisit = localStorage.getItem(\'firstVisit\')\n if (!firstVisit) { //如果第一次访问\n switch(lang){\n case \'ar\':\n case \'ar-ae\':\n case \'ar-bh\':\n case \'ar-dz\':\n case \'ar-eg\':\n case \'ar-iq\':\n case \'ar-jo\':\n case \'ar-qa\':\n case \'ar-qw\':\n case \'ar-kw\':\n case \'ar-lb\':\n case \'ar-ly\':\n case \'ar-ma\':\n case \'ar-om\':\n case \'ar-sa\':\n case \'ar-sy\':\n case \'ar-tn\':\n case \'ar-ye\':\n params = \'ar\'\n break;\n case \'az\':\n params = \'az\';\n break;\n case \'ca\':\n params = \'ca\';\n break;\n case \'zh-hk\':\n case \'zh-tw\':\n params = \'zh-tw\';\n break;\n case \'zh\':\n case \'zh-cn\':\n case \'zh-sg\':\n params = \'zh\';\n break;\n case \'hr\':\n params = \'hr\';\n break;\n case \'cs\':\n params = \'cs\';\n break;\n case \'da\':\n params = \'da\';\n break;\n case \'nl\':\n case \'nl-be\':\n params = \'nl\';\n break;\n case \'en\':\n case \'en-au\':\n case \'en-bz\':\n case \'en-ca\':\n case \'en-gb\':\n case \'en-ie\':\n case \'en-jm\':\n case \'en-nz\':\n case \'en-ph\':\n case \'en-tt\':\n case \'en-us\':\n case \'en-za\':\n case \'en-zw\':\n params = \'en\';\n break;\n case \'et\':\n params = \'et\';\n break;\n case \'fa\':\n case \'fa-ir\':\n params = \'fa\';\n break;\n case \'fr\':\n case \'fr-be\':\n case \'fr-ca\':\n case \'fr-ch\':\n case \'fr-fr\':\n case \'fr-lu\':\n case \'fr-mc\':\n params = \'fr\';\n break;\n case \'de\':\n case \'de-at\':\n case \'de-ch\':\n case \'de-de\':\n case \'de-li\':\n case \'de-lu\':\n params = \'de\';\n break;\n case \'ja\':\n params = \'ja\';\n break;\n case \'ko\':\n params = \'ko\';\n break;\n case \'he\':\n params = \'he\';\n break;\n case \'hu\':\n params = \'hu\';\n break;\n case \'it\':\n case \'it-ch\':\n params = \'it\';\n break;\n case \'mk\':\n params = \'mk\';\n break;\n case \'no\':\n case \'nb\':\n case \'nn\':\n params = \'no\';\n break;\n case \'pt-br\':\n params = \'pt-br\';\n break;\n case \'pt\':\n params = \'pt\';\n break;\n case \'ro\':\n params = \'ro\';\n break;\n case \'ru\':\n case \'ru-mo\':\n params = \'ru\';\n break;\n case \'es\':\n case \'es-ar\':\n case \'es-bo\':\n case \'es-cl\':\n case \'es-co\':\n case \'es-cr\':\n case \'es-do\':\n case \'es-ec\':\n case \'es-es\':\n case \'es-gt\':\n case \'es-hn\':\n case \'es-mx\':\n case \'es-ni\':\n case \'es-pa\':\n case \'es-py\':\n case \'es-pe\':\n case \'es-pr\':\n case \'es-sv\':\n case \'es-uy\':\n case \'es-ve\':\n params = \'es\';\n break;\n case \'si\':\n params = \'si\';\n break;\n case \'sv\':\n case \'sv-fi\':\n case \'sv-sv\':\n params = \'sv\';\n break;\n case \'tr\':\n params = \'tr\';\n break;\n case \'uk\':\n params = \'uk\';\n break;\n default:\n params = \'en\';\n }\n if(nowUrl.indexOf("language=") == -1 && params != firstVisit){ //如果正在设置语言并且站点设置的语言等于浏览器语言 不动作\n //window.location.href=nowUrl+symbol+\'language=\'+params; //修改远程语言后跳转\n }\n setLanguage(params)\n }else{ //非第一次访问，url方式改语言\n if(nowUrl.indexOf("language=") != -1 && params != firstVisit && params != nowUrlLanguage && nowUrlLanguage != firstVisit){ //如果url 有语言参数 需要严格模式容易发生bug造成多次请求\n //setLanguage(nowUrlLanguage);\n }\n }\n var language;\n if(firstVisit == null){ //第一次访问\n language = params //console.log(\'1\')\n }else{ //第n次\n language = firstVisit //console.log(\'2\')\n }\n if (language != null) {\n if(JSON.stringify(languageData).indexOf(language) == -1 ){ //如果当前设置语言不在语言数组内\n setLanguage(\'en\');\n }\n var selectedLang = $(\'.dropdown-language\').find(\'a[data-language=\' + language + \']\').text();\n var selectedFlag = $(\'.dropdown-language\').find(\'a[data-language=\' + language + \'] .flag-icon\').attr(\'src\');\n $(\'#dropdown-flag .selected-language\').text(selectedLang);\n $(\'#dropdown-flag .flag-icon\').attr("src", selectedFlag);\n\n i18next.use(i18nextHttpBackend).init({ //初始化i18n\n lng : language, //指定语言\n ns: [\'translation\'],\n load: \'languageOnly\',\n fallbackLng: \'en\',\n \n backend:{\n loadPath: \'/theme/material-dashboard-pro/locales/\'+language+\'.json\',\n //addPath: \'/theme/material-dashboard-pro/locales/en\',\n },\n debug:false\n },function(err, t){\n setTimeout(function(){\n $("body").localize(); // 通过body集体翻译\n },1)\n //$(\'[data-i18n]\').i18n(); // 通过选择器集体翻译\n //var temp = $.t("nav.home"); //通过t函数获得某个翻译的值\n jqueryI18next.init(i18next, $,{\n tName: \'t\', // --> appends $.t = i18next.t\n i18nName: \'i18n\', // --> appends $.i18n = i18next\n handleName: \'localize\', // --> appends $(selector).localize(opts);\n selectorAttr: \'data-i18n\', // selector for translating elements\n targetAttr: \'i18n-target\', // data-() attribute to grab target element to translate (if diffrent then itself)\n optionsAttr: \'i18n-options\', // data-() attribute that contains options, will load/set if useOptionsAttr = true\n useOptionsAttr: false, // see optionsAttr\n parseDefaultValueFromContent: true // parses default values from content ele.val or ele.text\n });\n //$(\'.nav\').localize();\n //$(\'.content\').localize();\n //$(\'[data-i18n]\').i18n(); // 通过选择器集体翻译\n //var temp = $.t("nav.home"); //通过t函数获得某个翻译的值\n });\n }*/\n function setLanguage(currentLanguage) { //设置语言\n /*$.i18n.init({\n lng : currentLanguage, //指定语言\n resGetPath : \'/theme/material-dashboard-pro/locales/\'+currentLanguage+\'.json\', \n },function(err, t){\n $("body").i18n();\n });*/\n localStorage.setItem(\'firstVisit\', currentLanguage); //增加保存语言设置\n //if(firstVisit != null) { //第一次访问不需要刷新\n location.reload()\n //};\n if(nowUrl.indexOf("language=") != -1){ //如果已经包含 //console.log(nowUrlLanguage) \n //window.location.href = nowUrl.replace(nowUrlLanguage, currentLanguage); //替换url其中一个参数值language\n }else{\n //window.location.href = nowUrl+symbol+\'language=\'+currentLanguage;\n }\n };\n </script>\n <!--识别客户端start-->\n <script type="text/javascript">\n if(/iPhone|iPad|iPod/i.test(navigator.userAgent) && /MicroMessenger|QQ/i.test(navigator.userAgent)){\n Swal.fire({\n imageUrl: \'/images/iossafari.png\',\n imageWidth: 100,\n imageHeight: 150,\n animation: false,\n confirmButtonClass: "btn btn-danger",\n html: \'Click the upper right button<i class="material-icons">more_horiz</i>Click Open in default browser\',\n showConfirmButton:false,\n allowOutsideClick:false,\n buttonsStyling: false,\n //icon: "danger"\n })\n }else if(/Android|Linux/i.test(navigator.userAgent) && /MicroMessenger|QQ/i.test(navigator.userAgent)){\n Swal.fire({\n imageUrl: \'/images/androidbrowser.png\',\n imageWidth: 100,\n imageHeight: 130,\n animation: false,\n confirmButtonClass: "btn btn-danger",\n html: \'Click the upper right button<i class="material-icons">more_horiz</i>Click Open with browser\',\n showConfirmButton:false,\n allowOutsideClick:false,\n buttonsStyling: false,\n //icon: "danger"\n })\n }/*else if(window.location.hash.indexOf(\'windows\') != -1){\n //alert(\'windows\');\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }else if(window.location.hash.indexOf(\'android\') != -1){\n //alert(\'android\');\n $("#ssr_android").addClass("active show"); \n $("#all_ssr_android").addClass("active show"); \n }else if(window.location.hash.indexOf(\'ios\') != -1){\n //alert(\'iphone和iPad\');\n $("#ssr_ios").addClass("active show"); \n $("#all_ssr_ios").addClass("active show"); \n }else if(window.location.hash.indexOf(\'mac\') != -1){\n //alert(\'mac\');\n $("#ssr_mac").addClass("active show"); \n $("#all_ssr_mac").addClass("active show"); \n }else if(window.location.hash.indexOf(\'linux\') != -1){\n //alert(\'linux\');\n $("#ssr_linux").addClass("active show"); \n $("#all_ssr_linux").addClass("active show"); \n }else if(/Windows/i.test(navigator.userAgent)){\n //alert(\'windows\');\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }else if(/Android/i.test(navigator.userAgent)){\n //alert(\'android\');\n $("#ssr_android").addClass("active show"); \n $("#all_ssr_android").addClass("active show"); \n }else if(/iPhone|iPad|iPod/i.test(navigator.userAgent)){\n //alert(\'iphone和iPad\');\n $("#ssr_ios").addClass("active show"); \n $("#all_ssr_ios").addClass("active show"); \n }else if(/Mac/i.test(navigator.userAgent)){\n //alert(\'mac\');\n $("#ssr_mac").addClass("active show"); \n $("#all_ssr_mac").addClass("active show"); \n }else if(/Linux/i.test(navigator.userAgent)){\n //alert(\'linux\');\n $("#ssr_linux").addClass("active show"); \n $("#all_ssr_linux").addClass("active show"); \n }else if(/Windows NT 5/i.test(navigator.userAgent)){\n //alert(\'xp\');\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }else{\n //alert("不支持的操作系统");\n $("#ssr_windows").addClass("active show");\n $("#all_ssr_windows").addClass("active show");\n }*/\n var osNames = ["windows", "android", "ios", "mac", "linux"];\n var userAgent = navigator.userAgent.toLowerCase();\n var hash = window.location.hash.toLowerCase();\n var urlHash\n for (var i = 0; i < osNames.length; i++) {\n var osName = osNames[i];\n var selector = "#ssr_" + osName + ", #all_ssr_" + osName;\n if (hash.indexOf(osName) !== -1) {\n $(selector).addClass("active show");\n urlHash = true\n break; // 如果匹配到一个操作系统，停止循环\n }\n }\n for (var i = 0; i < osNames.length; i++) {\n var osName = osNames[i];\n var selector = "#ssr_" + osName + ", #all_ssr_" + osName;\n if ((osName === "ios" && /iphone|ipad|ipod/i.test(userAgent)) || new RegExp(osName, "i").test(userAgent)) { //单独考虑ios的情况\n if(!urlHash){\n $(selector).addClass("active show");\n }\n $(".system").html(osName);\n break; // 如果匹配到一个操作系统，停止循环\n }\n }\n </script>\n <!--识别客户端end-->\n <script>\n //gravatar 头像方案\n if($(\'#email\').length > 0 && $(\'#email\').val() != ""){\n var url=\'\';\n var gravatar = \'www.gravatar.com\';\n var items=[\n //url,\n url.replace(gravatar,"www.gravatar.com"),\n url.replace(gravatar,"gravatar.w3tt.com"),\n url.replace(gravatar,"cdn.mwm.moe"),\n url.replace(gravatar,"gravatar.ews1.com"),\n url.replace(gravatar,"gravatar.kuibu.net"),\n url.replace(gravatar,"cdn.sep.cc"),\n url.replace(gravatar,"gravatar.webp.se"),\n url.replace(gravatar,"gravatar.loli.net"),\n url.replace(gravatar,"use.sevencdn.com"),\n url.replace(gravatar,"seccdn.libravatar.org"),\n url.replace(gravatar,"cn.gravatar.com"),\n ]; //ajax循环请求for的变形形式，避免循环停止不生效\n var gravatarIndex = 0;\n if($(\'#email\').val().indexOf("@qq.com") != -1){\n var qqNumber = $(\'#email\').val().replace(\'@qq.com\',\'\');\n //getGravatar("https://qlogo3.store.qq.com/qzone/"+qqNumber+"/"+qqNumber+"/100")\n //getGravatar("https://v1.alapi.cn/api/avatar?email="+qqNumber+"&size=100")\n getGravatar("https://q1.qlogo.cn/g?b=qq&nk="+qqNumber+"&s=100")\n //getGravatar("https://q2.qlogo.cn/headimg_dl?dst_uin="+qqNumber+"&spec=100");\n }else{\n getGravatar(items[gravatarIndex])\n }\n function getGravatar(itemUrl){\n if(gravatarIndex >= items.length){ //全部循环一遍\n return;\n }\n //console.log(gravatarIndex)\n function checkImage(url, success, error) { //判断图片是否可以访问 可避免跨域问题\n var img = new Image();\n img.onload = function() {\n success();\n };\n img.onerror = function() {\n error();\n };\n img.src = url;\n }\n //方案1 加载过程会反馈给浏览器\n /*checkImage(itemUrl, function(){\n //console.log(\'图片可以访问\');\n $(\'#gravatar\').attr("src", itemUrl);\n }, function() {\n //console.log(\'图片无法访问\');\n if($(\'#email\').val().indexOf("@qq.com") == -1){ //如果返回错误，自增id继续下一个循环，直到循环完为止 同时不是qq邮箱\n gravatarIndex++;\n getGravatar(items[gravatarIndex])\n console.log(gravatarIndex)\n }\n });*/\n //方案2\n if($(\'#email\').val().indexOf("@qq.com") != -1){\n checkImage(itemUrl, function(){\n //console.log(\'图片可以访问\');\n $(\'#gravatar\').attr("src", itemUrl);\n }, function() {\n //console.log(\'图片无法访问\');\n });\n }else{\n $.ajax({\n url: itemUrl,\n type: \'get\',\n async: true, //必须开启异步\n xhrFields:{ //二进制形式\n responseType: \'blob\'\n },\n timeout: 3000, // 设置超时时间，单位为毫秒\n success: function(res) {\n if(res) {\n var url = window.URL || window.webkitURL;\n $(\'#gravatar\').attr("src", url.createObjectURL(res));\n }\n },\n error : function (XMLHttpRequest, textStatus, errorThrown) {\n if(textStatus!=""){ //如果返回错误，自增id继续下一个循环，直到循环完为止\n gravatarIndex++;\n getGravatar(items[gravatarIndex])\n console.log(gravatarIndex)\n }\n },\n complete: function (XMLHttpRequest, textStatus) {\n if(textStatus!=""){\n }\n },\n });\n }\n }\n }\n </script>\n <!-- Matomo -->\n <script>\n var _paq = window._paq = window._paq || [];\n /* tracker methods like "setCustomDimension" should be called before "trackPageView" */\n _paq.push([\'trackPageView\']);\n _paq.push([\'enableLinkTracking\']);\n (function() {\n var u="//matomo.owlvpn.net/";\n _paq.push([\'setTrackerUrl\', u+\'matomo.php\']);\n _paq.push([\'setSiteId\', \'1\']);\n var d=document, g=d.createElement(\'script\'), s=d.getElementsByTagName(\'script\')[0];\n g.async=true; g.src=u+\'matomo.js\'; s.parentNode.insertBefore(g,s);\n })();\n </script>\n <!-- End Matomo Code -->\n <script type="text/javascript">\n <!---->\n (function(c,l,a,r,i,t,y){\n c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};\n t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;\n y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);\n })(window, document, "clarity", "script", "jtb50xjsm8");\n <!---->\n </script>\n <!--五彩纸屑start-->\n <script type="text/javascript">\n if(sessionStorage.getItem(\'confettiBundle\')) {\n var script = document.createElement(\'script\');\n script.type = \'text/javascript\';\n script.src = "/theme/material-dashboard-pro/js/plugins/tsparticles/tsparticles.confetti.bundle.min.js";\n script.onload = function() {\n var defaults = {\n scalar: 2,\n spread: 270,\n decay: 0.85,\n ticks: 50,\n particleCount: 50,\n origin: { y: 0.1 },\n startVelocity: 35,\n };\n confetti({\n ...defaults,\n particleCount: 50,\n shapes: ["image"],\n shapeOptions: {\n image: [\n { src: "/theme/material-dashboard-pro/img/prefix/us.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-chatgpt.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-apple.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-discord.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-facebook.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-github.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-google.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-hbo.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-hulu.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-Instagram.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-line.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-messenger.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-netflix.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-pinterest.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-pornhub.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-reddit.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-slack.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-snapchat.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-spotify.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-steam.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-telegram.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-tiktok.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-tumblr.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-twitch.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-twitter.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-whatsapp.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-wikipedia.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-youtube.svg" },\n { src: "/theme/material-dashboard-pro/img/logos/small-logos/logo-zoom.svg" },\n ],\n },\n });\n confetti({\n ...defaults,\n particleCount: 250,\n scalar: 1.5,\n shapes: ["star","circle","heart","square","diamond","spade","club","triangle","polygon"],\n });\n confetti({\n ...defaults,\n particleCount: 50,\n scalar: 2,\n shapes: ["text"],\n shapeOptions: {\n text: {\n value: ["✨","🎁","🙌","🍻","🎈","🥳","🎊","🎉","💐","🌹","❄️","🔥","🎅","❤️","💋","🧨","🧧","🍁","🍂","☘️","💧","🔞","🎃","🎄","🎋","🥂","👏","㊗️","💰","🤑","🏮","🍾","🎀","💝","🎗️","💎","✌️","🌸","🌈","💳","👛","💲","🎫","🍦","🤝"],\n },\n },\n });\n }; // 回调函数，当脚本加载完成时执行\n document.head.appendChild(script); // 将脚本添加到页面的 <head> 元素中\n sessionStorage.removeItem(\'confettiBundle\')\n }\n </script>\n <!--五彩纸屑end-->\n \n\n\n\n<script type="text/javascript">\n <!---->\n var email = $(\'#email\').val();\n var user_name = $(\'#user_name\').val();\n var ymwl={};\n ymwl.visiter_id=email;\n ymwl.visiter_name=user_name;\n ymwl.avatar=\'\';//\n ymwl.product=\'\';//json\n var diyUrl;\n const scriptChat = document.createElement(\'script\');\n <!---->\n scriptChat.src = \'https://chat.owlvpn.net/assets/diy/mini/ymwl_diy_1.js\';\n <!---->\n scriptChat.onerror = () => { // 监听 error 事件\n console.error(\'Failed to load script\');\n loadScript([\'https://chat.boda10086.com/assets/diy/mini/ymwl_diy_1.js\',\'https://chat.batvpn.eu.org/assets/diy/mini/ymwl_diy_1.js\']);\n };\n document.head.appendChild(scriptChat); // 将 script 添加到页面\n function loadScript(urls, index = 0) { //递归函数轮询加载脚本\n if (index >= urls.length) {\n console.error(\'All script URLs failed to load.\');\n return;\n }\n const parsedUrl = new URL(urls[index]); //设置domain\n diyUrl= `${parsedUrl.protocol}//${parsedUrl.host}`;\n //console.log(diyUrl);\n const script = document.createElement(\'script\');\n script.src = urls[index]+"?_="+Math.random();\n script.onload = () => {\n console.log(`Successfully loaded script: ${urls[index]}`);\n };\n script.onerror = () => {\n console.error(`Failed to load script: ${urls[index]}`);\n loadScript(urls, index + 1); // Try the next URL\n };\n document.head.appendChild(script);\n }\n <!---->\n</script>\n</body>\n</html>')
 
-[www.okvpn.cc]
-name  纵横加速
+[bitbucket.org]
+
+[blog.xinmedia.com]
+
+[board.cherrynet.work]
+name  Cherry Network
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"scsnvai705@lyx13.xyz","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(rnlztvs319@gmail.com): 'NoneType' object is not subscriptable
 
-[my.jetfast.dev]
+[book.jjcloud.xyz]
 
-[shandiandog.com]
-
-[tagss04.pro]
-
-[suo.yt]
-
-[cdn.ednovas.org]
-name  EdNovas云
+[boslife.io]
+api_host  None
+name  BosLife
 type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"cjowwjyca856@mxl001.win","success":"false"}'
+更新订阅链接/续费续签失败  注册失败(sdybwkr112@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!doctype html>\n<html>\n\t<head>\n\t\t<meta charset="utf-8" />\n\t\t<meta name="viewport" content="width=device-width, initial-scale=1.0" />\n\t\t<title>404 Not Found</title>\n\t\t<style>\n\t\t\t* {\n\t\t\t\tmargin: 0;\n\t\t\t\tpadding: 0;\n\t\t\t\tbox-sizing: border-box;\n\t\t\t}\n\t\t\thtml {\n\t\t\t\theight: 100%;\n\t\t\t}\n\t\t\tbody {\n\t\t\t\theight: 100%;\n\t\t\t\tfont-size: 14px;\n\t\t\t}\n\t\t\t.container {\n\t\t\t\tdisplay: flex;\n\t\t\t\tflex-direction: column;\n\t\t\t\talign-items: center;\n\t\t\t\theight: 100%;\n\t\t\t\tpadding-top: 12%;\n\t\t\t}\n\t\t\t.logo img {\n\t\t\t display: block;\n\t\t\t width: 100px;\n\t\t\t}\n\t\t\t.logo img + img {\n\t\t\t margin-top: 12px;\n\t\t\t}\n\t\t\t.title {\n\t\t\t\tmargin-top: 24px;\n\t\t\t\tfont-size: 110px;\n\t\t\t\tcolor: #333;\n\t\t\t\tletter-spacing: 10px;\n\t\t\t}\n\t\t\t.desc {\n\t\t\t\tfont-size: 16px;\n\t\t\t\tcolor: #777;\n\t\t\t\ttext-align: center;\n\t\t\t\tline-height: 24px;\n\t\t\t}\n\t\t\t.footer {\n\t\t\t\t/* position: absolute;\n\t\t\t\tleft: 0;\n\t\t\t\tbottom: 32px;\n\t\t\t\twidth: 100%; */\n\t\t\t\tmargin-top: 24px;\n\t\t\t\ttext-align: center;\n\t\t\t\tfont-size: 12px;\n\t\t\t}\n\t\t\t.footer .btlink {\n\t\t\t\tcolor: #20a53a;\n\t\t\t\ttext-decoration: none;\n\t\t\t}\n\t\t</style>\n\t</head>\n\t<body>\n\t\t<div class="container">\n\t\t\t<div class="logo">\n\t\t\t\t<img src="data:image/png;base64,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" />\n\t\t\t</div>\n\t\t\t<div class="title">404</div>\n\t\t\t<div class="desc">Sorry, the page you visited does not exist.<br />It may be that the access link is wrong or the file does not exist.</div>\n<!--\t\t\t<div class="footer">\n\t\t\t\tPower by\n\t\t\t\t<a class="btlink" href="https://www.aapanel.com/new/download.html?invite_code=aapanele" target="_blank">aaPanel (The Free, Efficient and secure hosting control panel)</a>\n\t\t\t</div> -->\n\t\t</div>\n\t</body>\n</html>\n')
 
-[a01.qytvipaff.pro]
-email  wqnybcrux460@gmail.com
-type  v2board
-更新订阅链接/续费续签失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html>\r\n<html lang="zh-CN">\r\n<head>\r\n <meta charset="UTF-8">\r\n <title>访问提示</title>\r\n <style>\r\n body {\r\n font-family: Arial, sans-serif;\r\n background-color: #f0f0f0;\r\n display: flex;\r\n justify-content: center;\r\n align-items: center;\r\n height: 100vh;\r\n margin: 0;\r\n }\r\n .container {\r\n background-color: #ffffff;\r\n padding: 40px;\r\n border-radius: 8px;\r\n box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\r\n text-align: center;\r\n }\r\n h1 {\r\n color: #333333;\r\n }\r\n p {\r\n color: #555555;\r\n margin: 20px 0;\r\n }\r\n a.button {\r\n display: inline-block;\r\n padding: 12px 24px;\r\n background-color: #007BFF;\r\n color: #ffffff;\r\n text-decoration: none;\r\n border-radius: 4px;\r\n transition: background-color 0.3s ease;\r\n }\r\n a.button:hover {\r\n background-color: #0056b3;\r\n }\r\n </style>\r\n</head>\r\n<body>\r\n <div class="container">\r\n <h1>欢迎访问！</h1>\r\n <p>要打开网站，请点击下方按钮。</p>\r\n <a href="https://qytnody.qingyunti.cc" class="button">点击前往官网</a>\r\n </div>\r\n</body>\r\n</html>\r\n')
+[c.youlian400.org]
 
-[fengwo.pro]
-buy  pass
-email  whbmkim899@gmail.com
-name  加入蜂窝-享受成功人生
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fengwo.vfbhg.cn/api/v1/client/subscribe?token=b6208781eb9ee2cc1bb0bbce1dd262ba
-time  2025-01-21 16:40:03.256474+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[love.52pokemon.cc]
-
-[superbiu.com]
-name  superbiu
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(iphppvogg727@teihu.com): {'message': 'Too many requests, please try again later.'}
-
-[ocloudvpn.com]
-name  oCloud学院
+[ca.ctjsq.com]
+name  Loading...
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(fblepor989@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (500 Internal Server Error '<!doctype html>\n<html lang="zh_CN" data-bs-theme="auto">\n\n<head>\n <meta charset="utf-8"/>\n <meta name="robots" content="noindex">\n <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>\n <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>\n <meta http-equiv="X-UA-Compatible" content="ie=edge"/>\n <title>oCloud学院</title>\n <!-- Auto dark mode -->\n <script>\n ;(function () {\n const htmlElement = document.querySelector("html")\n const theme = htmlElement.getAttribute("data-bs-theme");\n\n if(theme === \'dark-auto\' || theme === \'auto\') {\n function updateTheme() {\n htmlElement.setAttribute("data-bs-theme",\n window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light")\n }\n window.matchMedia(\'(prefers-color-scheme: dark)\').addEventListener(\'change\', updateTheme)\n updateTheme()\n }\n })()\n </script>\n <!-- CSS files -->\n <link href="//ocloudvpn.com/npm/@tabler/core@latest/dist/css/tabler.min.css" rel="stylesheet"/>\n <link href="//ocloudvpn.com/npm/@tabler/icons-webfont@latest/tabler-icons.min.css" rel="stylesheet"/>\n <link rel="stylesheet" href="/lang/lang.css">\n\n <!-- JS files -->\n <script src="/assets/js/fuck.min.js"></script>\n <script src="//ocloudvpn.com/npm/htmx.org@v2/dist/htmx.min.js"></script>\n <script src="/lang/lang.js"></script>\n</head>\n\n<body class="border-top-wide border-primary d-flex flex-column">\n<div class="page page-center">\n <div class="container-tight my-auto">\n <div class="empty">\n <div class="empty-header">500</div>\n <p class="empty-title">服务器内部错误</p>\n <p class="empty-subtitle text-secondary">\n Take me home, country roads, to the place, I belong... Oh wait the server is down.\n </p>\n <div class="empty-action">\n <a href="/" class="btn btn-primary">\n <i class="icon ti ti-chevron-left"></i>\n 返回主页\n </a>\n </div>\n </div>\n </div>\n</div>\n\n<div class="modal modal-blur fade" id="success-dialog" tabindex="-1" role="dialog" aria-hidden="true">\n <div class="modal-dialog modal-sm modal-dialog-centered" role="document">\n <div class="modal-content">\n <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>\n <div class="modal-status bg-success"></div>\n <div class="modal-body text-center py-4">\n <i class="ti ti-circle-check icon mb-2 text-green icon-lg" style="font-size:3.5rem;"></i>\n <p id="success-message" class="text-secondary">成功</p>\n </div>\n <div class="modal-footer">\n <div class="w-100">\n <div class="row">\n <div class="col">\n <a id="success-confirm" href="" class="btn w-100" data-bs-dismiss="modal">\n 好\n </a>\n </div>\n </div>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<div class="modal modal-blur fade" id="fail-dialog" tabindex="-1" role="dialog" aria-hidden="true">\n <div class="modal-dialog modal-sm modal-dialog-centered" role="document">\n <div class="modal-content">\n <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>\n <div class="modal-status bg-danger"></div>\n <div class="modal-body text-center py-4">\n <i class="ti ti-circle-x icon mb-2 text-danger icon-lg" style="font-size:3.5rem;"></i>\n <p id="fail-message" class="text-secondary">失败</p>\n </div>\n <div class="modal-footer">\n <div class="w-100">\n <div class="row">\n <div class="col">\n <a href="" class="btn btn-danger w-100" data-bs-dismiss="modal">\n 确认\n </a>\n </div>\n </div>\n </div>\n </div>\n </div>\n </div>\n</div>\n\n<script src="//ocloudvpn.com/npm/@tabler/core@latest/dist/js/tabler.min.js"></script>\n\n<script>\n let successDialog = new bootstrap.Modal(document.getElementById(\'success-dialog\'));\n let failDialog = new bootstrap.Modal(document.getElementById(\'fail-dialog\'));\n\n htmx.on("htmx:afterRequest", function(evt) {\n if (evt.detail.xhr.getResponseHeader(\'HX-Redirect\'))\n {\n return;\n }\n\n let res = JSON.parse(evt.detail.xhr.response);\n\n if (evt.detail.elt.id === \'send-verify-email\') {\n document.getElementById(\'send-verify-email\').disabled = true;\n }\n\n if (res.ret === 1) {\n document.getElementById("success-message").innerHTML = res.msg;\n successDialog.show();\n } else {\n document.getElementById("fail-message").innerHTML = res.msg;\n failDialog.show();\n }\n });\n</script>\n\n<script type="text/javascript">\nfunction add_chatinline(){\n\tvar hccid=97274563;\n\tvar nt=document.createElement("script");nt.async=true;\n\tnt.src="https://www.mylivechat.com/chatinline.aspx?hccid="+hccid;\n\tvar ct=document.getElementsByTagName("script")[0];\n\tct.parentNode.insertBefore(nt,ct);\n}\nadd_chatinline();\n</script>\n\n</body>\n\n</html>\n')
+更新订阅链接/续费续签失败  注册失败(nrnhpxabq780@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found 'Redirecting')
 
-[mly01.miaolianyun.my]
+[caihongyun.one]
 
-[px.xinyo.me]
+[caiyun.369.cyou]
 
-[web3.52pokemon.cc]
-
-[www.cacapex.com]
-name  CAC Apex
-type  v2board
-更新订阅链接/续费续签失败  注册失败(jjnfkjx522@gmail.com): 'NoneType' object is not subscriptable
-
-[a.kpyun.live]
-
-[main.cute-cloud.de]
-
-[v2.ixlmo.net]
-name  XLM加速器——不止快，还很稳
-type  v2board
-更新订阅链接/续费续签失败  注册失败(utkwavt677@gmail.com): 请关闭VPN或代理工具
-
-[新一元.net]
-name  新一元机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(jsxahwg102@gmail.com): 'NoneType' object is not subscriptable
-
-[梅友机场.com]
-name  梅友机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(isovrdoa44@gmail.com): 'NoneType' object is not subscriptable
-
-[yiyuanlx.cc]
-name  一元乐享
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(mpvgdhwc653@moakt.ws): {'message': '验证码有误'}
-
-[haibucuo.xyz]
-name  还不错机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(xpoiyfrgl437@gmail.com): 'NoneType' object is not subscriptable
-
-[031216.xyz]
-
-[lcjx.xyz]
-name  辣炒巨蜥
-type  v2board
-更新订阅链接/续费续签失败  注册失败(cpydfhhoh217@gmail.com): 'NoneType' object is not subscriptable
-
-[afun.la]
-
-[pandafly.site]
-name  Pandafly
-type  v2board
-更新订阅链接/续费续签失败  注册失败(afanpunv782@gmail.com): 'NoneType' object is not subscriptable
-
-[ucat.live]
-name  优猫云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(etffgtgoy417@gmail.com): 'NoneType' object is not subscriptable
-
-[一块.com]
-name  一块机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(gvsotwu746@gmail.com): 'NoneType' object is not subscriptable
-
-[pmy666.xyz]
-name  平民云
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(dnbqbkah868@linshiyou.com): {'message': '验证码有误'}
-
-[cloud.jisuba.me]
-
-[yunduanjc.top]
-name  云端
-type  v2board
-更新订阅链接/续费续签失败  注册失败(vrdljrc453@gmail.com): 'NoneType' object is not subscriptable
-
-[便宜机场.co]
-name  便宜机场
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(dcdzuzip285@555.vtnli.shop): {'message': '验证码有误'}
-
-[site01.stardad.lol]
-
-[mogufan.com]
-name  蘑菇饭
-type  v2board
-更新订阅链接/续费续签失败  注册失败(czpykow497@gmail.com): 'NoneType' object is not subscriptable
-
-[changyouvpn.top]
-name  畅游VPN
-type  v2board
-更新订阅链接/续费续签失败  注册失败(gqqilyya159@gmail.com): 'NoneType' object is not subscriptable
-
-[snangua.com]
-name  三瓜云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(oxhscan261@gmail.com): 'NoneType' object is not subscriptable
-
-[app.cloudog.me]
-name  狗喵云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tkglykobc197@gmail.com): 'NoneType' object is not subscriptable
-
-[guobaotegong.me]
-
-[jjz2.31465.cfd]
-name  绝绝子机场
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[fil1.cloud.fil.firm.in.31465.cfd]
-
-[青年大学习.cn]
-
-[172.104.33.229:7022]
-
-[nexx.us.kg]
-name  NEX
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(egvhwskm935@disbox.net): {'message': '验证码有误'}
-
-[a.0123456789.us.kg]
-name  Vite App
-type  v2board
-更新订阅链接/续费续签失败  注册失败(slfrhkmt0@gmail.com): 'NoneType' object is not subscriptable
-
-[a.opk.icu]
-name  Banzou
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"sgpafdyjx808@965.tmmad.com","success":"false"}'
-
-[569.2.passwallwall.life]
-
-[语.club]
-name  语云加速
-type  v2board
-更新订阅链接/续费续签失败  注册失败(fbsnydd674@gmail.com): 'NoneType' object is not subscriptable
-
-[aeda2.asa.lol]
-name  ASA加速器
-type  v2board
-更新订阅链接/续费续签失败  注册失败(uavcppa256@gmail.com): 'NoneType' object is not subscriptable
-
-[user.dafeiji.one]
-
-[web2.dogssr.sbs]
-
-[web2.52pokemon.cc]
-
-[ni8.zxm.cc]
-name  零北机场
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
-
-[xunlian.site]
-
-[www2345.养老机场.com]
-name  养老机场-Hy2
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tvebxyaxu494@gmail.com): 'NoneType' object is not subscriptable
-
-[sub.ssrsub.com]
-name  SSRSub Cloud
-type  v2board
-更新订阅链接/续费续签失败  注册失败(fkakrgp344@gmail.com): 'NoneType' object is not subscriptable
-
-[www.kuaidog010.top]
+[cat.1919810.com]
 buy  pass
-email  rnhvxdt235@gmail.com
-name  快狗云
+email  xxvoiiccz366@gmail.com
+name  猫狗机场
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=7f5511dc3e691346de23ea4934062dd5
-time  2025-01-21 16:40:06.920384+08:00
+sub_url  https://my.catfaka.com/api/v1/client/subscribe?token=a1dc3ddf6b150ee843ad2e6ea940a0fe
+time  2025-01-21 17:31:29.760078+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[172.104.33.229:8011]
-
-[dash.bigcow.cc]
-name  小奶牛加速
+[cat77.org]
+api_host  blueice612.top
+name  貓七七 ♚
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ziolsnk23@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(latuuum996@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (526 '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n\n\n<title>blueice612.top | 526: Invalid SSL certificate</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n</head>\n<body>\n<div id="cf-wrapper">\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">\n <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">\n <span class="inline-block">Invalid SSL certificate</span>\n <span class="code-label">Error code 526</span>\n </h1>\n <div>\n Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=blueice612.top" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.\n </div>\n <div class="mt-3">2025-01-21 09:31:26 UTC</div>\n </header>\n <div class="my-8 bg-gradient-gray">\n <div class="w-240 lg:w-full mx-auto">\n <div class="clearfix md:px-8">\n \n<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">You</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Browser\n \n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=blueice612.top" target="_blank" rel="noopener noreferrer">\n <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n </a>\n </div>\n <span class="md:block w-full truncate">Chicago</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=blueice612.top" target="_blank" rel="noopener noreferrer">\n Cloudflare\n </a>\n </h3>\n <span class="leading-1.3 text-2xl text-green-success">Working</span>\n</div>\n\n<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">\n <div class="relative mb-10 md:m-0">\n \n <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>\n <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>\n \n </div>\n <span class="md:block w-full truncate">blueice612.top</span>\n <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">\n \n Host\n \n </h3>\n <span class="leading-1.3 text-2xl text-red-error">Error</span>\n</div>\n\n </div>\n </div>\n </div>\n\n <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div class="clearfix">\n <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>\n <p>The origin web server does not have a valid SSL certificate.</p>\n </div>\n <div class="w-1/2 md:w-full float-left leading-relaxed">\n <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>\n <h3 class="text-15 font-semibold mb-2">If you\'re a visitor of this website:</h3>\n <p class="mb-6">Please try again in a few minutes.</p>\n\n <h3 class="text-15 font-semibold mb-2">If you\'re the owner of this website:</h3>\n <p><span>The SSL certificate presented by the server did not pass validation. This could indicate an expired SSL certificate or a certificate that does not include the requested domain name. Please contact your hosting provider to ensure that an up-to-date and valid SSL certificate issued by a Certificate Authority is configured for this domain name on the origin server.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200721975">Additional troubleshooting information here.</a></p>\n </div>\n </div>\n </div>\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">90564a90deb4a1aa</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">20.25.192.80</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_526&utm_campaign=blueice612.top" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div>\n</div>\n</body>\n</html>\n')
 
-[www.fawncloud.one]
-
-[cloud.speedyweb.xyz]
-name  Speedy
+[cc.7en7.com]
+api_host  shunjian.ccnccn.cn
+name  瞬间加密网络
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(balcooebg971@guerrillamail.de): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  注册失败(vcmspao490@mail.shouyou789.com): 邮箱后缀不处于白名单中
 
-[z.luxury]
-
-[askahh.com]
-
-[xn--ioru3fc2t1hb.com]
-name  梅友机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(lkxwhfhdi880@gmail.com): 'NoneType' object is not subscriptable
-
-[xn--4gqp1u.com]
-name  一块机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(doxgiwp675@gmail.com): 'NoneType' object is not subscriptable
-
-[web3.dogssr.sbs]
-name  狗云｜Dogssr.com
-type  v2board
-更新订阅链接/续费续签失败  注册失败(gerqfuyom30@gmail.com): 'NoneType' object is not subscriptable
-
-[web.nnpy.org]
-name  Vite App
-type  v2board
-更新订阅链接/续费续签失败  注册失败(uhmwouxew161@gmail.com): 'NoneType' object is not subscriptable
-
-[syyn.1.passwallwall.life]
-
-[www.kuaidog006.top]
+[cc01.xiaojikp.pro]
 buy  pass
-email  flyihygep569@gmail.com
-name  快狗云
+email  wuhxygo138@gmail.com
+name  小鸡快跑 ChickenRun
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=4537bd29748df6f76b24d53ee6d010a0
-time  2025-01-21 16:40:07.576184+08:00
+sub_url  https://api01.xjsublink.com/api/v1/client/subscribe?token=2d3e384dec6e4ad8543ed4bebefa2513
+time  2025-01-21 17:31:29.089440+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[www11.henet.uk]
+[cdn.jayyyds.cyou]
+api_host  back1030.jaycloud11111.top
+buy  pass
+email  erbqaxyf723@gmail.com
+name  杰雲
+sub_url  https://jaybest.sbs/study?yes=900fe127d0c8c991c17bbd15bcadcd0b
+time  2025-01-21 17:31:27.471018+08:00
+type  v2board
+获取订阅失败  (https://back1030.jaycloud11111.top/study?yes=900fe127d0c8c991c17bbd15bcadcd0b): 500 Internal Server Error 'error'
+
+[cdn.tianying.com]
+name  antscdn
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ifhmmkb453@gmail.com): {'msg': 'invalid token', 'code': 401}
+
+[cdn2.azzico.com]
+name  Azi加速器
+type  v2board
+更新订阅链接/续费续签失败  注册失败(tuikrzl122@guerrillamail.biz): 邮箱后缀不处于白名单中
+
+[cf.hd999.xyz]
+name  黑洞加速
+type  v2board
+更新订阅链接/续费续签失败  注册失败(xozoutcuu286@guerrillamail.de): 邮箱后缀不处于白名单中
+
+[cf.marslinkpro.com]
+name  MarsLink
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(yrdpwbvru269@disbox.net): {'message': '图形验证码不正确请重新输入'}
+
+[cherry-network.com]
+name  Cherry Network
+type  v2board
+更新订阅链接/续费续签失败  注册失败(nhvlqldx638@gmail.com): 'NoneType' object is not subscriptable
+
+[client.qhcy.me]
+api_host  iii1.caty.moe
+buy  pass
+email  kvzjxoyxt561@disbox.org
+name  贤者云xianzheyun.top
+sub_url  https://xiaomi.nekoy01.com:10018/api/v1/client/subscribe?token=6392aa4355730d66ac61e379b53a7f04
+time  2025-01-21 17:31:34.899974+08:00
+type  v2board
+获取订阅失败  (https://iii1.caty.moe/api/v1/client/subscribe?token=6392aa4355730d66ac61e379b53a7f04): 403 Forbidden '{"error":"\\u5957\\u9910\\u5df2\\u8fc7\\u671f\\u6216\\u8005\\u5df2\\u88ab\\u7981\\u7528"}'
+
+[cloud.zhuiyuns.sbs]
+
+[cloudfisher.net]
+
+[cloudyu.top]
+banned_domains  tmail.ws
+name  小金鱼
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(brruuxdfe619@tmail.ws)
+
+[cn.telegram-store.com]
+
+[cn.tencloud.net]
+
+[cnnic.dev]
+
+[colacloudnet.com]
+
+[console.henet.uk]
+banned_domains  sharklasers.com
 name  Helium Network
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(hgounqmh218@xxxhi.cc): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (429 Too Many Requests '<!DOCTYPE html>\n<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->\n<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->\n<head>\n<title>Access denied | www11.henet.uk used Cloudflare to restrict access</title>\n<meta charset="UTF-8" />\n<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />\n<meta http-equiv="X-UA-Compatible" content="IE=Edge" />\n<meta name="robots" content="noindex, nofollow" />\n<meta name="viewport" content="width=device-width,initial-scale=1" />\n<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />\n\n\n<script>\n(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1015,helpful:a,version:1}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");\nb.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();\n</script>\n\n<script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>\n</head>\n<body>\n <div id="cf-wrapper">\n <div class="cf-alert cf-alert-error cf-cookie-error hidden" id="cookie-alert" data-translate="enable_cookies">Please enable cookies.</div>\n <div id="cf-error-details" class="p-0">\n <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-15 antialiased">\n <h1 class="inline-block md:block mr-2 md:mb-2 font-light text-60 md:text-3xl text-black-dark leading-tight">\n <span data-translate="error">Error</span>\n <span>1015</span>\n </h1>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 9055ff61acb3123d &bull;</span>\n <span class="inline-block md:block heading-ray-id font-mono text-15 lg:text-sm lg:leading-relaxed">2025-01-21 08:40:06 UTC</span>\n <h2 class="text-gray-600 leading-1.3 text-3xl lg:text-2xl font-light">You are being rate limited</h2>\n </header>\n\n <section class="w-240 lg:w-full mx-auto mb-8 lg:px-8">\n <div id="what-happened-section" class="w-1/2 md:w-full">\n <h2 class="text-3xl leading-tight font-normal mb-4 text-black-dark antialiased" data-translate="what_happened">What happened?</h2>\n <p>The owner of this website (www11.henet.uk) has banned you temporarily from accessing this website.</p>\n \n </div>\n\n \n </section>\n\n <div class="feedback-hidden py-8 text-center" id="error-feedback">\n <div id="error-feedback-survey" class="footer-line-wrapper">\n Was this page helpful?\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>\n <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>\n </div>\n <div class="feedback-success feedback-hidden" id="error-feedback-success">\n Thank you for your feedback!\n </div>\n</div>\n\n\n <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">\n <p class="text-13">\n <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">9055ff61acb3123d</strong></span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">\n Your IP:\n <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>\n <span class="hidden" id="cf-footer-ip">172.183.133.243</span>\n <span class="cf-footer-separator sm:hidden">&bull;</span>\n </span>\n <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>\n \n </p>\n <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>\n</div><!-- /.error-footer -->\n\n\n </div><!-- /#cf-error-details -->\n </div><!-- /#cf-wrapper -->\n\n <script>\n window._cf_translation = {};\n \n \n</script>\n\n</body>\n</html>\n')
+更新订阅链接/续费续签失败  获取邮箱验证码超时(vborrpoj52@sharklasers.com)
 
-[ikuuu.pw]
-
-[a.aik88.top]
-
-[xn--wtq35pfyd55o.co]
-name  便宜机场
+[console.xenolink.net]
+name  Xeno Link
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(lhjjdhlmg437@555.waocq.shop): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  注册失败(llyjercej393@555.waocq.shop): 邮箱后缀不处于白名单中
 
-[www.huaxia.cyou]
-name  华夏加速器
+[cpsindex111.flyjjj.com]
+
+[d.sodayun.xyz]
+
+[d18pcyja9k9k5r.cloudfront.net]
+name  大欣机场
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(wkbmpwohe41@disbox.net): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  注册失败(yfhcgsohl803@gmail.com): 'NoneType' object is not subscriptable
 
-[newserver.t1i.top]
+[d2.bgcloud66.icu]
+name  冰果 - 导航页
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"gwbuoji613@wfes.site","success":"false"}'
 
-[ins.ins66.com]
+[damaijiasu.com]
+buy  pass
+email  bqaotkxzb2@gmail.com
+name  大麦加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  http://110.42.229.216:35908/api/v1/client/subscribe?token=c2774b0c6f300773b66ef40154a59d2b
+time  2025-01-21 17:31:32.298125+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[dash.996cloud.top]
+name  FSCloud
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"eafsaqj809@mail.wvwvw.tech","success":"false"}'
+
+[dash.bixiny.com]
+name  BiXin Network
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ygkjdkbxj811@tmpbox.net): 邮箱后缀不处于白名单中
+
+[dash.lioncloud.link]
+buy  pass
+email  zfpmwfhio800@gmail.com
+name  lioncloud
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://lion.jiediandingyuejiji.homes/answer/land?token=900251791e89affbdb2f909acd7e0e54
+time  2025-01-21 17:31:34.685324+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[diwolei.com]
+name  帝瓦雷
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"qjaldrcp808@555.vtnli.shop","success":"false"}'
+
+[docs.996pro.org]
+
+[docs.aws.amazon.com]
+
+[docs.kuaiyin.pro]
+
+[domainexpired.dnspod.cn]
+name  域名过期
+type  v2board
+更新订阅链接/续费续签失败  注册失败(lolboqds633@gmail.com): Method Not Allowed
+
+[dongligang.xyz]
+
+[doveee.net]
+
+[dukou.gitbook.io]
+
+[e.gf-fast.com]
+api_host  qdapi.tgsas.cn
+email  djhtprik235@mxl001.win
+name  Global-Fast
+type  v2board
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
+
+[f.fengwo.online]
+buy  pass
+email  zcfdqzk884@gmail.com
+name  加入蜂窝-享受成功人生
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://fengwosub.vfbhg.cn/api/v1/client/subscribe?token=b5819ac56891b7cfc4bc468dbe00ffaa
+time  2025-01-21 17:31:36.860987+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[f0216420b.infinispeed-183a03b0.net]
+
+[feijicloud.com]
+name  飞机云
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(gqsvjzwe112@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+
+[feijiyun66.com]
+name  飞机云
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(yaiowvvnc332@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+
+[feijiyun666.net]
+name  飞机云
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(fqenobtx510@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+
+[feijiyun911.com]
+name  飞机云
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(nzhqlariv829@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+
+[feiniaoyun.top]
+buy  pass
+email  dmbdgeaqy99@gmail.com
+name  飞鸟云
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://fn1.feiniaoyun13.life/api/v1/client/subscribe?token=acc3286fe80ec19331f55bb7e0901532
+time  2025-01-21 17:31:40.265724+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[feisha.369.cyou]
+
+[ffkjwl.com]
+banned_domains  questtechsystems.com
+name  饭饭云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(qwjduvlql95@questtechsystems.com)
+
+[flyingbirds.cc]
+
+[flyintpro.com]
+name  FlyintPro
+type  v2board
+更新订阅链接/续费续签失败  注册失败(lunzkcr731@gmail.com): The given data was invalid.
+
+[fnappuser.eastasia.cloudapp.azure.com]
+
+[front.fishport.cloud]
+banned_domains  tmpmail.org
+name  FishPort
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(fdlocknjw371@tmpmail.org)
+
+[ftime.cc]
+name  ftime.cc
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(fzvdmef759@gmail.com): 请同意服务条款
+
+[ftzaffcom01.fliggyaff.xyz]
+
+[ftzcom01.fliggycloud.net]
+buy  pass
+email  doeorefk623@gmail.com
+name  飞天猪
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://apiv1.fliggylink.com/api/v1/client/subscribe?token=6102c804307924afa91f78a4bd5f67a1
+time  2025-01-21 17:31:43.060632+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[ftzvipaffcom01.fliggyvipaff.xyz]
+buy  pass
+email  vjzjieyg424@gmail.com
+name  飞天猪
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://apiv1.fliggylink.com/api/v1/client/subscribe?token=0bf4888d30f21ff98201794ccf988a40
+time  2025-01-21 17:31:43.075934+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[function.vmssr.online]
+buy  pass
+email  yyyrvhl796@gmail.com
+name  VMSSR - 优质加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://function.vmssr.online/api/v1/client/subscribe?token=d02a41c9baf5955b0ab6d75b075e0fef
+time  2025-01-21 17:31:42.464899+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[fxyjs.fun]
+name  Speed17|放心云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(xylbsod848@gmail.com): 'NoneType' object is not subscriptable
