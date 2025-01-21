@@ -1,9 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: 6599dde8-f3ff-3baf-bc5c-1d68cd43d6bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- *id001
-- *id001
 - {name: 🇰🇷 KR.韩国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 33167, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
 - {name: 🇰🇷 KR.韩国.B | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xckr.cokecloud.top, port: 28595, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
 - {name: 🇲🇾 ML.马来西亚.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: mltf.cokecloud.top, port: 13128, type: ss, cipher: chacha20-ietf-poly1305, password: 9dd01b47-d1d9-4383-bd29-5a22040a11e2, udp: true}
