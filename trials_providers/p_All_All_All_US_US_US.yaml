@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国BGP 中转 01 1.5x - 廉价机场, server: 7640ad84b31e008c00a87d083f739cb4.node.tro.node-is.green, port: 49178, type: trojan, password: 3f92f53c-498a-4c8e-9db2-8b5fa112c70b, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 02 1.5x - 廉价机场, server: dd6a6a57629b93170e682a36ef0f3269.node.tro.node-is.green, port: 41234, type: trojan, password: 3f92f53c-498a-4c8e-9db2-8b5fa112c70b, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 03 1.5x - 廉价机场, server: 864c6ee05759a3cccff5efc8741bedfc.node.tro.node-is.green, port: 48882, type: trojan, password: 3f92f53c-498a-4c8e-9db2-8b5fa112c70b, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国BGP 中转 04 1.5x - 廉价机场, server: 741d6020a0f9937c9373bd81a45bc3b1.node.tro.node-is.green, port: 41345, type: trojan, password: 3f92f53c-498a-4c8e-9db2-8b5fa112c70b, sni: api.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-01 - 畅游无限, server: 34.235.148.32, port: 8443, tfo: true, type: vmess, uuid: a6a37adf-e7fb-4c94-b4ad-fcf88df0f570, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇺🇸 美国-02 - 畅游无限, server: 3.90.174.141, port: 8443, tfo: true, type: vmess, uuid: a6a37adf-e7fb-4c94-b4ad-fcf88df0f570, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}

@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本A区|宁波中转01 - 草榴加速器, server: bbs.sadomasochismclub.site, port: 33917, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转02 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 28471, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本A区|宁波中转03 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 34804, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本B区|宁波中转02 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 44591, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本B区|宁波中转03 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 25939, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转01 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 37612, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转02 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 28365, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}
+- {name: 🇯🇵 日本VIP区|宁波中转03 - 草榴加速器, server: hwf12nbu.gym0boy.com, port: 39098, type: ss, cipher: chacha20-ietf-poly1305, password: b045ddaf-1918-47ca-be49-39c1e7458f82, udp: true}

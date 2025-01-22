@@ -1,0 +1,13 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本BGP 中转 01 1.5x - 廉价机场, server: 27d1af4ae892a3b4d6f74ce719e6b9c6.node.tro.node-is.green, port: 48973, type: trojan, password: 3f92f53c-498a-4c8e-9db2-8b5fa112c70b, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本BGP 中转 02 1.5x - 廉价机场, server: 5be6af1797e5549ca22de582b970700a.node.tro.node-is.green, port: 46584, type: trojan, password: 3f92f53c-498a-4c8e-9db2-8b5fa112c70b, sni: passport.ucloud.cn, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-01 - 畅游无限, server: 43.207.145.144, port: 8443, tfo: true, type: vmess, uuid: a6a37adf-e7fb-4c94-b4ad-fcf88df0f570, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-02 - 畅游无限, server: 18.179.120.8, port: 8443, tfo: true, type: vmess, uuid: a6a37adf-e7fb-4c94-b4ad-fcf88df0f570, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, type: trojan, password: f48e94e3-c425-477a-be53-37dba64e0dd3, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, type: trojan, password: f48e94e3-c425-477a-be53-37dba64e0dd3, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, type: trojan, password: f48e94e3-c425-477a-be53-37dba64e0dd3, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, type: trojan, password: f48e94e3-c425-477a-be53-37dba64e0dd3, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, type: trojan, password: f48e94e3-c425-477a-be53-37dba64e0dd3, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, type: trojan, password: f48e94e3-c425-477a-be53-37dba64e0dd3, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}

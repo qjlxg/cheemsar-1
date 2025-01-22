@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: SS1-T - 速迪云加速, server: 132.145.102.60, port: 21001, type: ss, cipher: chacha20-ietf-poly1305, password: 6f382f33-b2cb-4640-9efa-35c0d5ea12a9, udp: true}
