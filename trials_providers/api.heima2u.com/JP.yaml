@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, type: ss, cipher: chacha20-ietf-poly1305, password: e4caf5a2-3755-4712-bf32-cd1101944b08, udp: true}

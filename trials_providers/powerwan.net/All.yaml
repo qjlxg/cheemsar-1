@@ -1,0 +1,31 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 官网：powerwan.net - PowerWan, server: hkg-01.douyucdn.top, port: 28521, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇭🇰 香港・01 - PowerWan, server: hkg-01.douyucdn.top, port: 28521, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇭🇰 香港・02 - PowerWan, server: hkg-02.douyucdn.top, port: 28522, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇭🇰 香港・03 - PowerWan, server: hkg-03.douyucdn.top, port: 28523, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇭🇰 香港・04 - PowerWan, server: hkg-04.douyucdn.top, port: 28524, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇭🇰 香港・05 - PowerWan, server: hkg-05.douyucdn.top, port: 28525, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇭🇰 香港・06 - PowerWan, server: hkg-06.douyucdn.top, port: 28526, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇸🇬 新加坡・01 - PowerWan, server: sg-01.douyucdn.top, port: 25651, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇸🇬 新加坡・02 - PowerWan, server: sg-02.douyucdn.top, port: 25652, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇸🇬 新加坡・03 - PowerWan, server: sg-03.douyucdn.top, port: 25653, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇸🇬 新加坡・04 - PowerWan, server: sg-04.douyucdn.top, port: 25654, type: ss, cipher: aes-128-gcm, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇸🇬 新加坡・05 - PowerWan, server: sg-05.douyucdn.top, port: 25565, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇸🇬 新加坡・06 - PowerWan, server: sg-06.douyucdn.top, port: 25566, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇹🇼 台湾・01 - PowerWan, server: tw-01.douyucdn.top, port: 28861, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇹🇼 台湾・02 - PowerWan, server: tw-02.douyucdn.top, port: 28862, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇹🇼 台湾・03 - PowerWan, server: tw-03.douyucdn.top, port: 28863, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇹🇼 台湾・04 - PowerWan, server: tw-04.douyucdn.top, port: 28864, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇺🇸 美国・01 - PowerWan, server: us-01.douyucdn.top, port: 25511, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇺🇸 美国・02 - PowerWan, server: us-02.douyucdn.top, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇺🇸 美国・03 - PowerWan, server: us-03.douyucdn.top, port: 25513, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇰🇷 韩国・01 - PowerWan, server: kr-01.douyucdn.top, port: 25821, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇰🇷 韩国・02 - PowerWan, server: kr-02.douyucdn.top, port: 25822, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇯🇵 日本・01 - PowerWan, server: jp-01.douyucdn.top, port: 25811, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇯🇵 日本・02 - PowerWan, server: jp-02.douyucdn.top, port: 25812, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇯🇵 日本・03 - PowerWan, server: jp-03.douyucdn.top, port: 25813, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇯🇵 日本・04 - PowerWan, server: jp-04.douyucdn.top, port: 25814, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇮🇳 印度・01 - PowerWan, server: in-01.douyucdn.top, port: 25911, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
+- {name: 🇩🇪 德国・01 - PowerWan, server: de-01.douyucdn.top, port: 28491, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}

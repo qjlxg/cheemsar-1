@@ -11,9 +11,9 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇭🇰 ‍香港
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
-  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
@@ -23,13 +23,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
+  - 🇺🇸 美国-纽约-001 - 漏网之鱼
   - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -49,15 +45,15 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
   - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
@@ -67,13 +63,13 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
+- name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
-  tolerance: 100
+  tolerance: 300
   proxies: &id002
-  - 🇭🇰 中国-香港-005 - 漏网之鱼
+  - 🇺🇸 美国-纽约-001 - 漏网之鱼
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -81,25 +77,17 @@ proxy-groups:
   tolerance: 100
   proxies: &id003
   - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼
-- name: 👆🏻🇭🇰 ‍香港
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id002
 - name: 👆🏻🎏 ‍其他
   type: select
   proxies: *id003
 proxies:
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.204, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇭🇰 中国-香港-005 - 漏网之鱼, server: 212.192.12.70, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-016 - 漏网之鱼, server: 194.87.69.50, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-014 - 漏网之鱼, server: 195.58.49.50, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-013 - 漏网之鱼, server: 194.87.69.52, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-012 - 漏网之鱼, server: 195.58.49.86, port: 17926, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 185.121.134.12, port: 20311, tfo: true, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 20311, tfo: true, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-001 - 漏网之鱼, server: dcaxzpdw.whmvmkwuey.store, port: 443, tfo: true, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: dcaxzpdw.whmvmkwuey.store}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
@@ -151,6 +139,7 @@ rules:
 - DOMAIN-SUFFIX,ogithub.xyz,DIRECT
 - DOMAIN-SUFFIX,pgithub.xyz,DIRECT
 - DOMAIN,hub.whtrys.space,DIRECT
+- DOMAIN-SUFFIX,arx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,mnnx.cc,🛩️ ‍墙内
 - DOMAIN-SUFFIX,jsd.f5.si,🛩️ ‍墙内
 - DOMAIN-SUFFIX,ghraw.f5.si,🛩️ ‍墙内

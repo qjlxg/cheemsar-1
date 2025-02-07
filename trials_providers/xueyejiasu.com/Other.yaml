@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, tfo: true, type: ss, cipher: aes-256-gcm, password: 4f0adeae-1fbc-4f92-9c80-baf3e0dce43e, udp: true}
+- {name: ℹ️ xueyejiasu.xyz发布地址不迷路 - 血液加速器, server: hk.kfsldflk.xyz, port: 1200, type: ss, cipher: aes-256-gcm, password: 70d6f917-f139-4606-a124-bb3142674932, udp: true}
