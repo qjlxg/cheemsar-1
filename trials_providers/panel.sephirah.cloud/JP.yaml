@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 JP 02 Bagevm - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34102, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}
-- {name: 🇯🇵 JP 03 NTT Home - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34103, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}
-- {name: 🇯🇵 JP 04 Lain - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34104, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}

@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 TW 01 Duo - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34501, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}

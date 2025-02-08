@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇰🇷 韩国 - 01 - 一元中转.com, server: kor01.yyzzlink.top, port: 28201, type: ss, cipher: chacha20-ietf-poly1305, password: 0bf06d3e-263c-4d86-903d-489de67f1b13, udp: true}

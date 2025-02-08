@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡・01 - PowerWan, server: sg-01.douyucdn.top, port: 25651, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇸🇬 新加坡・02 - PowerWan, server: sg-02.douyucdn.top, port: 25652, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇸🇬 新加坡・03 - PowerWan, server: sg-03.douyucdn.top, port: 25653, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇸🇬 新加坡・04 - PowerWan, server: sg-04.douyucdn.top, port: 25654, type: ss, cipher: aes-128-gcm, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇸🇬 新加坡・05 - PowerWan, server: sg-05.douyucdn.top, port: 25565, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇸🇬 新加坡・06 - PowerWan, server: sg-06.douyucdn.top, port: 25566, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}

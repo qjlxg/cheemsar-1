@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 SG 01 Speedy - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34301, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}
-- {name: 🇸🇬 SG 02 Ggv - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34302, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}
-- {name: 🇸🇬 SG 03 Bagevm - 云梦泽Cloud, server: southvip1.pkyun.xyz, port: 34303, type: ss, cipher: chacha20-ietf-poly1305, password: e625c25c-4d03-4d4d-a964-295be5f830de, udp: true}

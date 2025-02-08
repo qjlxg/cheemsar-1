@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 续费网址:mgxiaowu.net - meiguis, server: www.google.com, port: 1, type: ss, cipher: chacha20-ietf-poly1305, password: ea3ee949-e3ef-4200-9a8a-c870a41d661f, udp: true}

@@ -1,6 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国・01 - PowerWan, server: us-01.douyucdn.top, port: 25511, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇺🇸 美国・02 - PowerWan, server: us-02.douyucdn.top, port: 25512, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇺🇸 美国・03 - PowerWan, server: us-03.douyucdn.top, port: 25513, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}

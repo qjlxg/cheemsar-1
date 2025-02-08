@@ -1,0 +1,23 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 9f20d684-771a-3800-bace-23234a9ca390, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 76cf2e6d-cf6b-4911-bf88-49a042f2e0e9, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 76cf2e6d-cf6b-4911-bf88-49a042f2e0e9, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO1 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: e9c76636-d510-40e1-b688-f51b1a61f956, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x] 美国 IEPL专线NO2 - needss云', server: i.needss.top, port: 54770, type: vmess, uuid: e9c76636-d510-40e1-b688-f51b1a61f956, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: ab0275c0-fc97-4320-9f4c-fb4abf2c74af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: ab0275c0-fc97-4320-9f4c-fb4abf2c74af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: 2c2845a1-3669-4b76-b038-d1d9e633b6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: 2c2845a1-3669-4b76-b038-d1d9e633b6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 2c2845a1-3669-4b76-b038-d1d9e633b6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: 2c2845a1-3669-4b76-b038-d1d9e633b6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 2c2845a1-3669-4b76-b038-d1d9e633b6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: 2c2845a1-3669-4b76-b038-d1d9e633b6df, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

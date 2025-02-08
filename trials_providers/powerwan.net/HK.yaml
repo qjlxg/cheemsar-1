@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港・01 - PowerWan, server: hkg-01.douyucdn.top, port: 28521, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇭🇰 香港・02 - PowerWan, server: hkg-02.douyucdn.top, port: 28522, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇭🇰 香港・03 - PowerWan, server: hkg-03.douyucdn.top, port: 28523, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇭🇰 香港・04 - PowerWan, server: hkg-04.douyucdn.top, port: 28524, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇭🇰 香港・05 - PowerWan, server: hkg-05.douyucdn.top, port: 28525, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
-- {name: 🇭🇰 香港・06 - PowerWan, server: hkg-06.douyucdn.top, port: 28526, type: ss, cipher: chacha20-ietf-poly1305, password: 2d87e010-f163-49b3-83b3-7bc1a5f1e441, udp: true}
