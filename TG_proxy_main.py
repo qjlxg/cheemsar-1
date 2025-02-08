@@ -24,6 +24,7 @@ home_urls =(
 'https://mgnet.vip',
 'https://www.meigui168.net',
 'https://qingyun.zybs.eu.org',
+'https://一元中转.com',
 
 
 
