@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: e9c76636-d510-40e1-b688-f51b1a61f956, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: e9c76636-d510-40e1-b688-f51b1a61f956, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO1 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: 61f6dd0f-67a8-437f-b84b-25ba66577e2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x] 新加坡 IEPL专线NO2 - needss云', server: i.needss.top, port: 20015, type: vmess, uuid: 61f6dd0f-67a8-437f-b84b-25ba66577e2d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

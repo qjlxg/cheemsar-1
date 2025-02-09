@@ -56,9 +56,9 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: ℹ️ 注：若无法使用请【更新订阅】 - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: 708397e5-dc82-3823-9b5b-59b24d550644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 注：防失联地址：stt.today - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: 708397e5-dc82-3823-9b5b-59b24d550644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ stt.today（官网） - STTLink, server: stthome.top, port: 10086, type: vmess, uuid: 708397e5-dc82-3823-9b5b-59b24d550644, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 注：若无法使用请【更新订阅】 - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: aa2670a9-4a8a-38b3-a0a5-f4b9a4e74039, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 注：防失联地址：stt.today - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: aa2670a9-4a8a-38b3-a0a5-f4b9a4e74039, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ stt.today（官网） - STTLink, server: stthome.top, port: 10086, type: vmess, uuid: aa2670a9-4a8a-38b3-a0a5-f4b9a4e74039, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

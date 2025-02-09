@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 - 01 - 一元中转.com, server: usa01.yyzzlink.top, port: 22101, type: ss, cipher: chacha20-ietf-poly1305, password: 0bf06d3e-263c-4d86-903d-489de67f1b13, udp: true}
-- {name: 🇺🇸 美国 - 02 - 一元中转.com, server: usa02.yyzzlink.top, port: 22102, type: ss, cipher: chacha20-ietf-poly1305, password: 0bf06d3e-263c-4d86-903d-489de67f1b13, udp: true}
+- {name: 🇺🇸 美国 - 01 - 一元中转.com, server: usa01.yyzzlink.top, port: 22101, type: ss, cipher: chacha20-ietf-poly1305, password: 3495c0bb-db32-4abd-88d6-d080fe2bbca2, udp: true}
+- {name: 🇺🇸 美国 - 02 - 一元中转.com, server: usa02.yyzzlink.top, port: 22102, type: ss, cipher: chacha20-ietf-poly1305, password: 3495c0bb-db32-4abd-88d6-d080fe2bbca2, udp: true}

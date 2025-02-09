@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡01直连快 - AZ云, server: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, port: 805, type: trojan, password: 7d2798c1-54d8-4417-bed7-cc00afc45592, sni: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02直连 - AZ云, server: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, port: 607, type: trojan, password: 7d2798c1-54d8-4417-bed7-cc00afc45592, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, type: trojan, password: 7d2798c1-54d8-4417-bed7-cc00afc45592, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, type: trojan, password: 7d2798c1-54d8-4417-bed7-cc00afc45592, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, type: trojan, password: 7d2798c1-54d8-4417-bed7-cc00afc45592, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01直连快 - AZ云, server: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, port: 805, tfo: true, type: trojan, password: 60492bec-906d-4334-9ce1-e59c1ba6b562, sni: 3azyunsg010cd7ab88-c8f3-4479-b81c-b0a516044b29.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡02直连 - AZ云, server: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, port: 607, tfo: true, type: trojan, password: 60492bec-906d-4334-9ce1-e59c1ba6b562, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, tfo: true, type: trojan, password: 60492bec-906d-4334-9ce1-e59c1ba6b562, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, tfo: true, type: trojan, password: 60492bec-906d-4334-9ce1-e59c1ba6b562, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, tfo: true, type: trojan, password: 60492bec-906d-4334-9ce1-e59c1ba6b562, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}

@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港 - 01 - 一元中转.com, server: hkg01.yyzzlink.top, port: 23701, type: ss, cipher: chacha20-ietf-poly1305, password: 0bf06d3e-263c-4d86-903d-489de67f1b13, udp: true}
-- {name: 🇭🇰 香港 - 02 - 一元中转.com, server: hkg02.yyzzlink.top, port: 23702, type: ss, cipher: chacha20-ietf-poly1305, password: 0bf06d3e-263c-4d86-903d-489de67f1b13, udp: true}
-- {name: 🇭🇰 香港 - 03 - 一元中转.com, server: hkg03.yyzzlink.top, port: 23703, type: ss, cipher: chacha20-ietf-poly1305, password: 0bf06d3e-263c-4d86-903d-489de67f1b13, udp: true}
+- {name: 🇭🇰 香港 - 01 - 一元中转.com, server: hkg01.yyzzlink.top, port: 23701, type: ss, cipher: chacha20-ietf-poly1305, password: 3495c0bb-db32-4abd-88d6-d080fe2bbca2, udp: true}
+- {name: 🇭🇰 香港 - 02 - 一元中转.com, server: hkg02.yyzzlink.top, port: 23702, type: ss, cipher: chacha20-ietf-poly1305, password: 3495c0bb-db32-4abd-88d6-d080fe2bbca2, udp: true}
+- {name: 🇭🇰 香港 - 03 - 一元中转.com, server: hkg03.yyzzlink.top, port: 23703, type: ss, cipher: chacha20-ietf-poly1305, password: 3495c0bb-db32-4abd-88d6-d080fe2bbca2, udp: true}

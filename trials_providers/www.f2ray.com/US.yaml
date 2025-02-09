@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸f2ray共享节点 🌐 - F2ray, server: c.f2oo.net, port: 8443, type: vmess, uuid: 95efb79e-7d2d-437b-a0b6-9ee50ad6fec2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}
+- {name: 🇺🇸f2ray共享节点 🌐 - F2ray, server: c.f2oo.net, port: 8443, tfo: true, type: vmess, uuid: 95efb79e-7d2d-437b-a0b6-9ee50ad6fec2, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: s-us1.f2oo.net}}, udp: true}
