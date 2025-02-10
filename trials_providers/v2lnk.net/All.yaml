@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 'ℹ️ [AFF] 故障排除 - 1.更新订阅  2.发工单 - V2Lnk.net', server: proclamation.aliyunsebu.xyz, port: 17133, type: vmess, uuid: c6dc41f7-b56f-4e82-8b53-791377d2fffd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: proclamation.aliyunsebu.xyz}}, udp: true}
+- {name: 'ℹ️ [AFF] 故障排除 - 1.更新订阅  2.发工单 - V2Lnk.net', server: proclamation.aliyunsebu.xyz, port: 17133, tfo: true, type: vmess, uuid: 98416d66-4094-4d7f-a640-1b304b124cf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: proclamation.aliyunsebu.xyz}}, udp: true}

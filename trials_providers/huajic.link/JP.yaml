@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-03|Trojan| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20070, type: trojan, password: f39e305f-4b03-3e1a-8dfa-4741e2104cd4, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本-03|V2RAY| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20071, type: vmess, uuid: f39e305f-4b03-3e1a-8dfa-4741e2104cd4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03|Trojan| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20070, type: trojan, password: 09051961-916a-3e81-a938-31f603e7a718, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-03|V2RAY| ×1【V2】 - 滑稽场, server: jp3sdd.huajiccloud.us, port: 20071, type: vmess, uuid: 09051961-916a-3e81-a938-31f603e7a718, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

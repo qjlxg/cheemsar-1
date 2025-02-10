@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-纽约-001 - 漏网之鱼, server: zoeazkwd.whmvmkwuey.store, port: 443, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: zoeazkwd.whmvmkwuey.store}}, udp: true}
+- {name: 🇺🇸 美国-纽约-001 - 漏网之鱼, server: fgukeyky.whmvmkwuey.store, port: 443, type: vmess, uuid: aedb1a5c-3193-4ef3-97fa-2b674fb087bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fgukeyky.whmvmkwuey.store}}, udp: true}
