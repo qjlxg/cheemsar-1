@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 美国[01] - Heima', server: 107.149.238.99, port: 658, type: trojan, password: d5e62310-0150-4a4e-9963-cfdb4aaa23f1, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 美国[02]中转 - Heima', server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: d5e62310-0150-4a4e-9963-cfdb4aaa23f1, udp: true}
-- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: d5e62310-0150-4a4e-9963-cfdb4aaa23f1, udp: true}
-- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: d5e62310-0150-4a4e-9963-cfdb4aaa23f1, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[01] - Heima', server: 107.149.238.99, port: 658, type: trojan, password: 3bbb7e66-ee28-4501-8862-6f708ac0d8c8, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 美国[02]中转 - Heima', server: vip.baima360.com, port: 30104, type: ss, cipher: chacha20-ietf-poly1305, password: 3bbb7e66-ee28-4501-8862-6f708ac0d8c8, udp: true}
+- {name: '🇺🇸 美国[03]中转 - Heima', server: vip.baima360.com, port: 17941, type: ss, cipher: chacha20-ietf-poly1305, password: 3bbb7e66-ee28-4501-8862-6f708ac0d8c8, udp: true}
+- {name: '🇺🇸 美国[04] - Heima', server: 45.83.140.22, port: 658, type: trojan, password: 3bbb7e66-ee28-4501-8862-6f708ac0d8c8, skip-cert-verify: true, udp: true}

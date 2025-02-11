@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: aa52168c-98a7-411a-8da8-264a60cf2cbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: aa52168c-98a7-411a-8da8-264a60cf2cbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: aa52168c-98a7-411a-8da8-264a60cf2cbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: bdef419c-0d99-4a70-91a0-e1b7c684ec01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: bdef419c-0d99-4a70-91a0-e1b7c684ec01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港05-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35660, type: vmess, uuid: bdef419c-0d99-4a70-91a0-e1b7c684ec01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
