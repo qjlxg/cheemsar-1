@@ -1,7 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, tfo: true, type: vmess, uuid: 9d842054-18d3-46d8-90e6-249161b1c123, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, tfo: true, type: vmess, uuid: 9d842054-18d3-46d8-90e6-249161b1c123, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO3 - needss云', server: i.needss.top, port: 20016, tfo: true, type: vmess, uuid: 9d842054-18d3-46d8-90e6-249161b1c123, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇹🇼 [3x] 台湾 IEPL专线NO4 - needss云', server: i.needss.top, port: 20016, tfo: true, type: vmess, uuid: 9d842054-18d3-46d8-90e6-249161b1c123, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO1 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 328d7edb-474e-4059-9b84-138425ea6c2a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇹🇼 [3x] 台湾 IEPL专线NO2 - needss云', server: i.needss.top, port: 52103, type: vmess, uuid: 328d7edb-474e-4059-9b84-138425ea6c2a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

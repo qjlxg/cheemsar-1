@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇭🇰 香港1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇭🇰 香港2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}

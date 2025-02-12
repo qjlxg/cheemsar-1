@@ -9,49 +9,8 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - 🇭🇰 香港1 - 光速云
-  - 🇭🇰 香港2 - 光速云
-  - 🇹🇼 台湾1 - 光速云
-  - 🇹🇼 台湾2 - 光速云
-  - 🇸🇬 新加坡1 - 光速云
-  - 🇸🇬 新加坡2 - 光速云
-  - 🇯🇵 日本1 - 光速云
-  - 🇯🇵 日本2 - 光速云
-  - 🇺🇸 美国1 - 光速云
-  - 🇺🇸 美国2 - 光速云
-  - 'ℹ️ TG频道: @gsycloud - 光速云'
-  - ℹ️ 防失联  https://a.gshome.top - 光速云
-  - 🇹🇷 土耳其1 - 光速云
-  - 🇹🇭 泰国1 - 光速云
-  - 🇩🇪 德国1 - 光速云
-  - 🇫🇷 法国1 - 光速云
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -68,29 +27,11 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
-  - 🇭🇰 ‍香港
-  - 🇹🇼 ‍台湾
-  - 🇨🇳 ‍中国
   - ✈️ ‍起飞
-  - 👆🏻🇭🇰 ‍香港
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇨🇳 ‍中国
-  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🇹🇼 ‍台湾
-  - 🇸🇬 ‍新加坡
-  - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇹🇼 ‍台湾
-  - 👆🏻🇸🇬 ‍新加坡
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
-  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -98,106 +39,25 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇭🇰 ‍香港
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id002
-  - 🇭🇰 香港1 - 光速云
-  - 🇭🇰 香港2 - 光速云
-- name: 🇹🇼 ‍台湾
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id003
-  - 🇹🇼 台湾1 - 光速云
-  - 🇹🇼 台湾2 - 光速云
-- name: 🇨🇳 ‍中国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id004
-  - 🇭🇰 香港1 - 光速云
-  - 🇭🇰 香港2 - 光速云
-  - 🇹🇼 台湾1 - 光速云
-  - 🇹🇼 台湾2 - 光速云
-- name: 🇸🇬 ‍新加坡
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id005
-  - 🇸🇬 新加坡1 - 光速云
-  - 🇸🇬 新加坡2 - 光速云
-- name: 🇯🇵 ‍日本
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 100
-  proxies: &id006
-  - 🇯🇵 日本1 - 光速云
-  - 🇯🇵 日本2 - 光速云
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id007
-  - 🇺🇸 美国1 - 光速云
-  - 🇺🇸 美国2 - 光速云
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id008
-  - 'ℹ️ TG频道: @gsycloud - 光速云'
-  - ℹ️ 防失联  https://a.gshome.top - 光速云
-  - 🇹🇷 土耳其1 - 光速云
-  - 🇹🇭 泰国1 - 光速云
-  - 🇩🇪 德国1 - 光速云
-  - 🇫🇷 法国1 - 光速云
-- name: 👆🏻🇭🇰 ‍香港
-  type: select
-  proxies: *id002
-- name: 👆🏻🇹🇼 ‍台湾
-  type: select
-  proxies: *id003
-- name: 👆🏻🇨🇳 ‍中国
-  type: select
-  proxies: *id004
-- name: 👆🏻🇸🇬 ‍新加坡
-  type: select
-  proxies: *id005
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  proxies: *id006
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id007
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id008
 proxies:
-- {name: 'ℹ️ TG频道: @gsycloud - 光速云', server: 10.10.10.1, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: ℹ️ 防失联  https://a.gshome.top - 光速云, server: 10.10.10.1, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇭🇰 香港1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇭🇰 香港2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇹🇼 台湾1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19621, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇹🇼 台湾2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19621, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇯🇵 日本1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19631, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇯🇵 日本2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19631, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇸🇬 新加坡1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇸🇬 新加坡2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇺🇸 美国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇺🇸 美国2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇹🇷 土耳其1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19681, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇹🇭 泰国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19682, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇩🇪 德国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19691, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
-- {name: 🇫🇷 法国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19692, type: ss, cipher: chacha20-ietf-poly1305, password: ba2cf194-6432-4893-aea4-04f0da2a1e38, udp: true}
+- {name: 剩余流量：100 GB - 光速云, server: 10.10.10.1, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 套餐到期：2025-02-12 - 光速云, server: 10.10.10.1, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 'TG频道: @gsycloud - 光速云', server: 10.10.10.1, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 防失联  https://a.gshome.top - 光速云, server: 10.10.10.1, port: 10021, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 香港1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 香港2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 台湾1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19621, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 台湾2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19621, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 日本1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19631, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 日本2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19631, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 新加坡1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 新加坡2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 美国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 美国2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19661, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 土耳其1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19681, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 泰国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19682, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 德国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19691, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
+- {name: 法国1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19692, type: ss, cipher: chacha20-ietf-poly1305, password: 65925e7f-4238-4a6d-aee5-bb0904262b86, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

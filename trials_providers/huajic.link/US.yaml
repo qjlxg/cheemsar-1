@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国-02|Trojan| ×1.5【V2】 - 滑稽场, server: ussd2.huajiccloud.us, port: 28387, type: trojan, password: 5bda514c-5e79-389c-9a98-c915e0036259, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-05|Trojan| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 37229, type: trojan, password: 5bda514c-5e79-389c-9a98-c915e0036259, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国-05|V2RAY| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 14381, type: vmess, uuid: 5bda514c-5e79-389c-9a98-c915e0036259, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us05.huajic.icu, udp: true}
+- {name: 🇺🇸 美国-02|Trojan| ×1.5【V2】 - 滑稽场, server: ussd2.huajiccloud.us, port: 28387, type: trojan, password: 02a62abd-0638-3785-b010-f244350480a4, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-05|Trojan| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 37229, type: trojan, password: 02a62abd-0638-3785-b010-f244350480a4, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国-05|V2RAY| ×1【V2】 - 滑稽场, server: us5sd.huajiccloud.us, port: 14381, type: vmess, uuid: 02a62abd-0638-3785-b010-f244350480a4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us05.huajic.icu, udp: true}

@@ -9,26 +9,8 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - 🇺🇸 美国-纽约-001 - 漏网之鱼
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -46,16 +28,10 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
-  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
-  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -63,31 +39,13 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇺🇸 ‍美国
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
-  tolerance: 300
-  proxies: &id002
-  - 🇺🇸 美国-纽约-001 - 漏网之鱼
-- name: 🎏 ‍其他
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id003
-  - 🇩🇪 德国-法兰克福-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  proxies: *id002
-- name: 👆🏻🎏 ‍其他
-  type: select
-  proxies: *id003
 proxies:
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 185.121.134.12, port: 20315, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 20315, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-纽约-001 - 漏网之鱼, server: fgukeyky.whmvmkwuey.store, port: 443, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: fgukeyky.whmvmkwuey.store}}, udp: true}
+- {name: 剩余流量：1000 GB - 漏网之鱼, server: 185.121.134.12, port: 20315, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 距离下次重置剩余：16 天 - 漏网之鱼, server: 185.121.134.12, port: 20315, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 套餐到期：2025-03-08 - 漏网之鱼, server: 185.121.134.12, port: 20315, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 德国-法兰克福-001 - 漏网之鱼, server: 185.121.134.12, port: 20315, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 俄罗斯-圣彼得堡-015 - 漏网之鱼, server: 195.58.49.42, port: 20316, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 美国-纽约-001 - 漏网之鱼, server: ezpaselv.whmvmkwuey.store, port: 443, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: ezpaselv.whmvmkwuey.store}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
