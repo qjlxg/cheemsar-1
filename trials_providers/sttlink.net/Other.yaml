@@ -1,6 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 注：若无法使用请【更新订阅】 - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: 440e4552-9e58-30d4-8040-bd268ba8ebc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ 注：防失联地址：stt.today - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: 440e4552-9e58-30d4-8040-bd268ba8ebc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: ℹ️ stt.today（官网） - STTLink, server: stthome.top, port: 10086, type: vmess, uuid: 440e4552-9e58-30d4-8040-bd268ba8ebc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 注：若无法使用请【更新订阅】 - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: fa5fa27a-0b91-3c30-8f08-5542eceb4766, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 注：防失联地址：stt.today - STTLink, server: 127.0.0.1, port: 80, type: vmess, uuid: fa5fa27a-0b91-3c30-8f08-5542eceb4766, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ stt.today（官网） - STTLink, server: stthome.top, port: 10086, type: vmess, uuid: fa5fa27a-0b91-3c30-8f08-5542eceb4766, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

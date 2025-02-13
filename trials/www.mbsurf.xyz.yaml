@@ -9,8 +9,20 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
+  - ⚡ ‍低延迟
+  - 👆🏻 ‍指定
   - DIRECT
   - REJECT
+- name: ⚡ ‍低延迟
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id001
+  - ℹ️ 官网地址：https://www.mbsurf.xyz - mbSurf
+- name: 👆🏻 ‍指定
+  type: select
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -28,10 +40,12 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - ✈️ ‍起飞
+  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -40,27 +54,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 官网地址：https://www.mbsurf.xyz - mbSurf, server: www.google.com, port: 10086, type: vmess, uuid: 2661b5f8-8062-34a5-9371-a44313a75b6b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 更新时间：2025-02-12 09:08:57 - mbSurf, server: www.google.com, port: 10086, type: vmess, uuid: 2661b5f8-8062-34a5-9371-a44313a75b6b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: <推荐> 中转 | 香港 | ×0.01 - mbSurf, server: 183.240.180.46, port: 10008, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 中转 | 台湾 | ×0.01 - mbSurf, server: 183.240.180.46, port: 10001, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 中转 | 新加坡 - mbSurf, server: 183.240.180.46, port: 10002, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 中转 | 日本 A | ×0.01 - mbSurf, server: 183.240.180.46, port: 10003, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 中转 | 日本 B | ×0.01 - mbSurf, server: 183.240.180.46, port: 10004, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 中转 | 美国 | ×0.1 - mbSurf, server: 183.240.180.46, port: 10005, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 中转 | 韩国 - mbSurf, server: 183.240.180.46, port: 10006, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 特殊 | 俄罗斯 | ×2 - mbSurf, server: a.ru.mbsurfnode3.top, port: 81, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 特殊 | 印度 - mbSurf, server: a.in.mbsurfnode3.top, port: 80, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 特殊 | 土耳其 - mbSurf, server: a.tr.mbsurfnode3.top, port: 82, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 特殊 | 巴西 - mbSurf, server: a.br.mbsurfnode3.top, port: 80, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 特殊 | 阿根廷 - mbSurf, server: a.ar.mbsurfnode3.top, port: 24234, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 台湾 | ×0.01 - mbSurf, server: a.tw.mbsurfnode3.top, port: 65530, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 新加坡 - mbSurf, server: a.sg.mbsurfnode3.top, port: 82, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 日本 A | ×0.01 - mbSurf, server: a.jp.mbsurfnode3.top, port: 86, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 日本 B | ×0.01 - mbSurf, server: b.jp.mbsurfnode3.top, port: 10001, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 美国 | ×0.1 - mbSurf, server: a.us.mbsurfnode3.top, port: 86, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 韩国 - mbSurf, server: a.kr.mbsurfnode3.top, port: 83, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
-- {name: 直连 | 香港 | ×0.01 - mbSurf, server: b.hk.mbsurfnode3.top, port: 11300, type: vmess, uuid: 77f5b338-e0e3-3817-85e8-687c5094b4a6, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /download/pr/9b564b8a-a26d-4bb3-8f30-1101ae71a55a/2cee4f9e4c0e77e3d0f866fdf690864e/windowsdesktop-runtime-5.0.8-win-x64.exe, headers: {Host: download.visualstudio.microsoft.com}}, udp: true}
+- {name: ℹ️ 官网地址：https://www.mbsurf.xyz - mbSurf, server: www.google.com, port: 10086, type: vmess, uuid: 2661b5f8-8062-34a5-9371-a44313a75b6b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -54,7 +54,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 'ℹ️ [AFF] 故障排除 - 1.更新订阅  2.发工单 - V2Lnk.net', server: proclamation.aliyunsebu.xyz, port: 17133, type: vmess, uuid: 94a0aa55-ee37-489f-b7f0-8e8bcd319d24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: proclamation.aliyunsebu.xyz}}, udp: true}
+- {name: 'ℹ️ [AFF] 故障排除 - 1.更新订阅  2.发工单 - V2Lnk.net', server: proclamation.aliyunsebu.xyz, port: 17133, type: vmess, uuid: c6629da7-7a8e-4214-83ae-b54c95c54f05, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: proclamation.aliyunsebu.xyz}}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

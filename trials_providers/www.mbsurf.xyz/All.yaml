@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 官网地址：https://www.mbsurf.xyz - mbSurf, server: www.google.com, port: 10086, type: vmess, uuid: 2661b5f8-8062-34a5-9371-a44313a75b6b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
