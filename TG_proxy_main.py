@@ -15,92 +15,39 @@ import chardet
 
 #试用机场链接
 home_urls =(
-'https://一元中转.com',
-'https://huajic.link',
-'https://abyssvpn.com',
-'https://w2.ddnsgo.xyz',
-'https://2.flybar20.cc',
-'https://aa.dabai.in',
-'https://dy3.yunhu1.xyz',
-'https://api.heima2u.com',
-'https://aq.louwangzhiyu.xyz',
-'https://ayucloud.services',
-'https://az.233235.xyz',
-'https://www.meigui168.net',
-'https://azyun.top',
-'https://bb.dabai.in',
-'https://bbs.cloudnetwork.pro',
-'https://cainiao216.top',
-'https://cainiao217.top',
-'https://cainiao220.top',
-'https://cainiao221.top',
-'https://cainiao223.top',
-'https://cainiao224.top',
-'https://cc.dabai.in',
-'https://ch.cukug.website',
+'https://v2lnk.net',
 'https://ch.louwangzhiyu.xyz',
+'https://dashuai.us',
+'https://dl.vfkum.website',
+'https://needss.link',
+'https://qingyun.zybs.eu.org',
+'https://vt.louwangzhiyu.xyz',
+'https://xueyejiasu.com',
+'https://ykxqn.com',
+'https://ch.cukug.website',
+'https://www.dabai.in',
+'https://cn.newbee888.cc',
+'https://xc1.shishi1.buzz',
+'https://aa.dabai.in',
+'https://api.heima2u.com',
+'https://cn.newbee.cyou',
+'https://mgnet.vip',
+'https://s1.equinoxaa.com',
+'https://sulian.life',
+'https://tz.vfkum.website',
+'https://aq.louwangzhiyu.xyz',
+'https://bb.dabai.in',
+'https://cc.dabai.in',
 'https://ch.owokkvsxks.store',
 'https://ch.vfkum.website',
 'https://cloudfox.club',
-'https://cn.newbee.cyou',
-'https://cokecloud.net',
-'https://dash2.moonriver.one',
-'https://dash3.moonriver.one',
-'https://dash4.moonriver.one',
-'https://dash5.moonriver.one',
-'https://dashuai.us',
-'https://dd.moonriver.cfd',
 'https://dl.owokkvsxks.store',
-'https://dl.vfkum.website',
-'https://dy.yh13.xyz',
-'https://hy-2.com',
-'https://hy-2.sbs',
-'https://kugou.cloud',
-'https://lanmaoyun.icu',
-'https://lianjia.me',
-'https://lianjiajichang.com',
-'https://lianjiasub.work',
-'https://littleqqq.co',
-'https://maoyun3.com',
-'https://mcecloud.com',
-'https://mgnet.vip',
-'https://moonriver.one',
-'https://needss.link',
 'https://nova.live',
-'https://portal.speedyyun.com',
-'https://qingyun.zybs.eu.org',
-'https://s1.equinoxaa.com',
 'https://s2.equinoxaa.com',
 'https://s3.equinoxaa.com',
-'https://sub.cokecloud.world',
-'https://sub.xueyejiasu.com',
-'https://subscribe2628.lanmaoyun.icu',
-'https://sulian.life',
-'https://sulink.pro',
-'https://tiedan.595418.xyz',
-'https://tz.vfkum.website',
-'https://uuvpn.cloud',
-'https://vt.louwangzhiyu.xyz',
-'https://www.cl001.site',
-'https://www.dabai.in',
-'https://www.diaomaojichang.top',
-'https://www.ducklink.net',
-'https://www.duguletian.com',
-'https://www.f2ray.com',
-'https://www.flybar13.cc',
-'https://www.flybar4.cc',
-'https://www.gscloud.icu',
-'https://www.laoniu49.top',
-'https://www.littleqqq.co',
 'https://www.louwangzhiyu.xyz',
-'https://www.mbsurf.xyz',
-'https://www.moonriver.sbs',
-'https://www.tiedan168.net',
-'https://xueyejiasu.com',
-'https://ykxqn.com',
-'https://sttlink.net',
-'https://懒猫.com',
 'https://人人传承.com',
+'https://v2free.net',
 
 
 
@@ -299,34 +246,34 @@ def write_document():
         TimeDate = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         for index in range(len(lines)):
             try:
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num`\n':
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription_num`\n':
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {length}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription1`\n':
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription1`\n':
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription2`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription2`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription3`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription4`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription4`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription5`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription5`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription6`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription6`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription7`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription7`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription8`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription8`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {length-step*7}`\n')
-                if lines[index] == '`https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`\n': # 目标行内容
                     lines.pop(index+4)
                     lines.pop(index+4)
                     lines.insert(index+4, f'Updata：`{TimeDate}`\n')
