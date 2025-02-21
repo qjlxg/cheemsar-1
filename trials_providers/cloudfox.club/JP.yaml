@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5d72d6d2-576e-422b-91db-8f8ac0c54808, udp: true}
-- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5d72d6d2-576e-422b-91db-8f8ac0c54808, udp: true}
-- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5d72d6d2-576e-422b-91db-8f8ac0c54808, udp: true}
-- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5d72d6d2-576e-422b-91db-8f8ac0c54808, udp: true}
-- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5d72d6d2-576e-422b-91db-8f8ac0c54808, udp: true}
-- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 5d72d6d2-576e-422b-91db-8f8ac0c54808, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 538a0052-bec5-46cc-8d28-28c39f0c4ba6, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 538a0052-bec5-46cc-8d28-28c39f0c4ba6, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 538a0052-bec5-46cc-8d28-28c39f0c4ba6, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 538a0052-bec5-46cc-8d28-28c39f0c4ba6, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 538a0052-bec5-46cc-8d28-28c39f0c4ba6, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 538a0052-bec5-46cc-8d28-28c39f0c4ba6, udp: true}

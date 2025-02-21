@@ -1,6 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, type: trojan, password: a286d7c8-65d0-4fbb-9849-d65ad951d0a7, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 韩国-01 - 畅游无限, server: 43.201.48.8, port: 8443, type: vmess, uuid: 35831c17-2263-466a-b649-3f2d65fb7686, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-02 - 畅游无限, server: 13.125.168.43, port: 8443, type: vmess, uuid: 35831c17-2263-466a-b649-3f2d65fb7686, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇰🇷 韩国-02 - 畅游无限, server: 13.124.161.149, port: 8443, type: vmess, uuid: 35831c17-2263-466a-b649-3f2d65fb7686, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}

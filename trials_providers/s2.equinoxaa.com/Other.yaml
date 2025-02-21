@@ -2,4 +2,4 @@
 ---
 proxies:
 - {name: 🇰🇷 韩国-01 - 畅游无限, server: 43.201.48.8, port: 8443, type: vmess, uuid: 35831c17-2263-466a-b649-3f2d65fb7686, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇰🇷 韩国-02 - 畅游无限, server: 13.125.168.43, port: 8443, type: vmess, uuid: 35831c17-2263-466a-b649-3f2d65fb7686, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇰🇷 韩国-02 - 畅游无限, server: 13.124.161.149, port: 8443, type: vmess, uuid: 35831c17-2263-466a-b649-3f2d65fb7686, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}

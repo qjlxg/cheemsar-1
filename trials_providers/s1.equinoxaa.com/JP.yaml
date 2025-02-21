@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇯🇵 日本-01 - 畅游无限, server: 54.238.249.130, port: 8443, type: vmess, uuid: 2959a5af-0fe4-434b-a577-aec1d267c825, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇯🇵 日本-02 - 畅游无限, server: 13.114.194.62, port: 8443, type: vmess, uuid: 2959a5af-0fe4-434b-a577-aec1d267c825, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-01 - 畅游无限, server: 18.182.9.123, port: 8443, type: vmess, uuid: 2959a5af-0fe4-434b-a577-aec1d267c825, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
+- {name: 🇯🇵 日本-02 - 畅游无限, server: 176.32.72.68, port: 8443, type: vmess, uuid: 2959a5af-0fe4-434b-a577-aec1d267c825, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
