@@ -1,7 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: 5c0435ba-cf44-4326-92b2-fd65cff642c0, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国263•高速 - 飞翔吧, server: gy.58n.net, port: 45168, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇰🇷 广港•韩国264•高速 - 飞翔吧, server: gy.58n.net, port: 50355, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇬🇧 中转•英国267•高速 - 飞翔吧, server: gy.58n.net, port: 25238, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}

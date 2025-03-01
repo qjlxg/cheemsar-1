@@ -1,11 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- &id001 {name: 🇭🇰 中国-香港 - 漏网之鱼, server: 45.144.174.12, port: 20331, type: vmess, uuid: 2dc10e0f-c8d1-43e1-a96d-5b2fc57b13a5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- *id001
-- *id001
-- *id001
-- *id001
+- &id001 {name: 🇭🇰 中国-香港 - 漏网之鱼, server: 45.144.174.12, port: 20336, type: vmess, uuid: 6c537323-6847-4189-8402-6bbff8b41daa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
@@ -19,6 +15,10 @@ proxies:
 - {name: 🇹🇼 中转•台湾91•原生 - 飞翔吧, server: gy.58n.net, port: 21247, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾261•高速 - 飞翔吧, server: gy.58n.net, port: 33323, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: 🇹🇼 广港•台湾262•高速 - 飞翔吧, server: gy.58n.net, port: 36821, type: trojan, password: e231de96-8e39-3cbf-ad99-235ef9e4ce79, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- *id001
+- *id001
+- *id001
+- *id001
 - *id001
 - *id001
 - *id001

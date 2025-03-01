@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本-东京-001 - 漏网之鱼, server: 212.192.221.191, port: 20335, type: vmess, uuid: 6b7961cd-eb36-4e16-a42b-9935f20230c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
