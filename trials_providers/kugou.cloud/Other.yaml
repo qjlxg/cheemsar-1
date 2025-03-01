@@ -24,6 +24,3 @@ proxies:
 - {name: '🇬🇧 [1x]CM 隧道 英国 - KUGOU云', server: xd1.kugovip.xyz, port: 18590, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇵🇱 [1x]CM 隧道 波兰 - KUGOU云', server: xd1.kugovip.xyz, port: 18605, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇵🇱 [1倍率]临时直连 波兰1 - KUGOU云', server: bl1.kugovip.xyz, port: 18481, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: xqnqn.com防失联 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: e574490b-1369-4f14-8791-988956849ecc, udp: true}
-- {name: 🇰🇷 韩国一 - LIME, server: 001.kjahbg.info, port: 30630, type: ss, cipher: aes-128-gcm, password: e574490b-1369-4f14-8791-988956849ecc, udp: true}
-- {name: 🇰🇷 韩国二 - LIME, server: 002.kjahbg.info, port: 30631, type: ss, cipher: aes-128-gcm, password: e574490b-1369-4f14-8791-988956849ecc, udp: true}

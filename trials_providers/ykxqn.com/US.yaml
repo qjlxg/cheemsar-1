@@ -1,10 +1,6 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
 - {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 30615, type: ss, cipher: aes-128-gcm, password: e574490b-1369-4f14-8791-988956849ecc, udp: true}
 - {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 30616, type: ss, cipher: aes-128-gcm, password: e574490b-1369-4f14-8791-988956849ecc, udp: true}
 - {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 30617, type: ss, cipher: aes-128-gcm, password: e574490b-1369-4f14-8791-988956849ecc, udp: true}

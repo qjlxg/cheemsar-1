@@ -146,54 +146,54 @@ proxy-groups:
 proxy-providers:
   HK:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/HK.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/kugou.cloud/HK.yaml
     interval: 180
-    path: trials_providers/HK.yaml
+    path: trials_providers/kugou.cloud/HK.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   TW:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/TW.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/kugou.cloud/TW.yaml
     interval: 180
-    path: trials_providers/TW.yaml
+    path: trials_providers/kugou.cloud/TW.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   SG:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/SG.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/kugou.cloud/SG.yaml
     interval: 180
-    path: trials_providers/SG.yaml
+    path: trials_providers/kugou.cloud/SG.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   JP:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/kugou.cloud/JP.yaml
     interval: 180
-    path: trials_providers/JP.yaml
+    path: trials_providers/kugou.cloud/JP.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   US:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/US.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/kugou.cloud/US.yaml
     interval: 180
-    path: trials_providers/US.yaml
+    path: trials_providers/kugou.cloud/US.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
       interval: 30
   Other:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/Other.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/kugou.cloud/Other.yaml
     interval: 180
-    path: trials_providers/Other.yaml
+    path: trials_providers/kugou.cloud/Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

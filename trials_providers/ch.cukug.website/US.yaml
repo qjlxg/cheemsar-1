@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇺🇸 美国-拉斯维加斯-001 - 漏网之鱼, server: biazh.mmzhk.website, port: 443, type: vmess, uuid: f9ca1ad2-8a95-478b-89df-6191bd54a2b1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: biazh.mmzhk.website}}, udp: true}
-- {name: 🇺🇸 美国-拉斯维加斯-002 - 漏网之鱼, server: pdizy.whmvmkwuey.store, port: 443, type: vmess, uuid: f9ca1ad2-8a95-478b-89df-6191bd54a2b1, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: pdizy.whmvmkwuey.store}}, udp: true}
