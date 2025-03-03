@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇨🇳 以后官网被墙就改cn1  cn2  cn3 - NewBee国际机场, server: hn3x.newbee8.me, port: 22250, type: vmess, uuid: 0113af73-f07f-47bd-932d-7756dac5ef5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

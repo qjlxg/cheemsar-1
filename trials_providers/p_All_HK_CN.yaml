@@ -1,0 +1,26 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: ce0b5f32-0705-4da8-837d-37446acd9bed, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: ce0b5f32-0705-4da8-837d-37446acd9bed, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: ce0b5f32-0705-4da8-837d-37446acd9bed, udp: true}
+- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: ce0b5f32-0705-4da8-837d-37446acd9bed, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: ce0b5f32-0705-4da8-837d-37446acd9bed, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 30607, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 30608, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 30609, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 30610, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 30611, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港六 - LIME, server: 06.kjahbg.info, port: 30612, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 30613, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 30614, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港01（高速） - CloudFox, server: hk01.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇭🇰 香港02（高速） - CloudFox, server: hk02.x.woyh.xyz, port: 38632, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇭🇰 香港03（IPLC稳定） - CloudFox, server: hk03.x.woyh.xyz, port: 38633, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇭🇰 香港04（IPLC稳定） - CloudFox, server: hk04.x.woyh.xyz, port: 38634, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇭🇰 香港05 - CloudFox, server: hk05.x.woyh.xyz, port: 38635, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇭🇰 香港06 - CloudFox, server: hk06.x.woyh.xyz, port: 38636, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: f03d2625-980c-48a4-83e6-f8301334c31e, udp: true}
+- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: f03d2625-980c-48a4-83e6-f8301334c31e, udp: true}
+- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: f03d2625-980c-48a4-83e6-f8301334c31e, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: fa5d34a0-dec3-324c-85ac-c34b46fd4490, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
