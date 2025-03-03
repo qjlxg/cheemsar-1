@@ -1,13 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
-- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 30615, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 30616, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 30617, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 30618, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 30619, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 30620, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国1 - KUGOU云', server: vip1.kugovip.xyz, port: 50107, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [3x]IEPL专线 美国2 - KUGOU云', server: vip1.kugovip.xyz, port: 50129, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1x]CM 隧道 美国1 - KUGOU云', server: xd1.kugovip.xyz, port: 18606, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇺🇸 [1倍率]临时直连 美国 - KUGOU云', server: us2.kugovip.xyz, port: 10113, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: us2.kugovip.xyz}}, udp: true}
+- {name: 🇺🇸 美国一 - LIME, server: 001.kjahbg.info, port: 30615, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇺🇸 美国二 - LIME, server: 002.kjahbg.info, port: 30616, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇺🇸 美国三 - LIME, server: 003.kjahbg.info, port: 30617, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇺🇸 美国四 - LIME, server: 004.kjahbg.info, port: 30618, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇺🇸 美国五 - LIME, server: 005.kjahbg.info, port: 30619, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇺🇸 美国六 - LIME, server: 006.kjahbg.info, port: 30620, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇺🇸 美国1 - 星闪加速器, server: jg647hf446ghvw.eucs.cn, port: 10025, type: vmess, uuid: 62e1e457-0298-483c-a85e-1c0aed58c2dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国2 - 星闪加速器, server: gtm-sg-acm44szjs05.gym0boy.com, port: 10025, type: vmess, uuid: 62e1e457-0298-483c-a85e-1c0aed58c2dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国3 - 星闪加速器, server: jg647hf446ghvw.eucs.cn, port: 10025, type: vmess, uuid: 62e1e457-0298-483c-a85e-1c0aed58c2dc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

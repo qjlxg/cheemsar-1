@@ -1,18 +1,21 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, type: vmess, uuid: 98fb9d33-14da-4a3b-ba40-3cba428b7d6c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 30607, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 30608, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 30609, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 30610, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 30611, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港六 - LIME, server: 06.kjahbg.info, port: 30612, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 30613, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
-- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 30614, type: ss, cipher: aes-128-gcm, password: 42bcfe00-97c8-49a7-ad03-0bd8b1093a9c, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, type: vmess, uuid: 76541be7-596d-44d1-9013-8a7a352931cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 30607, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 30608, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 30609, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 30610, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 30611, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港六 - LIME, server: 06.kjahbg.info, port: 30612, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 30613, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 30614, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇭🇰 香港f-推荐 - 星闪加速器, server: jg647hf446ghvw.eucs.cn, port: 10300, type: ss, cipher: chacha20-ietf-poly1305, password: 62e1e457-0298-483c-a85e-1c0aed58c2dc, udp: true}
+- {name: 🇭🇰 香港-4 - 星闪加速器, server: we4s1z28rth.eabu.cn, port: 10300, type: ss, cipher: chacha20-ietf-poly1305, password: 62e1e457-0298-483c-a85e-1c0aed58c2dc, udp: true}
+- {name: 🇭🇰 香港-5 - 星闪加速器, server: hwf12nbu.gym0boy.com, port: 10300, type: ss, cipher: chacha20-ietf-poly1305, password: 62e1e457-0298-483c-a85e-1c0aed58c2dc, udp: true}

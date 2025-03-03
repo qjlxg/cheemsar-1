@@ -1,0 +1,6 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港f-推荐 - 星闪加速器, server: jg647hf446ghvw.eucs.cn, port: 10300, type: ss, cipher: chacha20-ietf-poly1305, password: 62e1e457-0298-483c-a85e-1c0aed58c2dc, udp: true}
+- {name: 🇭🇰 香港-4 - 星闪加速器, server: we4s1z28rth.eabu.cn, port: 10300, type: ss, cipher: chacha20-ietf-poly1305, password: 62e1e457-0298-483c-a85e-1c0aed58c2dc, udp: true}
+- {name: 🇭🇰 香港-5 - 星闪加速器, server: hwf12nbu.gym0boy.com, port: 10300, type: ss, cipher: chacha20-ietf-poly1305, password: 62e1e457-0298-483c-a85e-1c0aed58c2dc, udp: true}
