@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- &id010 {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: ebfcd4f5-2087-4086-afdf-228c3dfc7b0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- &id011 {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: ebfcd4f5-2087-4086-afdf-228c3dfc7b0e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id010 {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 8a0b3e4a-6ecc-43b0-833b-5492a1032cec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- &id011 {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 8a0b3e4a-6ecc-43b0-833b-5492a1032cec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: ce0b5f32-0705-4da8-837d-37446acd9bed, skip-cert-verify: true, udp: true}
 - &id001 {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.151.249.196, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
 - &id002 {name: 🇸🇬 新加坡-02 - 畅游无限, server: 18.141.141.238, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
@@ -13,12 +13,12 @@ proxies:
 - &id007 {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 0113af73-f07f-47bd-932d-7756dac5ef5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id008 {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, type: vmess, uuid: 0113af73-f07f-47bd-932d-7756dac5ef5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - &id009 {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, type: vmess, uuid: 0113af73-f07f-47bd-932d-7756dac5ef5d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 30621, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 30622, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 30623, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 30624, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 30625, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 30626, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 30621, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 30622, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 30623, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 30624, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 30625, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 30626, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
 - *id001
 - *id002
 - *id003
@@ -34,12 +34,12 @@ proxies:
 - *id007
 - *id008
 - *id009
-- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
-- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
-- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
-- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
-- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
-- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: fda29e2a-5a36-4c06-b22f-dfe520bad71d, udp: true}
+- {name: 🇸🇬 新加坡01（高速） - CloudFox, server: sg01.x.woyh.xyz, port: 38651, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
+- {name: 🇸🇬 新加坡02（高速） - CloudFox, server: sg02.x.woyh.xyz, port: 38652, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
+- {name: 🇸🇬 新加坡03（IPLC稳定） - CloudFox, server: sg03.x.woyh.xyz, port: 38653, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
+- {name: 🇸🇬 新加坡04（IPLC稳定） - CloudFox, server: sg04.x.woyh.xyz, port: 38654, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
+- {name: 🇸🇬 新加坡05（GPT专用） - CloudFox, server: sg05.x.woyh.xyz, port: 38655, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
+- {name: 🇸🇬 新加坡06（GPT专用） - CloudFox, server: sg06.x.woyh.xyz, port: 38657, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
 - *id010
 - *id011
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: fa5d34a0-dec3-324c-85ac-c34b46fd4490, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, tfo: true, type: vmess, uuid: 87ffea77-dd44-3a22-8566-ad1b6d0fe776, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}

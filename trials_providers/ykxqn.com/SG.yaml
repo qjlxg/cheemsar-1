@@ -1,9 +1,9 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 30621, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 30622, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 30623, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 30624, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 30625, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
-- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 30626, type: ss, cipher: aes-128-gcm, password: decd06fc-0a45-4ba4-b28c-53f6950f6ed4, udp: true}
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 30621, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 30622, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 30623, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 30624, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 30625, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 30626, type: ss, cipher: aes-128-gcm, password: 5f022891-49a6-449f-9ef5-76e2eb64f861, udp: true}
