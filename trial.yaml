@@ -11,10 +11,12 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
   - 🇸🇬 ‍新加坡
   - 🇯🇵 ‍日本
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇸🇬 ‍新加坡
   - 👆🏻🇯🇵 ‍日本
   - 👆🏻🇺🇸 ‍美国
@@ -27,26 +29,36 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
@@ -145,7 +157,9 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
@@ -167,12 +181,28 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇸🇬 ‍新加坡
+- name: 🇭🇰 ‍香港
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
   proxies: &id002
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
   - 🇸🇬 新加坡-01 - 畅游无限
   - 🇸🇬 新加坡-02 - 畅游无限
   - 🇸🇬 新加坡-03 - 畅游无限
@@ -196,7 +226,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 100
-  proxies: &id003
+  proxies: &id004
   - 🇯🇵 日本-01 - 畅游无限
   - 🇯🇵 日本-02 - 畅游无限
   - 🇯🇵 日本-01 - 畅游无限
@@ -210,7 +240,7 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id004
+  proxies: &id005
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
@@ -263,26 +293,26 @@ proxy-groups:
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id005
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  proxies: &id006
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
   - 🇰🇷 韩国-01 - 畅游无限
   - 🇰🇷 韩国-02 - 畅游无限
@@ -290,22 +320,26 @@ proxy-groups:
   - 🇰🇷 韩国-02 - 畅游无限
   - 🇰🇷 韩国-01 - 畅游无限
   - 🇰🇷 韩国-02 - 畅游无限
-- name: 👆🏻🇸🇬 ‍新加坡
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🇯🇵 ‍日本
+- name: 👆🏻🇸🇬 ‍新加坡
   type: select
   proxies: *id003
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇯🇵 ‍日本
   type: select
   proxies: *id004
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
-- {name: 🇺🇸 美国-纽约-F1-001 - 漏网之鱼, server: 207.90.238.136, port: 20342, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼, server: 166.88.130.191, port: 20338, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼, server: 195.58.49.42, port: 20338, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-F1-001 - 漏网之鱼, server: 207.90.238.136, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼, server: 5.144.178.225, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼, server: 195.58.49.42, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F1-001 - 漏网之鱼, server: 45.144.174.12, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇺🇸 美国-01 - 畅游无限, server: 3.81.34.242, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
 - {name: 🇺🇸 美国-02 - 畅游无限, server: 23.21.38.82, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
 - {name: 🇸🇬 新加坡-01 - 畅游无限, server: 54.151.249.196, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
@@ -318,18 +352,18 @@ proxies:
 - {name: 🇰🇷 韩国-02 - 畅游无限, server: 13.124.161.149, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
 - {name: 🇯🇵 日本-01 - 畅游无限, server: 3.112.251.192, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
 - {name: 🇯🇵 日本-02 - 畅游无限, server: 54.250.27.18, port: 8443, type: vmess, uuid: 7b4398c6-8a5f-4079-9b0a-0c903e5e9ed7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /hello}, udp: true}
-- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link02.top, port: 2052, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.236.49, headers: {Host: 100-55-143-118.s1.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s2.db-link01.top, port: 8880, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.217.2, headers: {Host: 100-123-155-82.s2.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s4.db-link02.top, port: 2052, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.50.3, headers: {Host: 100-190-74-247.s4.db-link02.top}}, udp: true}
-- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s5.db-link01.top, port: 8880, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.18.132.81, headers: {Host: 100-111-248-127.s5.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.db-link01.top, port: 2086, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.24.202.139, headers: {Host: 100-173-6-13.s2.db-link01.top}}, udp: true}
-- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s2.db-link01.top, port: 2082, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.20.21.214, headers: {Host: 100-78-87-245.s2.db-link01.top}}, udp: true}
-- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s4.db-link01.top, port: 2082, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.21.52.146, headers: {Host: 100-198-170-92.s4.db-link01.top}}, udp: true}
-- {name: 🇺🇸 US000高速 - NovaLive, server: 54.188.213.6, port: 443, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: steampipe.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
+- {name: 🇺🇲 美国|【dabai.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s3.db-link01.top, port: 2095, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.110.178, headers: {Host: 100-53-219-163.s3.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【db01.in】<<前往官网|GPT+流媒体|共享 - 大白, server: s1.db-link01.top, port: 2095, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.32.48, headers: {Host: 100-224-22-223.s1.db-link01.top}}, udp: true}
+- {name: 🇺🇲 美国|【付费用户】油管秒开4K/8K|更多地区接入|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2082, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.17.222.39, headers: {Host: 100-21-181-4.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【使用前请更新订阅】每日会变更节点密码|GPT+流媒体|共享 - 大白, server: s3.cn-db.top, port: 2052, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.57.232, headers: {Host: 100-180-119-149.s3.cn-db.top}}, udp: true}
+- {name: 🇺🇲 美国|【注册免费领1TB流量】前往-注册|共享 - 大白, server: s2.cn-db.top, port: 2086, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in104.25.59.102, headers: {Host: 100-182-58-122.s2.cn-db.top}}, udp: true}
+- {name: '🇺🇲 美国|【节点优先级】按量>[不限量]>[免费]>[公共订阅]|共享 - 大白', server: s5.db-link02.top, port: 8880, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.67.89.78, headers: {Host: 100-213-177-85.s5.db-link02.top}}, udp: true}
+- {name: 🇺🇲 美国|最低35%-aff招募进行中|共享 - 大白, server: s5.db-link01.top, port: 2052, type: vmess, uuid: 59ebbbe3-7351-3dc3-a871-63be0e6e7e69, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /dabai.in172.64.26.49, headers: {Host: 100-120-135-234.s5.db-link01.top}}, udp: true}
+- {name: 🇺🇸 US000高速 - NovaLive, server: 35.89.183.81, port: 443, type: trojan, password: a69d0f84-c6f8-31b1-81a4-2589dc803769, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5535, type: trojan, password: a69d0f84-c6f8-31b1-81a4-2589dc803769, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3516, type: trojan, password: a69d0f84-c6f8-31b1-81a4-2589dc803769, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: a69d0f84-c6f8-31b1-81a4-2589dc803769, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: a69d0f84-c6f8-31b1-81a4-2589dc803769, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

@@ -11,8 +11,10 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
   - 🇺🇸 ‍美国
   - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻🇺🇸 ‍美国
   - 👆🏻🎏 ‍其他
   - DIRECT
@@ -23,8 +25,9 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
 - name: 👆🏻 ‍指定
   type: select
@@ -45,7 +48,9 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
@@ -63,31 +68,42 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 中国-香港-F1-001 - 漏网之鱼
 - name: 🇺🇸 ‍美国
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 15
   tolerance: 300
-  proxies: &id002
+  proxies: &id003
   - 🇺🇸 美国-纽约-F1-001 - 漏网之鱼
 - name: 🎏 ‍其他
   type: url-test
   url: https://i.ytimg.com/generate_204
   interval: 30
   tolerance: 100
-  proxies: &id003
-  - 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼
+  proxies: &id004
+  - 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼
   - 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼
-- name: 👆🏻🇺🇸 ‍美国
+- name: 👆🏻🇭🇰 ‍香港
   type: select
   proxies: *id002
-- name: 👆🏻🎏 ‍其他
+- name: 👆🏻🇺🇸 ‍美国
   type: select
   proxies: *id003
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id004
 proxies:
-- {name: 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼, server: 166.88.130.191, port: 20338, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-纽约-F1-001 - 漏网之鱼, server: 207.90.238.136, port: 20342, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼, server: 195.58.49.42, port: 20338, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼, server: 5.144.178.225, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰 中国-香港-F1-001 - 漏网之鱼, server: 45.144.174.12, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国-纽约-F1-001 - 漏网之鱼, server: 207.90.238.136, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼, server: 195.58.49.42, port: 21000, type: vmess, uuid: 6b33f3a8-ee25-4793-9dc4-29b31350d5b0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
