@@ -1,6 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼, server: 194.87.105.250, port: 20350, type: vmess, uuid: 19cf1954-316c-4556-8f31-6e4e4b458768, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼, server: 212.193.6.242, port: 20338, type: vmess, uuid: 19cf1954-316c-4556-8f31-6e4e4b458768, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼, server: 212.193.6.237, port: 20338, type: vmess, uuid: 19cf1954-316c-4556-8f31-6e4e4b458768, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼, server: 195.58.49.42, port: 20338, type: vmess, uuid: 19cf1954-316c-4556-8f31-6e4e4b458768, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

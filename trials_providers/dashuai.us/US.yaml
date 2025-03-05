@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 8a0b3e4a-6ecc-43b0-833b-5492a1032cec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 8a0b3e4a-6ecc-43b0-833b-5492a1032cec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, tfo: true, type: vmess, uuid: d6d370fd-e348-4b10-994d-272406ac1279, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, tfo: true, type: vmess, uuid: d6d370fd-e348-4b10-994d-272406ac1279, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
