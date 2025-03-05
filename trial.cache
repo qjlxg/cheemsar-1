@@ -1,42 +1,11 @@
-[ykxqn.com]
-buy  pass
-email  bwhblgpbl768@gmail.com
-name  LIME
-node_n  31
-sub_info  0B  1G  2025-03-05 10:27:23+08:00  (剩余 1G 0:59:44.469327)
-sub_url  https://dy.lime5.xyz/api/v1/client/subscribe?token=c2f069cc2b537a8b9cf74e752ada84b8
-time  2025-03-05 09:27:23.830322+08:00
-type  v2board
-
-[v2lnk.net]
-buy  pass
-email  slreyaacn520@gmail.com
-name  V2Lnk
-node_n  1
-sub_info  929.9K  3G  2025-03-10 16:33:26+08:00  (剩余 2.999G 5 days, 7:05:44.232618)
-sub_url  https://tinme-gehbdbumwd.cn-hangzhou.fcapp.run/api/v1/client/subscribe?token=13c055e2303d98c433f9a4528efa197b
-time  2025-03-03 16:33:27.727580+08:00
-type  v2board
-
 [ch.louwangzhiyu.xyz]
 buy  period=month_price&plan_id=19
 email  sekxcoykf927@gmail.com
 name  漏网之鱼
-node_n  4
-sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:06:01.965364)
+node_n  3
+sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:03:02.834947)
 sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=f7c019b9c81b2a891f69344b47f8403e
 time  2025-03-03 16:33:26.823668+08:00
-type  v2board
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... g==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
-
-[dashuai.us]
-buy  pass
-email  ugeuptrcz147@gmail.com
-name  大师专线
-node_n  22
-sub_info  0B  2G  2025-03-05 13:27:33+08:00  (剩余 2G 3:59:50.306306)
-sub_url  https://aicaicai.dashuai.us/api/v1/client/subscribe?token=8c179ea1828025b5cf54d05056a3a8df
-time  2025-03-05 09:27:34.235576+08:00
 type  v2board
 
 [dl.vfkum.website]
@@ -44,45 +13,20 @@ buy  period=month_price&plan_id=19
 email  ttawguyn418@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  0B  1000G  2025-04-03 16:33:28+08:00  (剩余 1000G 29 days, 7:05:58.366490)
+sub_info  0B  1000G  2025-04-03 16:33:28+08:00  (剩余 1000G 29 days, 5:02:38.682837)
 sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=82d042e8185be20a5d50aeec401bfdad
 time  2025-03-03 16:33:29.340601+08:00
 type  v2board
-
-[needss.link]
-name  needss云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(yjakpcpw587@disbox.net): 邮箱后缀不处于白名单中
-
-[qingyun.zybs.eu.org]
-buy  period=month_price&plan_id=1
-email  bnhtvgeo883@gmail.com
-name  青云互联网-
-node_n  1
-sub_info  0B  50G  2025-04-11 04:33:23+08:00  (剩余 50G 36 days, 19:05:28.281899)
-sub_url  https://qingyun.zybs.eu.org/api/v1/client/subscribe?token=fdda9d726b6e852ead37668e270044b8
-time  2025-03-03 16:33:25.151310+08:00
-type  v2board
-保存base64/clash订阅失败  while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 2, column 1: 	top.location="http://ww1.tsutsu ... ^ (line: 2)
+保存base64/clash订阅失败  _gen_base64_config: no base64: b"<html><head><title>Loading...</title></head><body><script type='text/javascript'>window.location.replace('https://api.tsutsu.one/sub?ch=1&config=https%3A%2F%2Fraw.githubusercontent.com%2Fzsokami%2FACL4SSR%2Fae5910eac7ed627e0d2e8bc8e30d6180dacfb27d%2FACL4SSR_Online_Full_Mannix.ini&js=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJKb2tlbiIsImV4cCI6MTc0MTE1MjYzOSwiaWF0IjoxNzQxMTQ1NDM5LCJpc3MiOiJKb2tlbiIsImpzIjoxLCJqdGkiOiIzMGtzbDNiZGU0bmEzaGNuanM3YTEyYzYiLCJuYmYiOjE3NDExNDU0MzksInRzIjoxNzQxMTQ1NDM5NzMwNjg0fQ.OeElKtoCViqzzjsTsg9LoL7O-lqEtAEed5S-GBkzlLg&rename=%24%40+-+%E6%BC%8F%E7%BD%91%E4%B9%8B%E9%B1%BC&sid=35e0f8e3-f972-11ef-9ae6-54992cc7fa51&target=mixed&url=https%3A%2F%2Fch.cukug.website%2Fapi%2Fv1%2Fclient%2Fsubscribe%3Ftoken%3D82d042e8185be20a5d50aeec401bfdad%231741145409.233182');</script></body></html>"
 
 [vt.louwangzhiyu.xyz]
 buy  period=month_price&plan_id=19
 email  oiwrgod512@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:05:59.680660)
+sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:02:38.088983)
 sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=a2626c76b6f9bcc75425a8a9d6b3db24
 time  2025-03-03 16:33:27.135202+08:00
-type  v2board
-
-[xueyejiasu.com]
-buy  pass
-email  wbjjzet530@gmail.com
-name  血液加速器
-node_n  12
-sub_info  0B  1G  2025-03-06 09:27:25+08:00  (剩余 1G 23:59:56.426028)
-sub_url  http://sub.kjdjakskl.cyou/api/v1/client/subscribe?token=57626ae89a98ee18ebd92ae47447058e
-time  2025-03-05 09:27:26.648166+08:00
 type  v2board
 
 [ch.cukug.website]
@@ -90,7 +34,7 @@ buy  period=month_price&plan_id=19
 email  vpnvrutw495@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:06:00.010738)
+sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:02:38.395169)
 sub_url  https://ch.vfkum.website/api/v1/client/subscribe?token=cdfeb49f9cb9cfbfa7d25bc31b041dcb
 time  2025-03-03 16:33:26.883549+08:00
 type  v2board
@@ -102,30 +46,11 @@ email  fpbucev459@gmail.com
 last_checkin  2025-03-05 09:27:21.988474+08:00
 name  大白
 node_n  7
-sub_info  58.39K  1T  2025-04-02 16:33:27+08:00  (剩余 1T 28 days, 7:06:01.201521)
+sub_info  58.39K  1T  2025-04-02 16:33:27+08:00  (剩余 1T 28 days, 5:03:15.995414)
 sub_url  https://www.dabai.in/link/aPy8bw4vrsx8BHPr?sub=3
 time  2025-03-03 16:33:29.446629+08:00
 type  sspanel
-
-[cn.newbee888.cc]
-buy  pass
-email  cbsovgpie39@gmail.com
-name  NewBee国际机场
-node_n  23
-sub_info  0B  5G  2025-03-05 15:27:32+08:00  (剩余 5G 5:59:49.380005)
-sub_url  https://subscribe-1.newbee8.monster/api/v1/client/subscribe?token=0ea6cd6d49ce85687e63c5ab373da0a7
-time  2025-03-05 09:27:33.999290+08:00
-type  v2board
-
-[xc1.shishi1.buzz]
-buy  pass
-email  jykoplk340@gmail.com
-name  大师专线
-node_n  22
-sub_info  0B  2G  2025-03-05 13:27:33+08:00  (剩余 2G 3:59:50.221891)
-sub_url  https://aicaicai.dashuai.us/api/v1/client/subscribe?token=372806d7f2a348ee965024d946c75a15
-time  2025-03-05 09:27:34.755813+08:00
-type  v2board
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
 [aa.dabai.in]
 auto_invite  F
@@ -134,41 +59,9 @@ email  sfonjldv913@gmail.com
 last_checkin  2025-03-05 09:27:21.990387+08:00
 name  大白
 node_n  7
-sub_info  2.653M  1T  2025-04-02 16:33:27+08:00  (剩余 1T 28 days, 7:06:01.180595)
+sub_info  2.973M  1T  2025-04-02 16:33:27+08:00  (剩余 1T 28 days, 5:03:15.878522)
 sub_url  https://aa.dabai.in/link/OPI25ABM56u0NFKr?sub=3
 time  2025-03-03 16:33:29.025522+08:00
-type  sspanel
-
-[api.heima2u.com]
-buy  pass
-email  cbnbmaam85@gmail.com
-name  Heima
-node_n  25
-sub_info  0B  5G  2025-03-06 09:27:34+08:00  (剩余 5G 23:59:52.488856)
-sub_url  https://api.heima2u.com/api/v1/client/subscribe?token=ae003eae1defc5ab70e11557a3acdd22
-time  2025-03-05 09:27:35.101675+08:00
-type  v2board
-
-[cn.newbee.cyou]
-buy  pass
-email  lqdperc617@gmail.com
-name  NewBee国际机场
-node_n  23
-sub_info  0B  5G  2025-03-05 15:27:33+08:00  (剩余 5G 5:59:54.727137)
-sub_url  https://subscribe-1.newbee8.monster/api/v1/client/subscribe?token=6913606a713bb0531f20bf10a95dc8c9
-time  2025-03-05 09:27:34.305537+08:00
-type  v2board
-
-[mgnet.vip]
-auto_invite  F
-buy  pass
-email  gxrvkya603@gmail.com
-last_checkin  2025-03-05 09:27:21.992151+08:00
-name  MG Network
-node_n  10
-sub_info  1.432M  6.357G  2025-03-05 17:33:23+08:00  (剩余 6.356G 8:05:58.408419)
-sub_url  https://www.mgnet.sbs/link/yrRi3LZRJOVeRbI6?sub=3
-time  2025-03-03 16:33:25.225118+08:00
 type  sspanel
 
 [s1.equinoxaa.com]
@@ -181,14 +74,12 @@ time  2025-03-03 16:33:26.460698+08:00
 type  v2board
 更新旧订阅失败  {'message': '该账户已被停止使用', 'exception': 'Symfony\\Component\\HttpKernel\\Exception\\HttpException', 'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Application.php', 'line': 1132, 'trace': [{'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php', 'line': 44, 'function': 'abort', 'class': 'Illuminate\\Foundation\\Application', 'type': '->'}, {'file': '/www/wwwroot/v2board/app/Http/Controllers/Passport/AuthController.php', 'line': 223, 'function': 'abort'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Controller.php', 'line': 54, 'function': 'login', 'class': 'App\\Http\\Controllers\\Passport\\AuthController', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php', 'line': 45, 'function': 'callAction', 'class': 'Illuminate\\Routing\\Controller', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 262, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\ControllerDispatcher', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 205, 'function': 'runController', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 721, 'function': 'run', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Routing\\{closure}', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php', 'line': 50, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Routing\\Middleware\\SubstituteBindings', 'type': '->'}, {'file': '/www/wwwroot/v2board/app/Http/Middleware/Language.php', 'line': 15, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\Language', 'type': '->'}, {'file': '/www/wwwroot/v2board/app/Http/Middleware/ForceJson.php', 'line': 20, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\ForceJson', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 723, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 698, 'function': 'runRouteWithinStack', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 662, 'function': 'runRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 651, 'function': 'dispatchToRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 167, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Foundation\\Http\\{closure}', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php', 'line': 31, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php', 'line': 40, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TrimStrings', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php', 'line': 27, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php', 'line': 86, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/fideloper/proxy/src/TrustProxies.php', 'line': 57, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Fideloper\\Proxy\\TrustProxies', 'type': '->'}, {'file': '/www/wwwroot/v2board/app/Http/Middleware/CORS.php', 'line': 18, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\CORS', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 142, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/v2board/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 111, 'function': 'sendRequestThroughRouter', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/v2board/public/index.php', 'line': 55, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}]}
 
-[sulian.life]
-
 [tz.vfkum.website]
 buy  period=month_price&plan_id=19
 email  kmhismeh105@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:05:59.442878)
+sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:02:36.950984)
 sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=088b777ac80f991779c0c5c833e5d287
 time  2025-03-03 16:33:26.843248+08:00
 type  v2board
@@ -198,7 +89,7 @@ buy  period=month_price&plan_id=19
 email  migwzilat647@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  2.822M  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:05:59.916787)
+sub_info  2.997M  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:03:02.531720)
 sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=aa9bef1c1de09fb9f44e16dfbfbd6477
 time  2025-03-03 16:33:27.240344+08:00
 type  v2board
@@ -210,7 +101,7 @@ email  dqlfsbpp594@gmail.com
 last_checkin  2025-03-05 09:27:21.995473+08:00
 name  大白
 node_n  7
-sub_info  0B  1T  2025-04-03 09:27:30+08:00  (剩余 1T 28 days, 23:59:58.961508)
+sub_info  0B  1T  2025-04-03 09:27:30+08:00  (剩余 1T 28 days, 21:57:16.465188)
 sub_url  https://bb.dabai.in/link/kk8nrU7Yu3rNFfpl?sub=3
 time  2025-03-04 09:27:32.473924+08:00
 type  sspanel
@@ -222,7 +113,7 @@ email  sflvlld895@gmail.com
 last_checkin  2025-03-05 09:27:21.996638+08:00
 name  大白
 node_n  7
-sub_info  197.4K  1T  2025-04-02 16:33:27+08:00  (剩余 1T 28 days, 7:05:51.999221)
+sub_info  197.4K  1T  2025-04-02 16:33:27+08:00  (剩余 1T 28 days, 5:03:15.796424)
 sub_url  https://cc.dabai.in/link/sxXI6BMSnhdZ3bH9?sub=3
 time  2025-03-03 16:33:29.250423+08:00
 type  sspanel
@@ -232,38 +123,28 @@ buy  period=month_price&plan_id=19
 email  hltzudnto231@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:05:59.944777)
+sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:02:47.817407)
 sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=1d06b279761549ed7d877f6a8ecf9553
 time  2025-03-03 16:33:26.880832+08:00
 type  v2board
+保存base64/clash订阅失败  while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 9, column 1: 	background: url('//d38psrni17bv ... ^ (line: 9)
 
 [ch.vfkum.website]
 buy  period=month_price&plan_id=19
 email  zwatdnitv535@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:05:59.500007)
+sub_info  0B  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:03:02.327950)
 sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=7fde64ccd3b94f47c32b47e00ad9791e
 time  2025-03-03 16:33:26.885004+08:00
 type  v2board
-
-[cloudfox.club]
-buy  pass
-email  fkegjqnir415@gmail.com
-name  CloudFox
-node_n  64
-sub_info  0B  1G  2025-03-05 10:27:26+08:00  (剩余 1G 0:59:02.118494)
-sub_url  https://dy.yh11.ink/api/v1/client/subscribe?token=f78ac30fdb08af9c52eb5af81533c8cb
-time  2025-03-05 09:27:26.887858+08:00
-type  v2board
-保存base64/clash订阅失败  string indices must be integers
 
 [dl.owokkvsxks.store]
 buy  period=month_price&plan_id=19
 email  lzzebok685@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  4.986K  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:06:01.928072)
+sub_info  4.986K  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:02:39.049067)
 sub_url  https://ch.cukug.website/api/v1/client/subscribe?token=830e0a0908d3f5f9688114287eea1b60
 time  2025-03-03 16:33:26.838406+08:00
 type  v2board
@@ -272,13 +153,13 @@ type  v2board
 auto_invite  F
 banned_domains  xxxhi.cc
 buy  pass
-email  asfzguie546@guerrillamail.org
-last_checkin  2025-03-05 09:27:52.131233+08:00
+email  jnqvfigv951@mail.shouyou789.com
+last_checkin  2025-03-05 11:30:39.799673+08:00
 name  NovaLive
 node_n  5
-sub_info  0B  1.128G  2025-03-05 09:27:51+08:00  (剩余 1.128G -1 day, 23:59:56.071970)
-sub_url  https://new.gfw.news/link/v4DJ5umomdn07C1Y?sub=3
-time  2025-03-05 09:27:52.618936+08:00
+sub_info  0B  1.157G  2025-03-05 11:30:39+08:00  (剩余 1.157G -1 day, 23:59:57.489040)
+sub_url  https://new.gfw.news/link/tpXZcbzCIo6HALbv?sub=3
+time  2025-03-05 11:30:40.284517+08:00
 type  sspanel
 
 [s2.equinoxaa.com]
@@ -308,23 +189,19 @@ buy  period=month_price&plan_id=19
 email  ltutwmcl308@gmail.com
 name  漏网之鱼
 node_n  3
-sub_info  1.402K  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 7:05:56.234174)
+sub_info  1.402K  1000G  2025-04-03 16:33:26+08:00  (剩余 1000G 29 days, 5:03:01.179155)
 sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=91b0f5912c190e5666178bd151b49458
 time  2025-03-03 16:33:27.123245+08:00
 type  v2board
 
 [人人传承.com]
 
-[v2free.net]
-auto_invite  F
-buy  pass
-email  wfffnhk826@guerrillamail.org
-last_checkin  0
-name  V2free
-sub_info  0B  1G  2025-04-02 16:33:44+08:00  (剩余 1G 29 days, 7:06:12.112480)
-sub_url  https://v1.v2ai.top/link/lcLCFm02eYgpKpBTgGz8edbSROLZnehVke3w?sub=3
-time  2025-03-03 16:33:53.583722+08:00
-type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  {'ret': 0, 'msg': '系统无法接受您的验证结果，请完成非机器人验证。如果看不到非机器人验证按钮，请先翻墙再刷新页面。'}
-更新旧订阅失败  invalid literal for int() with base 10: ''
+[懒猫.com]
+buy  period=month_price&plan_id=1
+email  mcjeunvng557@gmail.com
+name  懒猫机场
+sub_info  0B  99G  2025-04-05 11:30:13+08:00  (剩余 99G 30 days, 23:59:36.229219)
+sub_url  https://dy.yimao.icu/api/v1/client/subscribe?token=3edb285cb155d5febe131b9e2b00cf92
+time  2025-03-05 11:30:13.053438+08:00
+type  v2board
+保存base64/clash订阅失败  string indices must be integers

@@ -1,8 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, tfo: true, type: vmess, uuid: d6d370fd-e348-4b10-994d-272406ac1279, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, tfo: true, type: vmess, uuid: d6d370fd-e348-4b10-994d-272406ac1279, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, tfo: true, type: vmess, uuid: 8e15f7b0-aa89-4dcc-b863-0dcd9aea29c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22252, tfo: true, type: vmess, uuid: 8e15f7b0-aa89-4dcc-b863-0dcd9aea29c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35661, tfo: true, type: vmess, uuid: 8e15f7b0-aa89-4dcc-b863-0dcd9aea29c2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}

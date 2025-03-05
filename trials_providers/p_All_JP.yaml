@@ -1,22 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: '🇯🇵 日本[01] - Heima', server: vip.baima360.com, port: 15888, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: c37771d7-a4af-48a8-8a1b-18b3e10b813c, udp: true}
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, tfo: true, type: ss, cipher: aes-128-gcm, password: b47b31ee-debc-4b68-b5e8-15605a494c6f, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30602, tfo: true, type: ss, cipher: aes-128-gcm, password: b47b31ee-debc-4b68-b5e8-15605a494c6f, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30603, tfo: true, type: ss, cipher: aes-128-gcm, password: b47b31ee-debc-4b68-b5e8-15605a494c6f, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30604, tfo: true, type: ss, cipher: aes-128-gcm, password: b47b31ee-debc-4b68-b5e8-15605a494c6f, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30605, tfo: true, type: ss, cipher: aes-128-gcm, password: b47b31ee-debc-4b68-b5e8-15605a494c6f, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30606, tfo: true, type: ss, cipher: aes-128-gcm, password: b47b31ee-debc-4b68-b5e8-15605a494c6f, udp: true}
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, tfo: true, type: trojan, password: 27b62217-33ea-35b0-8acb-0cf9b12f27fc, sni: fastly.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, tfo: true, type: trojan, password: 27b62217-33ea-35b0-8acb-0cf9b12f27fc, sni: edge.steam-dns.top.comcast.net, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
-- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
-- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
-- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
-- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
-- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: 3086a41e-f36f-489e-981f-ef0f4bededf5, udp: true}
-- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 2bd019a6-5de4-4d0c-a924-cf1fbda52311, udp: true}
-- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 2bd019a6-5de4-4d0c-a924-cf1fbda52311, udp: true}
-- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 2bd019a6-5de4-4d0c-a924-cf1fbda52311, udp: true}
-- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 2bd019a6-5de4-4d0c-a924-cf1fbda52311, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: akamai.cdn.steampipe.steamcontent.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 021e3f8a-b213-3a4d-981b-6dd5c728827b, sni: steamcdn-a.akamaihd.net, skip-cert-verify: true, udp: true}
