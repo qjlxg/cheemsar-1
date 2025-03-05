@@ -15,39 +15,27 @@ import chardet
 
 #试用机场链接
 home_urls =(
-'https://v2lnk.net',
 'https://ch.louwangzhiyu.xyz',
-'https://dashuai.us',
 'https://dl.vfkum.website',
-'https://needss.link',
-'https://qingyun.zybs.eu.org',
 'https://vt.louwangzhiyu.xyz',
-'https://xueyejiasu.com',
-'https://ykxqn.com',
 'https://ch.cukug.website',
 'https://www.dabai.in',
-'https://cn.newbee888.cc',
-'https://xc1.shishi1.buzz',
 'https://aa.dabai.in',
-'https://api.heima2u.com',
-'https://cn.newbee.cyou',
-'https://mgnet.vip',
 'https://s1.equinoxaa.com',
-'https://sulian.life',
 'https://tz.vfkum.website',
 'https://aq.louwangzhiyu.xyz',
 'https://bb.dabai.in',
 'https://cc.dabai.in',
 'https://ch.owokkvsxks.store',
 'https://ch.vfkum.website',
-'https://cloudfox.club',
 'https://dl.owokkvsxks.store',
 'https://nova.live',
 'https://s2.equinoxaa.com',
 'https://s3.equinoxaa.com',
 'https://www.louwangzhiyu.xyz',
 'https://人人传承.com',
-'https://v2free.net',
+'https://懒猫.com',
+
 
 
 
