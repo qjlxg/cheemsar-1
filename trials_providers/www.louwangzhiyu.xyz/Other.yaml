@@ -2,4 +2,5 @@
 ---
 proxies:
 - {name: 🇩🇪 德国-法兰克福-F1-001 - 漏网之鱼, server: 5.144.178.225, port: 21000, type: vmess, uuid: 9c6222ae-7804-4414-ae46-0495b0076080, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇦 加拿大-多伦多-F1-001 - 漏网之鱼, server: 141.195.112.53, port: 21000, type: vmess, uuid: 9c6222ae-7804-4414-ae46-0495b0076080, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇷🇺 俄罗斯-圣彼得堡-F1-001 - 漏网之鱼, server: 195.58.49.42, port: 21000, type: vmess, uuid: 9c6222ae-7804-4414-ae46-0495b0076080, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}

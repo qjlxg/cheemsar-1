@@ -47,6 +47,13 @@ proxy-groups:
   - p_All_All_All_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN_CN_CN_CN
   - p_All_All_All_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN_CN_CN_CN
   - p_All_All_All_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN_CN_CN_CN
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
   - p_All_All_All_All_All_All_All_All_All_All_US_US_US_US_US_US_US_US_US_US
   - p_All_All_All_All_All_All_All_All_All_All_US_US_US_US_US_US_US_US_US_US
   - p_All_All_All_All_All_All_All_All_All_All_US_US_US_US_US_US_US_US_US_US
@@ -183,6 +190,13 @@ proxy-groups:
   - p_All_All_All_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other_Other_Other_Other
   - p_All_All_All_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other_Other_Other_Other
   - p_All_All_All_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
+  - p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other
   - p_All_All_All_Other_Other_Other
   - p_All_All_All_Other_Other_Other
   - p_All_All_All_Other_Other_Other
@@ -216,6 +230,15 @@ proxy-providers:
     url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_All_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN_CN_CN_CN.yaml
     interval: 180
     path: trials_providers/p_All_All_All_All_All_All_All_All_All_All_HK_HK_HK_HK_HK_HK_HK_HK_HK_HK_CN_CN_CN_CN_CN_CN_CN_CN_CN_CN.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other.yaml
+    interval: 180
+    path: trials_providers/p_All_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other_Other.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
