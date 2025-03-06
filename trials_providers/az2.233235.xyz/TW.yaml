@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, type: trojan, password: 22041aaf-d6a2-451e-872c-28f46891ac08, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, type: trojan, password: 22041aaf-d6a2-451e-872c-28f46891ac08, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}

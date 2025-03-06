@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇹🇼 台湾01（高速） - CloudFox, server: tw01.x.woyh.xyz, port: 38601, type: ss, cipher: chacha20-ietf-poly1305, password: a0f6ee2f-bce0-46a6-9a4a-05effb42d227, udp: true}
-- {name: 🇹🇼 台湾02（高速） - CloudFox, server: tw02.x.woyh.xyz, port: 38611, type: ss, cipher: chacha20-ietf-poly1305, password: a0f6ee2f-bce0-46a6-9a4a-05effb42d227, udp: true}
-- {name: 🇹🇼 台湾03（IPLC稳定） - CloudFox, server: tw03.x.woyh.xyz, port: 38612, type: ss, cipher: chacha20-ietf-poly1305, password: a0f6ee2f-bce0-46a6-9a4a-05effb42d227, udp: true}
-- {name: 🇹🇼 台湾04（IPLC稳定） - CloudFox, server: tw04.x.woyh.xyz, port: 38613, type: ss, cipher: chacha20-ietf-poly1305, password: a0f6ee2f-bce0-46a6-9a4a-05effb42d227, udp: true}
-- {name: 🇹🇼 台湾05（GPT专用） - CloudFox, server: tw05.x.woyh.xyz, port: 38615, type: ss, cipher: chacha20-ietf-poly1305, password: a0f6ee2f-bce0-46a6-9a4a-05effb42d227, udp: true}
-- {name: 🇹🇼 台湾06（GPT专用） - CloudFox, server: tw06.x.woyh.xyz, port: 38616, type: ss, cipher: chacha20-ietf-poly1305, password: a0f6ee2f-bce0-46a6-9a4a-05effb42d227, udp: true}
