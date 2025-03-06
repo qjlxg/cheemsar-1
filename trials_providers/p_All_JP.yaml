@@ -1,0 +1,24 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇯🇵 [3x]IEPL专线 日本1 - KUGOU云', server: vip1.kugovip.xyz, port: 50112, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [3x]IEPL专线 日本2 - KUGOU云', server: vip1.kugovip.xyz, port: 50113, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本1 - KUGOU云', server: xd1.kugovip.xyz, port: 18601, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇯🇵 [1x]CM 隧道 日本2 - KUGOU云', server: xd1.kugovip.xyz, port: 18602, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19631, type: ss, cipher: chacha20-ietf-poly1305, password: be2075b8-a211-421b-ae20-86fb877e6466, udp: true}
+- {name: 🇯🇵 日本2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19631, type: ss, cipher: chacha20-ietf-poly1305, password: be2075b8-a211-421b-ae20-86fb877e6466, udp: true}
+- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30602, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30603, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30604, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30605, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30606, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇯🇵 CN中转|日本① - 夜光云 BLUECLOUD, server: madpr.talends.top, port: 20040, type: vmess, uuid: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: xby1v.ipclouds.top}}, udp: true}
+- {name: 🇯🇵 CN中转|日本③ISP住宅 - 夜光云 BLUECLOUD, server: gzyd.talends.top, port: 20041, type: vmess, uuid: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /downloads, headers: {Host: jp2.cloudbb.loan}}, udp: true}
+- {name: 🇯🇵 CN高速|日本②ISP住宅 - 夜光云 BLUECLOUD, server: jp2trojan.cloudbb.loan, port: 20022, type: trojan, password: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, sni: jp2trojan.cloudbb.loan, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本｜国际TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: jp3trojan.cloudbb.loan, port: 20022, type: trojan, password: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, sni: jp3trojan.cloudbb.loan, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - uu加速首页, server: gy.tangu.win, port: 31652, type: ss, cipher: chacha20-ietf-poly1305, password: 0975d6a2-9c29-4ab2-bc85-f4e500e76115, udp: true}
+- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.77.198.143, port: 443, type: trojan, password: 740ff444-2563-3a14-a53d-e1bd27a60d68, sni: steampipe-kr.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.5.159, port: 443, type: trojan, password: 740ff444-2563-3a14-a53d-e1bd27a60d68, sni: steampipe-partner.akamaized.net, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 - 独孤乐天, server: jp-1.anewstart.cyou, port: 5061, type: vmess, uuid: 1e0059a4-e757-3924-bc90-0723f1db26e3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 AWS *3 IPv6 - 独孤乐天, server: jp6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 1e0059a4-e757-3924-bc90-0723f1db26e3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}

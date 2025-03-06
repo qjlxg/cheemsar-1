@@ -1,0 +1,24 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50114, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 8d71367a-95c4-46b8-abed-22a4f91f60fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: be2075b8-a211-421b-ae20-86fb877e6466, udp: true}
+- {name: 🇸🇬 新加坡2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: be2075b8-a211-421b-ae20-86fb877e6466, udp: true}
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 30621, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 30622, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 30623, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 30624, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 30625, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 30626, type: ss, cipher: aes-128-gcm, password: a728abfa-5b7c-4c9b-9536-a0e0cb0392da, udp: true}
+- {name: 🇸🇬 CN中转|新加坡ISP住宅① - 夜光云 BLUECLOUD, server: slsap.talends.top, port: 20023, type: vmess, uuid: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg1v2.ipclouds.top}}, udp: true}
+- {name: 🇸🇬 新加坡｜高速TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: gzyd.talends.top, port: 20018, type: vmess, uuid: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, alterId: 1, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: sg2.cloudbb.loan}}, udp: true}
+- {name: 🇸🇬 CN高速|新加坡ISP住宅② - 夜光云 BLUECLOUD, server: sing1.cloudbb.cyou, port: 20022, type: trojan, password: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, sni: sing1.cloudbb.cyou, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡｜国际TⅦ住宅ISP② - 夜光云 BLUECLOUD, server: sgt2.cloudbb.loan, port: 20022, type: trojan, password: 38bb950e-7ceb-35e6-869d-05a11bc0ac29, sni: sgt2.cloudbb.loan, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 0975d6a2-9c29-4ab2-bc85-f4e500e76115, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 0975d6a2-9c29-4ab2-bc85-f4e500e76115, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 0975d6a2-9c29-4ab2-bc85-f4e500e76115, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 16563f66-1fbf-36af-8f0b-dd39e52f11e3, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
