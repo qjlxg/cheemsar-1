@@ -1,6 +1,9 @@
-[mojie.co]
-email  xclmgfb384@gmail.com
+[懒猫.com]
+buy  pass
+email  zybzybs47@gmail.com
+name  懒猫机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://lanmaojiasu.top/#/login/api/v1/client/subscribe?token=d408de73d9eae7f6f0900c9f0843dda0
+time  2025-03-07 15:47:12.427828+08:00
 type  v2board
-更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
-
-[mojie.info]
+保存base64/clash订阅失败  'NoneType' object is not iterable
