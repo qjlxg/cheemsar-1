@@ -1,0 +1,28 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54016, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19946, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54804, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 50815, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 19055, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23008, type: vmess, uuid: 6d305147-c88f-4d62-97ee-decf3782b7ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.tcekx.cn, port: 55872, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 06931f07-776f-3195-b05c-82c0825671d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}

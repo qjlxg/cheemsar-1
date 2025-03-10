@@ -1,0 +1,23 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国NO.1（GPT） - 大师专线, server: haa.dashuai.cyou, port: 45052, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国NO.2（GPT） - 大师专线, server: xdd.dashuai.cyou, port: 45053, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 - 快狗云, server: shhh001.oraclenat.cc, port: 23451, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: shhh001.oraclenat.cc}}, udp: true}
+- {name: 🇺🇸 美国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 13489, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇺🇸 美国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19161, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇺🇸 美国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 50563, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
+- {name: 🇺🇸 美国-纽约-F3-001 - 漏网之鱼, server: 207.90.237.96, port: 23008, type: vmess, uuid: 6d305147-c88f-4d62-97ee-decf3782b7ca, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇺🇸 美国 AWS *1 - 独孤乐天, server: us-1.anewstart.cyou, port: 5061, type: vmess, uuid: 781c05c2-972f-3f80-af6a-20cc4a98a155, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 AWS2 *1 IPv6 - 独孤乐天, server: us6-1.anewstart.cyou, port: 5061, type: vmess, uuid: 781c05c2-972f-3f80-af6a-20cc4a98a155, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: '🇺🇸 [vip①]美国1 - MG Network', server: 15.mamamajd.site, port: 23615, type: vmess, uuid: 06931f07-776f-3195-b05c-82c0825671d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 15.mamamajd.site}}, udp: true}
+- {name: 🇺🇸 中转•美国295•高速 - 飞翔吧, server: gy.58n.net, port: 20295, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国296•高速 - 飞翔吧, server: gy.58n.net, port: 20296, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国308•高速 - 飞翔吧, server: gy.58n.net, port: 20308, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国40•高速 - 飞翔吧, server: gy.58n.net, port: 16895, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国41•原生 - 飞翔吧, server: gy.58n.net, port: 21970, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 中转•美国61•高速 - 飞翔吧, server: gy.58n.net, port: 30767, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国266•高速 - 飞翔吧, server: gy.58n.net, port: 56783, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港•美国288•高速 - 飞翔吧, server: gy.58n.net, port: 20288, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
