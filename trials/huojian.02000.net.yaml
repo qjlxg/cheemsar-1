@@ -11,6 +11,16 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
+  - 🇭🇰 ‍香港
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🇺🇸 ‍美国
+  - 🎏 ‍其他
+  - 👆🏻🇭🇰 ‍香港
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
@@ -19,7 +29,43 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - ℹ️ v0-网址:jif620.net - JFCLOUND
+  - 🇭🇰 香港|奈飞 - 火箭cloud
+  - 🇭🇰 香港|奈飞-2 - 火箭cloud
+  - 🇭🇰 香港|奈飞-3 - 火箭cloud
+  - 🇸🇬 新加坡|Netflix - 火箭cloud
+  - 🇸🇬 新加坡|TikTok - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt2 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-1 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-2 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-3 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-4 - 火箭cloud
+  - 🇺🇸 美国|Netflix - 火箭cloud
+  - 🇺🇸 美国|TikTok - 火箭cloud
+  - 🇺🇸 美国|ChatGpt - 火箭cloud
+  - 🇺🇸 美国|ChatGpt2 - 火箭cloud
+  - 'ℹ️ 官网: www.yas66.com - 火箭cloud'
+  - ℹ️ as250366399@gmail.com - 火箭cloud
+  - 'ℹ️ 续费网址: www.yas66.com - 火箭cloud'
+  - 'ℹ️ 官_网: www.yas66.com - 火箭cloud'
+  - ℹ️ 续费:www.yas66.com - 火箭cloud
+  - 🇰🇷 韩国|Netflix - 火箭cloud
+  - 🇰🇷 韩国|TikTok - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt2 - 火箭cloud
+  - 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud'
+  - 🇩🇪 德国|Netflix - 火箭cloud
+  - 🇩🇪 德国|TikTok - 火箭cloud
+  - 🇩🇪 德国|ChatGpt - 火箭cloud
+  - 🇩🇪 德国|ChatGpt2 - 火箭cloud
+  - 🇬🇧 英国|Netflix - 火箭cloud
+  - 🇬🇧 英国|TikTok - 火箭cloud
+  - 🇬🇧 英国|ChatGpt - 火箭cloud
+  - 🇬🇧 英国|ChatGpt2 - 火箭cloud
+  - 🇹🇭 泰国|Netflix - 火箭cloud
+  - 🇹🇭 泰国|TikTok - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt2 - 火箭cloud
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -39,12 +85,22 @@ proxy-groups:
   type: select
   proxies:
   - 🛩️ ‍墙内
+  - 🇭🇰 ‍香港
   - ✈️ ‍起飞
+  - 👆🏻🇭🇰 ‍香港
   - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
+  - 🇺🇸 ‍美国
+  - 🇸🇬 ‍新加坡
+  - 🇯🇵 ‍日本
+  - 🎏 ‍其他
   - ✈️ ‍起飞
+  - 👆🏻🇺🇸 ‍美国
+  - 👆🏻🇸🇬 ‍新加坡
+  - 👆🏻🇯🇵 ‍日本
+  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -53,8 +109,126 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
+- name: 🇭🇰 ‍香港
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id002
+  - 🇭🇰 香港|奈飞 - 火箭cloud
+  - 🇭🇰 香港|奈飞-2 - 火箭cloud
+  - 🇭🇰 香港|奈飞-3 - 火箭cloud
+- name: 🇸🇬 ‍新加坡
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id003
+  - 🇸🇬 新加坡|Netflix - 火箭cloud
+  - 🇸🇬 新加坡|TikTok - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt - 火箭cloud
+  - 🇸🇬 新加坡|ChatGpt2 - 火箭cloud
+- name: 🇯🇵 ‍日本
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 100
+  proxies: &id004
+  - 🇯🇵 日本|ChatGpt-1 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-2 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-3 - 火箭cloud
+  - 🇯🇵 日本|ChatGpt-4 - 火箭cloud
+- name: 🇺🇸 ‍美国
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 15
+  tolerance: 300
+  proxies: &id005
+  - 🇺🇸 美国|Netflix - 火箭cloud
+  - 🇺🇸 美国|TikTok - 火箭cloud
+  - 🇺🇸 美国|ChatGpt - 火箭cloud
+  - 🇺🇸 美国|ChatGpt2 - 火箭cloud
+- name: 🎏 ‍其他
+  type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
+  tolerance: 100
+  proxies: &id006
+  - 'ℹ️ 官网: www.yas66.com - 火箭cloud'
+  - ℹ️ as250366399@gmail.com - 火箭cloud
+  - 'ℹ️ 续费网址: www.yas66.com - 火箭cloud'
+  - 'ℹ️ 官_网: www.yas66.com - 火箭cloud'
+  - ℹ️ 续费:www.yas66.com - 火箭cloud
+  - 🇰🇷 韩国|Netflix - 火箭cloud
+  - 🇰🇷 韩国|TikTok - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt - 火箭cloud
+  - 🇰🇷 韩国|ChatGpt2 - 火箭cloud
+  - 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud'
+  - 🇩🇪 德国|Netflix - 火箭cloud
+  - 🇩🇪 德国|TikTok - 火箭cloud
+  - 🇩🇪 德国|ChatGpt - 火箭cloud
+  - 🇩🇪 德国|ChatGpt2 - 火箭cloud
+  - 🇬🇧 英国|Netflix - 火箭cloud
+  - 🇬🇧 英国|TikTok - 火箭cloud
+  - 🇬🇧 英国|ChatGpt - 火箭cloud
+  - 🇬🇧 英国|ChatGpt2 - 火箭cloud
+  - 🇹🇭 泰国|Netflix - 火箭cloud
+  - 🇹🇭 泰国|TikTok - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt - 火箭cloud
+  - 🇹🇭 泰国|ChatGpt2 - 火箭cloud
+- name: 👆🏻🇭🇰 ‍香港
+  type: select
+  proxies: *id002
+- name: 👆🏻🇸🇬 ‍新加坡
+  type: select
+  proxies: *id003
+- name: 👆🏻🇯🇵 ‍日本
+  type: select
+  proxies: *id004
+- name: 👆🏻🇺🇸 ‍美国
+  type: select
+  proxies: *id005
+- name: 👆🏻🎏 ‍其他
+  type: select
+  proxies: *id006
 proxies:
-- {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: 78e59a72-0473-3b5d-ae20-10bdca782dbc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 官网: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23040, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, udp: true}
+- {name: 🇭🇰 香港|奈飞 - 火箭cloud, server: huojian.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: ℹ️ as250366399@gmail.com - 火箭cloud, server: huojian.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 续费网址: www.yas66.com - 火箭cloud', server: huojian.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-2 - 火箭cloud, server: huojian.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 官_网: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港|奈飞-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 续费:www.yas66.com - 火箭cloud, server: huojian-js.arken8379.com, port: 23000, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇰🇷 韩国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23031, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-1 - 火箭cloud, server: huojian.arken8379.com, port: 23001, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-2 - 火箭cloud, server: huojian.arken8379.com, port: 23001, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-3 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本|ChatGpt-4 - 火箭cloud, server: huojian-js.arken8379.com, port: 23001, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 'ℹ️ 续费~网址: www.yas66.com - 火箭cloud', server: huojian-js.arken8379.com, port: 23001, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23002, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23002, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23002, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23002, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23003, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23003, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23003, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23004, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|Netflix - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|TikTok - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|ChatGpt - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇬🇧 英国|ChatGpt2 - 火箭cloud, server: huojian-js.arken8379.com, port: 23005, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|Netflix - 火箭cloud, server: huojian.arken8379.com, port: 23008, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|TikTok - 火箭cloud, server: huojian.arken8379.com, port: 23008, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|ChatGpt - 火箭cloud, server: huojian.arken8379.com, port: 23008, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
+- {name: 🇹🇭 泰国|ChatGpt2 - 火箭cloud, server: huojian.arken8379.com, port: 23008, tfo: true, type: trojan, password: e49795ee-7f58-4d60-97d3-15d0cd52df61, sni: www.bilibili.com, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
