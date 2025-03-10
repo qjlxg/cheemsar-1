@@ -19,7 +19,7 @@ proxy-groups:
   interval: 30
   tolerance: 100
   proxies: &id001
-  - 🇰🇷 韩国-三网优化2 - 青云互联网-
+  - ℹ️ v0-网址:jif620.net - JFCLOUND
 - name: 👆🏻 ‍指定
   type: select
   proxies: *id001
@@ -54,7 +54,7 @@ proxy-groups:
   - 🛩️ ‍墙内
   - 💩 ‍广告
 proxies:
-- {name: 🇰🇷 韩国-三网优化2 - 青云互联网-, server: kr-qingyun.dwyun.me, port: 44732, type: trojan, password: a2c76b81-caeb-4e47-98d7-cde88cbbad67, sni: kr-qingyun.dwyun.me, skip-cert-verify: true, udp: true}
+- {name: ℹ️ v0-网址:jif620.net - JFCLOUND, server: 1, port: 443, type: vmess, uuid: 11ae9048-0387-32ad-bceb-a365d4bac4d5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
