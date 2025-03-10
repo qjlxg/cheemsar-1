@@ -17,7 +17,11 @@ import chardet
 home_urls =(
 
 'https://sulink.pro',
-
+'https://www.kuaidog010.top',
+'https://qingyun.zybs.eu.org',
+'https://cc.dabai.in',
+'https://mgnet.vip',
+'https://portal.passgfw.top',
 
 
 
