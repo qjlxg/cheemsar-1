@@ -1,33 +1,16 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 837bdae6-4455-4d87-a947-c9d00c5b1639, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 新加坡西部（新加坡） - 快狗云, server: westsg2-ddns.oraclenat.cc, port: 23452, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: westsg2-ddns.oraclenat.cc}}, udp: true}
 - {name: 🇸🇬 新加坡西部（新加坡） - 快狗云 2, server: visa.com, port: 443, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjp.daluquan.top, network: ws, ws-opts: {path: /, headers: {Host: xjp.daluquan.top}}, udp: true}
-- &id001 {name: 🇸🇬 Game 新加坡01-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9060, type: ss, cipher: aes-128-gcm, password: QHPy2u, plugin: obfs, plugin-opts: {mode: http, host: 4715c107809.download.windowsupdate.com}, udp: true}
-- &id002 {name: 🇸🇬 Game 新加坡02-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 9037, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 4715c107809.download.windowsupdate.com}, udp: true}
-- &id003 {name: 🇸🇬 Game 新加坡03-标准 - AyucLouD-Services, server: 231103level3.unclemanco.com, port: 902, type: ss, cipher: aes-128-gcm, password: ayuc211, plugin: obfs, plugin-opts: {mode: http, host: 4715c107809.download.windowsupdate.com}, udp: true}
-- &id004 {name: 🇸🇬 Video 新加坡A-解锁 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 9038, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 4715c107809.download.windowsupdate.com}, udp: true}
-- &id005 {name: 🇸🇬 Video 新加坡B-标准 - AyucLouD-Services, server: 231103level2.unclemanco.com, port: 19999, type: ss, cipher: aes-128-gcm, password: 'dajkdkjda&dja*/?', plugin: obfs, plugin-opts: {mode: http, host: 4715c107809.download.windowsupdate.com}, udp: true}
-- &id006 {name: 🇸🇬 Web 新加坡I-标准 - AyucLouD-Services, server: 231103level1.unclemanco.com, port: 6879, type: ss, cipher: aes-128-gcm, password: ayucloud1, plugin: obfs, plugin-opts: {mode: http, host: 4715c107809.download.windowsupdate.com}, udp: true}
-- {name: 🇸🇬 新加坡中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 26867, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
-- {name: 🇸🇬 新加坡中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 13127, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
-- {name: 🇸🇬 新加坡中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 37958, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
-- {name: 🇸🇬 新加坡中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 47639, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
-- {name: 🇸🇬 新加坡中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 57141, type: ss, cipher: chacha20-ietf-poly1305, password: a34266b9-eb43-40c5-91ac-b59b9fe934d5, udp: true}
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
-- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
-- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
-- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 06931f07-776f-3195-b05c-82c0825671d9, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}
-- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 621245fe-f7b3-3677-89a4-3b6b0c4dd977, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 26867, type: ss, cipher: chacha20-ietf-poly1305, password: 750d07f1-a4c4-418e-ab14-d0bb29e4bde9, udp: true}
+- {name: 🇸🇬 新加坡中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 13127, type: ss, cipher: chacha20-ietf-poly1305, password: 750d07f1-a4c4-418e-ab14-d0bb29e4bde9, udp: true}
+- {name: 🇸🇬 新加坡中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 37958, type: ss, cipher: chacha20-ietf-poly1305, password: 750d07f1-a4c4-418e-ab14-d0bb29e4bde9, udp: true}
+- {name: 🇸🇬 新加坡中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 47639, type: ss, cipher: chacha20-ietf-poly1305, password: 750d07f1-a4c4-418e-ab14-d0bb29e4bde9, udp: true}
+- {name: 🇸🇬 新加坡中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 57141, type: ss, cipher: chacha20-ietf-poly1305, password: 750d07f1-a4c4-418e-ab14-d0bb29e4bde9, udp: true}
+- {name: 🇸🇬SG Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: 🇸🇬SG Akile T深圳CM 1.2x - PassGFW, server: tysz.rcmnk.cn, port: 50563, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: 🇸🇬SG Akile T长沙CM - PassGFW, server: csyd.rcmnk.cn, port: 60912, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: e77d7c28-fa62-449c-8acd-0ba06840923a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: e77d7c28-fa62-449c-8acd-0ba06840923a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: 95fddeaf-51ca-303f-bf2f-5126edbae7b2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}

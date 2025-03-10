@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: ℹ️ 如你的第一个节点是这个请更换支持HY2订阅的客户端！ - PassGFW, server: www.gov.cn, port: 80, tfo: true, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
+- {name: ℹ️ 如你的第一个节点是这个请更换支持HY2订阅的客户端！ - PassGFW, server: www.gov.cn, port: 80, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
