@@ -1,9 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本一 - LIME, server: 001.kjahbg.info, port: 30601, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
-- {name: 🇯🇵 日本二 - LIME, server: 002.kjahbg.info, port: 30602, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
-- {name: 🇯🇵 日本三 - LIME, server: 003.kjahbg.info, port: 30603, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
-- {name: 🇯🇵 日本四 - LIME, server: 004.kjahbg.info, port: 30604, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
-- {name: 🇯🇵 日本五 - LIME, server: 005.kjahbg.info, port: 30605, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
-- {name: 🇯🇵 日本六 - LIME, server: 006.kjahbg.info, port: 30606, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
