@@ -1,18 +1,43 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54016, type: ss, cipher: chacha20-ietf-poly1305, password: a248d7ae-7c66-4a4a-a84c-843e44814c96, udp: true}
-- {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19946, type: ss, cipher: chacha20-ietf-poly1305, password: a248d7ae-7c66-4a4a-a84c-843e44814c96, udp: true}
-- {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54804, type: ss, cipher: chacha20-ietf-poly1305, password: a248d7ae-7c66-4a4a-a84c-843e44814c96, udp: true}
-- {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 50815, type: ss, cipher: chacha20-ietf-poly1305, password: a248d7ae-7c66-4a4a-a84c-843e44814c96, udp: true}
-- {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 19055, type: ss, cipher: chacha20-ietf-poly1305, password: a248d7ae-7c66-4a4a-a84c-843e44814c96, udp: true}
-- {name: 🇭🇰HK Akile T成都CM 1.2x - PassGFW, server: 117.173.88.171, port: 16732, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
-- {name: 🇭🇰HK Akile T宁夏CM 1.2x - PassGFW, server: awslx.tcekx.cn, port: 55872, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
-- {name: 🇭🇰HK Akile T长沙CM 1.2x - PassGFW, server: csyd.rcmnk.cn, port: 41124, type: ss, cipher: aes-128-gcm, password: 33827fe4-b24d-48dd-ba81-1ba96be0da03, udp: true}
-- {name: 🇭🇰 香港01 - 血液加速器, server: gy.666666222.shop, port: 34338, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
-- {name: 🇭🇰 香港02 - 血液加速器, server: gy.666666222.shop, port: 20035, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
-- {name: 🇭🇰 香港03 - 血液加速器, server: gy.666666222.shop, port: 20052, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港1 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港2 - KUGOU云', server: vip1.kugovip.xyz, port: 50122, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港3 - KUGOU云', server: vip1.kugovip.xyz, port: 50133, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港4 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港5 - KUGOU云', server: vip1.kugovip.xyz, port: 50106, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [3x]IEPL专线 香港6 - KUGOU云', server: vip1.kugovip.xyz, port: 50124, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 [1x]CM 隧道 香港1 - KUGOU云', server: xd1.kugovip.xyz, port: 18588, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: e009b9e4-0bc1-4a3f-a87a-29af53a486de, udp: true}
+- {name: 🇭🇰 香港2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19611, type: ss, cipher: chacha20-ietf-poly1305, password: e009b9e4-0bc1-4a3f-a87a-29af53a486de, udp: true}
+- {name: '🇭🇰 香港[01] - Heima', server: 107.149.254.26, port: 158, type: trojan, password: 057b3d4a-e835-42a8-b694-d31911f2f18b, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[04]中转 - Heima', server: vip.baima360.com, port: 65519, type: ss, cipher: chacha20-ietf-poly1305, password: 057b3d4a-e835-42a8-b694-d31911f2f18b, udp: true}
+- {name: '🇭🇰 香港[05]中转 - Heima', server: vip.baima360.com, port: 36511, type: ss, cipher: chacha20-ietf-poly1305, password: 057b3d4a-e835-42a8-b694-d31911f2f18b, udp: true}
+- {name: '🇭🇰 香港[06] - Heima', server: 107.149.254.26, port: 159, type: trojan, password: 057b3d4a-e835-42a8-b694-d31911f2f18b, skip-cert-verify: true, udp: true}
+- {name: '🇭🇰 香港[07]中转 - Heima', server: vip.baima360.com, port: 36214, type: ss, cipher: chacha20-ietf-poly1305, password: 057b3d4a-e835-42a8-b694-d31911f2f18b, udp: true}
+- {name: 🇭🇰 香港一 - LIME, server: 01.kjahbg.info, port: 30607, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港二 - LIME, server: 02.kjahbg.info, port: 30608, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港三 - LIME, server: 03.kjahbg.info, port: 30609, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港四 - LIME, server: 04.kjahbg.info, port: 30610, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港五 - LIME, server: 05.kjahbg.info, port: 30611, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港六 - LIME, server: 06.kjahbg.info, port: 30612, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港七 - LIME, server: 07.kjahbg.info, port: 30613, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 香港八 - LIME, server: 08.kjahbg.info, port: 30614, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇭🇰 广港•香港309•专线 - 飞翔吧, server: gyl.58n.net, port: 20309, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z309.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港102•高速 - 飞翔吧, server: gy.58n.net, port: 43337, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 中转•香港307•高速 - 飞翔吧, server: gy.58n.net, port: 20307, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港143•高速 - 飞翔吧, server: gy.58n.net, port: 28678, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港259•高速 - 飞翔吧, server: gy.58n.net, port: 24603, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港269•高速 - 飞翔吧, server: gy.58n.net, port: 22741, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港278•高速 - 飞翔吧, server: gy.58n.net, port: 20278, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港279•高速 - 飞翔吧, server: gy.58n.net, port: 20279, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 广港•香港294•高速 - 飞翔吧, server: gy.58n.net, port: 20294, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港01 - uu加速首页, server: gy.tangu.win, port: 31672, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇭🇰 香港02 - uu加速首页, server: gy.tangu.win, port: 31675, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇭🇰 香港03 - uu加速首页, server: gy.tangu.win, port: 31679, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇭🇰 香港06-备用 - uu加速首页, server: jsyd.yeahfast.com, port: 31681, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇭🇰 香港05-备用 - uu加速首页, server: 4c52.ens3.buzz, port: 31683, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
 - {name: 🇭🇰 香港NO.1（GPT奈飞等） - 大师专线, server: haa.dashuai.cyou, port: 45050, type: vmess, uuid: 5af7823c-d18b-4e33-81cc-2ea80aa84c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港NO.2（GPT奈飞等） - 大师专线, server: xdd.dashuai.cyou, port: 45051, type: vmess, uuid: 5af7823c-d18b-4e33-81cc-2ea80aa84c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港（直连） - 大师专线, server: xg.dashuai.cyou, port: 19901, type: vmess, uuid: 5af7823c-d18b-4e33-81cc-2ea80aa84c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: 95fddeaf-51ca-303f-bf2f-5126edbae7b2, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}
+- {name: '🇭🇰 [vip①]①香港 - MG Network', server: 12.mamamajd.site, port: 23612, type: vmess, uuid: b7be2a86-2b82-3f8e-b238-2ef6df001d3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 12.mamamajd.site}}, udp: true}

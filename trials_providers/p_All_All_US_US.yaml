@@ -1,0 +1,25 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 美国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 13489, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇺🇸 美国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19161, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇺🇸 美国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 50563, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇺🇸 美国原生01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22257, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国原生02 - NewBee国际机场, server: gzdx.newbee8.me, port: 35659, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22255, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 广港专线-美国04 - NewBee国际机场, server: gzdx.newbee8.me, port: 35664, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇺🇸 US.美国.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 25619, type: vmess, uuid: afe18426-6806-4223-bd68-0d2de5657d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 US.美国.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 17318, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇺🇸 US.美国.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 40793, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇺🇸 US.美国.E - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudus.cokecloud.top, port: 20067, type: vmess, uuid: afe18426-6806-4223-bd68-0d2de5657d1d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇺🇸 美国01（高速） - CloudFox, server: us01.x.woyh.xyz, port: 38670, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇺🇸 美国02（高速） - CloudFox, server: us02.x.woyh.xyz, port: 38672, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇺🇸 美国03（IPLC稳定） - CloudFox, server: us03.x.woyh.xyz, port: 38673, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇺🇸 美国04（IPLC稳定） - CloudFox, server: us04.x.woyh.xyz, port: 38674, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇺🇸 美国05（GPT专用） - CloudFox, server: us05.x.woyh.xyz, port: 38675, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇺🇸 美国06（GPT专用） - CloudFox, server: us06.x.woyh.xyz, port: 38676, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}

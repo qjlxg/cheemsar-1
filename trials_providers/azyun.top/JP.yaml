@@ -1,0 +1,9 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, type: trojan, password: 51b8f8ec-c646-4aa4-b0c0-eb1ce9e9cba2, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, type: trojan, password: 51b8f8ec-c646-4aa4-b0c0-eb1ce9e9cba2, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, type: trojan, password: 51b8f8ec-c646-4aa4-b0c0-eb1ce9e9cba2, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, type: trojan, password: 51b8f8ec-c646-4aa4-b0c0-eb1ce9e9cba2, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, type: trojan, password: 51b8f8ec-c646-4aa4-b0c0-eb1ce9e9cba2, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, type: trojan, password: 51b8f8ec-c646-4aa4-b0c0-eb1ce9e9cba2, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}

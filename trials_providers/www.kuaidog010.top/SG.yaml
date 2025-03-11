@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇸🇬 新加坡西部（新加坡） - 快狗云, server: westsg2-ddns.oraclenat.cc, port: 23452, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: westsg2-ddns.oraclenat.cc}}, udp: true}
-- {name: 🇸🇬 新加坡西部（新加坡） - 快狗云 2, server: visa.com, port: 443, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xjp.daluquan.top, network: ws, ws-opts: {path: /, headers: {Host: xjp.daluquan.top}}, udp: true}

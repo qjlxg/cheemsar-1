@@ -1,0 +1,26 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 日本中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 41473, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇯🇵 日本中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 25578, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇯🇵 日本中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 49821, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇯🇵 日本中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 39886, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇯🇵 日本中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 16542, type: ss, cipher: chacha20-ietf-poly1305, password: ef9cee48-4cf9-43dc-9923-2f1a44124012, udp: true}
+- {name: 🇯🇵 日本01 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本02 - NewBee国际机场, server: hn3x.newbee8.me, port: 22253, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03-隧道 - NewBee国际机场, server: gzdx.newbee8.me, port: 35662, type: vmess, uuid: c350379f-2910-4dda-9f2f-940d5f94a64e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本-新疆直连 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: xj.cokecloud.top, port: 32264, type: trojan, password: afe18426-6806-4223-bd68-0d2de5657d1d, sni: xj.cokecloud.top, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 JP.日本.A - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 20437, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇯🇵 JP.日本.B - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 43291, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇯🇵 JP.日本.C | 高速.2x倍率 - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 19439, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇯🇵 JP.日本.D - 𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙, server: cokecloudjp.cokecloud.top, port: 13215, type: ss, cipher: chacha20-ietf-poly1305, password: afe18426-6806-4223-bd68-0d2de5657d1d, udp: true}
+- {name: 🇯🇵 日本01 - 血液加速器, server: gy.666666222.shop, port: 20002, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇯🇵 日本02 - 血液加速器, server: gy.666666222.shop, port: 20004, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇯🇵 日本03 - 血液加速器, server: gy.666666222.shop, port: 20006, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇯🇵 日本04 - 血液加速器, server: gy.666666222.shop, port: 20008, type: ss, cipher: chacha20-ietf-poly1305, password: 3db017ac-9a36-47c8-991e-28c8fd81b1cb, udp: true}
+- {name: 🇯🇵 日本01（高速） - CloudFox, server: jp01.x.woyh.xyz, port: 38621, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇯🇵 日本02（高速） - CloudFox, server: jp02.x.woyh.xyz, port: 38622, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇯🇵 日本03（IPLC稳定） - CloudFox, server: jp03.x.woyh.xyz, port: 38623, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇯🇵 日本04（IPLC稳定） - CloudFox, server: jp04.x.woyh.xyz, port: 38624, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇯🇵 日本05（GPT专用） - CloudFox, server: jp05.x.woyh.xyz, port: 38625, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}
+- {name: 🇯🇵 日本06（GPT专用） - CloudFox, server: jp06.x.woyh.xyz, port: 38627, type: ss, cipher: chacha20-ietf-poly1305, password: cf25874b-2342-41d2-8ee6-5c9eaca44fe4, udp: true}

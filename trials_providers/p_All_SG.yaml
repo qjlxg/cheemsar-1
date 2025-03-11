@@ -1,0 +1,28 @@
+%YAML 1.1
+---
+proxies:
+- {name: '🇸🇬 [3x]IEPL专线 新加坡1 - KUGOU云', server: vip1.kugovip.xyz, port: 50114, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡2 - KUGOU云', server: vip1.kugovip.xyz, port: 50115, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [3x]IEPL专线 新加坡3 - KUGOU云', server: vip1.kugovip.xyz, port: 50110, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡1 - KUGOU云', server: xd1.kugovip.xyz, port: 18591, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [1x]CM 隧道 新加坡2 - KUGOU云', server: xd1.kugovip.xyz, port: 18589, type: vmess, uuid: 029d47d9-7ffd-4486-9492-fa63ecf32f5c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡1 - 光速云, server: h.cm.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: e009b9e4-0bc1-4a3f-a87a-29af53a486de, udp: true}
+- {name: 🇸🇬 新加坡2 - 光速云, server: h.ct.xiaomi-api.xyz, port: 19641, type: ss, cipher: chacha20-ietf-poly1305, password: e009b9e4-0bc1-4a3f-a87a-29af53a486de, udp: true}
+- {name: '🇸🇬 新加坡[02] - Heima', server: pop.09d21837-9b89-4490-92bf-eabf449e3321.heima360.cc, port: 443, type: trojan, password: 057b3d4a-e835-42a8-b694-d31911f2f18b, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡一 - LIME, server: 01.kjahbg.info, port: 30621, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇸🇬 新加坡二 - LIME, server: 02.kjahbg.info, port: 30622, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇸🇬 新加坡三 - LIME, server: 03.kjahbg.info, port: 30623, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇸🇬 新加坡四 - LIME, server: 04.kjahbg.info, port: 30624, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇸🇬 新加坡五 - LIME, server: 05.kjahbg.info, port: 30625, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇸🇬 新加坡六 - LIME, server: 06.kjahbg.info, port: 30626, type: ss, cipher: aes-128-gcm, password: 2f5f7586-9148-4922-9ca8-a66f8a952454, udp: true}
+- {name: 🇸🇬 中转•新加坡299•高速 - 飞翔吧, server: gy.58n.net, port: 20299, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡65•青铜 - 飞翔吧, server: gy.58n.net, port: 17806, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 中转•新加坡83•高速 - 飞翔吧, server: gy.58n.net, port: 30712, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速129•高速 - 飞翔吧, server: gy.58n.net, port: 20129, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡•高速130•铂金 - 飞翔吧, server: gy.58n.net, port: 20130, type: trojan, password: 24c23bcd-ce73-3a3b-9bb4-d9cf03c3e7fe, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡03 - uu加速首页, server: gy.tangu.win, port: 31640, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇸🇬 新加坡01 - uu加速首页, server: gy.tangu.win, port: 31636, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇸🇬 新加坡02 - uu加速首页, server: gy.tangu.win, port: 31738, type: ss, cipher: chacha20-ietf-poly1305, password: 586e4d17-9c1d-4b37-ba36-226291879d4f, udp: true}
+- {name: 🇸🇬 新加坡NO.1 - 大师专线, server: haa.dashuai.cyou, port: 45054, type: vmess, uuid: 5af7823c-d18b-4e33-81cc-2ea80aa84c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡NO.2 - 大师专线, server: xdd.dashuai.cyou, port: 45055, type: vmess, uuid: 5af7823c-d18b-4e33-81cc-2ea80aa84c0b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: '🇸🇬 [vip①]②新加坡 - MG Network', server: 17.mamamajd.site, port: 23617, type: vmess, uuid: b7be2a86-2b82-3f8e-b238-2ef6df001d3f, alterId: 2, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 17.mamamajd.site}}, udp: true}

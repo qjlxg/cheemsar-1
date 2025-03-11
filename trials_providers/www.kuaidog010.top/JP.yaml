@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 日本 - 快狗云, server: 1-osaka-p.aboutanime.eu.org, port: 23451, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /, headers: {Host: 1-osaka-p.aboutanime.eu.org}}, udp: true}
-- {name: 🇯🇵 日本 - 快狗云 2, server: visa.com, port: 443, type: vmess, uuid: 1445f010-746e-4e70-b0a8-49c0f367feaa, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xini.daluquan.top, network: ws, ws-opts: {path: /, headers: {Host: xini.daluquan.top}}, udp: true}
