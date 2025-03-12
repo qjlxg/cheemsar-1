@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 🇯🇵 JP000|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 54.168.236.31, port: 443, type: trojan, password: aca83797-1110-3ee7-b95a-9b57f527fa63, sni: cloudsync-prod.s3.amazonaws.com, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 JP001|低保慢速节点|升级详见官网套餐|永久官网地址 nova.live 需要翻墙 - NovaLive, server: 35.74.248.202, port: 443, type: trojan, password: aca83797-1110-3ee7-b95a-9b57f527fa63, sni: www.microsoft365.com, skip-cert-verify: true, udp: true}
