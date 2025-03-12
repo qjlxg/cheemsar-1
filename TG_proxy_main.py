@@ -1260,7 +1260,7 @@ def get_channel_http(url):
 
 #对bs64解密
 def jiemi_base64(data):  # 解密base64
-    # 对 Base64 编码后的字符串进行解码，得到字节字符串
+    # 对 Base64 编码后的字符串进行解码,得到字节字符串
     decoded_bytes = base64.b64decode(data)
     # 使用 chardet 库自动检测字节字符串的编码格式
     encoding = chardet.detect(decoded_bytes)['encoding']
@@ -1350,7 +1350,7 @@ def write_document():
         bas64 = '\n'.join(end_bas64_A).replace('\n\n', "\n").replace('\n\n', "\n").replace('\n\n', "\n")
         #试用去除多余换行符
         bas64_try = '\n'.join(end_try).replace('\n\n', "\n").replace('\n\n', "\n").replace('\n\n', "\n")
-        #获取时间，给文档命名用
+        #获取时间,给文档命名用
         t = time.localtime()
         date = time.strftime('%y%m', t)
         date_day = time.strftime('%y%m%d', t)
@@ -1373,7 +1373,7 @@ def write_document():
         for i in range(0, length, step):
             print("起",i,"始",i+step)
             zhengli = '\n'.join(end_bas64_A[i: i + step]).replace('\n\n', "\n").replace('\n\n', "\n").replace('\n\n', "\n")
-            #将获得的节点变成base64加密，为了长期订阅
+            #将获得的节点变成base64加密,为了长期订阅
             obj = base64.b64encode(zhengli.encode())
             plaintext_result = obj.decode()
             #写入长期订阅
