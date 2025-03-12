@@ -1,5 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: 'ℹ️ [公告] 无法上网请提交工单，付费套餐解锁更多节点 - V2Lnk', server: proclamation.aliyunsebu.xyz, port: 17133, type: vmess, uuid: 01525adb-0c8b-4240-a1ca-80f892bdbbf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: proclamation.aliyunsebu.xyz}}, udp: true}
-- {name: '[试用] 试用节点,新用户特惠 5元优惠  ,结算输入 2025 - V2Lnk', server: web3.aliyunsebu.xyz, port: 18600, type: vmess, uuid: 01525adb-0c8b-4240-a1ca-80f892bdbbf0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /Microsoft, headers: {Host: web3.aliyunsebu.xyz}}, udp: true}
