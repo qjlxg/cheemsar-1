@@ -99,7 +99,6 @@ home_urls =(
 'http://api.xn--14ra41gd24b.xyz',
 'http://best.momoxiaodian.cc',
 'http://c9k.buzz',
-http:/',
 'http://ciallo.elegy.icu:7001',
 'http://cloudupup.com',
 'http://csgo3.fask511.cfd:1588',
