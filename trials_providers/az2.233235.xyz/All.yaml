@@ -1,0 +1,15 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇦🇿 最新节点支持Hysteria2协议，请到官网下载最新客户端（最新官网az.170203.xyz） - AZ云, server: twjpzznew.564659.xyz, port: 19667, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾01直连 - AZ云, server: 2gzdx21.233235.xyz, port: 8909, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 2gzdx21.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾03直连 - AZ云, server: tw5.233235.xyz, port: 3421, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: tw5.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03直连 - AZ云, server: 1yunazyunjp03.564659.xyz, port: 11111, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04直连 - AZ云, server: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, port: 454, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 11461, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本04隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 24828, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunjp04f1cff6fb-5b3d-4d70-bd2a-a22eac74de31.233235.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 58273, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本03隧道1 - AZ云, server: twjpzz2.595780.xyz, port: 21750, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1yunazyunjp03.564659.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道快 - AZ云, server: twjpzznew.564659.xyz, port: 22252, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道4 - AZ云, server: twjpzz2.595780.xyz, port: 60562, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡01隧道5 - AZ云, server: twjpzz2.595780.xyz, port: 13855, tfo: true, type: trojan, password: 9b9773fd-8b14-437b-bf99-4797eb96eeeb, sni: 1azyunsg02b59642a6-326f-46e8-a174-5ae2f1948cc0.767887.xyz, skip-cert-verify: true, udp: true}

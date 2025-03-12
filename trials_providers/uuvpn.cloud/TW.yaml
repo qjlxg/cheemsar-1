@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇹🇼 台湾01 - uu加速首页, server: gy.tangu.win, port: 31632, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 314c942b-dd4b-4bd8-9313-5b331d0f5ebe, udp: true}
+- {name: 🇹🇼 台湾02-备用 - uu加速首页, server: qqa813.198139.xyz, port: 11123, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 314c942b-dd4b-4bd8-9313-5b331d0f5ebe, udp: true}

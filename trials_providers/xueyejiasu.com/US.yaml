@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0e27a3-3258-4693-9b43-9692d2722d02, udp: true}
-- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0e27a3-3258-4693-9b43-9692d2722d02, udp: true}
+- {name: 🇺🇸 美国 纽约01 - 血液加速器, server: gy.666666222.shop, port: 20013, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0e27a3-3258-4693-9b43-9692d2722d02, udp: true}
+- {name: 🇺🇸 美国 纽约2 - 血液加速器, server: gy.666666222.shop, port: 20016, tfo: true, type: ss, cipher: chacha20-ietf-poly1305, password: 4d0e27a3-3258-4693-9b43-9692d2722d02, udp: true}
