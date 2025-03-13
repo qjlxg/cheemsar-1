@@ -1,161 +1,506 @@
-[https://cm-sub.pz.pe]
-
-[https://hn1r5k7322.bitmusttw.com]
-name  Suda速达机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(jvdmkfq218@gmail.com): 'NoneType' object is not subscriptable
-
-[https://52pokemon.xz61.cn]
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(uvxfoucw581@xxxhi.cc): {'message': '邮箱后缀不处于白名单中', 'exception': 'Symfony\\Component\\HttpKernel\\Exception\\HttpException', 'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Application.php', 'line': 1134, 'trace': [{'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php', 'line': 44, 'function': 'abort', 'class': 'Illuminate\\Foundation\\Application', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Controllers/V1/Passport/CommController.php', 'line': 55, 'function': 'abort'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Controller.php', 'line': 54, 'function': 'sendEmailVerify', 'class': 'App\\Http\\Controllers\\V1\\Passport\\CommController', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php', 'line': 45, 'function': 'callAction', 'class': 'Illuminate\\Routing\\Controller', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 262, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\ControllerDispatcher', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 205, 'function': 'runController', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 721, 'function': 'run', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Routing\\{closure}', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php', 'line': 50, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Routing\\Middleware\\SubstituteBindings', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/Language.php', 'line': 15, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\Language', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/ForceJson.php', 'line': 20, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\ForceJson', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 723, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 698, 'function': 'runRouteWithinStack', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 662, 'function': 'runRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 651, 'function': 'dispatchToRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 167, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Foundation\\Http\\{closure}', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php', 'line': 31, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php', 'line': 40, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TrimStrings', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php', 'line': 27, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php', 'line': 86, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/fideloper/proxy/src/TrustProxies.php', 'line': 57, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Fideloper\\Proxy\\TrustProxies', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/UAfilter.php', 'line': 56, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\UAfilter', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/CORS.php', 'line': 18, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\CORS', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 142, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 111, 'function': 'sendRequestThroughRouter', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/public/index.php', 'line': 55, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}]}
-
-[https://fsc.jiediandingyuejiji.homes]
-
-[https://mc.jiedianxielou.workers.dev]
-
-[https://zjsub.gitpub.top]
-name  Mac2win
-type  v2board
-更新订阅链接/续费续签失败  注册失败(hwvtxbp782@gmail.com): 'NoneType' object is not subscriptable
-
-[https://pianyi.sub.sub.subsub123456789.com]
-
-[https://2381bfde-8c93-4701-8f14-24f]
-
 [https://sub123.71345.xyz]
-
-[https://cola.xn--chqu2nzsxv3y.com]
-api_host  www.baidu.com
-name  百度一下，你就知道
-type  v2board
-更新订阅链接/续费续签失败  注册失败(hlgbafmf458@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL /api/v1/passport/auth/register was not found on this server.</p>\n</body></html>\n')
-
-[https://088ea81a-3547-85e0-4af]
-
-[https://sub.feiji.ip-ddns]
-
-[https://ymzx.jiedianxielou.workers.dev]
-
-[https://pianyi.sub.sub.subsub]
-
-[https://xn--yetu3xij4b]
-
-[http://xby2.op-house.top]
-
-[https://cloud.xjyjc.top]
-buy  pass
-email  nmgjdiiyk857@gmail.com
-name  小金鱼
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=9b7a722906df9e4a4c74f1d3eae806f8
-time  2025-03-13 13:27:22.661583+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://linke.phantasy.life]
-
-[https://kcsub.vip/link]
-
-[https://zero.76898102.xyz]
-
-[https://088EA81A-3547-85E0-4AF]
-
-[https://kawaiifreevpn.pages.dev]
-
-[http://em7.buzz3]
-
-[https://1321078938-11mmjf3qkb-hk.scf]
-
-[https://aimanman.me]
-name  爱满满
-type  v2board
-更新订阅链接/续费续签失败  注册失败(bkoanitbi560@gmail.com): 'NoneType' object is not subscriptable
 
 [https://sub.cokecloud.world]
 buy  pass
-email  ieuhgroip225@gmail.com
+email  ghseotso865@gmail.com
 name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
 node_n  40
-sub_info  0B  1G  2025-03-13 14:27:24+08:00  (剩余 1G 0:59:51.931620)
-sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=746ea4603da3e7745dfe84578e355d25
-time  2025-03-13 13:27:26.141279+08:00
+sub_info  0B  1G  2025-03-13 18:47:44+08:00  (剩余 1G 0:59:51.371886)
+sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=a1402788d0424d0da9941116d3446137
+time  2025-03-13 17:47:44.782342+08:00
 type  v2board
-
-[https://yyds.emovpn.top]
-name  EMO
-type  v2board
-更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
-
-[https://45.137.181.197]
-banned_domains  lista.cc
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(imdcvnybs260@lista.cc)
-
-[https://d7b12d59-21aa]
 
 [https://s1.bnsubservdom.com]
 type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qsqenlmf631@linshiyou.com): {'message': '验证码有误'}
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [https://sub.372372.xyz]
-
-[https://b3b0549e-160e]
-
-[https://subscription-gov.lianjiasub.work]
-banned_domains  lista.cc
-name  廉价机场
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(jykdhqjsu294@lista.cc)
-
-[https://mlshu.xyz]
-
-[https://www.066664.xyz]
-name  行云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(rynefhegs733@gmail.com): 'NoneType' object is not subscriptable
-
-[https://wpjlzq00.xiaoliyusub.top:8443]
-
-[https://dlo3va.subxly.cfd]
-
-[http://filusdt.461553.best:1588]
-name  fil VPN机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(zvhtyddvg344@tmpeml.com): 邮箱后缀不处于白名单中
-
-[https://laosijicc.top]
-buy  pass
-email  xbveibem344@gmail.com
-name  老司机
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://laosijicc.top/lsj/vip/client/subscribe?token=adfbd8cef03d10fae39af24a9191259e
-time  2025-03-13 13:27:23.594692+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://b.bbydy.org]
-
-[https://speedx2net.postshup.ir]
-
-[https://mlshu.com]
-name  马铃薯
-type  v2board
-更新订阅链接/续费续签失败  注册失败(etfbmqzos393@gmail.com): 'NoneType' object is not subscriptable
-
-[https://xship.top]
-
-[https://yuxi.fanqiev2.work]
 
 [https://s1.byte33.com]
 
 [https://sub.eyujichang.com]
 buy  pass
-email  bfxcnzfha298@gmail.com
+email  lmjdwga396@gmail.com
 name  鳄鱼
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://user6672.eyudy.one/api/v1/client/subscribe?token=21ac50754941162217e5e8511742658d
-time  2025-03-13 13:27:23.657021+08:00
+sub_url  https://user7799.eyudy.one/api/v1/client/subscribe?token=fdf83d239063aa9d0a1b8e79f45727f9
+time  2025-03-13 17:47:44.324074+08:00
+type  v2board
+保存base64/clash订阅失败  while scanning for the next token found character '\t' that cannot start any token in "<byte string>", line 9, column 1: 	background: url('//d38psrni17bv ... ^ (line: 9)
+
+[https://server.fylink.link]
+
+[https://rss.paoluz.xyz]
+
+[https://rss2024.jkl-sub.com]
+
+[https://rss202407.mugua-sub.com]
+
+[https://rsslinghun1.xyz]
+
+[https://rss-node.com]
+
+[https://rxxqa.no-mad-world.club]
+
+[https://s.33y.run]
+
+[https://s.feisucloud.xyz]
+
+[https://s.hajimi.icu]
+
+[https://s.jiasu01.vip]
+buy  pass
+email  kciiiobc17@gmail.com
+sub_url  http://51.255.173.39/api/v1/client/subscribe?token=7e2d58949435bd5e204eca224116221f
+time  2025-03-13 17:47:36.620907+08:00
+type  v2board
+获取订阅失败  can only concatenate str (not "NoneType") to str
+
+[https://s.jockerchief.online]
+
+[https://s.kalaa.me]
+
+[https://s.kingarthor.online]
+
+[https://s.princeseed.online]
+
+[https://s.qzsub.live]
+name  轻舟
+type  v2board
+更新订阅链接/续费续签失败  注册失败(nqlbukx654@gmail.com): 'NoneType' object is not subscriptable
+
+[https://s.suying666.info]
+
+[https://s.youyun666.site]
+
+[https://s1.bnpublicsub.com]
+
+[https://s1.byte16.com]
+
+[https://s1.daxun-link.com:8888]
+
+[https://s1.iajsy.lol]
+
+[https://s2.equinoxaa.com]
+name  畅游无限
+type  v2board
+更新订阅链接/续费续签失败  注册失败(qwwnsmzd549@gmail.com): 本站已关闭注册
+
+[https://s2.sub.gfw.gg]
+
+[https://s6.ssysub1.xyz]
+
+[https://s7.sub.gfw.gg]
+
+[https://sakuracat1203.xn--3iq226gfdb94q.com]
+error  HTTPSConnectionPool(host='www.xn--3iq226gfdb94q.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fb1443efd90>, 'Connection to www.xn--3iq226gfdb94q.com timed out. (connect timeout=30)'))
+type  v2board
+更新订阅链接/续费续签失败  注册失败(tuwwrwc920@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\r\n<html lang="en">\r\n<head>\r\n <meta charset="UTF-8">\r\n <meta name="viewport" content="width=device-width, initial-scale=1.0">\r\n <title>502 Bad Gateway</title>\r\n <style>\r\n body {\r\n font-family: \'PingFang SC\', sans-serif;\r\n background-color: #f4f4f4;\r\n color: #333;\r\n padding: 10px;\r\n margin: 0;\r\n box-sizing: border-box;\r\n }\r\n .error-container {\r\n background-color: #fff;\r\n border-left: 5px solid #ff4757;\r\n padding: 15px;\r\n box-shadow: 0 2px 4px rgba(0,0,0,0.1);\r\n margin: 10px;\r\n box-sizing: border-box;\r\n }\r\n .error-title {\r\n color: #ff4757;\r\n font-size: 16px; /* slightly smaller font for mobile */\r\n }\r\n .error-content {\r\n margin-top: 10px;\r\n line-height: 1.6;\r\n }\r\n pre {\r\n background-color: #eee;\r\n padding: 10px;\r\n overflow-x: auto;\r\n white-space: pre-wrap; /* Wraps the text in pre tag */\r\n word-wrap: break-word;\r\n }\r\n @media (min-width: 600px) {\r\n body {\r\n padding: 20px;\r\n }\r\n .error-container {\r\n margin: 20px auto; /* Center the container in larger screens */\r\n max-width: 600px;\r\n }\r\n .error-title {\r\n font-size: 18px;\r\n }\r\n }\r\n </style>\r\n</head>\r\n<body>\r\n <div class="error-container">\r\n <div class="error-title">502 Bad Gateway</div>\r\n <div class="error-content">\r\n <pre>网页读取失败，原因：源站读取超时，请将错误ID发送给管理员</pre>\r\n <!-- 显示错误ID -->\r\n <p>错误ID 1741859360126691000004</p>\r\n </div>\r\n </div>\r\n</body>\r\n</html>')
+
+[https://sanguayun.jiumaojiu.net]
+
+[https://sb.swiftnet.cloud]
+
+[https://sbs.fastfly.life:21600]
+buy  pass
+email  sprpodh57@gmail.com
+name  FastFly
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://www.fastfly.sbs/api/v1/client/subscribe?token=4c12127b13419023c576a27c1139aeee
+time  2025-03-13 17:47:38.927575+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[https://server.fylink.link]
+[https://sbsqwzfgh.santoku.cn]
+
+[https://sdgvps.com]
+buy  pass
+email  ttmvozry685@gmail.com
+name  闪电狗加速器
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://sdgvp.com/api/v1/client/subscribe?token=91a236b424ded7a5900bca09b5e737e6
+time  2025-03-13 17:47:36.475530+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://service-69kfaex1-1312645837.bj.apigw.tencentcs.com]
+
+[https://service-6l9168iy-1312645837.gz.apigw.tencentcs.com]
+
+[https://service-avmn443l-1312645837.sh.apigw.tencentcs.com]
+
+[https://service-bmp1m9zg-1312645837.nj.apigw.tencentcs.com]
+
+[https://service-e6np5k91-1312645837.sh.apigw.tencentcs.com]
+
+[https://service-fy4hli0a-1312645837.nj.apigw.tencentcs.com]
+
+[https://service-jr6u1e7c-1323936013.hk.tencentapigw.cn]
+
+[https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com]
+
+[https://shiyuanyinian.passwallwall.world]
+
+[https://sinhvien4g.com]
+
+[https://sinsocloud.top]
+
+[https://smallairport-first-sub.top]
+
+[https://snangua.com]
+name  三瓜云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(cnavukyw617@gmail.com): 'NoneType' object is not subscriptable
+
+[https://soonlink.xn--wqr30o34q.xn--io0a7i]
+name  瞬连
+type  v2board
+更新订阅链接/续费续签失败  注册失败(wgbqowodu665@gmail.com): 'NoneType' object is not subscriptable
+
+[https://speedx2net.postshup.ir:2096]
+
+[https://spr.278986.xyz]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://sq9xy6.cpminig.com]
+name  Suda速达机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(jmdcelsti203@gmail.com): 'NoneType' object is not subscriptable
+
+[https://ss.81dlg.com]
+
+[https://ss.cft.my]
+
+[https://ss.hxcq.cc]
+
+[https://ss.suyunti.cc]
+
+[https://sss.xn--4gqt91ntld.space]
+
+[https://ssvpn.org]
+name  SSVPN
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(vqnrpmmqc524@tmail.ws): {'message': '邮箱后缀不处于白名单中'}
+
+[https://starlinkcloud.club]
+name  星链云
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://starlinkcloud.xyz]
+name  星链云
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://st-sub.fly.dev]
+
+[https://study.jaycloud11111.top]
+
+[https://study1.v1999.sbs]
+
+[https://su.hhbggy.com:8888]
+
+[https://su.xfjhchr.com:8888]
+
+[https://sub.19993999.xyz]
+
+[https://sub.200566.xyz]
+
+[https://sub.591haoka.com]
+
+[https://sub.abcdefghijklmnopqrstuvwxyz1234567890.xyz]
+name  FlyBit
+type  v2board
+更新订阅链接/续费续签失败  注册失败(yeufdkf859@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.alice.sale]
+
+[https://sub.andaofu.xyz]
+
+[https://sub.bailian.site]
+
+[https://sub.bbjc.xyz]
+
+[https://sub.bxy.org.uk]
+
+[https://sub.cdcloud.mingri.icu]
+
+[https://sub.cfnode.shop]
+
+[https://sub.chasing.sbs:21600]
+buy  pass
+email  qmuwgivk722@gmail.com
+name  追云加速
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://qwertyuioasd.qnegx.cn/api/v1/client/subscribe?token=83a636ae83921c1adb85bfe898d6cf28
+time  2025-03-13 17:47:45.892097+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://sub.cjcloud.cc]
+
+[https://sub.cloudlion.me]
+
+[https://sub.cloudog.us.kg]
+
+[https://sub.coo.ga]
+name  COO
+type  v2board
+更新订阅链接/续费续签失败  注册失败(mjnrubms271@pastryofistanbul.com): 邮箱后缀不处于白名单中
+
+[https://sub.dawanqukun.top]
+
+[https://sub.daxun-link.top]
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+
+[https://sub.domiw.com]
+
+[https://sub.feiji.ddns-ip.net]
+
+[https://sub.feiji.ip-ddns.com]
+
+[https://sub.fnf.one]
+name  Foo&Friends.
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(knysbqdc466@gmail.com): 系统无法接受您的验证结果，请刷新页面后重试。
+
+[https://sub.fnf.xyz]
+
+[https://sub.gomeow.online]
+
+[https://sub.gougou.live]
+
+[https://sub.hktix.net]
+
+[https://sub.jileiyun.top]
+
+[https://sub.jileiyun.us.kg]
+
+[https://sub.kaolacloud.site]
+
+[https://sub.lingche.icu]
+name  瓷煽机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(otppknyts265@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.lzyjc.xyz]
+
+[https://sub.marsix.cc]
+
+[https://sub.mianfeiyun.online]
+
+[https://sub.miaolianyun.vip]
+
+[https://sub.miaosusub.cfd]
+
+[https://sub.miku.llc]
+
+[https://sub.minizz.online]
+
+[https://sub.mogufan.com]
+
+[https://sub.netv2.cc]
+
+[https://sub.nex7.us.kg]
+
+[https://sub.no626.link]
+
+[https://sub.nodeup.top]
+
+[https://sub.nysubs.xyz]
+
+[https://sub.onlineweb.work]
+
+[https://sub.ouoboom.xyz]
+buy  pass
+email  gzqzahxyv251@gmail.com
+error  <string>:2 Unexpected "a" at column 7
+sub_url  https://sub.ouoboom.xyz/api/v1/client/subscribe?token=dc5e46391b1060f30ed879b43b254031
+time  2025-03-13 17:47:42.850261+08:00
+type  v2board
+获取订阅失败  can only concatenate str (not "NoneType") to str
+
+[https://sub.passgfw.top]
+
+[https://sub.pddf.shop]
+
+[https://sub.pianyi.info]
+
+[https://sub.pianyijichang.com]
+
+[https://sub.qingfengyun.icu]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(riplhbe894@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.sanfen014.xyz]
+
+[https://sub.sanfen017.xyz]
+api_host  ww38.sub.sanfen017.xyz
+error  <string>:2 Unexpected "u" at column 14
+type  v2board
+更新订阅链接/续费续签失败  注册失败(znzlidv616@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (403 Forbidden '<html>\r\n<head><title>403 Forbidden</title></head>\r\n<body>\r\n<center><h1>403 Forbidden</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+
+[https://sub.sanfen018.xyz]
+name  Site is created successfully!
+type  v2board
+更新订阅链接/续费续签失败  注册失败(zvotyeknk949@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.sanfen021.xyz]
+name  Site is created successfully!
+type  v2board
+更新订阅链接/续费续签失败  注册失败(yeagyfo706@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.sanqianlijinxiuheshan.us.kg]
+
+[https://sub.sheepcloud.xyz]
+
+[https://sub.speed17sub.com]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(oyxvirza701@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.sqfly.site]
+
+[https://sub.sslinks.co.in]
+
+[https://sub.ssr.sh]
+
+[https://sub.tangping.cloud]
+
+[https://sub.tgzdyz2.xyz]
+
+[https://sub.tianmaojichang.us.kg]
+
+[https://sub.tku2.com]
+
+[https://sub.tuanzi.site]
+
+[https://sub.tuanzi.xyz]
+
+[https://sub.tudou213.com]
+
+[https://sub.vpntz.com]
+
+[https://sub.vvcloud.us.kg]
+
+[https://sub.wordvlog.link]
+
+[https://sub.wukong.bond]
+
+[https://sub.xiaomf.store]
+name  小蜜蜂机场
+type  sspanel
+更新订阅链接/续费续签失败  注册失败(npsexensq497@gmail.com): 请点击按钮进行验证
+
+[https://sub.xinyo.vip]
+name  星遇.Next
+type  v2board
+更新订阅链接/续费续签失败  注册失败(fgjvczute927@jkd.tmmad.com): 邮箱后缀不处于白名单中
+
+[https://sub.xn--14ra41gd24b.xyz]
+name  嘎嘎机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(fuyegwaxk366@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.xn--2vxn29amga.com]
+
+[https://sub.xn--4gq62ffxz.net]
+
+[https://sub.xn--4gq62fv6r4w0c.com]
+
+[https://sub.xn--4gqp1u.com]
+
+[https://sub.xn--9kqt24a0kz.com]
+
+[https://sub.xn--9kqu5y58a.com]
+
+[https://sub.xn--ioru3fc2t1hb.com]
+
+[https://sub.xn--mesv7f5toqlp.com]
+
+[https://sub.xn--wlqw2sc0nwqq.com]
+
+[https://sub.xunlian.site]
+
+[https://sub.yifenjichang.online]
+
+[https://sub.yiri.dev]
+
+[https://sub.yslink.cc]
+name  Welcome to OpenResty!
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(sfyslyrz213@disbox.net): {'message': '验证码有误'}
+
+[https://sub.yspeeds.uk]
+name  Welcome to OpenResty!
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qlogadmds954@wfes.site): {'message': '验证码有误'}
+
+[https://sub.yun.cat]
+
+[https://su-b.yun.cat]
+
+[https://sub.yz006.xyz]
+banned_domains  snapmail.cc
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ysuodteyd322@snapmail.cc)
+
+[https://sub.yztcloud.moe]
+
+[https://sub.zingfast.vn]
+buy  pass
+email  hotmytow674@gmail.com
+name  ZINGFAST VPN
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://sub.zingfast.vn/api/v1/client/subscribe?token=a4a08efc0b8f6b2e7fcb638c1b22e052
+time  2025-03-13 17:47:49.122282+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://sub-01.767564.xyz]
+
+[https://sub01.jishu168.xyz]
+
+[https://sub1.bbjc.xyz]
+
+[https://sub1.efshop.cc]
+
+[https://sub1.jiatelin.cyou]
+
+[https://sub1.ktyyun.com]
+name  快通
+type  sspanel
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+
+[https://sub1.liangxinjichang.com]
+
+[https://sub1.smallstrawberry.com]
+
+[https://sub1.tg-mfjd666.cloudns.be]
+
+[https://sub1.timeneverchanges.com]
+
+[https://sub1.twoyuanfun.online]
+
+[https://sub1.xn--mesv7f5toqlp.com]
+
+[https://sub123.71345.xyz/api/v]
+
+[https://sub2.591haoka.com]
+
+[https://sub2.91qaq.lol]
+
+[https://sub2.bighneko.top]
+name  Hneko云
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
+
+[https://sub2.download-hiccup.xyz]
+
+[https://sub2.smallstrawberry.com]
+
+[https://sub2.yunanyun.xyz]
+
+[https://sub3.bbjc.xyz]
