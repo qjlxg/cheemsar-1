@@ -1287,7 +1287,7 @@ def get_channel_http(url):
     headers = {
         'sec-ch-ua': '".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
         'Accept': 'application/json, text/javascript, */*; q=0.01',
-        'Referer': ''https://t.me/s/oneclickvpnkeys',
+        'Referer': '',
         'X-Requested-With': 'XMLHttpRequest',
         'sec-ch-ua-mobile': '?0',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36',
