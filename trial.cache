@@ -1,1 +1,161 @@
-[jiasuba.xyz]
+[https://cm-sub.pz.pe]
+
+[https://hn1r5k7322.bitmusttw.com]
+name  Suda速达机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(jvdmkfq218@gmail.com): 'NoneType' object is not subscriptable
+
+[https://52pokemon.xz61.cn]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(uvxfoucw581@xxxhi.cc): {'message': '邮箱后缀不处于白名单中', 'exception': 'Symfony\\Component\\HttpKernel\\Exception\\HttpException', 'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Application.php', 'line': 1134, 'trace': [{'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php', 'line': 44, 'function': 'abort', 'class': 'Illuminate\\Foundation\\Application', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Controllers/V1/Passport/CommController.php', 'line': 55, 'function': 'abort'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Controller.php', 'line': 54, 'function': 'sendEmailVerify', 'class': 'App\\Http\\Controllers\\V1\\Passport\\CommController', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php', 'line': 45, 'function': 'callAction', 'class': 'Illuminate\\Routing\\Controller', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 262, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\ControllerDispatcher', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Route.php', 'line': 205, 'function': 'runController', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 721, 'function': 'run', 'class': 'Illuminate\\Routing\\Route', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Routing\\{closure}', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Middleware/SubstituteBindings.php', 'line': 50, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Routing\\Middleware\\SubstituteBindings', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/Language.php', 'line': 15, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\Language', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/ForceJson.php', 'line': 20, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\ForceJson', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 723, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 698, 'function': 'runRouteWithinStack', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 662, 'function': 'runRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Routing/Router.php', 'line': 651, 'function': 'dispatchToRoute', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 167, 'function': 'dispatch', 'class': 'Illuminate\\Routing\\Router', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 128, 'function': 'Illuminate\\Foundation\\Http\\{closure}', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ConvertEmptyStringsToNull.php', 'line': 31, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ConvertEmptyStringsToNull', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php', 'line': 21, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TrimStrings.php', 'line': 40, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\TrimStrings', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php', 'line': 27, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/PreventRequestsDuringMaintenance.php', 'line': 86, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Middleware\\PreventRequestsDuringMaintenance', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/fideloper/proxy/src/TrustProxies.php', 'line': 57, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'Fideloper\\Proxy\\TrustProxies', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/UAfilter.php', 'line': 56, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\UAfilter', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/app/Http/Middleware/CORS.php', 'line': 18, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 167, 'function': 'handle', 'class': 'App\\Http\\Middleware\\CORS', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php', 'line': 103, 'function': 'Illuminate\\Pipeline\\{closure}', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 142, 'function': 'then', 'class': 'Illuminate\\Pipeline\\Pipeline', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php', 'line': 111, 'function': 'sendRequestThroughRouter', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}, {'file': '/www/wwwroot/52pokemon/public/index.php', 'line': 55, 'function': 'handle', 'class': 'Illuminate\\Foundation\\Http\\Kernel', 'type': '->'}]}
+
+[https://fsc.jiediandingyuejiji.homes]
+
+[https://mc.jiedianxielou.workers.dev]
+
+[https://zjsub.gitpub.top]
+name  Mac2win
+type  v2board
+更新订阅链接/续费续签失败  注册失败(hwvtxbp782@gmail.com): 'NoneType' object is not subscriptable
+
+[https://pianyi.sub.sub.subsub123456789.com]
+
+[https://2381bfde-8c93-4701-8f14-24f]
+
+[https://sub123.71345.xyz]
+
+[https://cola.xn--chqu2nzsxv3y.com]
+api_host  www.baidu.com
+name  百度一下，你就知道
+type  v2board
+更新订阅链接/续费续签失败  注册失败(hlgbafmf458@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL /api/v1/passport/auth/register was not found on this server.</p>\n</body></html>\n')
+
+[https://088ea81a-3547-85e0-4af]
+
+[https://sub.feiji.ip-ddns]
+
+[https://ymzx.jiedianxielou.workers.dev]
+
+[https://pianyi.sub.sub.subsub]
+
+[https://xn--yetu3xij4b]
+
+[http://xby2.op-house.top]
+
+[https://cloud.xjyjc.top]
+buy  pass
+email  nmgjdiiyk857@gmail.com
+name  小金鱼
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=9b7a722906df9e4a4c74f1d3eae806f8
+time  2025-03-13 13:27:22.661583+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://linke.phantasy.life]
+
+[https://kcsub.vip/link]
+
+[https://zero.76898102.xyz]
+
+[https://088EA81A-3547-85E0-4AF]
+
+[https://kawaiifreevpn.pages.dev]
+
+[http://em7.buzz3]
+
+[https://1321078938-11mmjf3qkb-hk.scf]
+
+[https://aimanman.me]
+name  爱满满
+type  v2board
+更新订阅链接/续费续签失败  注册失败(bkoanitbi560@gmail.com): 'NoneType' object is not subscriptable
+
+[https://sub.cokecloud.world]
+buy  pass
+email  ieuhgroip225@gmail.com
+name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
+node_n  40
+sub_info  0B  1G  2025-03-13 14:27:24+08:00  (剩余 1G 0:59:51.931620)
+sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=746ea4603da3e7745dfe84578e355d25
+time  2025-03-13 13:27:26.141279+08:00
+type  v2board
+
+[https://yyds.emovpn.top]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://45.137.181.197]
+banned_domains  lista.cc
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(imdcvnybs260@lista.cc)
+
+[https://d7b12d59-21aa]
+
+[https://s1.bnsubservdom.com]
+type  v2board
+更新订阅链接/续费续签失败  发送邮箱验证码失败(qsqenlmf631@linshiyou.com): {'message': '验证码有误'}
+
+[https://sub.372372.xyz]
+
+[https://b3b0549e-160e]
+
+[https://subscription-gov.lianjiasub.work]
+banned_domains  lista.cc
+name  廉价机场
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(jykdhqjsu294@lista.cc)
+
+[https://mlshu.xyz]
+
+[https://www.066664.xyz]
+name  行云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(rynefhegs733@gmail.com): 'NoneType' object is not subscriptable
+
+[https://wpjlzq00.xiaoliyusub.top:8443]
+
+[https://dlo3va.subxly.cfd]
+
+[http://filusdt.461553.best:1588]
+name  fil VPN机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(zvhtyddvg344@tmpeml.com): 邮箱后缀不处于白名单中
+
+[https://laosijicc.top]
+buy  pass
+email  xbveibem344@gmail.com
+name  老司机
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://laosijicc.top/lsj/vip/client/subscribe?token=adfbd8cef03d10fae39af24a9191259e
+time  2025-03-13 13:27:23.594692+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://b.bbydy.org]
+
+[https://speedx2net.postshup.ir]
+
+[https://mlshu.com]
+name  马铃薯
+type  v2board
+更新订阅链接/续费续签失败  注册失败(etfbmqzos393@gmail.com): 'NoneType' object is not subscriptable
+
+[https://xship.top]
+
+[https://yuxi.fanqiev2.work]
+
+[https://s1.byte33.com]
+
+[https://sub.eyujichang.com]
+buy  pass
+email  bfxcnzfha298@gmail.com
+name  鳄鱼
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://user6672.eyudy.one/api/v1/client/subscribe?token=21ac50754941162217e5e8511742658d
+time  2025-03-13 13:27:23.657021+08:00
+type  v2board
+保存base64/clash订阅失败  'NoneType' object is not iterable
+
+[https://server.fylink.link]
