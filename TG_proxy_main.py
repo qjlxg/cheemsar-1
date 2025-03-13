@@ -52,10 +52,9 @@ home_urls =(
 'https://s1.bnsubservdom.com',
 'https://sub.372372.xyz',
 'https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz',
-'https://ch.cukug.website',
+
 'https://www.066664.xyz',
-'https://ch.vfkum.website',
-'https://ch.louwangzhiyu.xyz',
+
 'https://wpjlzq00.xiaoliyusub.top:8443',
 'https://dlo3va.subxly.cfd:8443',
 'http://filusdt.461553.best:1588',
@@ -64,7 +63,7 @@ home_urls =(
 'https://ts.xship.top',
 'https://subscription-gov.lianjiasub.work',
 'https://yuxi.fanqiev2.work',
-'https://ch.owokkvsxks.store',
+
 'https://s1.byte33.com',
 'https://sub.eyujichang.com',
 'https://server.fylink.link',
@@ -252,7 +251,7 @@ home_urls =(
 'https://aaa.us123.icu',
 'https://aaa.yunduanjc.top',
 'https://aaaa.gay',
-'https://ab.dabai.in',
+
 'https://abyssvpnya.net',
 'https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz',
 'https://ac59a7cd-11af-3e35-a098-b785688ec627.aliyunsub.com',
@@ -325,7 +324,7 @@ home_urls =(
 'https://app.legeth.cc',
 'https://app.lwjyj.com',
 'https://app.tline.website',
-'https://aq.louwangzhiyu.xyz',
+
 'https://artislg.com',
 'https://artislg.com/api',
 'https://asa.lol',
