@@ -1,4 +1,4 @@
-# w1770946466 北慕白  'https://github.com/w1770946466/Auto_proxy
+# w1770946466 北慕白  https://github.com/w1770946466/Auto_proxy
 # v2ray_collecto
 # coding=utf-8
 import base64
@@ -15,6 +15,7 @@ import chardet
 
 #试用机场链接
 home_urls =(
+
 'https://cm-sub.pz.pe',
 'https://hn1r5k7322.bitmusttw.com',
 'https://52pokemon.xz61.cn',
@@ -50,14 +51,11 @@ home_urls =(
 'https://sub.372372.xyz',
 'https://api.liltjay.ip-ddns.com',
 'https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz',
-'https://ch.cukug.website',
 'https://mlshu.xyz',
 'https://www.066664.xyz',
 'https://www.flyintpro05.com',
 'https://mlshu.com',
-'https://ch.vfkum.website',
 'https://wpjlzq00.xiaoliyusub.top:8443',
-'https://ch.louwangzhiyu.xyz',
 'https://speedx2net.postshup.ir:2096',
 'https://dlo3va.subxly.cfd:8443',
 'http://filusdt.461553.best:1588',
@@ -65,7 +63,6 @@ home_urls =(
 'https://b.bbydy.org',
 'https://xship.top',
 'https://yuxi.fanqiev2.work',
-'https://ch.owokkvsxks.store',
 'https://s1.byte33.com',
 'https://sub.eyujichang.com',
 'https://qq.xlm.plus',
@@ -262,7 +259,6 @@ home_urls =(
 'https://aaa.us123.icu',
 'https://aaa.yunduanjc.top',
 'https://aaaa.gay',
-'https://ab.dabai.in',
 'https://abyssvpnya.net',
 'https://ac1f3b35-1d03-3a85-beab-258d8f23edc6.nginxdotu.xyz',
 'https://ac59a7cd-11af-3e35-a098-b785688ec627.aliyunsub.com',
@@ -339,7 +335,6 @@ home_urls =(
 'https://app.legeth.cc',
 'https://app.lwjyj.com',
 'https://app.tline.website',
-'https://aq.louwangzhiyu.xyz',
 'https://artislg.com',
 'https://asa.lol',
 'https://asa01.888545.xyz',
@@ -468,8 +463,6 @@ home_urls =(
 'https://dj.taipeicity.news',
 'https://djjc.cfd',
 'https://dkcc71fg830ah.cloudfront.net',
-'https://dl.owokkvsxks.store',
-'https://dl.vfkum.website',
 'https://doata.net',
 'https://doucat.top',
 'https://douyun.sbs',
@@ -1049,7 +1042,6 @@ home_urls =(
 'https://tugeda.xyz',
 'https://tuzi226.top',
 'https://tv.modemhub.work',
-'https://tz.vfkum.website',
 'https://u4dqz2t0x576.syynweb.shop',
 'https://update.dotusub.xyz',
 'https://update.glados-config.com',
@@ -1081,7 +1073,6 @@ home_urls =(
 'https://vot.981176.xyz',
 'https://vpn.linuxdo.pro',
 'https://vpn6688.com',
-'https://vt.louwangzhiyu.xyz',
 'https://vtwoc1.top',
 'https://vtwoc3.top',
 'https://vyyy.vyunyunnode.top',
@@ -1135,7 +1126,6 @@ home_urls =(
 'https://www.cloudshops.xyz',
 'https://www.crosswall.org',
 'https://www.cwy-water.us.kg',
-'https://www.dabai.in',
 'https://www.dma.icu',
 'https://www.elinksapi.com',
 'https://www.fdzdk.xyz',
@@ -1151,7 +1141,6 @@ home_urls =(
 'https://www.lbxjc.online',
 'https://www.liangyuandian.at',
 'https://www.liangyuandian.life',
-'https://www.louwangzhiyu.xyz',
 'https://www.m2net.cc',
 'https://www.m2net.lol',
 'https://www.miyun.me',
@@ -1254,9 +1243,7 @@ home_urls =(
 'https://zlxz.80jm.com',
 'https://zouma.guanhua.xyz',
 'https://zqjc.org',
-
-
- )
+)
 #文件路径
 update_path = "./sub/"
 #所有的clash订阅链接
@@ -1287,7 +1274,7 @@ def get_channel_http(url):
     headers = {
         'sec-ch-ua': '".Not/A)Brand";v="99", "Google Chrome";v="103", "Chromium";v="103"',
         'Accept': 'application/json, text/javascript, */*; q=0.01',
-        'Referer': '',
+        'Referer': 'https://t.me/s/oneclickvpnkeys',
         'X-Requested-With': 'XMLHttpRequest',
         'sec-ch-ua-mobile': '?0',
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36',
@@ -1305,7 +1292,7 @@ def get_channel_http(url):
 
 #对bs64解密
 def jiemi_base64(data):  # 解密base64
-    # 对 Base64 编码后的字符串进行解码,得到字节字符串
+    # 对 Base64 编码后的字符串进行解码，得到字节字符串
     decoded_bytes = base64.b64decode(data)
     # 使用 chardet 库自动检测字节字符串的编码格式
     encoding = chardet.detect(decoded_bytes)['encoding']
@@ -1395,7 +1382,7 @@ def write_document():
         bas64 = '\n'.join(end_bas64_A).replace('\n\n', "\n").replace('\n\n', "\n").replace('\n\n', "\n")
         #试用去除多余换行符
         bas64_try = '\n'.join(end_try).replace('\n\n', "\n").replace('\n\n', "\n").replace('\n\n', "\n")
-        #获取时间,给文档命名用
+        #获取时间，给文档命名用
         t = time.localtime()
         date = time.strftime('%y%m', t)
         date_day = time.strftime('%y%m%d', t)
@@ -1418,7 +1405,7 @@ def write_document():
         for i in range(0, length, step):
             print("起",i,"始",i+step)
             zhengli = '\n'.join(end_bas64_A[i: i + step]).replace('\n\n', "\n").replace('\n\n', "\n").replace('\n\n', "\n")
-            #将获得的节点变成base64加密,为了长期订阅
+            #将获得的节点变成base64加密，为了长期订阅
             obj = base64.b64encode(zhengli.encode())
             plaintext_result = obj.decode()
             #写入长期订阅
@@ -1443,34 +1430,34 @@ def write_document():
         TimeDate = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')
         for index in range(len(lines)):
             try:
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription_num`\n':
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription_num`\n':
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {length}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription1`\n':
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription1`\n':
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription2`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription2`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription3`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription3`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription4`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription4`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription5`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription5`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription6`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription6`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription7`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription7`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {step}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription8`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription8`\n': # 目标行内容
                     lines.pop(index+1)
                     lines.insert(index+1, f'`Total number of merge nodes: {length-step*7}`\n')
-                if lines[index] == ''https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`\n': # 目标行内容
+                if lines[index] == '`https://raw.bgithub.xyz/w1770946466/Auto_proxy/main/Long_term_subscription3.yaml`\n': # 目标行内容
                     lines.pop(index+4)
                     lines.pop(index+4)
                     lines.insert(index+4, f'Updata：`{TimeDate}`\n')
@@ -1596,8 +1583,8 @@ def get_kkzui():
     # ========== 抓取 kkzui.com 的节点 ==========
     try:
         headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53"}
-        res = requests.get("'https://kkzui.com/jd?orderby=modified",headers=headers)
-        article_url = re.search(r'<h2 class="item-heading"><a href="('https://kkzui.com/(.*?)\.html)"',res.text).groups()[0]
+        res = requests.get("https://kkzui.com/jd?orderby=modified",headers=headers)
+        article_url = re.search(r'<h2 class="item-heading"><a href="(https://kkzui.com/(.*?)\.html)"',res.text).groups()[0]
         #print(article_url)
         res = requests.get(article_url,headers=headers)
         sub_url = re.search(r'<p><strong>这是v2订阅地址</strong>：(.*?)</p>',res.text).groups()[0]
@@ -1608,7 +1595,7 @@ def get_kkzui():
         print("获取kkzui.com失败！")
     try:
         headers = {"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.53"}
-        res = requests.get("'https://www.cfmem.com/search/label/free",headers=headers)
+        res = requests.get("https://www.cfmem.com/search/label/free",headers=headers)
         article_url = re.search(r"https?://www\.cfmem\.com/\d{4}/\d{2}/\S+v2rayclash-vpn.html",res.text).group()
         #print(article_url)
         res = requests.get(article_url,headers=headers)
