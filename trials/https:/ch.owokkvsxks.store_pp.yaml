@@ -21,16 +21,14 @@ proxy-groups:
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id001
-  - 🇭🇰 中国-香港-F3-001 - 漏网之鱼
-  - 🇺🇸 美国-纽约-F3-001 - 漏网之鱼
-  - 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼
+  use: &id001
+  - HK
+  - US
+  - Other
 - name: 👆🏻 ‍指定
   type: select
-  proxies: *id001
+  use: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -69,38 +67,56 @@ proxy-groups:
   - 💩 ‍广告
 - name: 🇭🇰 ‍香港
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 100
-  proxies: &id002
-  - 🇭🇰 中国-香港-F3-001 - 漏网之鱼
+  use: &id002
+  - HK
 - name: 🇺🇸 ‍美国
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 15
   tolerance: 300
-  proxies: &id003
-  - 🇺🇸 美国-纽约-F3-001 - 漏网之鱼
+  use: &id003
+  - US
 - name: 🎏 ‍其他
   type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
   tolerance: 100
-  proxies: &id004
-  - 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼
+  use: &id004
+  - Other
 - name: 👆🏻🇭🇰 ‍香港
   type: select
-  proxies: *id002
+  use: *id002
 - name: 👆🏻🇺🇸 ‍美国
   type: select
-  proxies: *id003
+  use: *id003
 - name: 👆🏻🎏 ‍其他
   type: select
-  proxies: *id004
-proxies:
-- {name: 🇭🇰 中国-香港-F3-001 - 漏网之鱼, server: 212.192.13.68, port: 23012, type: vmess, uuid: 75993a84-7332-4548-a52f-8e9b7b2aba98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇺🇸 美国-纽约-F3-001 - 漏网之鱼, server: 207.90.237.96, port: 23008, type: vmess, uuid: 75993a84-7332-4548-a52f-8e9b7b2aba98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼, server: 185.22.152.236, port: 23012, type: vmess, uuid: 75993a84-7332-4548-a52f-8e9b7b2aba98, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+  use: *id004
+proxy-providers:
+  HK:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/https://ch.owokkvsxks.store/HK.yaml
+    interval: 180
+    path: trials_providers/https://ch.owokkvsxks.store/HK.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  US:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/https://ch.owokkvsxks.store/US.yaml
+    interval: 180
+    path: trials_providers/https://ch.owokkvsxks.store/US.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
+  Other:
+    type: http
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/https://ch.owokkvsxks.store/Other.yaml
+    interval: 180
+    path: trials_providers/https://ch.owokkvsxks.store/Other.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
