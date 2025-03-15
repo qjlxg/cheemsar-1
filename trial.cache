@@ -1,88 +1,201 @@
-[zhenxunkeai.top]
-auto_invite  F
-buy  pass
-email  kkyvumu894@gmail.com
-last_checkin  2025-03-14 15:18:18.583923+08:00
-name  WB云
-sub_url  https://wbb.wbcloud.xyz/link/9Zkk6Elhqq9EdaBu?sub=3
-time  2025-03-14 15:18:20.159632+08:00
-type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
+[https://aicccc.top]
 
-[a1.8jiasu.com]
-buy  pass
-email  tqmyfxzda937@gmail.com
-sub_url  https://5.44.251.106/api/v1/client/subscribe?token=cc80190981d9bbf7eb844e725bc0600c
-time  2025-03-14 15:18:18.135916+08:00
+[https://aifun.trafficmanager.net]
+
+[https://aigame.totwo.xyz]
+name  To2＆自留地 🏆
 type  v2board
-获取订阅失败  can only concatenate str (not "NoneType") to str
+更新订阅链接/续费续签失败  发送邮箱验证码失败(udvjjtzez353@disbox.org): {'message': '验证码有误'}
 
-[1run.vip]
+[https://aimanman.me]
+name  爱满满
+type  v2board
+更新订阅链接/续费续签失败  注册失败(exxgpdj253@gmail.com): 'NoneType' object is not subscriptable
+
+[https://aini.200566.xyz]
+
+[https://aiosjhdy.forbit-api.boats]
+
+[https://air.nicetive.site]
+
+[https://airport.raloar.top]
+
+[https://alpha.sagittarius-link.com]
+
+[https://alvless.filegear-sg.me]
+
+[https://ap.niaodi.top]
+
+[https://ap.niubi.site]
+
+[https://api-hx.02000.net]
+name  紅杏.co
+type  v2board
+更新订阅链接/续费续签失败  注册失败(kesdrvnij801@moakt.ws): 邮箱后缀不处于白名单中
+
+[https://api-qw.02000.net]
+banned_domains  qwer.usphms.shop
+name  Bluetile.biz
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(gitgoobs672@qwer.usphms.shop)
+
+[https://api-zz.xn--14ra41gd24b.xyz]
+
+[https://api.1vpn.sbs]
+
+[https://api.abyssyun.top]
+
+[https://api.acaisbest.shop]
+
+[https://api.e687699.top]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://api.e986532.top]
+name  EMO
+type  v2board
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
+
+[https://api.fanss.vip]
+
+[https://api.fenghuolun.xyz]
+
+[https://api.fuckvps.net]
 buy  pass
-email  geionmjrk783@bccto.cc
-name  
-sub_info  0B  0B  2025-03-15 15:18:22+08:00  (剩余 0B 23:59:49.618226)
-sub_url  https://www.tiziwrops.com/api/v1/client/subscribe?token=d19eeb466b4ec316bc8278b9468708b0
-time  2025-03-14 15:18:23.370768+08:00
+email  drbjfcmpa820@gmail.com
+name  超实惠机场
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  https://cshjc.xz61.cn/api/v1/client/subscribe?token=d591de77766ca4c01b5b21b213c0fc26
+time  2025-03-15 20:39:10.586166+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[huojian.02000.net]
-name  火箭cloud
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"odbjnipys968@lyx13.xyz","success":"false"}'
+[https://api.fuckyun.cc]
 
-[jisu3.02000.net]
-name  疾速cloud
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xdzraquq802@gghh.yhbnb.asia","success":"false"}'
-
-[25054128.xyz]
+[https://api.heima2u.com]
 buy  pass
-email  hbjejyd705@gmail.com
-name  虚幻加速
-sub_info  0B  2G  2025-03-15 15:18:16+08:00  (剩余 2G 23:59:55.503619)
-sub_url  https://sub1.pingboy.top/api/v1/client/subscribe?token=ec36a9aedb79768cccd8c9530bbaef83
-time  2025-03-14 15:18:17.560651+08:00
-type  v2board
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
-
-[yexiaowork.fmvp.al]
-buy  pass
-email  ejeqgaqnw432@gmail.com
-name  夜宵机场
-sub_url  https://yexiaowork.fmvp.al/s/04366dcfaa6ae8ca8251935827914b29
-time  2025-03-14 15:18:19.729932+08:00
-type  v2board
-获取订阅失败  (https://yexiaowork.fmvp.al/s/04366dcfaa6ae8ca8251935827914b29): 500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n <head>\n <meta charset="utf-8">\n <meta name="viewport" content="width=device-width, initial-scale=1">\n\n <title>Server Error</title>\n\n <style>\n /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\\:rounded-lg{border-radius:.5rem}.sm\\:block{display:block}.sm\\:items-center{align-items:center}.sm\\:justify-start{justify-content:flex-start}.sm\\:justify-between{justify-content:space-between}.sm\\:h-20{height:5rem}.sm\\:ml-0{margin-left:0}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:pt-0{padding-top:0}.sm\\:text-left{text-align:left}.sm\\:text-right{text-align:right}}@media (min-width:768px){.md\\:border-t-0{border-top-width:0}.md\\:border-l{border-left-width:1px}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}\n </style>\n\n <style>\n body {\n font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";\n }\n </style>\n </head>\n <body class="antialiased">\n <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">\n <div class="max-w-xl mx-auto sm:px-6 lg:px-8">\n <div class="flex items-center pt-8 sm:justify-start sm:pt-0">\n <div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">\n 500 </div>\n\n <div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">\n Call to undefined method App\\Protocols\\V2rayNG::getFlags() </div>\n </div>\n </div>\n </div>\n </body>\n</html>\n'
-
-[api.heima2u.com]
-buy  pass
-email  tpqutnf675@gmail.com
+email  iruflbk671@gmail.com
 name  Heima
-sub_info  0B  5G  2025-03-15 15:18:17+08:00  (剩余 5G 23:59:57.728169)
-sub_url  https://api.heima2u.com/api/v1/client/subscribe?token=eb558c2fcd909fcdc1a859d57eb85168
-time  2025-03-14 15:18:17.623894+08:00
+node_n  19
+sub_info  0B  5G  2025-03-16 20:39:10+08:00  (剩余 5G 23:59:55.506253)
+sub_url  https://api.heima2u.com/api/v1/client/subscribe?token=8a6249650dc206535f5f81deaa652eab
+time  2025-03-15 20:39:11.333527+08:00
 type  v2board
-保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: string indices must be integers
 
-[qingyun.zybs.eu.org]
+[https://api.hy2.lol]
+
+[https://api.ktcat.online]
+
+[https://api.liltjay.ip-ddns.com]
+
+[https://api.nutbit-node.lat]
+
+[https://api.pithecia.com]
+
+[https://api.prprcloud.life]
+
+[https://api.ssrsub.com]
+
+[https://api.touhou.center]
+
+[https://api.tshl.cc]
+
+[https://api.xinyo.vip]
+name  星遇.Next
+type  v2board
+更新订阅链接/续费续签失败  注册失败(egkcfew581@disbox.org): 邮箱后缀不处于白名单中
+
+[https://api.xn--14ra41gd24b.xyz]
+name  嘎嘎机场
+type  v2board
+更新订阅链接/续费续签失败  注册失败(mwmubtcr144@gmail.com): 'NoneType' object is not subscriptable
+
+[https://api.xn--y20az5i.xyz]
+
+[https://api.xn--yfr72t8r4bvhd.xyz]
+
+[https://api.xqc.best]
+
+[https://api.xtt777.com]
+
+[https://api.xyurl.site]
+name  行云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(ekahyegl290@gmail.com): 'NoneType' object is not subscriptable
+
+[https://api.zzzzzl.me]
+
+[https://api03.cjpaoche.xyz]
+
+[https://api1.441166.xyz]
+
+[https://api1.danidapigu.top]
+
+[https://api1.fzdwf.top]
+type  v2board
+更新订阅链接/续费续签失败  注册失败(goqnnuovs100@gmail.com): 'NoneType' object is not subscriptable
+
+[https://api1.okaycloud.top]
+
+[https://api1.xn--bnq37rc0nw50b.com]
+
+[https://api2.mbo-xxx.top]
+
+[https://api2.okaycloud.top]
+
+[https://api2.xn--bnq37rc0nw50b.com]
+
+[https://api3.6yuan.top]
+
+[https://api7.6yuan.top]
+
+[https://apiceshi.51alibaba.top]
+
+[https://apidy.pqjc.site]
+
+[https://apisub.mcwy.xyz]
+
+[https://apisudunw.sudunv.com]
+banned_domains  wfes.site
+name  sd.258.cyou截图收藏网站
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(yskltntii644@wfes.site)
+
+[https://apiv2.lemongg.top]
+
+[https://apiv2.lipulai.com]
+
+[https://apopcloud.com]
+
+[https://app.cloudlion.me]
+name  新狮云
+type  v2board
+更新订阅链接/续费续签失败  注册失败(xorjmjde991@gmail.com): 'NoneType' object is not subscriptable
+
+[https://app.gomeow.cloud]
+
+[https://app.tline.website]
+
+[https://aq.louwangzhiyu.xyz]
 buy  period=month_price&plan_id=1
-email  gpsmmnr260@gmail.com
-name  青云互联网-
-sub_info  0B  50G  2025-04-22 03:18:17+08:00  (剩余 50G 38 days, 11:59:57.388343)
-sub_url  https://qingyun.xn--kiv657b9vdeu1a.com/api/v1/client/subscribe?token=7a48dd2441a7210eab62c5a03361c265
-time  2025-03-14 15:18:18.516910+08:00
+email  krsdqvlr741@gmail.com
+name  漏网之鱼
+node_n  9
+sub_info  0B  1000G  2025-04-15 20:39:15+08:00  (剩余 1000G 30 days, 23:59:54.171776)
+sub_url  https://ch.owokkvsxks.store/api/v1/client/subscribe?token=5477628cc555f3d40b37ee6c004fc2a2
+time  2025-03-15 20:39:16.093026+08:00
 type  v2board
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
 
-[www.f2ray.com]
-buy  pass
-email  slxnqyb223@disbox.net
-name  F2ray
-sub_info  0B  10G  2025-03-21 15:18:39+08:00  (剩余 10G 6 days, 23:59:58.564587)
-sub_url  https://www.f2ray.com/api/v1/client/subscribe?token=fa50a4e76cc1a03ad3575cd60dd0695d
-time  2025-03-14 15:18:39.737949+08:00
+[https://artislg.com]
+
+[https://asa.lol]
+name  ASA加速器
 type  v2board
-保存base64/clash订阅失败  string indices must be integers
+更新订阅链接/续费续签失败  注册失败(ehippbg969@gmail.com): 'NoneType' object is not subscriptable
+
+[https://asa01.888545.xyz]
+
+[https://asa035.888545.xyz]
+
+[https://asdf.888545.xyz]
