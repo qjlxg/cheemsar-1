@@ -1027,35 +1027,30 @@ class TempEmail:
                 self.__th.start()
         return queue.get()
 
-    def __run(self): 
-    while True:
-        sleep(1)  # 必须缩进4空格（或与上下文一致）
-        try:
-            messages = self.__session.get_messages()
-        except Exception as e:
-            messages = []
-            print(f'TempEmail.__run: {e}')
-        with self.__lock:
-            new_len = 0
-            for item in self.__queues:
-                keyword, queue, end_time = item
-                # 过滤无效消息
-                valid_messages = [
-                    msg for msg in messages 
-                    if isinstance(msg, str)  # 确保消息是字符串
-                ]
-                for message in valid_messages:  # 仅处理有效消息
-                    if keyword in message:
-                        m = re_email_code.search(message)
-                        queue.put(m[1] if m else m)
-                        break
-                else:
-                    if time() > end_time:
-                        queue.put(None)
+    def __run(self):
+        while True:
+            sleep(1)
+            try:
+                messages = self.__session.get_messages()
+            except Exception as e:
+                messages = []
+                print(f'TempEmail.__run: {e}')
+            with self.__lock:
+                new_len = 0
+                for item in self.__queues:
+                    keyword, queue, end_time = item
+                    for message in messages:
+                        if keyword in message:
+                            m = re_email_code.search(message)
+                            queue.put(m[1] if m else m)
+                            break
                     else:
-                        self.__queues[new_len] = item
-                        new_len += 1
-            del self.__queues[new_len:]
-            if new_len == 0:
-                del self.__th
-                break
+                        if time() > end_time:
+                            queue.put(None)
+                        else:
+                            self.__queues[new_len] = item
+                            new_len += 1
+                del self.__queues[new_len:]
+                if new_len == 0:
+                    del self.__th
+                    break
