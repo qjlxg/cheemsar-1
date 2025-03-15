@@ -1028,7 +1028,7 @@ class TempEmail:
         return queue.get()
 
     def __run(self):
-    while True:
+        while True:
         sleep(1)
         try:
             messages = self.__session.get_messages()
