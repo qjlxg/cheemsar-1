@@ -301,7 +301,7 @@ home_urls =(
 'https://asa01.888545.xyz',
 'https://asa035.888545.xyz',
 'https://asdf.888545.xyz',
-'https://auth.newlikebooks.xyz',
+
 'https://awacloud.online',
 'https://b.bbydy.org',
 'https://b.jiedianxielou.workers.dev',
