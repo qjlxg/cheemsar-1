@@ -1027,9 +1027,9 @@ class TempEmail:
                 self.__th.start()
         return queue.get()
 
-    def __run(self):
-        while True:
-        sleep(1)
+    def __run(self): 
+    while True:
+        sleep(1)  # 必须缩进4空格（或与上下文一致）
         try:
             messages = self.__session.get_messages()
         except Exception as e:
