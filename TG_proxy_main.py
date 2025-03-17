@@ -15,7 +15,6 @@ import chardet
 
 #试用机场链接
 home_urls =(
-
 'https://artislg.com',
 'https://artyun.top',
 'https://as.saururus.ink',
@@ -43,7 +42,6 @@ home_urls =(
 'https://base64.bigwatermelon.org',
 'https://bav46z6c.nicecloud.win:8443',
 'https://bava8u2znaj6bdzzjnfb.wgetcloud.online',
-'https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org',
 'https://bb.aliyun.best',
 'https://bb.jmvks.cn',
 'https://bb.xn--pzypc.store',
@@ -103,7 +101,6 @@ home_urls =(
 'https://cfcloud.cyou',
 'https://cfyun.top',
 'https://cfyun01.sbs',
-
 'https://changding.link',
 'https://chaozhijc.xyz',
 'https://checkhere.top',
