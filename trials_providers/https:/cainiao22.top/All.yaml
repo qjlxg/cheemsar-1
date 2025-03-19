@@ -1,0 +1,41 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 建议有事没事都更新订阅 - 菜鸟机场, server: cainiao999.top, port: 6666, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇭🇰 香港中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54016, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇭🇰 香港中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19946, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇭🇰 香港中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 54804, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇭🇰 香港中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 50815, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇭🇰 香港中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 19055, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇯🇵 日本中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 41473, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇯🇵 日本中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 25578, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇯🇵 日本中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 49821, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇯🇵 日本中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 39886, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇯🇵 日本中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 16542, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇼 台湾中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 50555, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇼 台湾中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 25710, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇼 台湾中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 41512, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇼 台湾中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 40780, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇼 台湾中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 47695, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇸🇬 新加坡中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 26867, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇸🇬 新加坡中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 13127, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇸🇬 新加坡中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 37958, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇸🇬 新加坡中转✈04 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 47639, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇸🇬 新加坡中转✈05 - 菜鸟机场, server: chiyu2.myfczy169.top, port: 57141, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇺🇸 美国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 13489, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇺🇸 美国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19161, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇺🇸 美国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 50563, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇬🇧 英国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 26480, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇬🇧 英国中转✈02 - 菜鸟机场, server: chiyu.myfczy169.top, port: 19115, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇬🇧 英国中转✈03 - 菜鸟机场, server: chiyu.myfczy169.top, port: 57329, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇭 泰国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20289, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇻🇳 越南中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21071, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇮🇳 印度中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21061, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇲🇾 马来西亚中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20119, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇦🇪 阿联酋中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21059, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇹🇷 土耳其中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21048, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 哈撒哈斯坦中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21081, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇸🇪 瑞典中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 22539, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇧🇷 巴西中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 20936, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: 🇩🇪 德国中转✈01 - 菜鸟机场, server: chiyu.myfczy169.top, port: 21091, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
+- {name: ♡⃝♡⃝♡⃝♡⃝♡⃝ ◡̈下方为备用节点 - 菜鸟机场, server: cainiao999.top, port: 8888, type: ss, cipher: chacha20-ietf-poly1305, password: 25f7fe43-1281-4307-bed5-d024b05beab4, udp: true}
