@@ -1,4 +1,0 @@
-%YAML 1.1
----
-proxies:
-- {name: '🇹🇼 台湾[01]中转 - Heima', server: vip.baima360.com, port: 41004, type: ss, cipher: chacha20-ietf-poly1305, password: 39acdc4b-bb54-4f28-88c1-65ffce7764c2, udp: true}
