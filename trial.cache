@@ -1,127 +1,89 @@
-[http://Fragment.com]
-api_host  fragment.com
-name  Fragment
-type  v2board
-更新订阅链接/续费续签失败  注册失败(gwibbylft592@gmail.com): {'error': 'Bad request'}
+[https://ucat.live]
 
-[http://fragment.com]
-api_host  fragment.com
-name  Fragment
+[https://my.emovpns.top]
+name  EMO
 type  v2board
-更新订阅链接/续费续签失败  注册失败(vkvshna673@gmail.com): {'error': 'Bad request'}
+更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
 
-[http://bamabin.lol]
-api_host  bamabin.com
-name  بامابین - دانلود فیلم و سریال بدون سانسور با زیرنویس فارسی چسبیده
+[https://vol.6128888.xyz]
+name  梵社☁️
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xulwxyb568@gmail.com): Invalid URL Or Method
+更新订阅链接/续费续签失败  注册失败(hpmkcga399@gmail.com): 'NoneType' object is not subscriptable
 
-[http://8.218.4.55]
-name  Bonk On Base
+[https://57dea681-95e1-4f00-8807-302677474a89.38944.xyz]
+
+[https://fast.sudatech.store]
+name  Suda速达机场
 type  v2board
-更新订阅链接/续费续签失败  注册失败(yqefqvsb189@gmail.com): {'msg': 'Please log in again', 'code': 401}
+更新订阅链接/续费续签失败  注册失败(nikxiel780@gmail.com): 'NoneType' object is not subscriptable
 
-[https://glados.space]
-name
-type  v2board
-更新订阅链接/续费续签失败  注册失败(inkprejx880@gmail.com): 没有权限
-
-[https://panel.keleofficial.com]
-name  🥤
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(qhgljnv709@questtechsystems.com): {'message': '验证码有误'}
-
-[https://a02.qytvipaff.pro]
-email  ljrddwljf34@gmail.com
-type  v2board
-更新订阅链接/续费续签失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK '<!DOCTYPE html>\r\n<html lang="zh-CN">\r\n<head>\r\n <meta charset="UTF-8">\r\n <title>访问提示</title>\r\n <style>\r\n body {\r\n font-family: Arial, sans-serif;\r\n background-color: #f0f0f0;\r\n display: flex;\r\n justify-content: center;\r\n align-items: center;\r\n height: 100vh;\r\n margin: 0;\r\n }\r\n .container {\r\n background-color: #ffffff;\r\n padding: 40px;\r\n border-radius: 8px;\r\n box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);\r\n text-align: center;\r\n }\r\n h1 {\r\n color: #333333;\r\n }\r\n p {\r\n color: #555555;\r\n margin: 20px 0;\r\n }\r\n a.button {\r\n display: inline-block;\r\n padding: 12px 24px;\r\n background-color: #007BFF;\r\n color: #ffffff;\r\n text-decoration: none;\r\n border-radius: 4px;\r\n transition: background-color 0.3s ease;\r\n }\r\n a.button:hover {\r\n background-color: #0056b3;\r\n }\r\n </style>\r\n</head>\r\n<body>\r\n <div class="container">\r\n <h1>欢迎访问！</h1>\r\n <p>要打开网站，请点击下方按钮。</p>\r\n <a href="https://qytnody.qingyunti.cc" class="button">点击前往官网</a>\r\n </div>\r\n</body>\r\n</html>\r\n')
-
-[https://fengwo.pro]
+[https://www.kuaidog010.top]
 buy  pass
-email  qaislnc876@gmail.com
-name  加入蜂窝-享受成功人生
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fengwo.vfbhg.cn/api/v1/client/subscribe?token=fe8f7be11aa093fe7efbc5d0a735e347
-time  2025-03-22 08:38:25.523543+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://a.kpyun.live]
-buy  pass
-email  dctjykpz889@gmail.com
-name  Kepa云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://s5.8878.tech/api/v1/client/subscribe?token=47a169f58f83208ebebdbaccb58c9ec6
-time  2025-03-22 08:38:25.797136+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[https://巅峰机场.com]
-name  巅峰机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(shnblzp411@gmail.com): 'NoneType' object is not subscriptable
-
-[https://优惠机场.com]
-name  优惠机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ymziczdvk493@gmail.com): 'NoneType' object is not subscriptable
-
-[https://hssl8088.icu]
-name  灰 色 网 络
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(jgcqrtjje743@moakt.ws): {'message': '验证码有误'}
-
-[https://aimanman.me]
-name  爱满满
-type  v2board
-更新订阅链接/续费续签失败  注册失败(vqrujjsj740@gmail.com): 'NoneType' object is not subscriptable
-
-[https://snangua.com]
-name  三瓜云
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ysrsfcvz50@gmail.com): 'NoneType' object is not subscriptable
-
-[https://便宜机场.co]
-name  便宜机场
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(ithaqpn952@linshiyou.com): {'message': '验证码有误'}
-
-[https://yunduanjc.top]
-name  云端
-type  v2board
-更新订阅链接/续费续签失败  注册失败(jcrbhmrv172@gmail.com): 'NoneType' object is not subscriptable
-
-[https://changyouvpn.top]
-name  畅游
-type  v2board
-更新订阅链接/续费续签失败  注册失败(ehgeljxdf430@gmail.com): 'NoneType' object is not subscriptable
-
-[https://xn--wtq35pfyd55o.co]
-name  便宜机场
-type  v2board
-更新订阅链接/续费续签失败  发送邮箱验证码失败(xlfguli889@51788.top): {'message': '验证码有误'}
-
-[https://xn--4oq11ryli3rg.com]
-name  优惠机场
-type  v2board
-更新订阅链接/续费续签失败  注册失败(tjlobqcj993@gmail.com): 'NoneType' object is not subscriptable
-
-[https://www.kuaidog006.top]
-buy  pass
-email  omxjrdx781@gmail.com
+email  lieuomk396@gmail.com
 name  快狗云
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=37b7d5ea28bcaff527381419f96f3f94
-time  2025-03-22 08:38:22.737614+08:00
+sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=3c059940f367ba2899a13295e2dd5e34
+time  2025-03-22 13:38:45.560840+08:00
+type  v2board
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)
+
+[https://my.mgcores.com]
+buy  pass
+email  jjdrzmh795@gmail.com
+name  星连
+node_n  15
+sub_info  0B  10G  2025-03-29 13:38:44+08:00  (剩余 10G 6 days, 23:59:56.904054)
+sub_url  https://gotocdn.tencentagi.com/apiv2/user/sub?token=a6a1f874fe3a94cff17e426fd252b54b
+time  2025-03-22 13:38:44.799757+08:00
+type  v2board
+
+[https://www.xfxssr.me]
+email  przrorur198@gmail.com
+name  小飞侠SSR,世界触手可及
+type  v2board
+更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
+
+[https://we7.moe]
+
+[http://feigou.zhunchuanpb.com]
+buy  pass
+email  vxaffbr238@gmail.com
+sub_url  http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=70270e4b8a34dcffdac80b57fb8b296a
+time  2025-03-22 13:38:48.740804+08:00
+type  v2board
+获取订阅失败  can only concatenate str (not "NoneType") to str
+
+[https://xc1.shishi1.buzz]
+buy  pass
+email  ekbpzhhk500@gmail.com
+name  大师专线
+node_n  28
+sub_info  0B  2G  2025-03-22 17:38:46+08:00  (剩余 2G 3:59:54.535657)
+sub_url  https://terfghtll.dashuai.us/api/v1/client/subscribe?token=081bf0352703e61e0e76e470fc355a7f
+time  2025-03-22 13:38:48.264698+08:00
+type  v2board
+
+[https://node.feigou.xyz]
+buy  pass
+email  elzkhgdtv351@gmail.com
+name  FG 🐶
+sub_info  0B  0B  永不过期  (剩余 0B)
+sub_url  http://feigou.zhunchuanpb.com/api/v1/client/subscribe?token=3bbfea888de327673d0e7cb9359c067d
+time  2025-03-22 13:38:44.554543+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
-[https://cloud.gougou.live]
-name  🚀优速Cloud
+[https://a1.allbluess.pro]
+error  substring not found
 type  v2board
-更新订阅链接/续费续签失败  注册失败(daopzvch593@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(ifugnvpsr788@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found 'Not Found')
 
-[https://五分机场.live]
-name  五分机场
+[https://c3.tolinkss.pro]
+error  substring not found
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dsxvlhem75@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(wyhwxhbb832@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found 'Not Found')
+
+[https://b1.mikasass.pro]
+error  substring not found
+type  v2board
+更新订阅链接/续费续签失败  注册失败(hwuvjjitt507@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found 'Not Found')

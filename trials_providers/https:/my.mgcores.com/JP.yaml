@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇯🇵 IEPL|日本01 - 星连, server: jp01.dns-node.top, port: 45612, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇯🇵 IEPL|日本02 - 星连, server: jp01.dns-node.top, port: 45613, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}

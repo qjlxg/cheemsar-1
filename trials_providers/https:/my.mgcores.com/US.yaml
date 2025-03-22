@@ -1,0 +1,5 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇺🇸 IEPL|美国01 - 星连, server: us01.dns-node.top, port: 45581, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇺🇸 IEPL|美国02 - 星连, server: us02.dns-node.top, port: 45582, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
