@@ -1,4 +1,4 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇬🇧 IEPL|英国01 - 星连, server: uk01.dns-node.top, port: 45615, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇬🇧 IEPL|英国01 - 星连, server: uk01.dns-node.top, port: 45615, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}

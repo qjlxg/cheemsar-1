@@ -1,5 +1,5 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇹🇼 IEPL|台湾01 - 星连, server: tw01.dns-node.top, port: 45571, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇹🇼 IEPL|台湾02 - 星连, server: tw02.dns-node.top, port: 45614, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇹🇼 IEPL|台湾01 - 星连, server: tw01.dns-node.top, port: 45571, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇹🇼 IEPL|台湾02 - 星连, server: tw02.dns-node.top, port: 45614, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}

@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇸🇬 IEPL|新加坡01 - 星连, server: sg01.dns-node.top, port: 45572, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇸🇬 IEPL|新加坡02 - 星连, server: sg02.dns-node.top, port: 45574, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇸🇬 IEPL|新加坡03 - 星连, server: sg03.dns-node.top, port: 45606, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇸🇬 IEPL|新加坡04 - 星连, server: sg04.dns-node.top, port: 45609, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇸🇬 IEPL|新加坡01 - 星连, server: sg01.dns-node.top, port: 45572, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇸🇬 IEPL|新加坡02 - 星连, server: sg02.dns-node.top, port: 45574, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇸🇬 IEPL|新加坡03 - 星连, server: sg03.dns-node.top, port: 45606, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇸🇬 IEPL|新加坡04 - 星连, server: sg04.dns-node.top, port: 45609, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
