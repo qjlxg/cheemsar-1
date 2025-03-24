@@ -1,7 +1,7 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇭🇰 IEPL|香港01HKT - 星连, server: hkg01.dns-node.top, port: 45573, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇭🇰 IEPL|香港02 - 星连, server: hkg02.dns-node.top, port: 45570, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇭🇰 IEPL|香港03 - 星连, server: hkg03.dns-node.top, port: 45580, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
-- {name: 🇭🇰 IEPL|香港04 - 星连, server: hkg04.dns-node.top, port: 45605, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇭🇰 IEPL|香港01HKT - 星连, server: hkg01.dns-node.top, port: 45573, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇭🇰 IEPL|香港02 - 星连, server: hkg02.dns-node.top, port: 45570, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇭🇰 IEPL|香港03 - 星连, server: hkg03.dns-node.top, port: 45580, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
+- {name: 🇭🇰 IEPL|香港04 - 星连, server: hkg04.dns-node.top, port: 45605, tfo: true, type: ss, cipher: aes-128-gcm, password: 4ea70d85-597d-4344-8662-8483340413ee, udp: true}
