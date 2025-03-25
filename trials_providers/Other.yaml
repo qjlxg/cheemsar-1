@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 最新网址xingoogle1.cc - 新谷歌, server: freen.san95.xyz, port: 41503, type: vmess, uuid: df5b6c5a-0b94-3722-a0dd-1c54f5f4af4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: freen.san95.xyz, udp: true}
+- {name: 🇬🇧 英UK24|2x - 新谷歌, server: n24.xingoooogle.xyz, port: 41524, type: vmess, uuid: df5b6c5a-0b94-3722-a0dd-1c54f5f4af4f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: xingoogle.com, udp: true}
+- {name: '[1]› VNPT - VPN Panel', server: dns.zenpn.com, port: 443, type: trojan, password: 8c47a1da-9520-43b0-9808-91b17c9263ac, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '🇹🇱 [2]› sing TLS - VPN Panel', server: 15.235.142.32, port: 443, type: trojan, password: 8c47a1da-9520-43b0-9808-91b17c9263ac, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '[3]› SING 2 - VPN Panel', server: 146.190.94.237, port: 443, type: trojan, password: 8c47a1da-9520-43b0-9808-91b17c9263ac, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '🇹🇱 [4]› VPN PRO 1 TLS - VPN Panel', server: 103.232.120.151, port: 443, type: trojan, password: 8c47a1da-9520-43b0-9808-91b17c9263ac, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '[5]› VPN PRO 2 - VPN Panel', server: 160.30.45.47, port: 443, type: vmess, uuid: 8c47a1da-9520-43b0-9808-91b17c9263ac, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /d2, headers: {Host: csapp.catch.net.tw}}, udp: true}
+- {name: '[6]› VPN PRO 3 - VPN Panel', server: 160.30.45.47, port: 443, type: vmess, uuid: 8c47a1da-9520-43b0-9808-91b17c9263ac, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /443d2, headers: {Host: csapp.catch.net.tw}}, udp: true}
+- {name: '[7]› Server 1 - VPN Panel', server: tw1.zenpn.com, port: 443, type: trojan, password: 8c47a1da-9520-43b0-9808-91b17c9263ac, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '[8]› Server 2 - VPN Panel', server: twdns1.zenpn.com, port: 443, type: trojan, password: 8c47a1da-9520-43b0-9808-91b17c9263ac, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: 🇩🇪 德国01_免费 - 山海, server: de01.sh-cloudflare.sbs, port: 8443, type: vmess, uuid: 93342ce6-dfb5-46f8-8371-e815a0dec08a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: de01.sh-cloudflare.sbs, network: ws, ws-opts: {path: /, headers: {Host: de01.sh-cloudflare.sbs}}, udp: true}
