@@ -1,8 +1,8 @@
 %YAML 1.1
 ---
 proxies:
-- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.72, port: 20026, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 141.195.112.53, port: 20026, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇩🇪 德国-法兰克福-001 - 漏网之鱼, server: 5.39.252.72, port: 20027, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇨🇦 加拿大-多伦多-001 - 漏网之鱼, server: 50.114.177.96, port: 20027, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇷🇺 俄罗斯-莫斯科-F1-001 - 漏网之鱼, server: 176.32.35.148, port: 21026, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
-- {name: 🇷🇺 俄罗斯-莫斯科-F2-001 - 漏网之鱼, server: 46.17.43.122, port: 22026, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
+- {name: 🇷🇺 俄罗斯-莫斯科-F2-001 - 漏网之鱼, server: 46.17.43.122, port: 22027, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
 - {name: 🇷🇺 俄罗斯-莫斯科-F3-001 - 漏网之鱼, server: 195.133.5.127, port: 23026, type: vmess, uuid: 642a2057-70b5-4b0c-8341-f929aff61a41, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-opts: {path: /}, udp: true}
