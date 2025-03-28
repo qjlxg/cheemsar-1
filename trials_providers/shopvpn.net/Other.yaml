@@ -1,0 +1,11 @@
+%YAML 1.1
+---
+proxies:
+- {name: '[1]› VNPT - VPN Panel', server: dns.zenpn.com, port: 443, type: trojan, password: 06b2a45d-7c5a-4173-ada3-030540ee152d, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '🇹🇱 [2]› sing TLS - VPN Panel', server: 15.235.142.32, port: 443, type: trojan, password: 06b2a45d-7c5a-4173-ada3-030540ee152d, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '[3]› SING 2 - VPN Panel', server: 146.190.94.237, port: 443, type: trojan, password: 06b2a45d-7c5a-4173-ada3-030540ee152d, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '🇹🇱 [4]› VPN PRO 1 TLS - VPN Panel', server: 103.232.120.151, port: 443, type: trojan, password: 06b2a45d-7c5a-4173-ada3-030540ee152d, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '[5]› VPN PRO 2 - VPN Panel', server: 160.30.45.47, port: 443, type: vmess, uuid: 06b2a45d-7c5a-4173-ada3-030540ee152d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /d2, headers: {Host: csapp.catch.net.tw}}, udp: true}
+- {name: '[6]› VPN PRO 3 - VPN Panel', server: 160.30.45.47, port: 443, type: vmess, uuid: 06b2a45d-7c5a-4173-ada3-030540ee152d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /443d2, headers: {Host: csapp.catch.net.tw}}, udp: true}
+- {name: '[7]› Server 1 - VPN Panel', server: tw1.zenpn.com, port: 443, type: trojan, password: 06b2a45d-7c5a-4173-ada3-030540ee152d, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}
+- {name: '[8]› Server 2 - VPN Panel', server: twdns1.zenpn.com, port: 443, type: trojan, password: 06b2a45d-7c5a-4173-ada3-030540ee152d, sni: csapp.catch.net.tw, skip-cert-verify: true, udp: true}

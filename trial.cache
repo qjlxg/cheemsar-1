@@ -1,193 +1,17 @@
-[http://51.255.173.39]
-buy  pass
-email  yrmysxw292@gmail.com
-name  Bingo加速
-node_n  39
-sub_info  0B  5G  2025-03-28 01:52:49+08:00  (剩余 5G 5:59:52.585388)
-sub_url  http://51.255.173.39/api/v1/client/subscribe?token=d4d5d0e32f2fa98cf00a22e186388114
-time  2025-03-27 19:52:50.278975+08:00
-type  v2board
-
-[https://sub1.pingboy.top]
-buy  pass
-email  odubctq212@gmail.com
-name  虚幻加速
-node_n  9
-sub_info  0B  2G  2025-03-28 09:17:18+08:00  (剩余 2G 13:24:36.929759)
-sub_url  https://sub1.pingboy.top/api/v1/client/subscribe?token=55609cb0bd559bd6331bd298fd8ebad5
-time  2025-03-27 09:17:19.065514+08:00
-type  v2board
-
-[https://5.44.251.106]
-buy  pass
-email  enrhmyc642@gmail.com
-sub_url  https://5.44.251.106/api/v1/client/subscribe?token=ec3ecad08689375121e685a96ba105ca
-time  2025-03-25 15:27:08.424267+08:00
-type  v2board
-更新旧订阅失败  can only concatenate str (not "NoneType") to str
-
-[https://supz1.6128888.xyz]
-name  梵社☁️
-type  v2board
-更新订阅链接/续费续签失败  注册失败(nqmkyso708@gmail.com): 'NoneType' object is not subscriptable
-
-[https://xqsub.e54.site]
-buy  period=onetime_price&plan_id=2
-email  pjqajtzra346@gmail.com
-sub_url  https://xqsub.e54.site/api/v1/client/subscribe?token=dd87c1fa9baae4c65e6dde78b208af0f
-time  2025-03-25 15:27:07.813955+08:00
-type  v2board
-更新旧订阅失败  can only concatenate str (not "NoneType") to str
-
-[https://cola.xn--chqu2nzsxv3y.com]
-api_host  www.baidu.com
-name  百度一下，你就知道
-type  v2board
-更新订阅链接/续费续签失败  注册失败(lzjjqjhj296@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">\n<html><head>\n<title>404 Not Found</title>\n</head><body>\n<h1>Not Found</h1>\n<p>The requested URL /api/v1/passport/auth/register was not found on this server.</p>\n</body></html>\n')
-
-[https://api.heima2u.com]
-buy  pass
-email  nmhzqqe725@gmail.com
-name  Heima
-node_n  18
-sub_info  0B  5G  2025-03-28 09:17:18+08:00  (剩余 5G 13:24:35.464431)
-sub_url  https://api.heima2u.com/api/v1/client/subscribe?token=80879046dd56602427b452168815980f
-time  2025-03-27 09:17:18.613889+08:00
-type  v2board
-
-[http://sub.kjdjakskl.cyou]
-buy  pass
-email  cxrdmvzjx791@gmail.com
-name  血液加速器
-node_n  12
-sub_info  0B  1G  2025-03-28 19:52:40+08:00  (剩余 1G 23:59:55.731859)
-sub_url  http://sub.kjdjakskl.cyou/api/v1/client/subscribe?token=241d8c349660c6d5b7f3eb86adc91005
-time  2025-03-27 19:52:41.765503+08:00
-type  v2board
-
-[https://terfghtll.dashuai.us]
-buy  pass
-email  gsojrqjus810@gmail.com
-name  大师专线
-node_n  28
-sub_info  0B  2G  2025-03-27 23:52:41+08:00  (剩余 2G 3:59:55.009499)
-sub_url  https://terfghtll.dashuai.us/api/v1/client/subscribe?token=dd59db764e4f8d0902e8324b1e7043ea
-time  2025-03-27 19:52:43.753449+08:00
-type  v2board
-
-[http://subssr.xfxvpn.me]
-email  qwduubigw154@gmail.com
-type  v2board
-更新订阅链接/续费续签失败  {'message': '未登录或登陆已过期'}
-
-[https://sub.cokecloud.world]
-buy  pass
-email  srwallg772@gmail.com
-name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
-node_n  40
-sub_info  0B  1G  2025-03-27 20:52:41+08:00  (剩余 1G 0:59:50.544548)
-sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=e4cf6af165e4b0dde5f659c13acc58d4
-time  2025-03-27 19:52:43.975151+08:00
-type  v2board
-
-[https://www.kuaidog006.top]
-buy  pass
-email  ajsllvt416@gmail.com
-name  快狗云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=c0d488c83546342aaa408d725c5794bf
-time  2025-03-27 19:52:40.894300+08:00
-type  v2board
-保存base64/clash订阅失败  'NoneType' object is not iterable
-
-[http://xueyejiasu.com]
-buy  pass
-email  uxrgigtqg411@gmail.com
-name  血液加速器
-node_n  12
-sub_info  0B  1G  2025-03-28 19:52:41+08:00  (剩余 1G 23:59:51.704535)
-sub_url  http://sub.kjdjakskl.cyou/api/v1/client/subscribe?token=63d013b5d14a3ac0834c9f62aa4f6bf8
-time  2025-03-27 19:52:42.272603+08:00
-type  v2board
-
-[https://www.kuaidog010.top]
-buy  pass
-email  ihqwrpeav794@gmail.com
-name  快狗云
-sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://www.kuaidog010.top/api/v1/client/subscribe?token=707099d5b656e32781a23afe083311b6
-time  2025-03-27 19:52:40.814466+08:00
-type  v2board
-保存base64/clash订阅失败  string indices must be integers
-
-[https://g871cec.cdn.uunode.com]
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"邮箱申请太频繁，请2秒后再试！","user":"xtwpqqjhx736@mail.wvwvw.tech","success":"false"}'
-
 [https://my.emovpns.top]
 name  EMO
 type  v2board
 更新订阅链接/续费续签失败  can only concatenate str (not "NoneType") to str
-
-[https://25054128.xyz]
-buy  pass
-email  ecuoisn54@gmail.com
-name  虚幻加速
-node_n  9
-sub_info  0B  2G  2025-03-28 19:52:40+08:00  (剩余 2G 23:59:55.004853)
-sub_url  https://sub1.pingboy.top/api/v1/client/subscribe?token=0b0c98ef682da180ca9d7ace9009bb3a
-time  2025-03-27 19:52:41.369883+08:00
-type  v2board
-
-[https://panel.nextnet.one]
-banned_domains  teml.net
-name  NextNet
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(yeiphzl544@teml.net)
 
 [https://portal.passgfw.top]
 buy  pass
 email  uqopjjrp531@gmail.com
 name  PassGFW
 node_n  22
-sub_info  0B  100G  2025-04-06 19:52:40+08:00  (剩余 100G 9 days, 23:59:56.883598)
+sub_info  0B  100G  2025-04-06 19:52:40+08:00  (剩余 100G 9 days, 2:15:02.618686)
 sub_url  https://sub.flygfw.top/HonkaiStarRail/27dd6b4914f7ba580259e9e077ad98da
 time  2025-03-27 19:52:40.552142+08:00
 type  v2board
-
-[https://s.jiasu01.vip]
-buy  pass
-email  qhypmgvc781@gmail.com
-sub_url  http://51.255.173.39/api/v1/client/subscribe?token=c54a3f48f4d4ea882450a65aa69b7b56
-time  2025-03-27 19:52:41.345594+08:00
-type  v2board
-获取订阅失败  can only concatenate str (not "NoneType") to str
-
-[https://cokecloud.net]
-buy  pass
-email  iqwvhdpci425@gmail.com
-name  𝘾𝙤𝙠𝙚𝘾𝙡𝙤𝙪𝙙
-node_n  40
-sub_info  0B  1G  2025-03-27 20:52:42+08:00  (剩余 1G 0:59:49.738934)
-sub_url  https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=5235b488ce1188ba702f4bee011fcbc1
-time  2025-03-27 19:52:44.678912+08:00
-type  v2board
-
-[https://a1.8jiasu.com]
-buy  pass
-email  osogbup147@gmail.com
-sub_url  https://5.44.251.106/api/v1/client/subscribe?token=6a39813c1d113b3b5c179de2b8ef973b
-time  2025-03-27 19:52:41.624151+08:00
-type  v2board
-获取订阅失败  can only concatenate str (not "NoneType") to str
-
-[https://sub.flygfw.top]
-
-[http://47.101.67.199:6699]
-banned_domains  vapenano.com
-name  Site is created successfully!
-type  v2board
-更新订阅链接/续费续签失败  获取邮箱验证码超时(vbvsoiad896@vapenano.com)
 
 [https://vvs.e54.site]
 buy  period=onetime_price&plan_id=2
@@ -198,9 +22,68 @@ sub_info  0B  1000G  永不过期  (剩余 1000G)
 sub_url  https://xqsub.e54.site/api/v1/client/subscribe?token=b7c86a137fbbe4130770f45e14273e53
 time  2025-03-27 19:52:40.777830+08:00
 type  v2board
+更新旧订阅失败  invalid literal for int() with base 10: ''
 
 [http://ywl.201593.xyz]
 api_host  ywl.201593.xyz
 error  'utf-8' codec can't decode byte 0x8b in position 0: invalid start byte
 type  v2board
-更新订阅链接/续费续签失败  注册失败(rwbolhf325@gmail.com): 'NoneType' object is not subscriptable
+更新订阅链接/续费续签失败  注册失败(egokmqtt949@gmail.com): 'NoneType' object is not subscriptable
+
+[shopvpn.net]
+api_host  ban4g.com
+buy  period=month_price&plan_id=29
+email  npmpdnim644@gmail.com
+name  VPN Panel
+node_n  8
+sub_info  0B  100G  2025-04-28 17:37:38+08:00  (剩余 100G 30 days, 23:59:56.446191)
+sub_url  https://ban4g.com/api/v1/client/subscribe?token=a57d06c78a9d0df474733e9ab91442a6
+time  2025-03-28 17:37:39.095514+08:00
+type  v2board
+
+[xingoogle.com]
+auto_invite  F
+buy  pass
+email  drghsvx27@gmail.com
+last_checkin  2025-03-28 17:37:35.372102+08:00
+name  新谷歌
+node_n  20
+sub_info  0B  2G  2025-04-04 17:37:34+08:00  (剩余 2G 6 days, 23:59:54.467972)
+sub_url  https://bestuse.cc/link/C6Q3l7XVr7bqfUY7?sub=3
+time  2025-03-28 17:37:37.985775+08:00
+type  sspanel
+
+[www.jwfree.us]
+name  JWFREE
+type  v2board
+更新订阅链接/续费续签失败  注册失败(qkqplbxw84@gmail.com): 'NoneType' object is not subscriptable
+
+[www.f2ray.com]
+banned_domains  442587.xyz
+name  F2ray
+type  v2board
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nypdrbn657@442587.xyz)
+
+[shanhai.me]
+buy  pass
+email  hvhrwqg513@gmail.com
+name  山海
+node_n  2
+sub_info  0B  10G  2125-03-04 17:37:35+08:00  (剩余 10G 36499 days, 23:59:50.714990)
+sub_url  https://link09.shanhai.me/api/v1/client/subscribe?token=b57192bbf6bb1eded0b19630a5912241
+time  2025-03-28 17:37:36.379282+08:00
+type  v2board
+
+[w2.ddnsgo.xyz]
+api_host  go.runba.cyou
+auto_invite  F
+buy  pass
+email  hehaipn164@lyx13.xyz
+last_checkin  0
+name  V2free
+sub_info  0B  1G  2025-04-27 17:37:45+08:00  (剩余 1G 29 days, 23:59:56.081403)
+sub_url  https://v1.v2ai.top/link/a1uhfrURRavJEDVVThs3PAHgklUQaje8y9e5?sub=3
+time  2025-03-28 17:37:46.461386+08:00
+type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
+尝试签到失败  {'ret': 0, 'msg': '系统无法接受您的验证结果，请完成非机器人验证。如果看不到非机器人验证按钮，请先翻墙再刷新页面。'}
