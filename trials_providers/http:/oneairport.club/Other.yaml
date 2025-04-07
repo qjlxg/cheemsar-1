@@ -1,0 +1,7 @@
+%YAML 1.1
+---
+proxies:
+- {name: ℹ️ 【续费网址】oneairport.club - one airport, server: www.oneairport.club, port: 2, tfo: true, type: ssr, cipher: chacha20, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: 【新站更稳定】oneairport.my - one airport, server: 0, port: 561, tfo: true, type: ssr, cipher: aes-256-cfb, password: ukDrzU, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: ℹ️ 【网址】oneairport.club/xyz - one airport, server: 0, port: 561, tfo: true, type: ssr, cipher: aes-256-cfb, password: ukDrzU, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: 【警告】禁止涉及政治 - one airport, server: 0, port: 561, tfo: true, type: ssr, cipher: aes-256-cfb, password: ukDrzU, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
