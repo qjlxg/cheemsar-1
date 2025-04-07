@@ -11,30 +11,19 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
+  url: https://i.ytimg.com/generate_204
+  interval: 30
   tolerance: 100
-  use: &id001
-  - JP
-  - US
-  - p_All_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
+  proxies: &id001
+  - ℹ️ 1.续费官网https://qinqin2022.com - 520
+  - ℹ️ 2.qq群1017197334(售后续费） - 520
 - name: 👆🏻 ‍指定
   type: select
-  use: *id001
+  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -56,13 +45,7 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -71,73 +54,9 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id002
-  - JP
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id003
-  - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - p_All_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id002
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id003
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id004
-proxy-providers:
-  JP:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/JP.yaml
-    interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+proxies:
+- {name: ℹ️ 1.续费官网https://qinqin2022.com - 520, server: 1.1.1.1, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10840:gRzwYI, obfs-param: e4b4610840.microsoft.com, udp: true}
+- {name: ℹ️ 2.qq群1017197334(售后续费） - 520, server: 959732781, port: 31500, type: ssr, cipher: chacha20, password: CnBwof, protocol: auth_aes128_md5, obfs: tls1.2_ticket_auth, protocol-param: 10840:gRzwYI, obfs-param: e4b4610840.microsoft.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT

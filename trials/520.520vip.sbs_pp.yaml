@@ -11,27 +11,13 @@ proxy-groups:
   proxies:
   - ⚡ ‍低延迟
   - 👆🏻 ‍指定
-  - 🇯🇵 ‍日本
-  - 🇺🇸 ‍美国
-  - 🎏 ‍其他
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🎏 ‍其他
   - DIRECT
   - REJECT
 - name: ⚡ ‍低延迟
   type: url-test
   tolerance: 100
   use: &id001
-  - JP
-  - US
-  - p_All_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
+  - All
 - name: 👆🏻 ‍指定
   type: select
   use: *id001
@@ -56,13 +42,7 @@ proxy-groups:
 - name: 🤖 ‍AI
   type: select
   proxies:
-  - 🇺🇸 ‍美国
-  - 🇯🇵 ‍日本
-  - 🎏 ‍其他
   - ✈️ ‍起飞
-  - 👆🏻🇺🇸 ‍美国
-  - 👆🏻🇯🇵 ‍日本
-  - 👆🏻🎏 ‍其他
   - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
@@ -71,69 +51,12 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-- name: 🇯🇵 ‍日本
-  type: url-test
-  tolerance: 100
-  use: &id002
-  - JP
-- name: 🇺🇸 ‍美国
-  type: url-test
-  tolerance: 300
-  use: &id003
-  - US
-- name: 🎏 ‍其他
-  type: url-test
-  tolerance: 100
-  use: &id004
-  - p_All_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-  - p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other
-- name: 👆🏻🇯🇵 ‍日本
-  type: select
-  use: *id002
-- name: 👆🏻🇺🇸 ‍美国
-  type: select
-  use: *id003
-- name: 👆🏻🎏 ‍其他
-  type: select
-  use: *id004
 proxy-providers:
-  JP:
+  All:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/JP.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/520.520vip.sbs/All.yaml
     interval: 180
-    path: trials_providers/JP.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  US:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/US.yaml
-    interval: 180
-    path: trials_providers/US.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_Other.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
-  p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other:
-    type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other.yaml
-    interval: 180
-    path: trials_providers/p_All_All_All_All_All_All_Other_Other_Other_Other_Other_Other.yaml
+    path: trials_providers/520.520vip.sbs/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204

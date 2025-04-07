@@ -1,0 +1,14 @@
+%YAML 1.1
+---
+proxies:
+- {name: v2ray - ① - 哆啦B梦, server: 172.67.36.176, port: 443, type: vmess, uuid: d98d5674-c8e2-333f-9b07-0809d202770e, alterId: 2, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: v3-3.xiaosiqiu.xyz}}, udp: true}
+- {name: v2ray - ② - 哆啦B梦, server: 172.64.69.236, port: 443, type: vmess, uuid: d98d5674-c8e2-333f-9b07-0809d202770e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: v3-4.xiaosiqiu.xyz}}, udp: true}
+- {name: v2ray - ③ - 哆啦B梦, server: 104.18.114.45, port: 443, type: vmess, uuid: d98d5674-c8e2-333f-9b07-0809d202770e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: v3-5.xiaosiqiu.xyz}}, udp: true}
+- {name: v2ray - ④ - 哆啦B梦, server: 162.159.134.8, port: 443, type: vmess, uuid: d98d5674-c8e2-333f-9b07-0809d202770e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: v3-6.xiaosiqiu.xyz}}, udp: true}
+- {name: v2ray - ⑤ - 哆啦B梦, server: 172.67.59.204, port: 443, type: vmess, uuid: d98d5674-c8e2-333f-9b07-0809d202770e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: v3-7.xiaosiqiu.xyz}}, udp: true}
+- {name: v2ray - ⑥ - 哆啦B梦, server: 172.67.242.74, port: 443, type: vmess, uuid: d98d5674-c8e2-333f-9b07-0809d202770e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-opts: {path: /v2ray, headers: {Host: v3-8.xiaosiqiu.xyz}}, udp: true}
+- {name: 🇸🇩 服务搬至shidongli158.xyz(非节点勿连) - SD Cloud, server: old.shidongli161.xyz, port: 10086, type: vmess, uuid: 17c191ea-5360-3a45-8d39-06693caa0777, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: ℹ️ 【续费网址】oneairport.club - one airport, server: www.oneairport.club, port: 2, type: ssr, cipher: chacha20, password: breakwall, protocol: auth_chain_a, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: 【新站更稳定】oneairport.my - one airport, server: 0, port: 17550, type: ssr, cipher: aes-256-cfb, password: w6cRSP, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: ℹ️ 【网址】oneairport.club/xyz - one airport, server: 0, port: 17550, type: ssr, cipher: aes-256-cfb, password: w6cRSP, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}
+- {name: 【警告】禁止涉及政治 - one airport, server: 0, port: 17550, type: ssr, cipher: aes-256-cfb, password: w6cRSP, protocol: auth_aes128_sha1, obfs: tls1.2_ticket_auth, protocol-param: '', obfs-param: '', udp: true}

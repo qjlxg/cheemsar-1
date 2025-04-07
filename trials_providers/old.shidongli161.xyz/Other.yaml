@@ -1,0 +1,4 @@
+%YAML 1.1
+---
+proxies:
+- {name: 🇸🇩 服务搬至shidongli158.xyz(非节点勿连) - SD Cloud, server: old.shidongli161.xyz, port: 10086, type: vmess, uuid: 17c191ea-5360-3a45-8d39-06693caa0777, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
