@@ -54,9 +54,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/All.yaml
+    url: https://raw.kgithub.com/qjlxg/cheemsar-1/main/trials_providers/vpn.28.al/All.yaml
     interval: 180
-    path: trials_providers/All.yaml
+    path: trials_providers/vpn.28.al/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
