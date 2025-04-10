@@ -1,9 +1,19 @@
-[vpn.28.al]
+[https://vpn.28.al/]
 buy  period=three_year_price&plan_id=8
-email  mcgvrchgm597@gmail.com
+email  zfgxuewo812@gmail.com
 name  Aws Link
-node_n  2
-sub_info  0B  500G  2028-04-08 00:05:43+08:00  (剩余 500G 1095 days, 23:59:48.506849)
-sub_url  https://vpn.28.al/s/74d62ceba54d81c857e74fadd2f58d19
-time  2025-04-08 00:05:43.935640+08:00
+sub_info  0B  500G  2028-04-10 16:55:11+08:00  (剩余 500G 1095 days, 23:59:51.236706)
+sub_url  https://vpn.28.al/s/e2b9e9a9a13f1b8b048d1314dc4efd62
+time  2025-04-10 16:55:11.843134+08:00
 type  v2board
+保存base64/clash订阅失败  [Errno 21] Is a directory: 'trials/https://vpn.28.al/'
+
+[https://202503212313501.chibaba.ggff.net]
+buy  period=month_price&plan_id=14
+email  alemihk918@gmail.com
+name  CloudFlare
+sub_info  0B  953.7P  2025-05-10 16:55:14+08:00  (剩余 953.7P 29 days, 23:59:58.691267)
+sub_url  http://202504101655121.chibaba.ggff.net/api/v1/client/subscribe?token=4ad3f6cb0ce9486a0e52937a56ba7532
+time  2025-04-10 16:55:12.731976+08:00
+type  v2board
+保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 2, column 270: ... Q==" lang="en" style="background: #2B2B2B;"> ^ (line: 2)

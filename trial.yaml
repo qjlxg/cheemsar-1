@@ -9,21 +9,8 @@ proxy-groups:
 - name: ✈️ ‍起飞
   type: select
   proxies:
-  - ⚡ ‍低延迟
-  - 👆🏻 ‍指定
   - DIRECT
   - REJECT
-- name: ⚡ ‍低延迟
-  type: url-test
-  url: https://i.ytimg.com/generate_204
-  interval: 30
-  tolerance: 100
-  proxies: &id001
-  - '[ss]www.awsconnect.online - Aws Link'
-  - ℹ️ [ss]https://vpn.28.al/ - Aws Link
-- name: 👆🏻 ‍指定
-  type: select
-  proxies: *id001
 - name: 🛩️ ‍墙内
   type: select
   proxies:
@@ -41,12 +28,10 @@ proxy-groups:
   proxies:
   - 🛩️ ‍墙内
   - ✈️ ‍起飞
-  - 👆🏻 ‍指定
 - name: 🤖 ‍AI
   type: select
   proxies:
   - ✈️ ‍起飞
-  - 👆🏻 ‍指定
   - 🛩️ ‍墙内
 - name: 🌐 ‍未知站点
   type: select
@@ -54,9 +39,7 @@ proxy-groups:
   - ✈️ ‍起飞
   - 🛩️ ‍墙内
   - 💩 ‍广告
-proxies:
-- {name: '[ss]www.awsconnect.online - Aws Link', server: 1, port: 1, type: ss, cipher: aes-128-gcm, password: f99a6990-6fc9-433f-9939-73c8d9bb8b79, udp: true}
-- {name: 'ℹ️ [ss]https://vpn.28.al/ - Aws Link', server: 1, port: 1, type: ss, cipher: aes-128-gcm, password: f99a6990-6fc9-433f-9939-73c8d9bb8b79, udp: true}
+proxies: []
 rules:
 - DOMAIN-SUFFIX,acl4.ssr,DIRECT
 - DOMAIN-SUFFIX,ip6-localhost,DIRECT
